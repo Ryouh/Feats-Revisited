@@ -1,4 +1,19 @@
+Feats which got weaker because of the removed attribute increase:
+
+Athlete
+Actor
 Durable
-Grappler
 Heavily Armored
 Havy Armor Master
+Keen Mind
+Lightly Armored
+Linguist
+Moderately Armored
+Observant
+Resilient
+
+
+
+Weak Feats:
+
+Grappler

@@ -274,30 +274,19 @@ You have 1 luck point. Whenever you make an attack roll, an ability check, or a 
 
 ### Magic Initiate
 
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
 
-Choose a class: bard, cleric, druid, sorcerer, warlock, or
-wizard. You learn two cantrips of your choice from that class's
-spell list.
+In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 
+Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-In addition, choose one 1st-level spell from that same list.
-You learn that spell and can cast it at its lowest level. Once
-you cast it, you must finish a long rest before you can cast
-it again using this feat.
-Your spellcasting ability for these spells depends on the
-class you chose: Charisma for bard, sorcerer, or warlock;
-Wisdom for cleric or druid; or Intelligence for wizard.
 
 ### Moderately Armored
 
-
 **Prerequisite:** Proficiency with light armor.
 
-You have trained to master the use of medium armor and
-shields, gaining the following benefits:
-
-
 You gain proficiency with medium armor and shields.
+
 
 ### Nimble Physique
 
@@ -318,52 +307,29 @@ were one size smaller than you are.
 Moving through spaces occupied by allies does not
 impose movement penalties.
 
-### Observant
 
+### Observant
 
 Quick to notice details of your environment, you gain the
 following benefits:
 
+* If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
+* You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
-If you can see a creature's mouth while it is speaking a
-language you understand, you can interpret what it's
-saying by reading its lips.
-You have a +5 bonus to your passive Wisdom (Perception)
-and passive Intelligence (Investigation) scores.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Ritual Caster
 
 **Prerequisite:** Intelligence, Charisma or Wisdom of 13 or
 higher.
 
-You have learned a number of spells that you can cast as
-rituals. These spells are written in a ritual book, which you
-must have in hand while casting one of them.
+You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 
+When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-When you choose this feat, you acquire a ritual book
-holding two 1st-level spells of your choice. Choose one of
-the following classes: bard, cleric, druid, sorcerer, warlock,
-or wizard. You must choose your spells from that class's
-spell list, and the spells you choose must have the ritual
-tag. The class you choose also determines your
-spellcasting ability for these spells: Charisma for bard,
-sorcerer, or warlock; Wisdom for cleric or druid; or
-Intelligence for wizard.
-If you come across a spell in written form, such as a
-magical spell scroll or a wizard's spellbook, you might be
-able to add it to your ritual book. The spell must be on the
-spell list for the class you chose, the spell's level can be no
-higher than half your level (rounded up), and it must have
-the ritual tag. The process of copying the spell into your
-ritual book takes 2 hours per level of the spell, and costs
-50 gp per level. The cost represents material components
-you expend as you experiment with the spell to master it,
-as well as the fine inks you need to record it.
+If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+
 
 ### Skilled
 
@@ -601,26 +567,16 @@ While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  t
 \page
 <div class='pageNumber auto'></div>
 
+
 ### Martial Adept
 
 **Prerequisite:** Level 3.
 
-You have martial training that allows you to perform
-special combat maneuvers. You gain the following benefits:
+You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
 
+* You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+* You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
-You learn two maneuvers of your choice from among
-those available to the Battle Master archetype in the
-fighter class. If a maneuver you use requires your target to
-make a saving throw to resist the maneuver's effects, the
-saving throw DC equals 8 + your proficiency bonus + your
-Strength or Dexterity modifier (your choice).
-You gain one superiority die, which is a d6 (this die is
-added to any superiority dice you have from another
-source). This die is used to fuel your maneuvers. A
-superiority die is expended when you use it. You regain
-your expended superiority dice when you finish a short or
-long rest.
 
 ### Medium Armor Master
 
@@ -629,46 +585,34 @@ long rest.
 You have practiced moving in medium armor to gain the
 following benefits:
 
+* Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
+* When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
-Wearing medium armor doesn't impose disadvantage on
-your Dexterity (Stealth) checks.
-When you wear medium armor, you can add 3, rather than
-2, to your AC if you have a Dexterity of 16 or higher.
 
 ### Mobile
 
 **Prerequisite:** Level 3.
 
-You are exceptionally speedy and agile. You gain the
-following benefits:
+You are exceptionally speedy and agile. You gain the following benefits:
 
+* Your speed increases by 10 feet.
+* When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+* When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
-Your speed increases by 10 feet.
-When you use the Dash action, difficult terrain doesn't
-cost you extra movement on that turn.
-When you make a melee attack against a creature, you
-don't provoke opportunity attacks from that creature for
-the rest of the turn, whether you hit or not.
 
 ### Mounted Combatant
 
 **Prerequisite:** Level 3.
 
-You are a dangerous foe to face while mounted. While you
-are mounted and aren't incapacitated, you gain the following
-benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
 
+* You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. 
+* You can force an attack targeted at your mount to target you instead.
+* If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-You have advantage on melee attack rolls against any
-unmounted creature that is smaller than your mount.
-You can force an attack targeted at your mount to target
-you instead.
-If your mount is subjected to an effect that allows it to
-make a Dexterity saving throw to take only half damage, it
-instead takes no damage if it succeeds on the saving
-throw, and only half damage if it fails.
 ```
 ```
+
 ### Nocturnal
 
 
@@ -704,16 +648,15 @@ The skill you choose must be one that isn’t already
 benefiting from a feature, such as Expertise, that doubles
 your proficiency bonus.
 
-### Resilient
 
+### Resilient
 
 **Prerequisite:** Level 3.
 
-You gain proficiency in a saving throw of your choice. You
-can take this feat multiple times.
+You gain proficiency in a saving throw of your choice. You can take this feat multiple times.
+
 
 ### Savage Attacker
-
 
 **Prerequisite:** Level 3.
 
@@ -958,23 +901,17 @@ You have studied many laguages and even when you don't know the local tongue you
 * You learn the Tongues spell and can cast it once per short rest without expending a spell slot, Intelligence is your spellcasting modifier for this spell.
 ```
 ```
-### Mage Slayer
 
+### Mage Slayer
 
 **Prerequisite:** Level 6.
 
-You have practiced techniques useful in melee combat
-against spellcasters, gaining the following benefits:
+You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
 
+* When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature. 
+* When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+* You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
-When a creature within 5 feet of you casts a spell, you can
-use your reaction to make a melee weapon attack against
-that creature.
-When you damage a creature that is concentrating on a
-spell, that creature has disadvantage on the saving throw
-it makes to maintain its concentration.
-You have advantage on saving throws against spells cast
-by creatures within 5 feet of you.
 
 ### Magic Scholar
 
@@ -1262,24 +1199,16 @@ action, you can cast another spell of 1st level or higher as
 an action, as long as this spell doesn’t require material
 components.
 
-### Polearm Master
 
+### Polearm Master
 
 **Prerequisite:** Level 9.
 
-You can keep your enemies at bay with reach weapons. You
-gain the following benefits:
+You can keep your enemies at bay with reach weapons. You gain the following benefits:
 
+* When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon’s damage die for this attack is a d4, and it deals bludgeoning damage.
+* While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter your reach.
 
-When you take the Attack action and attack with only a
-glaive, halberd, quarterstaff, or spear, you can use a bonus
-action to make a melee attack with the opposite end of the
-weapon. This attack uses the same ability modifier as the
-primary attack. The weapon’s damage die for this attack is
-a d4, and it deals bludgeoning damage.
-While you are wielding a glaive, halberd, pike, quarterstaff,
-or spear, other creatures provoke an opportunity attack
-from you when they enter your reach.
 
 ### Sharpshooter
 
