@@ -336,21 +336,17 @@ If you come across a spell in written form, such as a magical spell scroll or a 
 You gain proficiency in any combination of three skills or
 tools of your choice.
 
+
 ### Skulker
 
 **Prerequisite:** Dexterity 13 or higher.
 
-You are expert at slinking through shadows. You gain the
-following benefits:
+You are expert at slinking through shadows. You gain the following benefits:
 
+* You can try to hide when you are lightly obscured from the creature from which you are hiding. 
+* When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
+* Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
-You can try to hide when you are lightly obscured from the
-creature from which you are hiding.
-When you are hidden from a creature and miss it with a
-ranged weapon attack, making the attack doesn't reveal
-your position.
-Dim light doesn't impose disadvantage on your Wisdom
-(Perception) checks relying on sight.
 
 ### Swimmer
 
@@ -362,17 +358,17 @@ You gain a swim speed equal to your walking speed.
 You don’t have disadvantage on attack rolls made with
 melee weapons while in water.
 
+
 ### Tavern Brawler
 
 Accustomed to rough-and-tumble fighting using whatever
 weapons happen to be at hand, you gain the following
 benefits:
 
-You are proficient with improvised weapons.
-Your unarmed strike uses a d4 for damage.
-When you hit a creature with an unarmed strike or an
-improvised weapon on your turn, you can use a bonus
-action to attempt to grapple the target.
+* You are proficient with improvised weapons.
+* Your unarmed strike uses a d4 for damage.
+* When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+
 ```
 ```
 ### Taunt
@@ -389,13 +385,11 @@ you succeed the creature is distracted until the end of
 your next turn and has disadvantage on attack rolls
 against creatures other than you.
 
+
 ### Tough
 
+Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
-Your hit point maximum increases by an amount equal to
-twice your level when you gain this feat. Whenever you gain a
-level thereafter, your hit point maximum increases by an
-additional 2 hit points.
 
 ### Weapon Training
 
@@ -660,9 +654,7 @@ You gain proficiency in a saving throw of your choice. You can take this feat mu
 
 **Prerequisite:** Level 3.
 
-Once per turn when you roll damage for a melee weapon
-attack, you can reroll the weapon’s damage dice and use
-either total.
+Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
 ### Shield Bash
 
@@ -1016,26 +1008,17 @@ advantage on saving throws caused by your attack.
 You ignore the Loading quality of Scatter weapons with
 which you are proficient.
 
+
 ### Shield Master
 
 **Prerequisite:** Level 6.
 
-You use shields not just for protection but also for offense.
-You gain the following benefits while you are wielding a
-shield:
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
 
+* If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+* If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect.
+* If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
-If you take the Attack action on your turn, you can use a
-bonus action to try to shove a creature within 5 feet of you
-with your shield.
-If you aren't incapacitated, you can add your shield's AC
-bonus to any Dexterity saving throw you make against a
-spell or other harmful effect.
-If you are subjected to an effect that allows you to make a
-Dexterity saving throw to take only half damage, you can
-use your reaction to take no damage if you succeed on the
-saving throw, interposing your shield between yourself
-and the source of the effect.
 
 ### Spell Distortion
 
@@ -1050,30 +1033,22 @@ magical effects increases to +3.
 Each Spellcaster has disadvantage on spell attacks or
 other magical effects while standing within 10ft of you or
 while targeting you or a creature within 10ft of you.
-```
-```
-### Spell Sniper
 
+```
+```
+
+### Spell Sniper
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-You have learned techniques to enhance your attacks with
-certain kinds of spells, gaining the following benefits:
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
+* When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+* Your ranged spell attacks ignore half cover and three-quarters cover.
+* You Learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you choose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid, or Intelligence for wizard.
 
-When you cast a spell that requires you to make an attack
-roll, the spell's range is doubled.
-Your ranged spell attacks ignore half cover and three-
-quarters cover.
-You Learn one cantrip that requires an attack roll. Choose
-the cantrip from the bard, cleric, druid, sorcerer, warlock,
-or wizard spell list. Your spellcasting ability for this
-cantrip depends on the spell list you choose from:
-Charisma for bard, sorcerer, or warlock; Wisdom for cleric
-or druid, or Intelligence for wizard.
 
 ### Thrown Weapon Master
-
 
 **Prerequisite:** Level 6.
 
@@ -1091,29 +1066,19 @@ If you throw a weapon as part of an attack, you may
 immediately draw another onehanded weapon as part of
 that attack.
 
-### Warcaster
 
+### Warcaster
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-You have practiced casting spells in the midst of combat,
-learning techniques that grant you the following benefits:
+You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
 
+* You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+* You can perform the somatic components of spells even when you have weapons or a shield in one or both hands. 
+* When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 
-You have advantage on Constitution saving throws that
-you make to maintain your concentration on a spell when
-you take damage.
-You can perform the somatic components of spells even
-when you have weapons or a shield in one or both hands.
-When a hostile creature's movement provokes an
-opportunity attack from you, you can use your reaction to
-cast a spell at the creature, rather than making an
-opportunity attack. The spell must have a casting time of 1
-action and must target only that creature.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 9
 
@@ -1212,21 +1177,14 @@ You can keep your enemies at bay with reach weapons. You gain the following bene
 
 ### Sharpshooter
 
-
 **Prerequisite:** Level 9.
 
-You have mastered ranged weapons and can make shots
-that others find impossible. You gain the following benefits:
+You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
 
+* Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+* Your ranged weapon attacks ignore half cover and three-quarters cover.
+* Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
-Attacking at long range doesn't impose disadvantage on
-your ranged weapon attack rolls.
-Your ranged weapon attacks ignore half cover and three-
-quarters cover.
-Before you make an attack with a ranged weapon that you
-are proficient with, you can choose to take a -5 penalty to
-the attack roll. If the attack hits, you add +10 to the
-attack's damage.
 
 ### Weaver of Maledictions
 
@@ -1392,29 +1350,19 @@ plus your Intelligence, Wisdom or Charisma modifier
 you to make the saving throw. This Damage increases
 when you reach certain levels, 3d10 at level 15 and 4d
 at level 18.
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Sentinel
 
 **Prerequisite:** Level 12, Interceptor or the Protection Fighting Style.
 
-You have mastered techniques to take advantage of every
-drop in any enemy's guard. You gain the following benefits:
+You have mastered techniques to take advantage of every drop in any enemy's guard. You gain the following benefits:
 
-
-When you hit a creature with an opportunity attack, the
-creature's speed becomes 0 for the rest of the turn if it is
-large or smaller or has its speed halved for the rest of the
-turn if its huge.
-Creatures provoke opportunity attacks from you even if
-they take the Disengage action before leaving your reach.
-When a creature within 5 feet of you makes an attack
-against a target other than you (and that target doesn't
-have this feat), you can use your reaction to make a melee
-weapon attack against the attacking creature.
+* When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn if it is large or smaller or has its speed halved for the rest of the turn if its huge.
+* Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+* When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
 ### Spell Former
 
@@ -1464,20 +1412,14 @@ the effects of a protect from evil and good spell for 10
 minutes.
 ```
 ```
-### Weapon Master
 
+### Weapon Master
 
 **Prerequisite:** Level 12.
 
-You have mastered the art of wielding your favorite
-weapon. You gain the following benefit:
+You have mastered the art of wielding your favorite weapon. You gain the following benefit:
 
-
-Choose one weapon you are proficient with. You can add
-half your proficiency bonus (rounded down) to the attack
-and damage role with the chosen weapon.
-You score a critical hit on one number lower than you
-normally would, with the chosen weapon.
+Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
 
 ### Witch Hunter
 
