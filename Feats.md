@@ -48,7 +48,7 @@ otherwise stated you can’t choose a feat more than once.
 
 **Prerequisite:** No existing dragonmark.
 
-You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
+You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. 
 
 * You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
 * When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
@@ -56,8 +56,7 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 
 ### Actor
 
-Skilled at mimicry and dramatics, you gain the following
-benefits:
+You are skilled at mimicry and dramatics.
 
 * You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
 * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
@@ -67,8 +66,7 @@ benefits:
 
 **Prerequisite:** Constitution 13
 
-You like alcohol more than most humans and it’s not all
-bad you gain the following benefits:
+You like alcohol more than most humans and it’s not all bad. 
 
 * You have advantage on Constitution saving throws regarding alcohol or other drugs.
 * You can use an action on your turn to drink a good load of alcohol or a comparable drug, to end the frightened condition on yourself. Each time you use this trait, you must make a DC 12 Constitution saving throw or become drunk until you finish a short rest. While drunk you get temporary hit points equal to your Constitution modifier + your proficiency bonus, you are immune to the frightened condition and you have disadvantage on all Dexterity and Intelligence based throws and on all Wisdom and Charisma ability checks. (Those penalties do not apply if you are a Drunken Master)
@@ -78,8 +76,7 @@ bad you gain the following benefits:
 
 ### Athlete
 
-You have undergone extensive physical training to gain the
-following benefits:
+You have undergone extensive physical training.
 
 * When you are prone, standing up uses only 5 feet of your movement.
 * Climbing doesn’t cost you extra movement.
@@ -88,7 +85,7 @@ following benefits:
 
 ### Bookworm
 
-You have studied languages and codes, gaining the following benefits:
+You have studied languages and codes.
 
 * You learn four languages of your choice.
 * You learn the comprehend languages spell and can cast it as a ritual.
@@ -100,7 +97,7 @@ You have studied languages and codes, gaining the following benefits:
 
 **Prerequisite:** The ability to cast at least one spell.
 
-Chaotic magic flows through you and twists your astral body, you gain the following benefits:
+Chaotic magic flows through you and twists your astral body.
 
 * You have advantage on Strength, Dexterity and Constitution saving throws against spells and other magical effects.
 * Whenever you cast a spell of first level or higher there is a chance, that your chaotic magic twists the spell. Roll a percentile die, if the number rolled is equal to or less than the spell slot used to cast the Spell roll on the Wild Magic Table in the Players Handbook.
@@ -108,8 +105,7 @@ Chaotic magic flows through you and twists your astral body, you gain the follow
 
 ### Charger
 
-When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
-
+* When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 * If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
 ### Death Touched
@@ -127,16 +123,14 @@ You have faced death and you won, be it by yourself or with the aid of your comr
 
 ### Duck
 
-You have learned to avoid danger from afar. You gain the
-following benefit:
+You have learned to avoid danger from afar.
 
 * When a creature you can see attacks you with a ranged attack you can throw yourself to the ground as a reaction, becoming prone and imposing disadvantage on the attack roll.
 
 
 ### Dungeon Delver
 
-Alert to the hidden traps and secret doors found in many
-dungeons, you gain the following benefits:
+You are alert to the hidden traps and secret doors.
 
 * You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
 * You have advantage on saving throws made to avoid or resist traps.
@@ -146,8 +140,7 @@ dungeons, you gain the following benefits:
 
 ### Dual Wielder
 
-You master fighting with two weapons, gaining the following
-benefits:
+You master fighting with two weapons.
 
 * You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
 * You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
@@ -156,14 +149,14 @@ benefits:
 
 ### Durable
 
-Hardy and resilient, you gain the following benefit:
+You are hardy and resilient.
 
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
 
 ### Environmental adaption
 
-You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. You gain the following benefits:
+You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. 
 
 * You gain cold or fire resistance (your choice).
 * When you travel through an area with your adapted climate, you have advantage on Perception, Nature and Survival checks.
@@ -174,7 +167,7 @@ You're acclimated to either cold or hot climates. You can pick this feat multipl
 **Prerequisite:** Strength 13 or higher
 
 You’ve developed the skills necessary to hold your own in
-close-quarters grappling. You gain the following benefits:
+close-quarters grappling. 
 
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
@@ -198,8 +191,7 @@ close-quarters grappling. You gain the following benefits:
 
 ### Keen Mind
 
-You have a mind that can track time, direction, and detail
-with uncanny precision. You gain the following benefits:
+You have a mind that can track time, direction, and detail with uncanny precision. 
 
 * You always know which way is north.
 * You always know the number of hours left before the next sunrise or sunset.
@@ -217,6 +209,7 @@ with uncanny precision. You gain the following benefits:
 You have inexplicable luck that seems to kick in at just the right moment.
 
 * You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
+
 
 ```
 ```
@@ -239,7 +232,7 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 **Prerequisite:** Dexterity 13 or higher, Strength 14 or lower.
 
-You are small and thin for your race. You have a mysterious and consistent ability to avoid danger. This feat grants the following benefits:
+You are small and thin for your race. You have a mysterious and consistent ability to avoid danger.
 
 * As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
 * You can fit and squeeze through spaces as though you were one size smaller than you are.
@@ -248,8 +241,7 @@ You are small and thin for your race. You have a mysterious and consistent abili
 
 ### Observant
 
-Quick to notice details of your environment, you gain the
-following benefits:
+You are quick to notice details of your environment.
 
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
@@ -265,7 +257,6 @@ following benefits:
 * When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 * If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
-
 ### Skilled
 
 * You gain proficiency in any combination of three skills or tools of your choice.
@@ -275,7 +266,7 @@ following benefits:
 
 **Prerequisite:** Dexterity 13 or higher.
 
-You are expert at slinking through shadows. You gain the following benefits:
+You are expert at slinking through shadows. 
 
 * You can try to hide when you are lightly obscured from the creature from which you are hiding. 
 * When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
@@ -284,8 +275,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 ### Swimmer
 
-You have spent the majority of your time in the water, gaining
-the following benefits:
+You have spent the majority of your time in the water.
 
 * You gain a swim speed equal to your walking speed.
 * You don’t have disadvantage on attack rolls made with melee weapons while in water.
@@ -293,9 +283,7 @@ the following benefits:
 
 ### Tavern Brawler
 
-Accustomed to rough-and-tumble fighting using whatever
-weapons happen to be at hand, you gain the following
-benefits:
+Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand.
 
 * You are proficient with improvised weapons.
 * Your unarmed strike uses a d4 for damage.
@@ -327,7 +315,7 @@ You have practiced extensively with a variety of weapons.
 
 **Prerequisite:** No ability to cast any spell.
 
-Something about you distorts the weave around you and giving people in your presence an uneasy feeling, you gain the following traits.
+Something about you distorts the weave around you and giving people in your presence an uneasy feeling.
 
 * You can never learn to cast any spell (you can still use magic items).
 * You gain a -1 penalty on all social skill checks (except Charisma (intimidation)) or -2 when interacting with a spellcaster.
@@ -339,7 +327,7 @@ Something about you distorts the weave around you and giving people in your pres
 
 ### Will to Live
 
-You are hard to get rid of. You gain the following benefit:
+You are hard to get rid of.
 
 * When you succeed on 2 death saving throws you can regain 1 hit point. If you do so you can use your reaction to move up to half your movement. Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -360,7 +348,7 @@ weapon.
 
 **Prerequisite:** Level 3, Wisdom 13 or higher.
 
-Your keen senses are heightened beyond that of most people. Whether these senses were heightened through training, through the loss of other senses, or they simply matured as you did, you gain the following benefits:
+Your keen senses are heightened beyond that of most people. 
 
 * While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
 * Your attack rolls do not have disadvantage against invisible creatures that you are aware of.
@@ -371,8 +359,7 @@ Your keen senses are heightened beyond that of most people. Whether these senses
 
 **Prerequisite:** Level 3.
 
-Thanks to extensive practice with the crossbow, you gain
-the following benefits:
+You have extensive practice with crossbows.
 
 * You ignore the loading property of crossbows with which you are pro cient.
 * Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
@@ -403,11 +390,8 @@ the following benefits:
 **Prerequisite:** Level 3.
 
 You adopt a particular style of fighting as your specialty.
-You gain the following benefit:
 
-
-Choose one fighting Style from the Fighter list you gain
-that fighting style.
+* Choose one fighting Style from the Fighter list you gain that fighting style.
 
 
 ### Firearm Specialist (Gunslinger)
@@ -425,7 +409,7 @@ You are adept at using guns effectively.
 
 **Prerequisite:** Level 3.
 
-You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. 
 
 * When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
 * As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
@@ -439,25 +423,24 @@ You can use your armor to deflect strikes that would kill others.
 
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
 
-\page
-<div class='pageNumber auto'></div>
-
 
 ### Martial Adept
 
 **Prerequisite:** Level 3.
 
-You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
+You have martial training that allows you to perform special combat maneuvers. 
 
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
+\page
+<div class='pageNumber auto'></div>
 
 ### Medium Armor Master
 
 **Prerequisite:** Level 3 Proficiency with medium armor.
 
-You have practiced moving in medium armor to gain the following benefits:
+You have practiced moving in medium armor.
 
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
@@ -467,7 +450,7 @@ You have practiced moving in medium armor to gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You are exceptionally speedy and agile. You gain the following benefits:
+You are exceptionally speedy and agile.
 
 * Your speed increases by 10 feet.
 * When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
@@ -478,20 +461,18 @@ You are exceptionally speedy and agile. You gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, 
 
 * You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. 
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-```
-```
 
 ### Nocturnal
 
 **Prerequisite:** Level 3, Skulker.
 
-Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. You gain the following benefits:
+Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. 
 
 * You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 * You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
@@ -501,31 +482,34 @@ Due to extensive exposure to the dark, and possible supernatural abilities, you 
 
 **Prerequisite:** Level 3.
 
-You have a knack for learning new things. You gain the following benefits:
+You have a knack for learning new things. 
 
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 * Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
 
+```
+```
+
 ### Resilient
 
 **Prerequisite:** Level 3.
 
-You gain proficiency in a saving throw of your choice. You can take this feat multiple times.
+* You gain proficiency in a saving throw of your choice. You can take this feat multiple times.
 
 
 ### Savage Attacker
 
 **Prerequisite:** Level 3.
 
-Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
+* Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
 
 ### Shield Bash
 
 **Prerequisite:** Level 3.
 
-You have learned to use your shield as a melee weapon. You gain the following benefit:
+You have learned to use your shield as a melee weapon.
 
 * You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you. 
 * When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
@@ -539,7 +523,7 @@ You have learned to use your shield as a melee weapon. You gain the following be
 
 **Prerequisite:** Level 6, proficiency with Alchemist's Supplies.
 
-Your concoctions become stronger and stronger, you gain the following benefits:
+Your concoctions become stronger and stronger. 
 
 * The time you need to craft an item with your Alchemist's Supplies is halved.
 * If the Item requires a saving throw you can change the DC to a number equal to your proficiency bonus + your Intelligence modifier.
@@ -553,7 +537,7 @@ Your concoctions become stronger and stronger, you gain the following benefits:
 
 **Prerequisite:** Level 6, proficiency with Smith's tools.
 
-You have learned to enhance your craft even further, you gain the following benefits:
+You have learned to enhance your craft even further.
 
 * You gain expertise in Smith’s tools.
 * You have learned to work with exotic materials like Adamantine or Mithral.
@@ -567,7 +551,7 @@ You have learned to enhance your craft even further, you gain the following bene
 
 **Prerequisite:** Level 6, proficiency with Carpenter's tools.
 
-Your bows become stronger and your arrows deadlier, you gain the following benefits:
+Your bows become stronger and your arrows deadlier.
 
 * You gain expertise in Carpenter’s tools
 * You have learned to work with exotic materials.
@@ -582,7 +566,7 @@ Your bows become stronger and your arrows deadlier, you gain the following benef
 
 **Prerequisite:** Level 6.
 
-You have fond a way to boost the healing potential of your healing potions, you gain the following benefits:
+You have fond a way to boost the healing potential of your healing potions.
 
 * You gain expertise in the Herbalism Kit
 * The time you need to craft items with your Herbalism Kit is halved.
@@ -595,7 +579,7 @@ You have fond a way to boost the healing potential of your healing potions, you 
 
 **Prerequisite:** Level 6.
 
-Your poisons have become more potent and you have worked with them long enough to resist them, you gain the following benefits:
+Your poisons have become more potent and you have worked with them long enough to resist them.
 
 * You gain expertise in Poisoner’s kit.
 * The time you need to craft items with your Poisoner's Kit is halved.
@@ -609,7 +593,7 @@ Your poisons have become more potent and you have worked with them long enough t
 
 **Prerequisite:** Level 6, Bloodhound.
 
-Always on the lookout for danger, you gain the following benefits:
+Always on the lookout for danger. 
 
 * You gain a +5 bonus to initiative.
 * You can't be surprised while you are conscious.
@@ -620,7 +604,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 **Prerequisite:** Level 6, Proficiency with advanced weapons.
 
-You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. You gain the following benefits:
+You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. 
 
 * You ignore the loading property of Blackpowder weapons with which you are proficient.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
@@ -659,7 +643,7 @@ Your nimbleness in close combat makes it hard to predict your next move.
 
 **Prerequisite:** Level 6.
 
-You have trained your mind to be more resilient against mind influencing effects. You gain the following benefits:
+You have trained your mind to be more resilient against mind influencing effects. 
 
 * You have advantage on saving throws against being charmed or frightened.
 * You have advantage on saving throws against Enchantment spells or other mind influencing effects.
@@ -669,7 +653,7 @@ You have trained your mind to be more resilient against mind influencing effects
 
 **Prerequisite:** Level 6, Bookworm.
 
-You have studied many laguages and even when you don't know the local tongue you know how to get around. You gain the following benefits:
+You have studied many laguages and even when you don't know the local tongue you know how to get around. 
 
 * You learn three languages of your choice.
 * You gain proficiency in two of the following skills, Investigation, History, Arcana, Insight or Religion. Alternatively you can choose one of the listed skills that you are proficient with, you gain expertise with the choosen skill.
@@ -681,7 +665,7 @@ You have studied many laguages and even when you don't know the local tongue you
 
 **Prerequisite:** Level 6.
 
-You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
+You have practiced techniques useful in melee combat against spellcasters.
 
 * When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature. 
 * When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
@@ -692,7 +676,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 **Prerequisite:** Level 6, Magic Initiate.
 
-You have studied your magic over the course of your adventures. You gain the following benefits
+You have studied your magic over the course of your adventures.
 
 * You learn on additional Cantrip from the same list you choose your Magic Initiate Spells from.
 * Choose one 2nd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
@@ -723,7 +707,7 @@ You have learned to grapple your foes without even touching them.
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
 
-You have practiced with the short bow since you can hold one. You gain the following benefits:
+You have practiced with the short bow since you can hold one. 
 
 * Being in close combat doesn’t impose disadvantage on your attack roles with a short bow.
 * When you hit a creature with your short bow you can make one extra attack as a bonus action using your short bow.
@@ -742,7 +726,7 @@ Your rapid-fire style of casting cantrips allows you to weave magic with uncanny
 
 **Prerequisite:** Level 6, Proficiency in advanced weapons.
 
-Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons and gain the following benefits:
+Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons.
 
 * Critical hits double the damage dealt by the Scatter property on a failed save.
 * When making an attack with a weapon with the Scatter property, you may choose any number of targets to gain advantage on saving throws caused by your attack.
@@ -764,7 +748,7 @@ You use shields not just for protection but also for offense. You gain the follo
 
 **Prerequisite:** Level 6, Weave Distortion.
 
-Your unnatural ability to distort the weave is spreading out from your body, you gain the following benefits:
+Your unnatural ability to distort the weave is spreading out from your body, 
 
 * Your bonus on saving throws against spells or other magical effects increases to +3.
 * Every Spellcaster has disadvantage on spell attacks or other magical effects while standing within 10ft of you or while targeting you or a creature within 10ft of you.
@@ -776,7 +760,7 @@ Your unnatural ability to distort the weave is spreading out from your body, you
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+You have learned techniques to enhance your attacks with certain kinds of spells.
 
 * When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
 * Your ranged spell attacks ignore half cover and three-quarters cover.
@@ -787,7 +771,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 **Prerequisite:** Level 6.
 
-You excel at thrown weapons and gain the following benefits:
+You excel at thrown weapons.
 
 * When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon.
 * These must also be thrown attacks. You may use this ability a number of times equal to your Dexterity or Strength modifier per short rest.
@@ -797,7 +781,7 @@ You excel at thrown weapons and gain the following benefits:
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+You have practiced casting spells in the midst of combat.
 
 * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
 * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands. 
@@ -812,7 +796,7 @@ You have practiced casting spells in the midst of combat, learning techniques th
 
 **Prerequisite:** Level 9, Magic Scholar.
 
-You have studied your magic over the course of your adventures. you gain the following benefits
+You have studied your magic over the course of your adventures.
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
 * Choose one 3rd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
@@ -823,7 +807,7 @@ You have studied your magic over the course of your adventures. you gain the fol
 
 **Prerequisite:** Level 9.
 
-You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. 
 
 * On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 * Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
@@ -843,7 +827,7 @@ You have your friends back and they know it, while wearing a shield you gain the
 
 **Prerequisite:** Level 9, Alcoholic, Constitution 13 or higher.
 
-You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. You gain the following benefits:
+You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. 
 
 * You have advantage on Saving Throws against being poisoned.
 + Upon completing a long rest, you regain 1 additional spent Hit Dice.
@@ -856,7 +840,7 @@ You eat like a giant and drink like a fish. Years of punishing your stomach and 
 
 **Prerequisite:** Level 9, Quickcaster, the ability to cast at least one spell.
 
-You have mastered the art of performing verbal andsomatic components with lightning fast precision.
+You have mastered the art of performing verbal and somatic components with lightning fast precision.
 
 * When you cast a Spell of 1st level or higher as a bonus action, you can cast another spell of 1st level or higher as an action, as long as this spell doesn’t require material components.
 
@@ -865,7 +849,7 @@ You have mastered the art of performing verbal andsomatic components with lightn
 
 **Prerequisite:** Level 9.
 
-You can keep your enemies at bay with reach weapons. You gain the following benefits:
+You can keep your enemies at bay with reach weapons. 
 
 * When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon’s damage die for this attack is a d4, and it deals bludgeoning damage.
 * While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter your reach.
@@ -875,7 +859,7 @@ You can keep your enemies at bay with reach weapons. You gain the following bene
 
 **Prerequisite:** Level 9.
 
-You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
+You have mastered ranged weapons and can make shots that others find impossible. 
 
 * Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
 * Your ranged weapon attacks ignore half cover and three-quarters cover.
@@ -886,7 +870,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 
 **Prerequisite:** Level 9, the ability to cast at least one spell, that can curse someone like the Bestow Curse.
 
-You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can use dolls you have created. When you use an effigy doll you gain the following benefits:
+You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can use dolls you have created. When you use an effigy doll 
 
 * The target of the curse has disadvantage on their initial saving throw.
 * The target of your curse does not know that you tried to curse them upon a successful save against being cursed.
@@ -900,7 +884,7 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 
 **Prerequisite:** Level 12, Alert.
 
-You have heightened your senses over the potential of a normal mortal being. you gain the following benefits:
+You have heightened your senses over the potential of a normal mortal being. 
 
 * While you aren't Incapacitated and can at least hear or smell, you have blindsight up to 30ft.
 * If you play with the optional rules flanking creatures don't get the benefits of flanking you.
@@ -910,7 +894,7 @@ You have heightened your senses over the potential of a normal mortal being. you
 
 **Prerequisite:** Level 12, Strength 17 or higher.
 
-You are a broad and formidable size, due to extensive training. You gain the following benefits:
+You are a broad and formidable size, due to extensive training. 
  
 * You count as one size larger (to a maximum size of large).
 * When you hit a creature with a melee attack, if you used your Strength modifier to hit the creature, you deal an additional 1d4 damage. This damage is of the same type as the weapon attack.
@@ -922,7 +906,7 @@ You are a broad and formidable size, due to extensive training. You gain the fol
 
 **Prerequisite:** Level 12, Advanced Alchemist.
 
-Your concoctions count as one the most potent, you gain the following benefits:
+Your concoctions count as the most potent.
 
 * If the Items crafted with your Alchemist’s Supplies require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Alchemist feat)
 * If items crafted with your alchemist supplies deal damage, they now deal an extra damage die.
@@ -932,7 +916,7 @@ Your concoctions count as one the most potent, you gain the following benefits:
 
 **Prerequisite:** Level 12, Advanced Blacksmith.
 
-You have learned to enhance your craft to one of the highest levels possible, you gain the following benefits:
+You have learned to enhance your craft to one of the highest levels possible, 
 
 * When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
 * When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 1000gp to give the Armor a +2 bonus to AC (this doesn’t make the armor magical). Your working time for this sort of armor is not halved.
@@ -944,7 +928,7 @@ You have learned to enhance your craft to one of the highest levels possible, yo
 
 **Prerequisite:** Level 12, Advanced Bowyer.
 
-You became one of the most renown Bowyers, you gain the following benefits:
+You became one of the most renown Bowyers.
 
 * When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
 * When crafting ammunition, you can choose to spend an extra 10gp per piece of ammunition to give the ammunition either a +2 to attack or damage rolls (this doesn’t make the weapon magical).
@@ -954,7 +938,7 @@ You became one of the most renown Bowyers, you gain the following benefits:
 
 **Prerequisite:** Level 12, Advanced Herbalist
 
-You have found a way to boost the healing potential of your healing potions even further, you gain the following benefits:
+You have found a way to boost the healing potential of your healing potions even further.
 
 * You can now craft Potions of superior Healing using your Herbalism Kit, as described in Chapter 2 of the Xanathar’s Guide.
 * Potions of greater Healing that you craft heal an extra 2d hit points.
@@ -964,7 +948,7 @@ You have found a way to boost the healing potential of your healing potions even
 
 **Prerequisite:** Level 12, Advanced Poisoner.
 
-Your poisons have become incredible potent and you have worked with them long enough to ignore them, you gain the following benefits:
+Your poisons have become incredible potent and you have worked with them long enough to ignore them.
 
 * You gain immunity to poison damage and the poisoned condition.
 * If the Items crafted with your Poisoner’s Kit require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Poisoner feat).
@@ -976,7 +960,7 @@ Your poisons have become incredible potent and you have worked with them long en
 
 **Prerequisite:** Level 12, Hardened Mind.
 
-Your mind become a Fortress of pure willpower you gain the following benefit:
+Your mind becomes a fortress of pure willpower.
 
 * You gain resistance to psychic damage. 
 * If something forces you to make an Intelligence, Wisdom or Charisma saving throw you can force some of that energy back to its origin. As a reaction you can deal 2d10 plus your Intelligence, Wisdom or Charisma modifier (your choice) psychic damage to the creature that forced you to make the saving throw. This Damage increases when you reach certain levels, 3d10 at level 15 and 4d10 at level 18.
@@ -988,7 +972,7 @@ Your mind become a Fortress of pure willpower you gain the following benefit:
 
 **Prerequisite:** Level 12, Interceptor or the Protection Fighting Style.
 
-You have mastered techniques to take advantage of every drop in any enemy's guard. You gain the following benefits:
+You have mastered techniques to take advantage of every drop in any enemy's guard. 
 
 * When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn if it is large or smaller or has its speed halved for the rest of the turn if its huge.
 * Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
@@ -999,7 +983,7 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 
 **Prerequisite:** Level 12, The ability to cast at least one spell, a spellcasting ability of 19 or higher.
 
-You have learned to change the destructive energies of your spells. You gain the following benefits: 
+You have learned to change the destructive energies of your spells. 
 
 * You can change the damage type of your spells to another one of the same list, as shown in the table below:
 
@@ -1025,7 +1009,7 @@ You have learned to change the destructive energies of your spells. You gain the
 
 **Prerequisite:** Level 12, Spell Distortion.
 
-Your unnatural being has started to shield you from magic, you gain the following benefits:
+Your unnatural being has started to shield you from magic.
 
 * You gain resistance to damage from spells. Once per long rest as an action, you can choose to gain the effects of a protect from evil and good spell for 10 minutes.
 
@@ -1036,16 +1020,16 @@ Your unnatural being has started to shield you from magic, you gain the followin
 
 **Prerequisite:** Level 12.
 
-You have mastered the art of wielding your favorite weapon. You gain the following benefit:
+You have mastered the art of wielding your favorite weapon.
 
-Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
+* Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
+
 
 ### Witch Hunter
 
-
 **Prerequisite:** Level 12, Mage Slayer.
 
-You have honed and perfected your skills fighting against spellcasters. You gain the following benefits:
+You have honed and perfected your skills fighting against spellcasters. 
 
 * Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster’s spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball. 
 * Whenever you hit a spellcaster with a melee attack, the target’s speed is reduced by 10 feet until the beginning of your next turn.
@@ -1070,7 +1054,7 @@ You became a moving bulwark of pure protection, while wearing a shield you gain 
 
 **Prerequisite:** Level 15, Advanced Magic Scholar.
 
-You have studied your magic over the course of your adventures. you gain the following benefits: 
+You have studied your magic over the course of your adventures. 
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
 * Choose one 4th-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
@@ -1081,7 +1065,7 @@ You have studied your magic over the course of your adventures. you gain the fol
 
 **Prerequisite:** Level 15, [Lucky](#Lucky).
 
-You have inexplicable luck that seems to kick in at just the right moment. You gain the following benefits:
+You have inexplicable luck that seems to kick in at just the right moment. 
 
 * You now have 3 luck points to use with your [Lucky](#Lucky) feat. You regain all your spent luck points at the end of a long rest
 
@@ -1089,7 +1073,7 @@ You have inexplicable luck that seems to kick in at just the right moment. You g
 
 **Prerequisite:** Level 15, Spell Sink.
 
-Your unnatural nature has evolved to rip apart the weave around you, you gain the following benefits:
+Your unnatural nature has evolved to rip apart the weave around you.
 
 * Your Bonus against Spells and other magical effects increases to +4.
 * Once per long rest you can gain the effects of an antimagic field as an action, these effects last for one hour. You can suppress these effects as a bonus action and release them again as a bonus action. The time while the effects are suppressed, still counts against the duration of the effect.
@@ -1106,7 +1090,7 @@ Your unnatural nature has evolved to rip apart the weave around you, you gain th
 
 **Prerequisite:** Level 18, Warcaster.
 
-You have learned to weave the essence of two spells together. You gain the following benefit:
+You have learned to weave the essence of two spells together.
 
 * You can concentrate on 2 spells at once, while you do so, you don't get advantage on Constitution saving throws to maintain them. If you fail your concentration  check you lose both spells.
 
@@ -1115,7 +1099,7 @@ You have learned to weave the essence of two spells together. You gain the follo
 
 **Prerequisite:** Level 18, Master Alchemist.
 
-You have surpassed most of the alchemists and became one of the greatest alchemists who have ever lived, you gain the following benefits:
+You have surpassed most of the alchemists and became one of the greatest alchemists who have ever lived.
 
 * The costs and time you need to craft Items using your Alchemist’s supplies is quartered.
 * If the Items crafted with your Alchemist’s Supplies require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Alchemist feat)
@@ -1127,7 +1111,7 @@ You have surpassed most of the alchemists and became one of the greatest alchemi
 
 **Prerequisite:** Level 18, Master Blacksmith.
 
-You have surpassed most of the blacksmiths and became one of the greatest blacksmiths who have ever lived, you gain the following benefits:
+You have surpassed most of the blacksmiths and became one of the greatest blacksmiths who have ever lived. 
 
 * The time you need to craft a weapon or armor using your Smith’s tools is quartered.
 * When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 2000gp to give the weapon either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
@@ -1139,7 +1123,7 @@ You have surpassed most of the blacksmiths and became one of the greatest blacks
 
 **Prerequisite:** Level 18, Master Herbalist.
 
-You have surpassed most of the herbalists and became one of the greatest herbalists who have ever lived, you gain the following benefits:
+You have surpassed most of the herbalists and became one of the greatest herbalists who have ever lived.
 
 * The cost and time you need to craft an item using your herbalism Kit is quartered.
 * Potions of supreme Healing that you craft heal an extra 2d4 hit points.
@@ -1152,7 +1136,7 @@ You have surpassed most of the herbalists and became one of the greatest herbali
 
 **Prerequisite:** Level 18, Master Bowyer.
 
-You have surpassed most of the Bowyers and became one of the greatest bowyers who have ever lived, you gain the following benefits:
+You have surpassed most of the Bowyers and became one of the greatest bowyers who have ever lived.
 
 * The time you need to craft a weapon or ammunition using your Carpenter’s Tools is quartered.
 * When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 2000gp to give the weapon either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
@@ -1164,7 +1148,7 @@ You have surpassed most of the Bowyers and became one of the greatest bowyers wh
 
 **Prerequisite:** Level 18, Master Poisoner.
 
-You have surpassed most of the Poisoners and became one of the greatest Poisoners who have ever lived, you gain the following benefits:
+You have surpassed most of the Poisoners and became one of the greatest Poisoners who have ever lived.
 
 * The cost and time you need to craft an item using your Poisoner’s Kit is quartered.
 * If the Items crafted with your Poisoner’s Kit require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Poisoner feat).
@@ -1176,7 +1160,7 @@ You have surpassed most of the Poisoners and became one of the greatest Poisoner
 
 **Prerequisite:** Level 18, Greater Magic Scholar.
 
-You have studied your magic over the course of your adventures. you gain the following benefits
+You have studied your magic over the course of your adventures.
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from. 
 * Choose one 5th-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it using this feature without expending a spell slot once per short rest. 
@@ -1205,7 +1189,7 @@ You have trained to make your wings stronger and more powerful.
 
 **Prerequisite:** Level 6.
 
-You have adopted your bird features to improve your vision, granting you the following benefits:
+You have adopted your bird features to improve your vision.
 
 * You have advantage on Wisdom (Perception) checks that rely on sight.
 * In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
@@ -1215,7 +1199,7 @@ You have adopted your bird features to improve your vision, granting you the fol
 
 **Prerequisite:** Level 12, Dexterity of 15 or higher.
 
-You can swoop down quickly and strike with deadly precision, granting you the following benefits:
+You can swoop down quickly and strike with deadly precision.
 
 * You don't provoke opportunity attacks when you fly out of an enemy's reach.
 * When you use the Dash action on your turn while flying, you can make a single melee attack against one target, which is in your flying path.
@@ -1232,7 +1216,7 @@ You can swoop down quickly and strike with deadly precision, granting you the fo
 
 **Prerequisite:** Level 6.
 
-You learn more of the magic typical of Celestials, granting you the following benefits:
+You learn more of the magic typical of Celestials.
 
 * You learn the bless or bane spell and can cast it at will, without expending a spell slot. 
 * You learn lesser restoration and remove curse, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. 
@@ -1243,7 +1227,7 @@ You learn more of the magic typical of Celestials, granting you the following be
 
 **Prerequisite:** Level 9.
 
-You learned to improve your celestial transformation (Necrotic Shroud, Radiant Soul or Radiant Consumption), you gain the following benefits:
+You learned to improve your celestial transformation (Necrotic Shroud, Radiant Soul or Radiant Consumption), 
 
 * You can use your transformation a number of times equal to your Charisma modifier (minimum of 1), before you must finish a long rest.
 * When your transformation causes you to take damage it now doesn't.
@@ -1253,7 +1237,7 @@ You learned to improve your celestial transformation (Necrotic Shroud, Radiant S
 
 **Prerequisite:** Level 12.
 
-Your celestial blood makes it harder for other creatures to control your mind, you gain the following benefits:
+Your celestial blood makes it harder for other creatures to control your mind, 
 
 * You have advantage on saving throws against being frightened or charmed.
 * Other creatures can't read your mind unless you want them to.
@@ -1289,9 +1273,10 @@ You learned how to hit enemies and how to hit them good.
 
 **Prerequisite:** Level 12.
 
-Hruggek saw you in battle and he liked it, as one of his favorites he grants you the following benefit:
+Hruggek saw you in battle and he liked it.
 
 * You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
+
 
 ```
 ```
@@ -1303,7 +1288,7 @@ Hruggek saw you in battle and he liked it, as one of his favorites he grants you
 
 ### Trampling Hooves
 
-You learned to put your horse body to good use in combat, you gain the following benefits:
+You learned to put your horse body to good use in combat.
 
 * Your hooves now deal 2d4 + your Strength modifier bludgeoning damage.
 * If you move at least 20 feet straight toward a creature and then hits it with an attack on the same turn, that target must succeed on a DC (8 + proficiency bonus + Strength modifier)Strength saving throw or be knocked prone.
@@ -1312,7 +1297,7 @@ You learned to put your horse body to good use in combat, you gain the following
 
 ### Jousting
 
-You become rider and horse in one person, you gain the following benefits:
+You become rider and horse in one person.
 
 * You can use the Mounted Combatant feat without a mount. You count as the rider and the mount in that case.
 * You can use a lance without the penalty of not having a mount.
@@ -1322,7 +1307,7 @@ You become rider and horse in one person, you gain the following benefits:
 
 **Prerequisite:** Level 12, no other Blood feature.
 
-You have Pegasus blood in your veins, that changes your physic, granting you the following benefits:
+You have Pegasus blood in your veins, that changes your physique.
 
 * Your size becomes large. 
 * You gain a fly speed of 50ft.
@@ -1333,7 +1318,7 @@ You have Pegasus blood in your veins, that changes your physic, granting you the
 
 **Prerequisite:** Level 15, no other Blood feature.
 
-You have unicorn blood in your veins, that changes your physic, granting you the following benefits:
+You have unicorn blood in your veins, that changes your physique.
 
 * Your size becomes large
 * You grow a horn on your forehead which can be used as a magical melee weapon. The horn deals 1d8 + your Strength modifier of piercing damage.
@@ -1352,7 +1337,7 @@ You have unicorn blood in your veins, that changes your physic, granting you the
 
 **Prerequisite:** Level 9.
 
-You learned to change your body in a way only few of your kind have mastered, you gain the following benefits:
+You learned to change your body in a way only few of your kind have mastered.
 
 * You can use your Shapechanger features to sprout additional limbs like tails or wings.
 * You can take the form of any creature you are familiar with up to a size of large, your game statistics stay the same, except for speed (movement, fly, swim or burrow)
@@ -1362,7 +1347,7 @@ You learned to change your body in a way only few of your kind have mastered, yo
 
 **Prerequisite:** Level 15, Thousand Faces.
 
-Your transformation skills are at their peak and there are not many who can rival you. You gain the following benefit:
+Your transformation skills are at their peak and there are not many who can rival you.
 
 * You can transform into any Creature you are familiar with, that has a challenge rating of half your level (rounded up) and is huge or smaller. Your statistics change except for your wisdom, Intelligence and Charisma score. You don't get any legendary actions or resistances. When you drop to zero hit 0 hit points, you revert to your normal form with 0 hit points. You can use his feature once and you regain the ability to do so when you finish a long rest.
 
@@ -1383,7 +1368,7 @@ When angered, you can radiate menace.
 
 ### Dragon Hide
 
-You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
+You manifest scales and claws reminiscent of your draconic ancestors. 
 
 + Your scales harden. While you aren’t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 * You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
@@ -1393,7 +1378,7 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 
 **Prerequisite:** Level 3.
 
-You mastered your Breath Weapon granting you the following benefits:
+You mastered your Breath Weapon:
 
 * You can use your Breath Weapon as a bonus action.
 * You can use your Breath Weapon a number of times equal to your constitution modifier (minimum of 1) before you must finish a long rest.
@@ -1403,7 +1388,7 @@ You mastered your Breath Weapon granting you the following benefits:
 
 **Prerequisite:** Level 9.
 
-Your draconic senses have heightened, granting you the following benefits:
+Your draconic senses have heightened:
 
 * You gain darkvision up to a range of 60ft.
 * You gain blindsight up to a range of 10ft.
@@ -1413,7 +1398,7 @@ Your draconic senses have heightened, granting you the following benefits:
 
 **Prerequisite:** Level 12.
 
-You embrace your draconic blood; you gain the following benefits:
+You embrace your draconic blood.
 
 * Your creature type becomes dragon instead of humanoid. 
 * You sprout leathery wings; you gain a fly speed equal to your walking speed.
@@ -1428,7 +1413,7 @@ You embrace your draconic blood; you gain the following benefits:
 
 ### Dwarven Fortitude
 
-You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
+You have the blood of dwarf heroes flowing through your veins. 
 
 * Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 * When you get forcefully moved by any means, you can use your reaction to reduce this movement by 10ft.
@@ -1436,7 +1421,7 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 
 ### Dwarven Stubbornness
 
-When set your mind to something there is nothing that can change your mind and most of the times people are to tiered to argue with you for long. You gain the following benefits:
+When set your mind to something there is nothing that can change your mind and most of the times people are to tiered to argue with you for long. 
 
 * You gain advantage on Persuasion checks to haggle.
 * You can sell Items for 75% of their original price.
@@ -1444,7 +1429,7 @@ When set your mind to something there is nothing that can change your mind and m
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the following benefits:
+You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
 * You gain proficiency in the Acrobatics or Athletics skill (your choice).
@@ -1455,7 +1440,7 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You have trained in the art of crafting for more years than a normal Human lives, you gain the following benefits:
+You have trained in the art of crafting for more years than a normal Human lives, 
 
 * You gain proficiency in one additional artisan tool of your choice
 * You double your proficiency bonus with all artisan tools you are proficient with.
@@ -1466,7 +1451,7 @@ You have trained in the art of crafting for more years than a normal Human lives
 
 **Prerequisite:** Level 6, Duergar.
 
-You learned how to increase your power while enlarged. You gain the following benefit:
+You learned how to increase your power while enlarged.
 
 * When you cast the enlarge spell, with your racial feat, it doesn't require concentration.
 * While enlarged you gain an extra damage die on Strength-based weapon attacks instead of getting an extra 1d4.
@@ -1476,7 +1461,7 @@ You learned how to increase your power while enlarged. You gain the following be
 
 **Prerequisite:** Level 12, Cunning Artisan 
 
-You have learned the ancient art of  engraving the dwarfen Runes of Protection into gemstones. You gain the following benefits:
+You have learned the ancient art of  engraving the dwarfen Runes of Protection into gemstones. 
 
 * You learn how to craft Ioun Stones (as described in Xanathars Guide to Everything )
 * You learn the formula of 3 Ioun Stones up to a rarity of rare.
@@ -1495,7 +1480,7 @@ You have learned the ancient art of  engraving the dwarfen Runes of Protection i
 
 **Prerequisite:** Level 3.
 
-Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
+Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. 
 
 * You learn to speak, read, and write Sylvan.
 * You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
@@ -1505,7 +1490,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
 **Prerequisite:** Level 3.
 
-You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
+You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. 
 
 * While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
 * A double-bladed scimitar has the finesse property when you wield it.
@@ -1550,7 +1535,7 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 ### Caretaker of the Critters
 
-As a Firbolg you are a guardian of nature and a caretaker of its inhabitants. This feat provides the following benefits:
+As a Firbolg you are a guardian of nature and a caretaker of its inhabitants.
 
 * You gain expertise with Animal Handling. 
 * You gain proficiency with Carpenter's Tools and Herbalism Tools.
@@ -1559,7 +1544,7 @@ As a Firbolg you are a guardian of nature and a caretaker of its inhabitants. Th
 
 **Prerequisite:** Level 6.
 
-Your connection with nature has grown over the course of your adventures you gain the following benefits:
+Your connection with nature has grown over the course of your adventures 
 
 * You learn the speak with animals spell and cast it at will without expending a spell slot.
 * You learn the speak with plants spell and can cast it once without expending a spell slot. you regain the ability to do so when you finish a short or long rest
@@ -1569,7 +1554,7 @@ Your connection with nature has grown over the course of your adventures you gai
 
 **Prerequisite:** Level 9, Speak with Beasts and Plants.
 
-You love nature and nature loves you, which grands you the following benefits:
+You love nature and nature loves you.
 
 * Difficult terrain made from plants doesn't cost you extra movement.
 * You always find shelter when you travel in natural terrain. 
@@ -1597,7 +1582,7 @@ For the purpose of associated damage types, consider the following chart:
 
 ### Elemental Adaptation
 
-Your elemental bloodline shields you from enemy attacks. You gain the following benefits:
+Your elemental bloodline shields you from enemy attacks. 
 
 * You gain resistance to your associated damage type. 
 * If you take damage from your associated damage type you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken (including your resistance). Once you use this feature you can't do so again until you finish a long rest.
@@ -1607,7 +1592,7 @@ Your elemental bloodline shields you from enemy attacks. You gain the following 
 
 **Prerequisite:** Level 3.
 
-Your connection to the Elemental plains grants you the aid of new forms of familiars. You gain the following benefits:
+Your connection to the Elemental plains grants you the aid of new forms of familiars. 
 
 * You learn the find familiar spell and can cast it as a ritual. 
 * You can choose an additional form for your familiar depending on your origin, as shown in the table below. 
@@ -1628,7 +1613,7 @@ Your connection to the Elemental plains grants you the aid of new forms of famil
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-Your elemental ancestry lets you change the appearance of your spells, granting you the following benefit:
+Your elemental ancestry lets you change the appearance of your spells.
 
 * If you cast a Spell that deals acid, cold, fire, lightning, or thunder, you can change the damage type of this spell to your associated damage type. You can use this feature a number of times equal to your constitution modifier (minimum of 1) before you need to make a long rest.
 
@@ -1667,7 +1652,7 @@ Your psychic nature lets you reach out with your mind to communicate with other 
 
 **Prerequisite:** Level 3.
 
-Your natural hate against Illithids and their kind enhances your abilities to hunt them. You gain the following benefits:
+Your natural hate against Illithids and their kind enhances your abilities to hunt them. 
 
 * You have advantage on Wisdom (Survival) checks to track aberrations, as well as on Intelligence ability checks to recall information about them.
 * You have advantage on saving throws against being stunned.
@@ -1677,7 +1662,7 @@ Your natural hate against Illithids and their kind enhances your abilities to hu
 
 **Prerequisite:** Level 6.
 
-Your psychic mind grows and so do your ability to use it. You gain the following benefits:
+Your psychic mind grows and so do your ability to use it. 
 
 * You learn the catapult, see invisibility and blink spell. You can cast each of these spells once, before you must finish a long rest. You don't need any components to cast these spells. Intelligence is your spellcasting modifier for all of these spells.
 
@@ -1686,7 +1671,7 @@ Your psychic mind grows and so do your ability to use it. You gain the following
 
 **Prerequisite:** Level 9, Illithid Hunter.
 
-You trained hard and enhanced your abilities to stand up against your hated foe. You gain the following benefits:
+You trained hard and enhanced your abilities to stand up against your hated foe. 
 
 * You gain resistance against psychic damage.
 + You have advantage on saving throws against being charmed.
@@ -1704,12 +1689,12 @@ You trained hard and enhanced your abilities to stand up against your hated foe.
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm.
 
-Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
+* Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the following benefits:
+You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
 * You gain proficiency in the Acrobatics or Athletics skill (your choice).
@@ -1720,7 +1705,7 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You have trained in the art of crafting for more years than a normal Human lives, you gain the following benefits:
+You have trained in the art of crafting for more years than a normal Human lives, 
 
 
 * You gain proficiency in one additional artisan tool of your choice
@@ -1739,7 +1724,7 @@ You have trained in the art of crafting for more years than a normal Human lives
 
 **Prerequisite:** Level 9, proficiency in Tinkering Tools, Cunning Artisan.
 
-Your decade long studies in mechanics finally paid off and you learned how to create little constructs. You gain the following benefits:
+Your decade long studies in mechanics finally paid off and you learned how to create little constructs. 
 
 * You learn how to speak, read and write Modron 
 * You can spend 1 workday and expend gold for materials, equal to 100GP x the Modrons CR to, create a Modron that aids you on your travels. 
@@ -1755,7 +1740,7 @@ Your decade long studies in mechanics finally paid off and you learned how to cr
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the following benefits:
+You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
 * You gain proficiency in the Acrobatics or Athletics skill (your choice).
@@ -1763,7 +1748,7 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
 ### Bad Inventors
 
-You aren't good at planning, but you are incredibly good at improvising. You gain the following Benefits:
+You aren't good at planning, but you are incredibly good at improvising. 
 
 * You gain proficiency in improvised weapons.
 * You can spend one minute to build an improvised trap out of junk and other materials (see the sample Traps section in the Dungeon Master's Guide Chapter 5). The Save DC for your Traps equals 8 + your proficiency bonus + your Dexterity modifier. There is always a 10% chance, that your trap doesn’t work at all, and a 5% chance that it activates while you are building it, making you the target of your own trap.
@@ -1772,7 +1757,7 @@ You aren't good at planning, but you are incredibly good at improvising. You gai
 
 ### Garbage to Gold
 
-You have learned to use other people’s waste to craft useful things for yourself. You gain the following benefits:
+You have learned to use other people’s waste to craft useful things for yourself. 
 
 * You gain proficiency in one Artisan Tool of your choice. 
 * As part of a short rest, you can harvest scrap from a slain enemies or from garbage to create one of the following items: a shield, a club, a javelin,1d4 dart or blowgun needles or Arrows, a leather armor for small creatures only, a short bow or a spear.
@@ -1782,7 +1767,7 @@ You have learned to use other people’s waste to craft useful things for yourse
 
 **Prerequisite:** Level 6.
 
-You have a favor for explosives even if they don't have one for you. You gain the following benefits:
+You have a favor for explosives even if they don't have one for you. 
 
 
 * You gain resistance to fire damage.
@@ -1797,7 +1782,7 @@ You have a favor for explosives even if they don't have one for you. You gain th
 
 **Prerequisite:** Level 12, Fire in the Hole.
 
-You've developed a new toy, much to the regret of your enemies. You gain the following benefits:
+You've developed a new toy, much to the regret of your enemies. 
 
 * The costs for crafting your Bombs is halved, and you can craft up to 2 bombs per short rest. 
 * Your maximum number of bombs now equals your proficiency bonus.
@@ -1811,7 +1796,7 @@ You've developed a new toy, much to the regret of your enemies. You gain the fol
 
 ### Pushing Through
 
-The harsh environment you grow up in tough you how to keep going when others would collapse on the spot, granting you the following benefit:
+The harsh environment you grow up in tough you how to keep going when others would collapse on the spot.
 
 * You ignore a number of exhaustion points equal to half your proficiency bonus (rounded down). You still die when you gain 6 exhaustion points.
 * You remove 2 points of exhaustion per long rest instead of 1
@@ -1821,7 +1806,7 @@ The harsh environment you grow up in tough you how to keep going when others wou
 
 **Prerequisite:** Level 3.
 
-Your harsh training hardened your body to a degree most humans can’t comprehend, you gain the following benefit:
+Your harsh training hardened your body to a degree most humans can’t comprehend.
 
 * You can use your Stone’s Endurance feature a number of times equal to your Constitution modifier (minimum of 1) before you have to finish a long rest.
 
@@ -1830,17 +1815,16 @@ Your harsh training hardened your body to a degree most humans can’t comprehen
 
 **Prerequisite:** Level 6, Strength 13 or higher.
 
-Wielding a large weapon became an easy practice to you over the years, you gain the following benefit:
+Wielding a large weapon became an easy practice to you over the years.
 
-* You can wield a two-handed weapon with one hand, as long as it is your main hand and the weapon isn’t a polearm. You can never wield more than 1 two-handed
-weapon at once.
+* You can wield a two-handed weapon with one hand, as long as it is your main hand and the weapon isn’t a polearm. You can never wield more than 1 two-handed weapon at once.
 
 
 ### Intimidating Fighter
 
 **Prerequisite:** Level 9, Titanium Endurance.
 
-Your hulking figure is a sight to behold on the battlefield and people may think twice before attacking you, you gain the following benefits:
+Your hulking figure is a sight to behold on the battlefield and people may think twice before attacking you.
 
 * You gain proficiency in the intimidation skill, if you already have proficiency in that skill you gain expertise in that skill.
 * You can use your Strength instead of your Charisma when you use the intimidate skill.
@@ -1857,7 +1841,7 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 
 ### Social Adaptation
 
-Since you are a being of two worlds have no problem fitting in wherever you go. You gain the following benefits:
+Since you are a being of two worlds have no problem fitting in wherever you go. 
 
 * Once during a long rest, you can switch one Charisma based skill proficiency to another Charisma based skill proficiency.
 * You gain advantage on Charisma checks to pass as a local.
@@ -1865,7 +1849,7 @@ Since you are a being of two worlds have no problem fitting in wherever you go. 
 
 ### World traveler
 
-You traveled the world and saw many things, granting you the following benefits:
+You traveled the world and saw many things.
 
 * You gain proficiency at the History skill and in cartographers’ tools.
 * You don’t get disadvantage on Wisdom (Perception) checks while traveling at a fast pace and you can still stealth while travel at a normal pace.
@@ -1875,7 +1859,7 @@ You traveled the world and saw many things, granting you the following benefits:
 
 **Prerequisite:** Level 6.
 
-Your elven blood line grants you access to powerful magic, you gain the following benefit:
+Your elven blood line grants you access to powerful magic.
 
 * Choose one of the Elven Magic feats, associated with one of your parents, you gain this feat.
 
@@ -1891,7 +1875,7 @@ Your elven blood line grants you access to powerful magic, you gain the followin
 
 **Prerequisite:** Level 3.
 
-Your inner fury burns tirelessly. You gain the following benefits:
+Your inner fury burns tirelessly. 
 
 * When you hit with an attack using a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
 * Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
@@ -1933,7 +1917,7 @@ Your people have extraordinary luck, which you have learned to mystically lend t
 
 ### But What About A Second Breakfast?
 
-Breakfast is the most important meal of the day and why don’t have multiple of them? You gain the following benefits:
+Breakfast is the most important meal of the day and why don’t have multiple of them? 
 
 * You gain proficiency in Cook's Utensils.
 * Once per short rest you can use a bonus action on your turn to consume a small snack. You can expend 1 hit die as if you had taken a short rest. You need at least one free hand to use this feature.
@@ -1948,8 +1932,7 @@ Fortune favors you when someone tries to strike you.
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the
-following benefits:
+You are uncommonly nimble for your race.
 
 * Increase your walking speed by 5 feet.
 * You gain proficiency in the Acrobatics or Athletics skill (your choice).
@@ -1960,7 +1943,7 @@ following benefits:
 
 **Prerequisite:** Level 6.
 
-You have learned to serve your companions a 5-course menu even in the middle of the desert you gain the following benefits:
+You have learned to serve your companions a 5-course menu even in the middle of the desert 
 
 * You learn the create food and water spell and can cast it at will without expending a spell slot. The casting time of this spell changes to 10 minutes for you and you need Cook's Utensils to cast this spell.
 * Creatures who eat your food created by this spell gain temporary hit points equal to your Dexterity modifier + your Proficiency bonus. A creature can only benefit from this feature once per long rest.
@@ -1970,7 +1953,7 @@ You have learned to serve your companions a 5-course menu even in the middle of 
 
 **Prerequisite:** Level 12, Cooking Expert.
 
-You became one of the most brilliant chefs, granting you the following benefit:
+You became one of the most brilliant chefs.
 
 * You learn the Heroes' Feast spell and can cast it without expending a spell slot
 * You need Cook's Utensils to cast this spell and the material components change to: Fine meats, vegetables, wine or other ingredients worth at least 500gp, which the spell consumes.
@@ -1987,7 +1970,7 @@ You became one of the most brilliant chefs, granting you the following benefit:
 
 **Prerequisite:** Level 3.
 
-Your knowledge about tactics and strategy gives you an edge in combat, granting you the following benefits:
+Your knowledge about tactics and strategy gives you an edge in combat.
 
 * You gain a pool of d6 equal to your proficiency bonus.
 * When you hit a creature with a weapon attack, and one of your allies is within 5ft of that creature, you can spend a number of d6, up to your Intelligence modifier and add them to the damage roll. You regain all expended dice when you finish a short or long rest.
@@ -2006,7 +1989,7 @@ You are great at giving “constructive criticism“ which mostly means shouting
 
 **Prerequisite:** Level 12.
 
-You became a master of combat tactics, granting you the following benefits:
+You became a master of combat tactics.
 
 * The range of your warlord feature increases to 60ft. 
 * While you aren’t in close Combat, every creature benefiting from your Warlord feature, that you can see, gains Pack Tactics.
@@ -2039,7 +2022,7 @@ You learn new things faster than other people.
 
 **Prerequisite:** Level 9.
 
-Improvising comes natural to you there is no situation you can’t solve by improving. You gain the following benefits: 
+Improvising comes natural to you there is no situation you can’t solve by improving. 
 
 * You gain proficiency with improvised weapons.
 * If you use an item, you can do so as a bonus action (this includes non-spellcasting abilities of magic items). 
@@ -2055,7 +2038,7 @@ Improvising comes natural to you there is no situation you can’t solve by impr
 
 ### Dream Reader
 
-Your connection to the Plane of dreams makes it easy for you to read other people’s dreams. You gain the following benefit:
+Your connection to the Plane of dreams makes it easy for you to read other people’s dreams.
 
 
 * While within 30ft of a sleeping creature you can read their dreams similar to the Detect Thoughts Spell. You automatically gain the benefits of this spell as if the target has failed its saving throw against the spell, but you can only read subconscious thoughts.
@@ -2065,7 +2048,7 @@ Your connection to the Plane of dreams makes it easy for you to read other peopl
 
 **Prerequisite:** Level 9, Dream Reader.
 
-You gain the Ability to enter other creatures’ dreams like entering a room. You gain the following benefits:
+You gain the Ability to enter other creatures’ dreams like entering a room. 
 
 * You learn the dream Spell and can cast it at will without expending a spell slot.
 * If you are within 30ft of the sleeping creature the creature has disadvantage on its saving throw against this spell. Wisdom is your spell casting ability for this spell.
@@ -2075,7 +2058,7 @@ You gain the Ability to enter other creatures’ dreams like entering a room. Yo
 
 **Prerequisite:** Level 12.
 
-You have learned to release the Spirit bound within you. You gain the following benefits:
+You have learned to release the Spirit bound within you. 
 
 * As an action you can release your bound spirit, you choose the spirits appearance the spirit has the statistics of a Spirit. The Spirit is friendly to you and your companions. You can telepathically command the Spirit on your turn (no action required), if it don’t get any commands it acts on its own. You can release the spirit for a total number of hours equal to your Wisdom Modifier. Once you used all hours or the spirit drops to 0 hit points you can’t use this trait again until you finish a long rest.
 * If the Spirit drops to 0 hit points you take 2d10 psychic damage. 
@@ -2091,7 +2074,7 @@ You have learned to release the Spirit bound within you. You gain the following 
 
 ### Learning New Things
 
-Your curse causes you to learn new things fast. Granting you the following benefit:
+Your curse causes you to learn new things fast.
 
 * You can spend 5 hours a day for a total 30 Days to gain proficiency in one skill, tool, weapon or language of your choice.
 
@@ -2100,7 +2083,7 @@ Your curse causes you to learn new things fast. Granting you the following benef
 
 **Prerequisite:** Level 3.
 
-You maybe can’t fly but you learned a way to use your feathers to glide, granting you the following benefit:
+You maybe can’t fly but you learned a way to use your feathers to glide.
 
 * If you are on a ledge at least 10ft above the ground, you can use your feathers to glide. Granting you a fly speed of 50ft, but you sink 10ft per turn until you touch the ground. 
 * You can use this feat to land safely after falling.
@@ -2110,7 +2093,7 @@ You maybe can’t fly but you learned a way to use your feathers to glide, grant
 
 **Prerequisite:** Level 12.
 
-Were other members of your race sorrow over their lost abilities you embrace your new once, granting you the following benefits:
+Were other members of your race sorrow over their lost abilities you embrace your new once.
 
 
 * Your adaptive nature gives you a bonus to all skills checks equal to halve your proficiency bonus (rounded down) this doesn’t stack with expertise or the bards Jack of All Trades feature.
@@ -2126,7 +2109,7 @@ Were other members of your race sorrow over their lost abilities you embrace you
 
 ### Better together
 
-You aren’t a solo fighter, but you are really good at working with outers. You gain the following benefits:
+You aren’t a solo fighter, but you are really good at working with outers. 
 
 * While being within 5ft of an ally you can take the help action as a bonus action.
 * If you are frightened or paralyzed by an effect that allows a saving throw, you can repeat the save at the start of your turn to end the effect on yourself if you are within 30ft of an ally.
@@ -2144,7 +2127,7 @@ You love being prepared especially when it comes to combat.
 
 **Prerequisite:** Level 12.
 
-Tiamat’s smile falls upon you granting you the following benefits:
+Tiamat’s smile falls upon you.
 
 * You sprout small leathery wings granting you a fly speed equal to your walking speed.
 * You lose sunlight sensitivity. 
@@ -2169,7 +2152,7 @@ Your normal nature makes it harder for others to manipulate you.
 
 **Prerequisite:** Level 3.
 
-You learn how to hurl yourself into a feral frenzy, setting normal thoughts aside and let your bestial instincts take over. You gain the following benefits:
+You learn how to hurl yourself into a feral frenzy, setting normal thoughts aside and let your bestial instincts take over. 
 
 * You can use your bonus action to enter this frenzy, which holds for 1 minute or until you end it as a bonus action.
 * While in this frenzy you must use your Hungry Jaws ability every turn if you can (you ignore the normal limit on this feature while in the frenzy). Once you use this feature you can’t use it again until you finish a long rest.
@@ -2189,7 +2172,7 @@ You have learned to change the colors of your skin to match the environment.
 
 **Prerequisite:** Level 6, no other Scales feat.
 
-Your Scales became spiky over the course of your adventures, you gain the following benefits:
+Your Scales became spiky over the course of your adventures, 
 
 * You can use the grapple action as a bonus action. 
 * A creature you are grappling takes 1d4 + your Strength modifier piercing damage at the start of each of its turns.
@@ -2200,7 +2183,7 @@ Your Scales became spiky over the course of your adventures, you gain the follow
 
 **Prerequisite:** Level 6, no other Scales feat.
 
-Your scales became junky and hard over the course of your adventures. You gain the following benefits: 
+Your scales became junky and hard over the course of your adventures. 
 
 * Your natural AC changes to 15 + your Dexterity modifier. 
 * As an Action you can roll yourself into a ball granting you a bonus of 3 to your AC. While rolled together you can’t use any other actions than unfolding yourself. Additionally, if you are on a hill or other slanted surface you can roll it down like a wheel gaining a movement speed of 50ft. You can try to attack someone while rolling make a melee weapon attack using your Strength modifier + your Proficiency bonus. If you hit the creature takes damage equal to your Strength modifier plus 1d6 for every 10ft you spent rolling before impacting the creature, you take half as much damage.
@@ -2217,7 +2200,7 @@ Your scales became junky and hard over the course of your adventures. You gain t
 
 **Prerequisite:** Level 3.
 
-Your elephant genes help you to remember things other creatures would forget instantly. You gain the following benefits:
+Your elephant genes help you to remember things other creatures would forget instantly. 
 
 * You can accurately remember everything you have seen or heard within the last year.
 * When you use a feature or spell to create something that you have seen within the last year (like an illusion), other creatures have disadvantage on their throws to determine if its fake or not.
@@ -2228,7 +2211,7 @@ Your elephant genes help you to remember things other creatures would forget ins
 
 **Prerequisite:** Level 6.
 
-You’re not easy to anger but when you get angry it’s a sight to behold. You gain the following benefits:
+You’re not easy to anger but when you get angry it’s a sight to behold. 
 
 * You deal double damage to structures and non-animated objects.
 * You can use your attack action to hurl boulders around. They count as a simple weapon with the thrown 30/60ft property, dealing 1d10 damage on a hit. If you have multi attack you can hurl as many boulders per tern as you have attacks.
@@ -2239,7 +2222,7 @@ You’re not easy to anger but when you get angry it’s a sight to behold. You 
 
 ### Labyrinth Senses
 
-Your days guarding dark places or even a labyrinth made your body adapt to your duties. You gain the following benefits:
+Your days guarding dark places or even a labyrinth made your body adapt to your duties. 
 
 * You can perfectly recall every path you have traveled. 
 * You gain dark vision up to a range of 60 feet.
@@ -2249,7 +2232,7 @@ Your days guarding dark places or even a labyrinth made your body adapt to your 
 
 **Prerequisite:** Level 6.
 
-Heroes blood flows through your veins and you learned how to control it, granting you the following benefits:
+Heroes blood flows through your veins and you learned how to control it.
 
 * You have advantage on saving throws against being frightened.
 * You can use a bonus action on your turn to let out a war cry and bolster the moral of your allies. Every creature of your choice within 60ft of you gains 1d4 plus your Strength modifier temporary hit points. Once you use this trait you can’t do so again until you finish a short or long rest.
@@ -2266,7 +2249,7 @@ Heroes blood flows through your veins and you learned how to control it, grantin
 
 **Prerequisite:** Level 3.
 
-You adorn yourself in the colors of conquest, might it be tattoos, paint or other symbols granting you the following benefits:
+You adorn yourself in the colors of conquest, might it be tattoos, paint or other symbols.
 
 * Once per day during a long rest you can attune to one of the colors red, white or black.
 * Red: When you hit a creature with a weapon attack you can make another attack as a bonus action. Once you use this feature you can use it again until you finish a long rest.
@@ -2287,7 +2270,7 @@ You have embraced the color red, the color of blood.
 
 **Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
 
-You have embraced the color white, the color of death, granting you the following benefits:
+You have embraced the color white, the color of death.
 
 * You have advantage on death saving throws. 
 * When you drop to 0 hit points you can choose to trop to 1 instead. Once you used this feature you can’t use it again until you finish a long rest
@@ -2297,7 +2280,7 @@ You have embraced the color white, the color of death, granting you the followin
 
 **Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
 
-You have embraced the color black, the color of darkness, granting you the following benefits:
+You have embraced the color black, the color of darkness.
 
 * You can see normally in magical and non-magical darkness up to a range of 120 feet.
 * While in darkness you don’t provoke opportunity attacks.
@@ -2312,7 +2295,7 @@ You have embraced the color black, the color of darkness, granting you the follo
 
 ### Shifter Senses
 
-Your animal nature grants you the following benefits:
+Your embrace your animal nature.
 
 * You gain proficiency in the Perception skill.
 * Choose one of the following senses: Smelling, hearing, or sight. You have advantage on Wisdom (Perception) checks that rely on the chosen sense.
@@ -2338,7 +2321,7 @@ You have learned to shift your whole body into an animal.
 
 **Prerequisite:** Level 9.
 
-You have learned to bring your shifting abilities to the next level. You gain the following benefits:
+You have learned to bring your shifting abilities to the next level. 
 
 * You can now use your Shifting ability a number of times equal to half your proficiency bonus (rounded down) You gain additional benefits while shifting depending on your subrace as described in the table below 
 
@@ -2361,7 +2344,7 @@ You have learned to bring your shifting abilities to the next level. You gain th
 
 **Prerequisite:** Level 6.
 
-You have learned to always land on your feet, granting you the following benefits:
+You have learned to always land on your feet.
 
 * You have advantage on saving throws against being knocked prone.
 * Standing up only costs you 5 feet of movement. 
@@ -2372,7 +2355,7 @@ You have learned to always land on your feet, granting you the following benefit
 
 **Prerequisite:** Level 15.
 
-You have a neck for evading death, you gain the following benefits:
+You have a neck for evading death, 
 
 * You gain advantage on death saving throws.
 * When you die, you come back to live 1d4 hours later. Once this trait has been used (9 – the number of times you have been resurrected before you gained this feat) times you lose this feature.
@@ -2387,7 +2370,7 @@ You have a neck for evading death, you gain the following benefits:
 
 ### The Art of Haggling
 
-Haggling is in Your blood you gain the following benefits:
+Haggling is in Your blood 
 
 * You gain proficiency in one of the following skills: Deception, Intimidation or Persuasion. 
 * You also gain expertise in one of the skills above.
@@ -2397,7 +2380,7 @@ Haggling is in Your blood you gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You learn to call on hellfire to serve your commands. You gain the following  benefits:
+You learn to call on hellfire to serve your commands.
 
 * When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 * Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
@@ -2407,7 +2390,7 @@ You learn to call on hellfire to serve your commands. You gain the following  be
 
 **Prerequisite:** Level 3.
 
-Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
+Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. 
 
 * You have resistance to cold damage and poison damage.
 * You have advantage on saving throws against being poisoned.
@@ -2417,7 +2400,7 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 
 **Prerequisite:** Level 9.
 
-You have embraced your infernal blood, gaining the following benefits:
+You have embraced your infernal blood.
 
 * You sprout leathery wings, granting you a fly speed equal to your walking speed.
 * You can use your horns as a melee weapon, dealing 1d6 + your Strength modifier piercing damage.
@@ -2443,8 +2426,6 @@ You have learned the channel the blood of your ancestors into your deals.
 
 **Prerequisite:** no other Tortle feature.
 
-Your Tortle genes grant you the following benefits:
-
 * Your creature type becomes beast instead of humanoid.
 * You can breathe air and water.
 * You gain a Swim speed equal to your walking speed.
@@ -2454,8 +2435,6 @@ Your Tortle genes grant you the following benefits:
 
 **Prerequisite:** no other Tortle feature.
 
-Your Tortle genes grant you the following benefits:
-
 * Your creature type becomes beast instead of humanoid.
 * You gain an unarmed strike with your bite, dealing 1d8 + your Strength modifier.
 
@@ -2464,8 +2443,6 @@ Your Tortle genes grant you the following benefits:
 
 **Prerequisite:** no other Tortle feature.
 
-Your Tortle genes grant you the following benefits:
-
 * Your creature type becomes dragon instead of humanoid. 
 * You can use your bonus Action to exhale hot steam. Your breath is a 15 ft cone. When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Strength modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest.
 
@@ -2473,7 +2450,7 @@ Your Tortle genes grant you the following benefits:
 
 **Prerequisite:** Level 6.
 
-You have learned to act at least a little bit while in your shell. You gain the following benefit:
+You have learned to act at least a little bit while in your shell.
 
 * While in your shell you can still use an action to cast spells, as long as those spells doesn’t need material components. Also, you can extend on limb to make a melee attack against a creature within 5 feet of you. 
 
@@ -2487,7 +2464,7 @@ You have learned to act at least a little bit while in your shell. You gain the 
 
 ### Child of the Sea
 
-Your connection to the sea’s grand you the following benefit:
+You deepen your connection to the sea.
 
 * You learn the Shape Water and Gust cantrip. Choose Strength, Constitution or Charisma for your Spellcasting ability.
 
@@ -2496,7 +2473,7 @@ Your connection to the sea’s grand you the following benefit:
 
 **Prerequisite:** Level 9, Child of the Sea.
 
-Your connection to the oceans grants you the following benefits:
+Your master your connection to the sea:
 
 * You can speak normally with aquatic beasts and understand what they are saying.
 * You learn the Control Water, Create or Destroy Water and Water Walk spell each of which you can cast once without expending a spell slot. Once you cast these spells with this trait you cannot use it again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
@@ -2506,7 +2483,7 @@ Your connection to the oceans grants you the following benefits:
 
 **Prerequisite:** Level 9, Child of the Sea.
 
-You have mastered your connection to the elemental plains, gaining the following benefit:
+You have mastered your connection to the elemental plains.
 
 * You learn the Conjure Elemental and Tidal Wave spell each of which you can cast once without expending a spell slot. You can only summon elementals connected to the elemental plain of water or air. Once you cast these spells with this trait you can’t do so again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
 
@@ -2522,7 +2499,7 @@ You have mastered your connection to the elemental plains, gaining the following
 
 **Prerequisite:** Level 3.
 
-You are eager to develop new skills and perfect the once you already have, you gain the following benefits:
+You are eager to develop new skills and perfect the once you already have, 
 
 * You gain proficiency in one tool, language, and skill of your choice.
 * Choose one skill or tool you are proficient in, you gain expertise in the chosen skill
@@ -2533,7 +2510,7 @@ You are eager to develop new skills and perfect the once you already have, you g
 
 **Prerequisite:** Level 6.
 
-You have learned more efficient ways to work. You gain the following benefits:
+You have learned more efficient ways to work. 
 
 * Each time you do something that requires time and gold, the amount of gold you need and the time you take to finish this task is halved for you. This doesn’t apply if the time and gold you need is already halved from another source, like the Wizards Savant feature.
 
@@ -2542,7 +2519,7 @@ You have learned more efficient ways to work. You gain the following benefits:
 
 **Prerequisite:** Level 12, Seeking Perfection.
 
-You have found perfection. You gain the following benefit:
+You have found perfection.
 
 * When you roll a 9 or lower on a check with a tool or skill that you have expertise in, the roll counts as a 10 for you. Choose one skill or tool in which you have expertise. You now add two and a half times your Proficiency bonus to the chosen skill or tool (rounded down).
 
@@ -2558,7 +2535,7 @@ You have found perfection. You gain the following benefit:
 
 **Prerequisite:** Level 3, no other Components.
 
-Instead of steel or Stone your main components are made from wood and leaves. You gain the following benefits.
+Instead of steel or Stone your main components are made from wood and leaves.
 
 * While in a forest or similar biome, while you remain motionless, you are indistinguishable from a normal tree. 
 * Once per day you can drink water as an action to regain hit points equal to 1d6 + your Constitution modifier.
@@ -2566,7 +2543,7 @@ Instead of steel or Stone your main components are made from wood and leaves. Yo
 
 ### Overheat
 
-You have learned to heat up your body to damage your foes. You gain the following benefits:
+You have learned to heat up your body to damage your foes. 
 
 * You gain resistance to fire damage.
 * Once per short rest you can overheat yourself as a bonus action for 1 minute. You take 1d4 fire damage. Every time a creature hits you with a melee attack, that creature takes 1d4 + your Constitution modifier fire damage.
@@ -2576,7 +2553,7 @@ You have learned to heat up your body to damage your foes. You gain the followin
 
 **Prerequisite:** Level 6, no other Components.
 
-Over the course of your adventures you have replaced your metal components with Mithral. You gain the following benefits:
+Over the course of your adventures you have replaced your metal components with Mithral. 
 
 * When you don armor, this armor doesn’t impose disadvantage on Stealth checks for you. 
 * Your movement speed increases by 10 feet.
@@ -2585,7 +2562,7 @@ Over the course of your adventures you have replaced your metal components with 
 
 **Prerequisite:** Level 12, no other Components.
 
-Over the course of your adventures you have replaced your metal components with adamantine. You gain the following benefits:
+Over the course of your adventures you have replaced your metal components with adamantine. 
 
 * When you don heavy armor, every critical hit against you counts as a normal hit instead. 
 * You have resistance against bludgeoning, piercing and slashing damage from natural effects, like rockslides or boulders.
@@ -2617,7 +2594,7 @@ You have learned to gather information from fallen enemies without magic.
 
 **Prerequisite:** Level 12.
 
-You have learned to transform yourself, graining the following benefits:
+You have learned to transform yourself.
 
 * You learn the polymorph spell and can cast it without expending a spell slot. But you can only transform into snakes. You can cast this spell a number of times equal to your Charisma modifier (minimum of once) and you regain all uses once you finish a long rest.
 * You can use 3 of your uses to transform into a Naga (if you have the required level as described in the polymorph spell) You don’t get any spellcasting abilities of the chosen Naga.
