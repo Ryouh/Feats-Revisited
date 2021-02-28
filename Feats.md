@@ -220,90 +220,55 @@ When you travel through an area with your adapted
 climate, you have advantage on Perception, Nature and
 Survival checks.
 
+
 ### Grappler
 
-
-**Prerequisite:** Strength 13 or higher.
+**Prerequisite:** Strength 13 or higher
 
 You’ve developed the skills necessary to hold your own in
 close-quarters grappling. You gain the following benefits:
 
-You have advantage on attack rolls against a creature you
-are grappling.
-You can use your action to try to pin a creature grappled
-by you. To do so, make another grapple check. If you
-succeed, you and the creature are both restrained until the
-grapple ends.
+* You have advantage on attack rolls against a creature you are grappling.
+* You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Heavily Armored
 
 **Prerequisite:** Proficiency with medium armor.
 
-You have trained to master the use of heavy armor, gaining
-the following benefits:
-
-
 You gain proficiency with heavy armor.
+
 
 ### Inspiring Leader
 
 **Prerequisite:** Charisma 13 or higher.
 
-You can spend 10 minutes inspiring your companions,
-shoring up their resolve to fight. When you do so, choose up
-to six friendly creatures (which can include yourself) within
-30 feet of you who can see or hear you and who can
-understand you. Each creature can gain temporary hit points
-equal to your level + your Charisma modifier. A creature can't
-gain temporary hit points from this feat again until it has
-finished a short or long rest.
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+
 
 ### Keen Mind
 
 You have a mind that can track time, direction, and detail
-with uncanny precision. You gain the following benefits.
+with uncanny precision. You gain the following benefits:
 
+* You always know which way is north.
+* You always know the number of hours left before the next sunrise or sunset.
+* You can accurately recall anything you have seen or heard within the past month.
+* Your memories of the last month can’t be altered in any way.
 
-You always know which way is north.
-You always know the number of hours left before the next
-sunrise or sunset.
-You can accurately recall anything you have seen or heard
-within the past month.
-Your memories of the last month can’t be altered in any
-way.
 
 ### Lightly Armored
 
-You have trained to master the use of light armor, gaining the
-following benefits:
-
-
 You gain proficiency with light armor.
+
 
 ### Lucky
 
-You have more luck than others granting you the following
-benefits:
+You have inexplicable luck that seems to kick in at just the right moment.
 
-
-You have 1 luck point. Whenever you make an attack roll,
-an ability check, or a saving throw, you can spend one luck
-point to roll an additional d20. You can choose to spend
-one of your luck point after you roll the die, but before the
-outcome is determined. You choose which of the d20s is
-used for the attack roll, ability check, or saving throw.
-You can also spend one luck point when an attack roll is
-made against you. Roll a d20, and then choose whether
-the attack uses the attacker's roll or yours. If more than
-one creature spends a luck point to influence the outcome
-of a roll, the points cancel each other out; no additional
-dice are rolled.
-You regain your expended luck point when you finish a
-long rest.
+You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
 ```
 ```
 
@@ -568,18 +533,14 @@ fighting style.
 When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
 
 
-#### Elemental Adept
+### Elemental Adept
 
-**Prerequisite:** Level 3, The ability to cast at least one spell.
+**Prerequisite:** Level 3, The ability to cast at least one spell
 
-When you gain this feat, choose one of the following
-damage types: acid, cold, fire, lightning, or thunder.
+When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
 
+Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
-Spells you cast ignore resistance to damage of the chosen
-type. In addition, when you roll damage for a spell you
-cast that deals damage of that type, you can treat any 1 on
-a damage die as a 2.
 You can select this feat multiple times. Each time you do
 so, you must choose a different damage type.
 ```
@@ -615,8 +576,8 @@ You gain the following benefit:
 Choose one fighting Style from the Fighter list you gain
 that fighting style.
 
-### Healer
 
+### Healer
 
 **Prerequisite:** Level 3.
 
@@ -624,31 +585,21 @@ You are an able physician, allowing you to mend wounds
 quickly and get your allies back in the fight. You gain the
 following benefits:
 
+* When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
+* As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
-When you use a healer's kit to stabilize a dying creature,
-that creature also regains 1 hit point.
-As an action, you can spend one use of a healer's kit to
-tend to a creature and restore 1d6 + 4 hit points to it, plus
-additional hit points equal to the creature's maximum
-number of Hit Dice. The creature can't regain hit points
-from this feat again until it finishes a short or long rest.
 
 ### Heavy Armor Master
-
 
 **Prerequisite:** Level 3, Proficiency with heavy armor.
 
 You can use your armor to deflect strikes that would kill
-others. You gain the following benefits:
+others.
 
+While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
 
-While you are wearing heavy armor, bludgeoning, piercing,
-and slashing damage that you take from nonmagical
-weapons is reduced by 3.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Martial Adept
 
@@ -995,24 +946,16 @@ charmed or frightened.
 You have advantage on saving throws against
 Enchantment spells or other mind influencing effects.
 
+
 ### Linguist
 
 **Prerequisite:** Level 6, Bookworm.
 
-You have learned many more laguages and eaven when you
-don't know the local tongue you know how to get around. You
-gain the following benefits:
+You have studied many laguages and even when you don't know the local tongue you know how to get around. You gain the following benefits:
 
-
-You gain proficiency in 3 languages of your choice
-You gain proficiency in two of the following skills,
-Investigation, History, Arcana, Insight or Religion.
-Alternatively you can choose one of the listet skills that
-you are proficient with, you gain expertise with the
-choosen skill.
-You learn the Tongues spell and can cast it once per short
-rest without expending a spell slot, Intelligence is your
-spellcasting modifier for this spell.
+* You learn three languages of your choice.
+* You gain proficiency in two of the following skills, Investigation, History, Arcana, Insight or Religion. Alternatively you can choose one of the listed skills that you are proficient with, you gain expertise with the choosen skill.
+* You learn the Tongues spell and can cast it once per short rest without expending a spell slot, Intelligence is your spellcasting modifier for this spell.
 ```
 ```
 ### Mage Slayer
@@ -1254,6 +1197,7 @@ must finish a long rest before you can cast it again using
 this feat. Your spellcasting ability for this spell depends on
 the class you chose for your Magic Initiate spells.
 
+
 ### Great Weapon Master
 
 **Prerequisite:** Level 9.
@@ -1262,14 +1206,8 @@ You've learned to put the weight of a weapon to your
 advantage, letting its momentum empower your strikes. You
 gain the following benefits:
 
-
-On your turn, when you score a critical hit with a melee
-weapon or reduce a creature to 0 hit points with one, you
-can make one melee weapon attack as a bonus action.
-Before you make a melee attack with a heavy weapon that
-you are proficient with, you can choose to take a -5 penalty
-to the attack roll. If the attack hits, you add +10 to the
-attack's damage.
+* On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+* Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
 ### Interceptor
 

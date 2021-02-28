@@ -1,1 +1,4 @@
-Durable: without the +con it seems pretty weak
+Durable
+Grappler
+Heavily Armored
+Havy Armor Master
