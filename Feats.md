@@ -1140,12 +1140,13 @@ You have studied your magic over the course of your adventures.
 * You regain the ability to cast your spells gained by your Magic Scholar and Magic Initiate feats on a short instead of a long rest.
 
 \page <div class='pageNumber auto'></div>
+<div class='wide'>
+  
+# Feats by Race
+#### Feats listed in this section can only be taken by the associated race.
+<div style='margin-top:20px'></div>
 
-## Feats by Race
-
-Feats listed in this section can only be taken by the associated race.
-
-<div style='margin-top:70px'></div>
+</div>
 
 ## Aarakocra
 
@@ -1725,7 +1726,6 @@ You have learned to use other people’s waste to craft useful things for yourse
 ___
 You have a favor for explosives even if they don't have one for you. 
 
-
 * You gain resistance to fire damage.
 * You gain proficiency with alchemist supplies.
 * You can spend a short rest to craft a small bomb, that deals 1d6 fire and 1d6 bludgeoning damage for each 10GP worth of material you used to craft it (up to a maximum of 10d6 damage). As an Action you can hurl the bomb against a creature within 30ft of you. The target and every creature within 5ft of it must make a Dexterity saving (DC 8 + your proficiency bonus + your Dexterity modifier), taking half damage on a successful save. Before you throw the bomb roll a d20, if you roll a 1 the bomb explodes in your face dealing half damage to you. 
@@ -1738,7 +1738,7 @@ You have a favor for explosives even if they don't have one for you.
 
 **Prerequisite:** Level 12, Fire in the Hole.
 ___
-You've developed a new toy, much to the regret of your enemies. 
+You've developed a new toy. 
 
 * The costs for crafting your Bombs is halved, and you can craft up to 2 bombs per short rest. 
 * Your maximum number of bombs now equals your proficiency bonus.
@@ -1753,7 +1753,7 @@ ___
 The harsh environment you grow up in tough you how to keep going when others would collapse on the spot.
 
 * You ignore a number of exhaustion points equal to half your proficiency bonus (rounded down). You still die when you gain 6 exhaustion points.
-* You remove 2 points of exhaustion per long rest instead of 1
+* You can remove 2 points of exhaustion per long rest.
 
 
 ### Titanium Endurance
@@ -1780,7 +1780,7 @@ Wielding a large weapon became an easy practice to you over the years.
 ______
 Your hulking figure is a sight to behold on the battlefield and people may think twice before attacking you.
 
-* You gain proficiency in the intimidation skill, if you already have proficiency in that skill you gain expertise in that skill.
+* You gain proficiency in the intimidation skill, if you already have proficiency in that skill you gain expertise instead.
 * You can use your Strength instead of your Charisma when you use the intimidate skill.
 * You gain the benefits of the Grappler feat.
 * When you use your Stone’s Endurance feature against a melee attack from a creature that is large or smaller and you reduce the incoming damage to 0 you automatically grapple the enemy.
@@ -1894,6 +1894,8 @@ You have learned to serve your companions a 5-course menu even in the middle of 
 * You learn the create food and water spell and can cast it at will without expending a spell slot. The casting time of this spell changes to 10 minutes for you and you need Cook's Utensils to cast this spell.
 * Creatures who eat your food created by this spell gain temporary hit points equal to your Dexterity modifier + your Proficiency bonus. A creature can only benefit from this feature once per long rest.
 
+```
+```
 
 ### Marvelous Chef
 
@@ -2087,11 +2089,11 @@ Your normal nature makes it harder for others to manipulate you.
 
 **Prerequisite:** Level 3.
 ___
-You learn how to hurl yourself into a feral frenzy, setting normal thoughts aside and let your bestial instincts take over. 
+You learn how to hurl yourself into a feral frenzy. 
 
-* You can use your bonus action to enter this frenzy, which holds for 1 minute or until you end it as a bonus action.
+* You can use your bonus action to enter this frenzy, which lasts for 1 minute or until you end it as a bonus action.
 * While in this frenzy you must use your Hungry Jaws ability every turn if you can (you ignore the normal limit on this feature while in the frenzy). Once you use this feature you can’t use it again until you finish a long rest.
-* While in your frenzy you produce poisonous saliva causing your bite to deal an extra 1d6 poison damage on a hit.
+* While in frenzy, you produce venomous saliva causing your bite to deal an extra 1d6 poison damage on a hit.
 
 
 ### Chameleon Scales
@@ -2107,7 +2109,7 @@ You have learned to change the colors of your skin to match the environment.
 
 **Prerequisite:** Level 6, no other Scales feat.
 ___
-Your Scales became spiky over the course of your adventures, 
+Your Scales became spiky over the course of your adventures. 
 
 * You can use the grapple action as a bonus action. 
 * A creature you are grappling takes 1d4 + your Strength modifier piercing damage at the start of each of its turns.
@@ -2121,7 +2123,7 @@ ___
 Your scales became junky and hard over the course of your adventures. 
 
 * Your natural AC changes to 15 + your Dexterity modifier. 
-* As an Action you can roll yourself into a ball granting you a bonus of 3 to your AC. While rolled together you can’t use any other actions than unfolding yourself. Additionally, if you are on a hill or other slanted surface you can roll it down like a wheel gaining a movement speed of 50ft. You can try to attack someone while rolling make a melee weapon attack using your Strength modifier + your Proficiency bonus. If you hit the creature takes damage equal to your Strength modifier plus 1d6 for every 10ft you spent rolling before impacting the creature, you take half as much damage.
+* As an Action you can roll yourself into a ball granting you a bonus of 3 to your AC. While rolled up you can’t use any actions other than unrolling. Additionally, if you are on a hill or other slanted surface you can roll down like a ball gaining a movement speed of 50ft. You can try to attack someone while rolling by making a melee weapon attack using your Strength modifier + your Proficiency bonus. If you hit - the creature takes damage equal to your Strength modifier plus 1d6 for every 10ft you spent rolling before impacting the creature, you take half the damage.
 
 ```
 ```
