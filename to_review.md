@@ -14,10 +14,25 @@
 - Resilient
 - Tavern Brawler
 
+### XgtE:
+- Dragon Fear
+- Dragon Hide
+- Dwarven Fortitude
+- Elven Accuracy
+- Fade Away
+- Fey Teleportation
+- Flames of Phlegethos
+- Infernal Constitution
+- Orcish Fury
+- Second Chance
+
+
 ## Weak Feats:
 
 ### PHB:
 - Grappler
+
+
 
 ## Strong Feats:
 

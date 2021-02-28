@@ -628,19 +628,10 @@ dim light or nonmagical darkness.
 
 **Prerequisite:** Level 3.
 
-You have a knack for learning new things. You gain the
-following benefits:
+You have a knack for learning new things. You gain the following benefits:
 
-
-You gain one skill proficiency of your choice, one tool
-proficiency of your choice, and fluency in one language of
-your choice.
-Choose one skill in which you have proficiency. You gain
-expertise with that skill, which means your proficiency
-bonus is doubled for any ability check you make with it.
-The skill you choose must be one that isn’t already
-benefiting from a feature, such as Expertise, that doubles
-your proficiency bonus.
+* You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
+* Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
 
 ### Resilient
@@ -1921,103 +1912,73 @@ get any legendary actions or resistances. When you drop
 to zero hit 0 hit points, you revert to your normal form
 with 0 hit points. You can use his feature once and you
 regain the ability to do so when you finish a long rest.
+
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Dragonborn
 
 ### Dragon Fear
 
-When angered, you can radiate menace. You gain the
-following benefits:
+When angered, you can radiate menace.
 
+Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
-Instead of exhaling destructive energy, you can expend a
-use of your Breath Weapon trait to roar, forcing each
-creature of your choice within 30 feet of you to make a
-Wisdom saving throw (DC 8 + your proficiency bonus +
-your Charisma modifier). A target automatically succeeds
-on the save if it can’t hear or see you. On a failed save, a
-target becomes frightened of you for 1 minute. If the
-frightened target takes any damage, it can repeat the
-saving throw, ending the effect on itself on a success.
 
 ### Dragon Hide
 
-Your manifest scales and claws reminiscent of your draconic
-ancestors. You gain the following benefits:
+Your manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 
-
-Your scales harden. While you aren’t wearing armor, you
-can calculate your AC as 13 + your Dexterity modifier. You
-can use a shield and still gain this benefit.
-You grow retractable claws from the tips of your fingers.
-Extending or retracting the claws requires no action. The
-claws are natural weapons, which you can use to make
-unarmed strikes. If you hit with them, you deal slashing
-damage equal to 1d4 + your Strength modifier, instead of
-the normal bludgeoning damage for an unarmed strike.
++ Your scales harden. While you aren’t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+* You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
 ### Improved Dragon Breath
 
 **Prerequisite:** Level 3.
 
-You mastered your Breath Weapon granting you the
-following benefits:
+You mastered your Breath Weapon granting you the following benefits:
 
+* You can use your Breath Weapon as a bonus action.
+* You can use your Breath Weapon a number of times equal to your constitution modifier (minimum of 1) before you must finish a long rest.
 
-You can use your Breath Weapon as a bonus action.
-You can use your Breath Weapon a number of times equal
-to your constitution modifier (minimum of 1) before you
-must finish a long rest.
 
 ### Dragon Senses
 
 **Prerequisite:** Level 9.
 
-Your draconic senses have heightened, granting you the
-following benefits:
+Your draconic senses have heightened, granting you the following benefits:
 
+* You gain darkvision up to a range of 60ft.
+* You gain blindsight up to a range of 10ft.
 
-You gain darkvision up to a range of 60ft.
-You gain blindsight up to a range of 10ft.
 
 ### Dragon Form
 
 **Prerequisite:** Level 12.
 
-You embrace your draconic blood; you gain the following
-benefits:
+You embrace your draconic blood; you gain the following benefits:
 
+* Your creature type becomes dragon instead of humanoid. 
+* You sprout leathery wings; you gain a fly speed equal to your walking speed.
 
-Your creature type becomes dragon instead of humanoid.
-You sprout leathery wings; you gain a fly speed equal to
-your walking speed.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Dwarf
 
 ### Dwarven Fortitude
 
-You have the blood of dwarf heroes flowing through your
-veins. You gain the following benefits:
+You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
+* Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+* When you get forcefully moved by any means, you can use your reaction to reduce this movement by 10ft.
 
-Whenever you take the Dodge action in combat, you can
-spend one Hit Die to heal yourself. Roll the die, add your
-Constitution modifier, and regain a number of hit points
-equal to the total (minimum of 1).
-When you get forcefully moved by any means, you can use
-your reaction to reduce this movement by 10ft.
 
 ### Dwarven Stubbornness
 
@@ -2099,18 +2060,11 @@ discretion.
 
 **Prerequisite:** Level 3.
 
-Your study of high elven lore has
-unlocked fey power that few other elves possess, except your
-eladrin cousins. Drawing on your fey ancestry, you can
-momentarily stride through the Feywild to shorten your path
-from one place to another. You gain the following benefits:
+Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
 
+* You learn to speak, read, and write Sylvan.
+* You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
-You learn to speak, read, and write Sylvan.
-You learn the misty step spell and can cast it once without
-expending a spell slot. You regain the ability to cast it in
-this way when you finish a short or long rest. Intelligence
-is your spellcasting ability for this spell.
 
 ### Revenant Blade
 
@@ -2128,45 +2082,32 @@ you wield it.
 The bonus attack with the double-bladed scimitar deals
 now full damage.
 
+
 ### Elven Accuracy
 
 **Prerequisite:** Level 6.
 
-The accuracy of elves is legendary, especially that of elf
-archers and spellcasters. You have uncanny aim with attacks
-that rely on precision rather than brute force. You gain the
-following benefit:
+The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force.
 
+Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-Whenever you have advantage on an attack roll using
-Dexterity, Intelligence, Wisdom, or Charisma, you can
-reroll one of the dice once.
 
 ### Drow High Magic
 
 **Prerequisite:** Level 6, Drow.
 
-You learn more of the magic typical of dark elves. You learn
-the detect magic spell and can cast it at will, without
-expending a spell slot. You also learn levitate and dispel
-magic, each of which you can cast once without expending a
-spell slot. You regain the ability to cast those two spells in this
-way when you finish a long rest. Charisma is your
-spellcasting ability for all three spells.
+You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
+
 
 ### Wood Elf Magic
 
 **Prerequisite:** Level 6, Wood Elf.
 
-You learn the magic of the primeval woods, which are
-revered and protected by your people. You learn one druid
-cantrip of your choice. You also learn the longstrider and pass
-without trace spells, each of which you can cast once without
-expending a spell slot. You regain the ability to cast these two
-spells in this way when you finish a long rest. Wisdom is your
-spellcasting ability for all three spells.
+You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the longstrider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+
 ```
 ```
+
 ### High Elf Magic
 
 **Prerequisite:** Level 6, High Elf.
@@ -2384,40 +2325,31 @@ When you hit an aberration with a melee weapon attack
 you deal an extra 1d8 psychic damage to that target. If the
 target has resistance to psychic damage you ignore that
 resistance (Except Flumps we all love Flumps).
+
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
 
 
 ## Gnome
 
 ### Fade Away
 
-Your people are clever, with a knack for illusion magic. You
-have learned a magical trick for fading away when you suffer
-harm. You gain the following benefits:
+Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm.
 
+Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
-Immediately after you take damage, you can use a
-reaction to magically become invisible until the end of
-your next turn or until you attack, deal damage, or force
-someone to make a saving throw. Once you use this ability,
-you can’t do so again until you finish a short or long rest.
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the
-following benefits:
+You are uncommonly nimble for your race. You gain the following benefits:
 
+* Increase your walking speed by 5 feet.
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Increase your walking speed by 5 feet.
-You gain proficiency in the Acrobatics or Athletics skill
-(your choice).
-You have advantage on any Strength (Athletics) or
-Dexterity (Acrobatics) check you make to escape from
-being grappled.
 
 ### Cunning Artisan
 
@@ -2682,18 +2614,11 @@ of your parents, you gain this feat.
 
 **Prerequisite:** Level 3.
 
-Your inner fury burns tirelessly. You gain the following
-benefits:
+Your inner fury burns tirelessly. You gain the following benefits:
 
+* When you hit with an attack using a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
+* Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
-When you hit with an attack using a simple or martial
-weapon, you can roll one of the weapon’s damage dice an
-additional time and add it as extra damage of the weapon’s
-damage type. Once you use this ability, you can’t use it
-again until you finish a short or long rest.
-Immediately after you use your Relentless Endurance
-trait, you can use your reaction to make one weapon
-attack.
 
 ### Burning Endurance
 
@@ -2724,103 +2649,70 @@ movement doesn’t provoke opportunity attacks. If you
 can’t use the movement without the attack.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Halfling
 
 ### Bountiful Luck
 
-Your people have extraordinary luck, which you have learned
-to mystically lend to your companions when you see them
-falter. You’re not sure how you do it; you just wish it, and it
-happens. Surely a sign of fortune’s favor!
+Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You’re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune’s favor!
 
+When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll. 
 
-When an ally you can see within 30 feet of you rolls a 1 on
-the d20 for an attack roll, an ability check, or a saving
-throw, you can use your reaction to let the ally reroll the
-die. The ally must use the new roll. When you use this
-ability, you can’t use your Lucky racial trait before the end
-of your next turn
+When you use this ability, you can’t use your Lucky racial trait before the end of your next turn
+
 
 ### But What About A Second Breakfast?
 
-Breakfast is the most important meal of the day and why
-don’t have multiple of them? You gain the following benefits:
+Breakfast is the most important meal of the day and why don’t have multiple of them? You gain the following benefits:
 
+* You gain proficiency in Cook's Utensils.
+* Once per short rest you can use a bonus action on your turn to consume a small snack. You can expend 1 hit die as if you had taken a short rest. You need at least one free hand to use this feature.
 
-You gain proficiency in Cook's Utensils.
-Once per short rest you can use a bonus action on your
-turn to consume a small snack. You can expend 1 hit die
-as if you had taken a short rest. You need at least one free
-hand to use this feature.
 
 ### Second Chance
 
-Fortune favors you when someone tries to strike you. You
-gain the following benefit:
+Fortune favors you when someone tries to strike you.
 
+When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
-When a creature you can see hits you with an attack roll,
-you can use your reaction to force that creature to reroll.
-Once you use this ability, you can’t use it again until you
-roll initiative at the start of combat or until you finish a
-short or long rest.
 
 ### Squat Nimbleness
 
 You are uncommonly nimble for your race. You gain the
 following benefits:
 
+* Increase your walking speed by 5 feet.
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Increase your walking speed by 5 feet.
-You gain proficiency in the Acrobatics or Athletics skill
-(your choice).
-You have advantage on any Strength (Athletics) or
-Dexterity (Acrobatics) check you make to escape from
-being grappled.
 
 ### Cooking Expert
 
 **Prerequisite:** Level 6.
 
-You have learned to serve your companions a 5-course
-menu even in the middle of the desert you gain the following
-benefits:
+You have learned to serve your companions a 5-course menu even in the middle of the desert you gain the following benefits:
 
+* You learn the create food and water spell and can cast it at will without expending a spell slot. The casting time of this spell changes to 10 minutes for you and you need Cook's Utensils to cast this spell.
+* Creatures who eat your food created by this spell gain temporary hit points equal to your Dexterity modifier + your Proficiency bonus. A creature can only benefit from this feature once per long rest.
 
-You learn the create food and water spell and can cast it at
-will without expending a spell slot. The casting time of
-this spell changes to 10 minutes for you and you need
-Cook's Utensils to cast this spell.
-Creatures who eat your food created by this spell gain
-temporary hit points equal to your Dexterity modifier +
-your Proficiency bonus. A creature can only benefit from
-this feature once per long rest.
 
 ### Marvelous Chef
 
-
 **Prerequisite:** Level 12, Cooking Expert.
 
-You became one of the most brilliant chefs, granting you
-the following benefit:
+You became one of the most brilliant chefs, granting you the following benefit:
 
+* You learn the Heroes' Feast spell and can cast it without expending a spell slot
+* You need Cook's Utensils to cast this spell and the material components change to: Fine meats, vegetables, wine or other ingredients worth at least 500gp, which the spell consumes.
 
-You learn the Heroes' Feast spell and can cast it without
-expending a spell slot. You need Cook's Utensils to cast
-this spell and the material components change to: Fine
-meats, vegetables, wine or other ingredients worth at least
-500 gp, which the spell consumes.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Hobgoblin
 
@@ -3421,7 +3313,6 @@ lose this feature.
 <div class='pageNumber auto'></div>
 
 
-
 ## Tiefling
 
 ### The Art of Haggling
@@ -3433,37 +3324,26 @@ You gain proficiency in one of the following skills:
 Deception, Intimidation or Persuasion.
 You also gain expertise in one of the skills above.
 
+
 ### Flames of Phlegethos
 
 **Prerequisite:** Level 3.
 
-You learn to call on hellfire to serve your commands. You
-gain the following benefits:
+You learn to call on hellfire to serve your commands. You gain the following benefits:
 
+* When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
+* Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
 
-When you roll fire damage for a spell you cast, you can
-reroll any roll of 1 on the fire damage dice, but you must
-use the new roll, even if it is another 1.
-Whenever you cast a spell that deals fire damage, you can
-cause flames to wreathe you until the end of your next
-turn. The flames don’t harm you or your possessions, and
-they shed bright light out to 30 feet and dim light for an
-additional 30 feet. While the flames are present, any
-creature within 5 feet of you that hits you with a melee
-attack takes 1d4 fire damage.
 
 ### Infernal Constitution
 
 **Prerequisite:** Level 3.
 
-Fiendish blood runs strong in you, unlocking a resilience
-akin to that possessed by some fiends. You gain the following
-benefits:
+Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
 
+* You have resistance to cold damage and poison damage.
+* You have advantage on saving throws against being poisoned.
 
-You have resistance to cold damage and poison damage.
-You have advantage on saving throws against being
-poisoned.
 
 ### Infernal Form
 
