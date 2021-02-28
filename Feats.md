@@ -48,23 +48,10 @@ otherwise stated you can’t choose a feat more than once.
 
 **Prerequisite:** No existing dragonmark.
 
-You have manifested an aberrant dragonmark. Determine
-its appearance and the flaw associated with it. You gain the
-following benefits:
+You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
-* You learn a cantrip of your choice from the sorcerer spell
-list. In addition, choose a 1st-level spell from the sorcerer
-spell list. You learn that spell and can cast it through your
-mark. Once you cast it, you must finish a short or long rest
-before you can cast it again through the mark.
-Constitution is your spellcasting ability for these spells.
-* When you cast the 1st-level spell through your mark, you
-can expend one of your Hit Dice and roll it. If you roll an
-even number, you gain a number of temporary hit points
-equal to the number rolled. If you roll an odd number, one
-random creature within 30 feet of you (not including you)
-takes force damage equal to the number rolled. If no other
-creatures are in range, you take the damage.
+* You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
+* When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
 
 
 ### Actor
@@ -83,19 +70,8 @@ benefits:
 You like alcohol more than most humans and it’s not all
 bad you gain the following benefits:
 
-* You have advantage on Constitution saving throws
-regarding alcohol or other drugs.
-* You can use an action on your turn to drink a good load of
-alcohol or a comparable drug, to end the frightened
-condition on yourself. Each time you use this trait, you
-must make a DC 12 Constitution saving throw or become
-drunk until you finish a short rest. While drunk in this was
-you get temporary hit points equal to your Constitution
-modifier + your proficiency bonus, you are immune to the
-frightened condition and you have disadvantage on all
-Dexterity and Intelligence based throws and on all
-Wisdom and Charisma ability checks. (Those penalties do
-not apply if you are a Drunken Master)
+* You have advantage on Constitution saving throws regarding alcohol or other drugs.
+* You can use an action on your turn to drink a good load of alcohol or a comparable drug, to end the frightened condition on yourself. Each time you use this trait, you must make a DC 12 Constitution saving throw or become drunk until you finish a short rest. While drunk you get temporary hit points equal to your Constitution modifier + your proficiency bonus, you are immune to the frightened condition and you have disadvantage on all Dexterity and Intelligence based throws and on all Wisdom and Charisma ability checks. (Those penalties do not apply if you are a Drunken Master)
 
 \page
 <div class='pageNumber auto'></div>
@@ -112,72 +88,49 @@ following benefits:
 
 ### Bookworm
 
-You have studied languages and codes, gaining the following
-benefits:
+You have studied languages and codes, gaining the following benefits:
 
+* You learn four languages of your choice.
+* You learn the comprehend languages spell and can cast it as a ritual.
+* The time it takes you to learn a new language is halved.
+* You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
-You learn four languages of your choice.
-You learn the comprehend languages spell and can cast it
-as a ritual.
-The time it takes you to learn a new language is halved.
-You can ably create written ciphers. Others can't decipher
-a code you create unless you teach them, they succeed on
-an Intelligence check (DC equal to your Intelligence score
-+ your proficiency bonus), or they use magic to decipher it.
 
 ### Chaotic Surge
 
 **Prerequisite:** The ability to cast at least one spell.
 
-Chaotic magic flows through you and twists your astral
-body, you gain the following benefits:
+Chaotic magic flows through you and twists your astral body, you gain the following benefits:
 
-
-You have advantage on Strength, Dexterity and
-Constitution saving throws against spells and other
-magical effects
-Whenever you cast a spell of first level or higher there is a
-chance, that your chaotic magic twists the spell. Roll a
-percentile die, if the number rolled is equal to or less than
-the spell slot used to cast the Spell role on the Wild Magic
-Table in the Players Handbook.
+* You have advantage on Strength, Dexterity and Constitution saving throws against spells and other magical effects.
+* Whenever you cast a spell of first level or higher there is a chance, that your chaotic magic twists the spell. Roll a percentile die, if the number rolled is equal to or less than the spell slot used to cast the Spell roll on the Wild Magic Table in the Players Handbook.
 
 
 ### Charger
 
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 
-If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+* If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
 ### Death Touched
 
 **Prerequisite:** You must have died at least once. This feat
 must be taken immediately after beeing resurrected and it
-replaces one of your feats.
-You have faced death and you won, be it by yourself or with
-the aid of your comrades. But the experience left some mark
-on your body and soul, you gain the following traits:
+replaces one of your existing feats.
 
-You gain one Indefinite Madness (as described here) or
-some other trait (as discribed here).
-You gain resistance to necrotic damage.
-Your eye color changes to a more vibrant version of the
-original color. You gain Truesight up to a range of 10ft.
+You have faced death and you won, be it by yourself or with the aid of your comrades. But the experience left some mark on your body and soul, you gain the following traits:
+
+* You gain one Indefinite Madness (as described [here](https://www.dndbeyond.com/sources/dmg/running-the-game#Madness)) or some other trait (as discribed [here](http://dndspeak.com/2017/12/04/168-resurrection-side-effects/)). You gain resistance to necrotic damage. Your eye color changes to a more vibrant version of the original color. You gain Truesight up to a range of 10ft.
+
 ```
 ```
-
 
 ### Duck
-
 
 You have learned to avoid danger from afar. You gain the
 following benefit:
 
-
-When a creature you can see attacks you with a ranged
-attack you can throw yourself to the ground as a reaction,
-becoming prone and imposing disadvantage on the attack
-roll.
+* When a creature you can see attacks you with a ranged attack you can throw yourself to the ground as a reaction, becoming prone and imposing disadvantage on the attack roll.
 
 
 ### Dungeon Delver
@@ -205,20 +158,15 @@ benefits:
 
 Hardy and resilient, you gain the following benefit:
 
-When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+* When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
 
 ### Environmental adaption
 
+You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. You gain the following benefits:
 
-Your acclimated to either cold or hot climates. You can pick
-this feat multiple times, each time focusing on another
-environment. You gain the following benefits:
-
-You gain cold or fire resistance (your choice).
-When you travel through an area with your adapted
-climate, you have advantage on Perception, Nature and
-Survival checks.
+* You gain cold or fire resistance (your choice).
+* When you travel through an area with your adapted climate, you have advantage on Perception, Nature and Survival checks.
 
 
 ### Grappler
@@ -238,14 +186,14 @@ close-quarters grappling. You gain the following benefits:
 
 **Prerequisite:** Proficiency with medium armor.
 
-You gain proficiency with heavy armor.
+* You gain proficiency with heavy armor.
 
 
 ### Inspiring Leader
 
 **Prerequisite:** Charisma 13 or higher.
 
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+* You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
 
 ### Keen Mind
@@ -261,51 +209,41 @@ with uncanny precision. You gain the following benefits:
 
 ### Lightly Armored
 
-You gain proficiency with light armor.
+* You gain proficiency with light armor.
 
 
 ### Lucky
 
 You have inexplicable luck that seems to kick in at just the right moment.
 
-You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
+* You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
+
 ```
 ```
 
 ### Magic Initiate
 
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
-
-In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
-
-Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+* Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+* In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
+* Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 
 ### Moderately Armored
 
 **Prerequisite:** Proficiency with light armor.
 
-You gain proficiency with medium armor and shields.
+* You gain proficiency with medium armor and shields.
 
 
 ### Nimble Physique
 
-
 **Prerequisite:** Dexterity 13 or higher, Strength 14 or lower.
 
-You are small and thin for your race. You have a mysterious
-and consistent ability to avoid danger. This feat grants the
-following benefits:
+You are small and thin for your race. You have a mysterious and consistent ability to avoid danger. This feat grants the following benefits:
 
-
-As long as you are not wearing armor, you may take the
-dodge action as a bonus action. You can use this feature a
-number of times equal to your Dexterity modifier
-(minimum of once) per long rest.
-You can fit and squeeze through spaces as though you
-were one size smaller than you are.
-Moving through spaces occupied by allies does not
-impose movement penalties.
+* As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
+* You can fit and squeeze through spaces as though you were one size smaller than you are.
+* Moving through spaces occupied by allies does not impose movement penalties.
 
 
 ### Observant
@@ -321,20 +259,16 @@ following benefits:
 
 ### Ritual Caster
 
-**Prerequisite:** Intelligence, Charisma or Wisdom of 13 or
-higher.
+**Prerequisite:** Intelligence, Charisma or Wisdom of 13 or higher.
 
-You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
-
-When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
-
-If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+* You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+* When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+* If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 
 ### Skilled
 
-You gain proficiency in any combination of three skills or
-tools of your choice.
+* You gain proficiency in any combination of three skills or tools of your choice.
 
 
 ### Skulker
@@ -353,10 +287,8 @@ You are expert at slinking through shadows. You gain the following benefits:
 You have spent the majority of your time in the water, gaining
 the following benefits:
 
-
-You gain a swim speed equal to your walking speed.
-You don’t have disadvantage on attack rolls made with
-melee weapons while in water.
+* You gain a swim speed equal to your walking speed.
+* You don’t have disadvantage on attack rolls made with melee weapons while in water.
 
 
 ### Tavern Brawler
@@ -371,75 +303,48 @@ benefits:
 
 ```
 ```
+
 ### Taunt
 
+You have a talent to anger other people.
 
-You have a talent to anger other people. You gain the
-following benefit:
-
-
-As an action you can make a Charisma (Persuasion,
-Deception, or Intimidation) check against a creature that
-can see or hear you opposed by the creatures Insight. If
-you succeed the creature is distracted until the end of
-your next turn and has disadvantage on attack rolls
-against creatures other than you.
+* As an action you can make a Charisma (Persuasion, Deception, or Intimidation) check against a creature that can see or hear you opposed by the creatures Insight. If you succeed the creature is distracted until the end of your next turn and has disadvantage on attack rolls against creatures other than you.
 
 
 ### Tough
 
-Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+* Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
 
 ### Weapon Training
 
+You have practiced extensively with a variety of weapons.
 
-You have practiced extensively with a variety of weapons,
-gaining the following benefit:
+* You gain proficiency with one Weapon group of your choice. Weapon groups are simple melee- or ranged weapons or martial melee- or ranged weapons.
 
-
-You gain proficiency with one Weapon group of your
-choice. Weapon groups are simple melee- or ranged
-weapons or martial melee- or ranged weapons.
 
 ### Weave Distortion
 
-
 **Prerequisite:** No ability to cast any spell.
 
-Something about you distorts the weave around you and
-giving people in your presence an uneasy feeling, you gain the
-following traits.
+Something about you distorts the weave around you and giving people in your presence an uneasy feeling, you gain the following traits.
 
+* You can never learn to cast any spell (you can still use magic items).
+* You gain a -1 penalty on all social skill checks (except Charisma (intimidation)) or -2 when interacting with a spellcaster.
+* You gain a +1 bonus on Charisma (Intimidation) checks or a +2 when interacting with a Spellcaster. 
+* You gain a +2 bonus to saving throws against spells or other magical effects.
+* Spells that heal you only heal you for half the normal amount.
+* All spells have their duration halved when cast on you.
 
-You can never learn to cast any spell (you can still use
-magic items).
-You gain a -1 penalty on all social skill checks (except
-Charisma (intimidation)) or -2 when interacting with a
-spellcaster.
-You gain a +1 bonus on Charisma (Intimidation) checks or
-a +2 when interacting with a Spellcaster.
-You gain a +2 bonus to saving throws against spells or
-other magical effects.
-Spells that heal you only heal you for halve the normal
-amount.
-All spells have their duration halved when cast on you.
 
 ### Will to Live
 
-
 You are hard to get rid of. You gain the following benefit:
 
+* When you succeed on 2 death saving throws you can regain 1 hit point. If you do so you can use your reaction to move up to half your movement. Once you use this feature, you must finish a short or long rest before you can use it again.
 
-When you succeed on 2 death saving throws you can
-regain 1 hit point. If you do so you can use your reaction
-to move up to half your movement. Once you use this
-feature, you must finish a short or long rest before you can
-use it again.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 3
 
@@ -448,29 +353,18 @@ use it again.
 **Prerequisite:** Level 3, proficiency with at least 1 martial
 weapon.
 
-You trained with Advanced Weapons and gain the following
-benefit:
+* You gain proficiency with advanced weapons
 
-
-you gain proficiency with advanced weapons
 
 ### Blood Hound
 
 **Prerequisite:** Level 3, Wisdom 13 or higher.
 
-Your keen senses are heightened beyond that of most
-people. Whether these senses were heightened through
-training, through the loss of other senses, or they simply
-matured as you did, you gain the following benefits:
+Your keen senses are heightened beyond that of most people. Whether these senses were heightened through training, through the loss of other senses, or they simply matured as you did, you gain the following benefits:
 
-
-While conscious, whenever a creature that is small or
-larger moves, within 10 feet of you, you immediately
-become aware of its presence.
-Your attack rolls do not have disadvantage against
-invisible creatures that you are aware of.
-You have advantage on Wisdom (perception) and Wisdom
-(Survival) checks that rely on sound or smell.
+* While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
+* Your attack rolls do not have disadvantage against invisible creatures that you are aware of.
+* You have advantage on Wisdom (perception) and Wisdom (Survival) checks that rely on sound or smell.
 
 
 ### Crossbow Expert
@@ -487,42 +381,21 @@ the following benefits:
 
 ### Defensive Duelist
 
-**Prerequisite:** Level 3, Dexterity 13 or higher or the Dueling
-fighting style.
+**Prerequisite:** Level 3, Dexterity 13 or higher or the Dueling fighting style.
 
-When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
+* When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
 
 
 ### Elemental Adept
 
 **Prerequisite:** Level 3, The ability to cast at least one spell
 
-When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
+* When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
+* Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+* You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
-Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
-
-You can select this feat multiple times. Each time you do
-so, you must choose a different damage type.
 ```
 ```
-### Firearm Specialist
-
-
-**Prerequisite:** Level 3.
-
-You are adept at using guns effectively.
-
-
-Being within 5ft of a hostile creature doesn’t impose
-disadvantage on your attack rolls.
-If you roll a misfire on an attack with a firearm, you can
-use your reaction to roll a d20. If the number rolled is
-higher than the weapon’s misfire score, the firearm does
-not misfire. You cannot use this feature of this feat again
-until you complete a short or long rest.
-When you use the Attack action and attack with a one-
-handed weapon, you can use a bonus action to attack with
-a loaded firearm with the light property you are holding.
 
 ### Fighting Style
 
@@ -537,13 +410,22 @@ Choose one fighting Style from the Fighter list you gain
 that fighting style.
 
 
+### Firearm Specialist (Gunslinger)
+
+**Prerequisite:** Level 3.
+
+You are adept at using guns effectively.
+
+* Being within 5ft of a hostile creature doesn’t impose disadvantage on your attack rolls.
+* If you roll a misfire on an attack with a firearm, you can use your reaction to roll a d20. If the number rolled is higher than the weapon’s misfire score, the firearm does not misfire. You cannot use this feature of this feat again until you complete a short or long rest.
+* When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded firearm with the light property you are holding.
+
+
 ### Healer
 
 **Prerequisite:** Level 3.
 
-You are an able physician, allowing you to mend wounds
-quickly and get your allies back in the fight. You gain the
-following benefits:
+You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 
 * When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
 * As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
@@ -553,10 +435,9 @@ following benefits:
 
 **Prerequisite:** Level 3, Proficiency with heavy armor.
 
-You can use your armor to deflect strikes that would kill
-others.
+You can use your armor to deflect strikes that would kill others.
 
-While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
+* While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
 
 \page
 <div class='pageNumber auto'></div>
@@ -576,8 +457,7 @@ You have martial training that allows you to perform special combat maneuvers. Y
 
 **Prerequisite:** Level 3 Proficiency with medium armor.
 
-You have practiced moving in medium armor to gain the
-following benefits:
+You have practiced moving in medium armor to gain the following benefits:
 
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
@@ -609,22 +489,15 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 
 ### Nocturnal
 
-
 **Prerequisite:** Level 3, Skulker.
 
-Due to extensive exposure to the dark, and possible
-supernatural abilities, you have an unmatched ability to fight
-adversaries in the dark. You gain the following benefits:
+Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. You gain the following benefits:
 
+* You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
+* You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
 
-You gain Darkvision with a radius of 60 feet. If you already
-have darkvision, then the radius of your darkvision
-increases by 30 feet, to a maximum of 120 feet.
-You have advantage on Dexterity (Stealth) checks while in
-dim light or nonmagical darkness.
 
 ### Prodigy
-
 
 **Prerequisite:** Level 3.
 
@@ -647,27 +520,18 @@ You gain proficiency in a saving throw of your choice. You can take this feat mu
 
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
-### Shield Bash
 
+### Shield Bash
 
 **Prerequisite:** Level 3.
 
-You have learned to use your shield as a melee weapon.
-You gain the following benefit:
+You have learned to use your shield as a melee weapon. You gain the following benefit:
 
+* You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you. 
+* When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
 
-You can use s shield to make melee weapon attacs, a
-shield deals 1d6 + your Strength modifier bludgeoning
-damage, and you can use your proficiency nonus for the
-attack roll. If you have a magical shield, the defense bonus
-also counts as a to hit and damage bonus for you.
-When you take the attack action you can make an extra
-attack with the shield as a bonus action, as if you were
-fighting with two weapons.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 6
 
@@ -675,123 +539,77 @@ fighting with two weapons.
 
 **Prerequisite:** Level 6, proficiency with Alchemist's Supplies.
 
-Your concoctions become stronger and stronger, you gain
-the following benefits:
+Your concoctions become stronger and stronger, you gain the following benefits:
 
+* The time you need to craft an item with your Alchemist's Supplies is halved.
+* If the Item requires a saving throw you can change the DC to a number equal to your proficiency bonus + your Intelligence modifier.
+* You gain expertise in Alchemist’s supplies 
+* You can use your Alchemist’s supplies to craft potions.
+* The cost for crafting potions is halved for you. 
+* If items crafted with your alchemist supplies deal damage, they now deal an extra damage die.
 
-The time you need to craft an item with your Alchemist's
-Supplies is halved.
-If the Item requires a saving throw you can change the DC
-to a number equal to your proficiency bonus + your
-Intelligence modifier.
-You gain expertise in Alchemist’s supplies
-You can use your Alchemist’s supplies to craft potions.
-The cost for crafting potions is halved for you.
-If items crafted with your alchemist supplies deal damage,
-they now deal an extra damage die.
 
 ### Advanced Blacksmith
 
 **Prerequisite:** Level 6, proficiency with Smith's tools.
 
-You have learned to enhance your craft even further, you
-gain the following benefits:
+You have learned to enhance your craft even further, you gain the following benefits:
 
+* You gain expertise in Smith’s tools.
+* You have learned to work with exotic materials like Adamantine or Mithral.
+* The time you need to craft items with your Smith's tools is halved.
+* When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon to give the weapon either a +1 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
+* When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 100gp to give the Armor a +1 bonus to AC (this doesn’t make the armor magical).
+* You have advantage on skill checks to extract materials from creatures, ores or plants related to crafting melee weapons or armor.
 
-The time you need to craft items with your Smith's tools is
-halved.
-You gain expertise in Smith’s tools.
-You have learned to work with exotic materials like
-Adamantine or Mithral.
-When crafting a melee weapon you can choose to spend
-material costs equal to the base cost of the weapon to give
-the weapon either a +1 to attack or damage rolls (this
-doesn’t make the weapon magical). Your working time for
-this sort of weapons is not halved.
-When crafting a piece of armor using your Smith’s tools
-you can choose to spend material costs equal to the
-armors base cost + 100gp to give the Armor a +1 bonus to
-AC (this doesn’t make the armor magical).
-You have advantage on skill checks to extract materials
-from creatures, ores or plants related to crafting melee
-weapons or armor.
 
 ### Advanced Bowyer
 
 **Prerequisite:** Level 6, proficiency with Carpenter's tools.
 
-Your bows become stronger and your arrows deadlier, you
-gain the following benefits:
+Your bows become stronger and your arrows deadlier, you gain the following benefits:
 
+* You gain expertise in Carpenter’s tools
+* You have learned to work with exotic materials.
+* The time you need to craft items with your Carpenter's tools is halved.
+* When crafting a ranged weapon using your Carpenter's tools you can choose to pay material costs equal to the base cost of the weapon, to either make it balanced or give it an oiled string, giving the weapon either a +1 bonus to attack or damage rolls (this doesn’t make the weapon magical)
+* When crafting ammunition using your Carpenter's tools you can choose to pay material costs equal to double the base cost of the ammunition, to either give them enhanced feathering or a brutal arrow head, giving the ammunition either a +1 bonus to attack or damage rolls (this doesn’t make the ammo magical).
 
-You gain expertise in Carpenter’s tools
-You have learned to work with exotic materials.
-The time you need to craft items with your Carpenter's
-tools is halved.
-When crafting a ranged weapon using your Carpenter's
-tools you can choose to pay material costs equal to the
-base cost of the weapon, to either make it balanced or give
-it an oiled string, giving the weapon either a +1 bonus to
-attack or damage rolls (this doesn’t make the weapon
-magical)
-When crafting ammunition using your Carpenter's tools
-you can choose to pay material costs equal to double the
-base cost of the ammunition, to either give them enhanced
-feathering or a brutal arrow head, giving the ammunition
-either a +1 bonus to attack or damage rolls (this doesn’t
-make the weapon magical) ranged weapons.
 ```
 ```
+
 ### Advanced Herbalist
-
 
 **Prerequisite:** Level 6.
 
-You have fond a way to boost the healing potential of your
-healing potions, you gain the following benefits:
+You have fond a way to boost the healing potential of your healing potions, you gain the following benefits:
 
+* You gain expertise in the Herbalism Kit
+* The time you need to craft items with your Herbalism Kit is halved.
+* You can now craft Potions of greater Healing using your Herbalism Kit, as described in Chapter 2 of the Xanathar’s Guide.
+* You have advantage on skill checks to gather materials from creatures or plants related to crafting Potions of Healing or Antitoxin.
+* Potions of Healing that you craft heal an extra 1d4 hit points.
 
-You gain expertise in the Herbalism Kit
-The time you need to craft items with your Herbalism Kit
-is halved.
-You can now craft Potions of greater Healing using your
-Herbalism Kit, as described in Chapter 2 of the Xanathar’s
-Guide.
-You have advantage on skill checks to gather materials
-from creatures or plants related to crafting Potions of
-Healing or Antitoxin.
-Potions of Healing that you craft heal an extra 1d4 hit
-points.
 
 ### Advanced Poisoner
 
-
 **Prerequisite:** Level 6.
 
-Your poisons have become more potent and you have
-worked with them long enough to resist them, you gain the
-following benefits:
+Your poisons have become more potent and you have worked with them long enough to resist them, you gain the following benefits:
 
+* You gain expertise in Poisoner’s kit.
+* The time you need to craft items with your Poisoner's Kit is halved.
+* If the Item requires a saving throw you can change the DC to a number equal to your proficiency bonus + your Intelligence modifier.
+* You gain resistance to poison damage and advantage on saving throws against being poisoned.
+* If your poisons deal damage, they now deal two extra damage dice. 
+* You have advantage on skill checks to extract materials from creatures or plants related to crafting poisons.
 
-You gain expertise in Poisoner’s kit.
-The time you need to craft items with your Poisoner's Kit
-is halved.
-If the Item requires a saving throw you can change the DC
-to a number equal to your proficiency bonus + your
-Intelligence modifier.
-You gain resistance to poison damage and advantage on
-saving throws against being poisoned.
-If your poisons deal damage, they now deal two extra
-damage dice.
-You have advantage on skill checks to extract materials
-from creatures or plants related to crafting poisons.
 
 ### Alert
 
 **Prerequisite:** Level 6, Bloodhound.
 
-Always on the lookout for danger, you gain the following
-benefits:
+Always on the lookout for danger, you gain the following benefits:
 
 * You gain a +5 bonus to initiative.
 * You can't be surprised while you are conscious.
@@ -800,77 +618,51 @@ benefits:
 
 ### Blackpowder Expert
 
-
 **Prerequisite:** Level 6, Proficiency with advanced weapons.
 
-You are well-versed in the use of Blackpowder weapons
-and wield them with deadly efficiency. You gain the following
-benefits:
+You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. You gain the following benefits:
 
+* You ignore the loading property of Blackpowder weapons with which you are proficient.
+* Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
-You ignore the loading property of Blackpowder weapons
-with which you are proficient.
-Whenever a hostile creature moves within 10 feet of you,
-and you did not move on your last turn, you can use a
-reaction to make a ranged weapon attack against that
-creature.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Farewell Shot
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
 
-You trained moving over the battlefield quickly while still
-shooting your weapon, you gain the following benefit:
+You trained moving over the battlefield quickly while still shooting your weapon.
 
+* When you take the disengage or dash action you can make a single ranged Attack with a ranged weapon as part of your movement this turn.
 
-When you take the disengage or dash action you can make
-a single ranged Attack with a ranged weapon as part of
-your movement this turn.
 
 ### Far Shot
 
 **Prerequisite:** Level 6, Wisdom 15 or higher.
 
-Your eagle eyes, help you to hit foes who are too far for the
-most people to see, you gain the following benefit:
+Your eagle eyes, help you to hit foes who are too far for the most people to see.
 
+* When you make a ranged Attack using a ranged weapon you can double its ranged. If you later gain the sharpshooter feat you still get disadvantage, when you shoot further than the maximum original attack range of the weapon you are using.
 
-When you make a ranged Attack using a ranged weapon
-you can double its ranged. If you later gain the
-sharpshooter feat you still get disadvantage, when you
-shoot further than the maximum original attack range of
-the weapon you are using.
 
 ### Forced Friendly Fire
 
 **Prerequisite:** Level 6, Dexterity 15 or higher.
 
-Your nimbleness in close combat makes it hard to predict
-your next move, you gain the following benefit:
+Your nimbleness in close combat makes it hard to predict your next move.
 
+* When you are in melee combat and a creature, that you can see, makes a ranged attack against you, you can use your reaction to position yourself in half cover behind your opponent. If the attack misses, the Attack instead hits the opponent you used as cover.
 
-When you are in melee combat and a creature, that you
-can see, makes a ranged attack against you, you can use
-your reaction to position yourself in half cover behind your
-opponent. If the attack misses, the Attack instead hits the
-opponent you used as cover.
 
 ### Hardened Mind
 
 **Prerequisite:** Level 6.
 
-You have trained your mind to be more resilient against
-mind influencing effects. You gain the following benefits:
+You have trained your mind to be more resilient against mind influencing effects. You gain the following benefits:
 
-
-You have advantage on saving throws against being
-charmed or frightened.
-You have advantage on saving throws against
-Enchantment spells or other mind influencing effects.
+* You have advantage on saving throws against being charmed or frightened.
+* You have advantage on saving throws against Enchantment spells or other mind influencing effects.
 
 
 ### Linguist
@@ -898,106 +690,63 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 ### Magic Scholar
 
-
 **Prerequisite:** Level 6, Magic Initiate.
 
-You have studied your magic over the course of your
-adventures. You gain the following benefits
+You have studied your magic over the course of your adventures. You gain the following benefits
 
+* You learn on additional Cantrip from the same list you choose your Magic Initiate Spells from.
+* Choose one 2nd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
+* Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
-You learn on additional Cantrip from the same list you
-choose your Magic Initiate Spells from.
-Choose one 2nd-level spell from the same list you have
-chosen your Magic Initiate Spell from. You learn that spell
-and can cast it at its lowest level. Once you cast it, you
-must finish a long rest before you can cast it again using
-this feat. Your spellcasting ability for this spell depends on
-the class you chose for your Magic Initiate spells.
 
 ### Multi Shot
 
-
 **Prerequisite:** Level 6, Dexterity 17 or higher.
 
-You have learned to shoot multiple arrows at once. You
-gain the following benefit:
+You have learned to shoot multiple arrows at once.
 
+* Before you make an attack with a ranged weapon that you are proficient with and that doesn’t have the loading property, you can choose to take a -5 penalty to the attack rolls. If you do so, you can attack up to a number of creatures equal to halve your proficiency bonus (rounded up). The creatures you attack must be within 5ft of each other and you must expend 1 piece of ammunition for each target as normal.
 
-Before you make an attack with a ranged weapon that you
-are proficient with and that doesn’t have the loading
-property, you can choose to take a -5 penalty to the attack
-rolls. If you do so, you can attack up to a number of
-creatures equal to halve your proficiency bonus (rounded
-up). The creatures you attack must be within 5ft of each
-other and you must expend 1 piece of ammunition for
-each target as normal.
 
 ### Pin shot
 
-
 **Prerequisite:** Level 6.
 
-You have learned to grapple your foes without even
-touching them, you gain the following benefit:
+You have learned to grapple your foes without even touching them.
 
+* When you attack a creature, with a ranged weapon, that is wearing armor or clothes, you can take a -5 penalty to the attack and force the creature to make a Strength save (DC=8 + Proficiency bonus + Dexterity modifier) if you hit. On a failed save the Enemy is grappled to a vertical surface within 5ft of it. A grappled creature can use its action to break the grapple as normal. If you have the Sharpshooter feat, you can use both features with only a -5 total penalty.
 
-When you attack a creature, with a ranged weapon, that is
-wearing armor or clothes, you can take a -5 penalty to the
-attack and force the creature to make a Strength save
-(DC=8 + Proficiency bonus + Dexterity modifier) if you hit.
-On a failed save the Enemy is grappled to a vertical
-surface within 5ft of it. A grappled creature can use its
-action to break the grapple as normal. If you have the
-Sharpshooter feat, you can use both features with only a
--5 penalty total.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ### Short Bow Master
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
 
-You have practiced with the short bow since you can hold
-one. You gain the following benefits:
+You have practiced with the short bow since you can hold one. You gain the following benefits:
 
+* Being in close combat doesn’t impose disadvantage on your attack roles with a short bow.
+* When you hit a creature with your short bow you can make one extra attack as a bonus action using your short bow.
 
-Being in close combat doesn’t impose disadvantage on
-your attack roles with a short bow.
-When you hit a creature with your short bow you can
-make one extra attack as a bonus action using your short
-bow.
 
 ### Quickcaster
 
 **Prerequisite:** Level 6, The ability to cast at least one cantrip.
 
-Your rapid-fire style of casting cantrips allows you to weave
-magic with uncanny speed, granting you the following benefit:
+Your rapid-fire style of casting cantrips allows you to weave magic with uncanny speed.
 
+* Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
 
-Whenever you cast a cantrip that can only target a single
-enemy, you can use your bonus action to target two
-enemies within 5 feet of one another instead.
 
 ### Scatter Weapon Master
 
 **Prerequisite:** Level 6, Proficiency in advanced weapons.
 
-Through many hours spent using these destructive
-weapons, whether on the training grounds or setting hag huts
-ablaze, you have gained immense experience with scatter
-weapons and gain the following benefits:
+Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons and gain the following benefits:
 
-
-Critical hits double the damage dealt by the Scatter
-property on a failed save.
-When making an attack with a weapon with the Scatter
-property, you may choose any number of targets to gain
-advantage on saving throws caused by your attack.
-You ignore the Loading quality of Scatter weapons with
-which you are proficient.
+* Critical hits double the damage dealt by the Scatter property on a failed save.
+* When making an attack with a weapon with the Scatter property, you may choose any number of targets to gain advantage on saving throws caused by your attack.
+* You ignore the Loading quality of Scatter weapons with which you are proficient.
 
 
 ### Shield Master
@@ -1015,15 +764,10 @@ You use shields not just for protection but also for offense. You gain the follo
 
 **Prerequisite:** Level 6, Weave Distortion.
 
-Your unnatural ability to distort the weave is spreading out
-from your body, you gain the following benefits:
+Your unnatural ability to distort the weave is spreading out from your body, you gain the following benefits:
 
-
-Your bonus on saving throws against spells or other
-magical effects increases to +3.
-Each Spellcaster has disadvantage on spell attacks or
-other magical effects while standing within 10ft of you or
-while targeting you or a creature within 10ft of you.
+* Your bonus on saving throws against spells or other magical effects increases to +3.
+* Every Spellcaster has disadvantage on spell attacks or other magical effects while standing within 10ft of you or while targeting you or a creature within 10ft of you.
 
 ```
 ```
@@ -1043,20 +787,11 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 **Prerequisite:** Level 6.
 
-You excel at thrown weapons and gain the following
-benefits:
+You excel at thrown weapons and gain the following benefits:
 
-
-When you take the attack action to throw a weapon with
-the Thrown property, you may immediately use a bonus
-action to make two more attacks with a Thrown weapon.
-These must also be thrown attacks. You may use this
-ability a number of times equal to your Dexterity or
-Strength modifier per short rest.
-If you throw a weapon as part of an attack, you may
-immediately draw another onehanded weapon as part of
-that attack.
-
+* When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon.
+* These must also be thrown attacks. You may use this ability a number of times equal to your Dexterity or Strength modifier per short rest.
+* If you throw a weapon as part of an attack, you may immediately draw another onehanded weapon as part of that attack.
 
 ### Warcaster
 
@@ -1077,83 +812,53 @@ You have practiced casting spells in the midst of combat, learning techniques th
 
 **Prerequisite:** Level 9, Magic Scholar.
 
-You have studied your magic over the course of your
-adventures. you gain the following benefits
+You have studied your magic over the course of your adventures. you gain the following benefits
 
-
-You learn one additional Cantrip from the same list you
-choose your Magic Initiate Spells from.
-Choose one 3rd-level spell from the same list you have
-chosen your Magic Initiate Spell from. You learn that spell
-and can cast it at its lowest level. Once you cast it, you
-must finish a long rest before you can cast it again using
-this feat. Your spellcasting ability for this spell depends on
-the class you chose for your Magic Initiate spells.
+* You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
+* Choose one 3rd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
+* Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
 
 ### Great Weapon Master
 
 **Prerequisite:** Level 9.
 
-You've learned to put the weight of a weapon to your
-advantage, letting its momentum empower your strikes. You
-gain the following benefits:
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 * On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 * Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
 
 ### Interceptor
 
 **Prerequisite:** Level 9, Shield Master.
 
-You have your friends back and they know it, while wearing
-a shield you gain the following benefits:
+You have your friends back and they know it, while wearing a shield you gain the following benefits:
 
+* When a creature within 5ft of you would get hit by an attack you can step between that attack as a reaction, changing the target of the attack to you and potentially make it miss.
+* When someone hits you with a ranged attack you can use your reaction to reduce the damage with your shield, roll a d10 plus your constitution modifier and reduce the damage by that amount.
 
-When a creature within 5ft of you would get hit by an
-attack you can step between that attack as a reaction,
-changing the target of the attack to you and potentially
-make it miss.
-When someone hits you with a ranged attack you can use
-your reaction to reduce the damage with your shield, roll a
-d10 plus your constitution modifier and reduce the
-damage by that amount.
 
 ### Iron Gut
 
 **Prerequisite:** Level 9, Alcoholic, Constitution 13 or higher.
 
-You eat like a giant and drink like a fish. Years of punishing
-your stomach and liver have led to a powerful fortitude. You
-gain the following benefits:
+You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. You gain the following benefits:
 
+* You have advantage on Saving Throws against being poisoned.
++ Upon completing a long rest, you regain 1 additional spent Hit Dice.
+* As an action, you can spend Hit Dice to heal yourself, as if you have taken a short rest, the maximum Number of Hit Dice you can spent is equal to a third of your character level (rounded up). You can use this ability once before you must finish a long rest.
 
-You have advantage on Saving Throws against being
-poisoned.
-Upon completing a long rest, you regain 1 additional
-spent Hit Dice.
-As an action, you can spend Hit Dice to heal yourself, as if
-you have taken a short rest, the maximum Number of Hit
-Dice you can spent is equal to a third of your character
-level (rounded up). You can use this ability once before you
-must finish a long rest.
 ```
 ```
+
 ### Lightning Caster
 
+**Prerequisite:** Level 9, Quickcaster, the ability to cast at least one spell.
 
-**Prerequisite:** Level 9, Quickcaster, the ability to cast at least
-one spell.
+You have mastered the art of performing verbal andsomatic components with lightning fast precision.
 
-You have mastered the art of performing verbal and
-somatic components with lightning fast precision. You gain
-the following benefit:
-
-
-When you cast a Spell of 1st level or higher as a bonus
-action, you can cast another spell of 1st level or higher as
-an action, as long as this spell doesn’t require material
-components.
+* When you cast a Spell of 1st level or higher as a bonus action, you can cast another spell of 1st level or higher as an action, as long as this spell doesn’t require material components.
 
 
 ### Polearm Master
@@ -1179,24 +884,15 @@ You have mastered ranged weapons and can make shots that others find impossible.
 
 ### Weaver of Maledictions
 
-
 **Prerequisite:** Level 9, the ability to cast at least one spell, that can curse someone like the Bestow Curse.
 
-You have learned how to use effigy dolls when cursing your
-targets. These dolls take 8 hours to create and can only be
-used on the target that the effigy was created to resemble.
-Only you can benefit from dolls you have created. When you
-use an effigy doll you gain the following benefits:
+You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can use dolls you have created. When you use an effigy doll you gain the following benefits:
 
+* The target of the curse has disadvantage on their initial saving throw.
+* The target of your curse does not know that you tried to curse them upon a successful save against being cursed.
 
-The target of the curse has disadvantage on their initial
-saving throw.
-The target of your curse does not know that you tried to
-curse them upon a successful save against being cursed.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 12
 
@@ -1204,143 +900,86 @@ curse them upon a successful save against being cursed.
 
 **Prerequisite:** Level 12, Alert.
 
-You have heightened your senses over the potential of a
-normal mortal being. you gain the following benefits:
+You have heightened your senses over the potential of a normal mortal being. you gain the following benefits:
 
+* While you aren't Incapacitated and can at least hear or smell, you have blindsight up to 30ft.
+* If you play with the optional rules flanking creatures don't get the benefits of flanking you.
 
-While you aren't Incapacitated and can at least hear or
-smell, you have blindsight up to 30ft.
-If you play with the optional rules flanking creatures don't
-get the benefits of flanking you.
 
 ### Hulking Figure
 
 **Prerequisite:** Level 12, Strength 17 or higher.
 
-You are a broad and formidable size, due to extensive
-training. You gain the following benefits:
+You are a broad and formidable size, due to extensive training. You gain the following benefits:
+ 
+* You count as one size larger (to a maximum size of large).
+* When you hit a creature with a melee attack, if you used your Strength modifier to hit the creature, you deal an additional 1d4 damage. This damage is of the same type as the weapon attack.
+* Whenever you attempt a Charisma (Intimidation) check against a creature of your size or smaller, you can add your Strength modifier to the result.
+* When you gain the Sentinel feat you improve all listed size categories by one.
 
-
-You count as one size larger (to a maximum size of large).
-When you hit a creature with a melee attack, if you used
-your Strength modifier to hit the creature, you deal an
-additional 1d4 damage. This damage is of the same type
-as the weapon attack.
-Whenever you attempt a Charisma (Intimidation) check
-against a creature of your size or smaller, you can add
-your Strength modifier to the result.
-When you gain the Sentinel feat you improve all listed size
-categories by one.
 
 ### Master Alchemist
 
 **Prerequisite:** Level 12, Advanced Alchemist.
 
-Your concoctions count as one the most potent, you gain
-the following benefits:
+Your concoctions count as one the most potent, you gain the following benefits:
 
+* If the Items crafted with your Alchemist’s Supplies require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Alchemist feat)
+* If items crafted with your alchemist supplies deal damage, they now deal an extra damage die.
 
-If the Items crafted with your Alchemist’s Supplies require
-a saving throw you can increase the DC by 1 (this also
-applies when you change the DC as described in the
-Alchemist feat)
-If items crafted with your alchemist supplies deal damage,
-they now deal an extra damage die.
 
 ### Master Blacksmith
 
 **Prerequisite:** Level 12, Advanced Blacksmith.
 
-You have learned to enhance your craft to one of the
-highest levels possible, you gain the following benefits:
+You have learned to enhance your craft to one of the highest levels possible, you gain the following benefits:
 
+* When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
+* When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 1000gp to give the Armor a +2 bonus to AC (this doesn’t make the armor magical). Your working time for this sort of armor is not halved.
 
-When crafting a melee weapon you can choose to spend
-material costs equal to the base cost of the weapon +
-200gp to give the weapon either a +2 to attack or damage
-rolls (this doesn’t make the weapon magical). Your
-working time for this sort of weapons is not halved.
-When crafting a piece of armor using your Smith’s tools
-you can choose to spend material costs equal to the
-armors base cost + 1000gp to give the Armor a +2 bonus
-to AC (this doesn’t make the armor magical).
 ```
 ```
+
 ### Master Bowyer
-
 
 **Prerequisite:** Level 12, Advanced Bowyer.
 
-You became one of the most renown Bowyers, you gain the
-following benefits:
+You became one of the most renown Bowyers, you gain the following benefits:
 
+* When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
+* When crafting ammunition, you can choose to spend an extra 10gp per piece of ammunition to give the ammunition either a +2 to attack or damage rolls (this doesn’t make the weapon magical).
 
-When crafting a ranged weapon you can choose to spend
-material costs equal to the base cost of the weapon +
-200gp to give the weapon either a +2 to attack or damage
-rolls (this doesn’t make the weapon magical). Your
-working time for this sort of weapons is not halved.
-When crafting ammunition, you can choose to spend an
-extra 10gp per piece of ammunition to give the
-ammunition either a +2 to attack or damage rolls (this
-doesn’t make the weapon magical).
 
 ### Master Herbalist
 
+**Prerequisite:** Level 12, Advanced Herbalist
 
-**Prerequisite:** Level 12, [Advanced Herbalist
-You have found a way to boost the healing potential of your
-healing potions even further, you gain the following benefits:
+You have found a way to boost the healing potential of your healing potions even further, you gain the following benefits:
 
+* You can now craft Potions of superior Healing using your Herbalism Kit, as described in Chapter 2 of the Xanathar’s Guide.
+* Potions of greater Healing that you craft heal an extra 2d hit points.
 
-You can now craft Potions of superior Healing using your
-Herbalism Kit, as described in Chapter 2 of the Xanathar’s
-Guide.
-Potions of greater Healing that you craft heal an extra 2d
-hit points.
 
 ### Master Poisoner
 
-
 **Prerequisite:** Level 12, Advanced Poisoner.
 
-Your poisons have become incredible potent and you have
-worked with them long enough to ignore them, you gain the
-following benefits:
+Your poisons have become incredible potent and you have worked with them long enough to ignore them, you gain the following benefits:
 
+* You gain immunity to poison damage and the poisoned condition.
+* If the Items crafted with your Poisoner’s Kit require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Poisoner feat).
+* Your poisons ignore resistance to poison damage. In addition, you can choose one creature Type of your choice while crafting a poison, this crafted poison ignores damage immunity when applied to the chosen creature type.
+* If your poisons deal damage, they now deal an extra damage die.
 
-You gain immunity to poison damage and the poisoned
-condition.
-If the Items crafted with your Poisoner’s Kit require a
-saving throw you can increase the DC by 1 (this also
-applies when you change the DC as described in the
-Poisoner feat).
-Your poisons ignore resistance to poison damage. In
-addition, you can choose one creature Type of your choice
-while crafting a poison, this crafted poison ignores
-damage immunity when applied to the chosen creature
-type.
-If your poisons deal damage, they now deal an extra
-damage die.
 
 ### Mental Fortress
 
-
 **Prerequisite:** Level 12, Hardened Mind.
 
-Your mind become a Fortress of pure willpower you gain
-the following benefit:
+Your mind become a Fortress of pure willpower you gain the following benefit:
 
-
-You gain resistance to psychic damage.
-If something forces you to make an Intelligence, Wisdom
-or Charisma saving throw you can force some of that
-energy back to its origin. As a reaction you can deal 2d
-plus your Intelligence, Wisdom or Charisma modifier
-(your choice) psychic damage to the creature that forced
-you to make the saving throw. This Damage increases
-when you reach certain levels, 3d10 at level 15 and 4d
-at level 18.
+* You gain resistance to psychic damage. 
+* If something forces you to make an Intelligence, Wisdom or Charisma saving throw you can force some of that energy back to its origin. As a reaction you can deal 2d10 plus your Intelligence, Wisdom or Charisma modifier (your choice) psychic damage to the creature that forced you to make the saving throw. This Damage increases when you reach certain levels, 3d10 at level 15 and 4d10 at level 18.
 
 \page
 <div class='pageNumber auto'></div>
@@ -1355,52 +994,41 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 * Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 * When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
+
 ### Spell Former
 
-**Prerequisite:** Level 12, The ability to cast at least one spell, a
-spellcasting ability of 19 or higher.
+**Prerequisite:** Level 12, The ability to cast at least one spell, a spellcasting ability of 19 or higher.
 
-You have learned to change the destructive energies of your
-spells. You gain the following benefits:
+You have learned to change the destructive energies of your spells. You gain the following benefits: 
 
+* You can change the damage type of your spells to another one of the same list, as shown in the table below:
 
-You can change the damage type of your spells to another
-one of the same list, as shown in the table below:
+##### Cookie Tastiness
+| Category | Damage Types |
+|:----:|:-------------|
+| Elemental  | Acid, Cold, Fire, Lightning, Poison |
+| Energy  | Force, Necrotic, Radiant |
+| Mundane | Bludgeoning, Piercing, Slashing |
+| Substance | Thunder, Psychic |
 
+* Once per short rest you can change the saving throw of one spell you cast. As long as you change it in the same category as shown in the table below.
 
-Category Damage Types
-Elemental Acid, Cold, Fire, Lightning, Poison
-Energy Force, Necrotic, Radiant
-Mundane Bludgeoning, Piercing, Slashing
-Substance Thunder, Psychic
+| Category | Saving Throws |
+|:----:|:-------------|
+| Mental | Intelligence, Wisdom, Charisma |
+| Physical | Strength, Constitution, Dexterity |
 
+* Once per short rest you can shape a spell you cast to not affect a number of creatures in the spells area equal to your spell casting ability modifier.
 
-Once per short rest you can change the saving throw of
-one spell you cast. As long as you change it in the same
-category as shown in the table below.
-
-
-Category Saving Throws
-Mental Intelligence, Wisdom, Charisma
-Physical Strength, Constitution, Dexterity
-
-
-Once per short rest you can shape a spell you cast to not
-affect a number of creatures in the spells area equal to
-your spell casting ability modifier.
 
 ### Spell Sink
 
 **Prerequisite:** Level 12, Spell Distortion.
 
-Your unnatural being has started to shield you from magic,
-you gain the following benefits:
+Your unnatural being has started to shield you from magic, you gain the following benefits:
 
+* You gain resistance to damage from spells. Once per long rest as an action, you can choose to gain the effects of a protect from evil and good spell for 10 minutes.
 
-You gain resistance to damage from spells.
-Once per long rest as an action, you can choose to gain
-the effects of a protect from evil and good spell for 10
-minutes.
 ```
 ```
 
@@ -1417,23 +1045,14 @@ Choose one weapon you are proficient with. You can add half your proficiency bon
 
 **Prerequisite:** Level 12, Mage Slayer.
 
-You have honed and perfected your skills fighting against
-spellcasters. You gain the following benefits:
+You have honed and perfected your skills fighting against spellcasters. You gain the following benefits:
 
+* Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster’s spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball. 
+* Whenever you hit a spellcaster with a melee attack, the target’s speed is reduced by 10 feet until the beginning of your next turn.
+* You have advantage on saving throws against spells.
 
-Whenever a hostile creature targets you with a spell, make
-a Wisdom saving throw against the spellcaster’s spell save
-DC. On a success, the creature must choose a new target
-or lose the spell. This does not protect you from area
-effects, such as the explosion of a fireball.
-Whenever you hit a spellcaster with a melee attack, the
-target’s speed is reduced by 10 feet until the beginning of
-your next turn.
-You have advantage on saving throws against spells.
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 15
 
@@ -1441,82 +1060,45 @@ You have advantage on saving throws against spells.
 
 **Prerequisite:** Level 15, Interceptor:
 
-You became a moving bulwark of pure protection, while
-wearing a shield you gain the following benefits:
+You became a moving bulwark of pure protection, while wearing a shield you gain the following benefits:
 
+* You count as three quarters cover for every medium or smaller creature, that stands behind you.
+* When you get caught in an effect, that targets an area and that has an originating point that you can see (such as the explosion center of a fireball spell) you can use your reaction to create a protective cone behind you facing away from the effects center. You automatically fail your save against this effect, but all creatures in the cone automatically save against the effect.
 
-You count as three quarters cover for every medium or
-smaller creature, that stands behind you.
-When you get caught in an effect, that targets an area and
-that has an originating point that you can see (such as the
-explosion center of a fireball spell) you can use your
-reaction to create a protective cone behind you facing
-away from the effects center. You automatically fail your
-save against this effect, but all creatures in the cone
-automatically save against the effect.
 
 ### Greater Magic Scholar
 
 **Prerequisite:** Level 15, Advanced Magic Scholar.
 
-You have studied your magic over the course of your
-adventures. you gain the following benefits:
+You have studied your magic over the course of your adventures. you gain the following benefits: 
 
+* You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
+* Choose one 4th-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
+* Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
-You learn one additional Cantrip from the same list you
-choose your Magic Initiate Spells from.
-Choose one 4th-level spell from the same list you have
-chosen your Magic Initiate Spell from. You learn that spell
-and can cast it at its lowest level. Once you cast it, you
-must finish a long rest before you can cast it again using
-this feat. Your spellcasting ability for this spell depends on
-the class you chose for your Magic Initiate spells.
 
 ### Lucky Devil
 
-**Prerequisite:** Level 15, Lucky.
+**Prerequisite:** Level 15, [Lucky](#Lucky).
 
-You have inexplicable luck that seems to kick in at just the
-right moment. You gain the following benefits:
+You have inexplicable luck that seems to kick in at just the right moment. You gain the following benefits:
 
-
-You have 3 luck points. Whenever you make an attack roll,
-an ability check, or a saving throw, you can spend one luck
-point to roll an additional d20. You can choose to spend
-one of your luck points after you roll the die, but before
-the outcome is determined. You choose which of the d20s
-is used for the attack roll, ability check, or saving throw.
-You can also spend one luck point when an attack roll is
-made against you. Roll a d20, and then choose whether
-the attack uses the attacker's roll or yours. If more than
-one creature spends a luck point to influence the outcome
-of a roll, the points cancel each other out; no additional
-dice are rolled.
-You regain your expended luck points when you finish a
-long rest.
+* You now have 3 luck points to use with your [Lucky](#Lucky) feat. You regain all your spent luck points at the end of a long rest
 
 ### Weave Vortex
 
 **Prerequisite:** Level 15, Spell Sink.
 
-Your unnatural nature has evolved to rip apart the weave
-around you, you gain the following benefits:
+Your unnatural nature has evolved to rip apart the weave around you, you gain the following benefits:
 
+* Your Bonus against Spells and other magical effects increases to +4.
+* Once per long rest you can gain the effects of an antimagic field as an action, these effects last for one hour. You can suppress these effects as a bonus action and release them again as a bonus action. The time while the effects are suppressed, still counts against the duration of the effect.
 
-Your Bonus against Spells and other magical effects
-increases to +4.
-Once per long rest you can gain the effects of an antimagic
-field as an action, these effects last for one hour. You can
-suppress these effects as a bonus action and release them
-again as a bonus action. The time while the effects are
-suppressed, still counts against the duration of the effect.
 ```
 ```
 
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Level 18
 
@@ -1524,147 +1106,85 @@ suppressed, still counts against the duration of the effect.
 
 **Prerequisite:** Level 18, Warcaster.
 
-You have learned to weave the essence of two spells
-together. You gain the following benefit:
+You have learned to weave the essence of two spells together. You gain the following benefit:
 
+* You can concentrate on 2 spells at once, while you do so, you don't get advantage on Constitution saving throws to maintain them. If you fail your concentration  check you lose both spells.
 
-You can concentrate on 2 spells at once, while you do so,
-you don't get advantage on Constitution saving throws to
-maintain them. If you fail your concentration check you
-lose both spells.
 
 ### Legendary Alchemist
 
 **Prerequisite:** Level 18, Master Alchemist.
 
-You have surpassed most of the alchemists and became
-one of the greatest alchemists who have ever lived, you gain
-the following benefits:
+You have surpassed most of the alchemists and became one of the greatest alchemists who have ever lived, you gain the following benefits:
 
+* The costs and time you need to craft Items using your Alchemist’s supplies is quartered.
+* If the Items crafted with your Alchemist’s Supplies require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Alchemist feat)
+* If items crafted with your alchemist supplies deal damage, they now deal an extra damage die.
+* When crafting an item using your Alchemist’s supplies you craft one additional item of the same kind.
 
-The costs and time you need to craft Items using your
-Alchemist’s supplies is quartered.
-If the Items crafted with your Alchemist’s Supplies require
-a saving throw you can increase the DC by 1 (this also
-applies when you change the DC as described in the
-Alchemist feat)
-If items crafted with your alchemist supplies deal damage,
-they now deal an extra damage die.
-When crafting an item using your Alchemist’s supplies you
-craft one additional item of the same kind.
 
 ### Legendary Blacksmith
 
 **Prerequisite:** Level 18, Master Blacksmith.
 
-You have surpassed most of the blacksmiths and became
-one of the greatest blacksmiths who have ever lived, you gain
-the following benefits:
+You have surpassed most of the blacksmiths and became one of the greatest blacksmiths who have ever lived, you gain the following benefits:
 
+* The time you need to craft a weapon or armor using your Smith’s tools is quartered.
+* When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 2000gp to give the weapon either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
+* When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 10.000gp to give the Armor a +3 bonus to AC (this doesn’t make the armor magical).
+* When you apply a bonus to a melee weapon you are crafting you can now apply the bonus to both the attack and damage roll, if you do so the crafting time is only halved. (This doesn’t make the weapon magical)
 
-The time you need to craft a weapon or armor using your
-Smith’s tools is quartered.
-When crafting a melee weapon you can choose to spend
-material costs equal to the base cost of the weapon +
-2000gp to give the weapon either a +3 to attack or
-damage rolls (this doesn’t make the weapon magical).
-When crafting a piece of armor using your Smith’s tools
-you can choose to spend material costs equal to the
-armors base cost + 10.000gp to give the Armor a +3 bonus
-to AC (this doesn’t make the armor magical).
-When you apply a bonus to a melee weapon you are
-crafting you can now apply the bonus to both the attack
-and damage roll, if you do so the crafting time is only
-halved. (This doesn’t make the weapon magical)
 
 ### Legendary Herbalist
 
 **Prerequisite:** Level 18, Master Herbalist.
 
-You have surpassed most of the herbalists and became one
-of the greatest herbalists who have ever lived, you gain the
-following benefits:
+You have surpassed most of the herbalists and became one of the greatest herbalists who have ever lived, you gain the following benefits:
 
+* The cost and time you need to craft an item using your herbalism Kit is quartered.
+* Potions of supreme Healing that you craft heal an extra 2d4 hit points.
+* When crafting an item using your Herbalism Kit you craft one additional item of the same kind.
 
-The cost and time you need to craft an item using your
-herbalism Kit is quartered.
-Potions of supreme Healing that you craft heal an extra
-2d4 hit points.
-When crafting an item using your Herbalism Kit you craft
-one additional item of the same kind.
 ```
 ```
+
 ### Legendary Bowyer
-
 
 **Prerequisite:** Level 18, Master Bowyer.
 
-You have surpassed most of the Bowyers and became one
-of the greatest bowyers who have ever lived, you gain the
-following benefits:
+You have surpassed most of the Bowyers and became one of the greatest bowyers who have ever lived, you gain the following benefits:
 
+* The time you need to craft a weapon or ammunition using your Carpenter’s Tools is quartered.
+* When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 2000gp to give the weapon either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
+* When crafting ammunition, you can choose to spend an extra 100gp per piece of ammunition to give the ammunition either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
+* When you apply a bonus to a ranged weapon or a piece of ammunition you are crafting you can now apply the bonus to both the attack and damage roll, if you do so the crafting time is only halved. (This doesn’t make the weapon or ammunition magical)
 
-The time you need to craft a weapon or ammunition using
-your Carpenter’s Tools is quartered.
-When crafting a ranged weapon you can choose to spend
-material costs equal to the base cost of the weapon +
-2000gp to give the weapon either a +3 to attack or
-damage rolls (this doesn’t make the weapon magical). Your
-working time for this sort of weapons is not halved.
-When crafting ammunition, you can choose to spend an
-extra 100gp per piece of ammunition to give the
-ammunition either a +3 to attack or damage rolls (this
-doesn’t make the weapon magical).
-When you apply a bonus to a ranged weapon or a piece of
-ammunition you are crafting you can now apply the bonus
-to both the attack and damage roll, if you do so the crafting
-time is only halved. (This doesn’t make the weapon or
-ammunition magical)
 
 ### Legendary Poisoner
 
-
 **Prerequisite:** Level 18, Master Poisoner.
 
-You have surpassed most of the Poisoners and became one
-of the greatest Poisoners who have ever lived, you gain the
-following benefits:
+You have surpassed most of the Poisoners and became one of the greatest Poisoners who have ever lived, you gain the following benefits:
 
+* The cost and time you need to craft an item using your Poisoner’s Kit is quartered.
+* If the Items crafted with your Poisoner’s Kit require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Poisoner feat).
+* If your poisons deal damage, they now deal an extra damage die.
+* When crafting an item using your Poisoners Kit you craft one additional item of the same kind.
 
-The cost and time you need to craft an item using your
-Poisoner’s Kit is quartered.
-If the Items crafted with your Poisoner’s Kit require a
-saving throw you can increase the DC by 1 (this also
-applies when you change the DC as described in the
-Poisoner feat).
-If your poisons deal damage, they now deal an extra
-damage die.
-When crafting an item using your Poisoners Kit you craft
-one additional item of the same kind.
 
 ### Masterful Magic Scholar
 
-
 **Prerequisite:** Level 18, Greater Magic Scholar.
 
-You have studied your magic over the course of your
-adventures. you gain the following benefits
+You have studied your magic over the course of your adventures. you gain the following benefits
 
+* You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from. 
+* Choose one 5th-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it using this feature without expending a spell slot once per short rest. 
+* Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
+* You regain the ability to cast your spells gained by your Magic Scholar and Magic Initiate feats on a short instead of a long rest.
 
-You learn one additional Cantrip from the same list you
-choose your Magic Initiate Spells from.
-Choose one 5th-level spell from the same list you have
-chosen your Magic Initiate Spell from. You learn that spell
-and can cast it at its lowest level. Once you cast it, you
-must finish a short or long rest before you can cast it
-again using this feat. Your spellcasting ability for this spell
-depends on the class you chose for your Magic Initiate
-spells.
-You regain the ability to cast your spells gained by your
-Magic Scholar and Magic Initiate feats on a short rest.
 \page
 <div class='pageNumber auto'></div>
-
 
 ## Feats by Race
 

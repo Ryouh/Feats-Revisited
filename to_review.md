@@ -32,9 +32,14 @@
 ### PHB:
 - Grappler
 
+### Custom:
+- Will to Live
 
 
 ## Strong Feats:
 
 ### PHB:
 - Weapon Master
+
+### Custom:
+- Chaotic Surge
