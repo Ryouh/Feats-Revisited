@@ -1,46 +1,32 @@
 <div class='pageNumber auto'></div>
+<div class='wide'>
 
 # Feats Revisited
-This version of feats is designed to give more
-depth to characters over the course of their
-Adventures. This guide contains all feats from
-the Players Handbook and Xanathar's Guide
-to Everything. In addition, there are several
-new feats including feats for most official
-races. Some feats were changed or reworked
-to fit with this system. The feats Advanced Weapon Adept,
-Blackpowder Expert and Scatter Weapon Master are
-designed to work with the Grim Hollow campaign setting.
+This rule set is designed to give more depth to characters over the course of their Adventures. It  contains most feats from the official sourcebooks and in addition, there are several new feats including racial feats for most official races. Some feats were changed or reworked to fit this system. The feats Advanced Weapon Adept, Blackpowder Expert and Scatter Weapon Master are meant to work with the Grim Hollow campaign setting.
+  
+<div style='margin-top:30px'></div>
 
-## Overview
-This Rule set replaces the optional rules for feats. Instead of
-forgoing an ability score improvement, characters will get
-feats based on their character level, as shown in the table
-below. Some of the feats will now have level requirements in
-addition to their normal prerequisite.
-
-### Feats gained
-| Level | Feat |
-|:---:|:--|
-|  1 | 1st |
-|  3 | 2nd |
-|  6 | 3rd |
-|  9 | 4th |
-| 12 | 5th |
-| 15 | 6th |
-| 18 | 7th |
-
+#### Gaining Feats
+  
+* This rule set replaces the [optional rules for feats](https://www.dndbeyond.com/sources/phb/customization-options#Feats). Characters now gain feats based on their character level. 
+* Characters gain one feat at levels 1, 3, 6, 9, 12, 15 and 18.
+  
+#### Ability score improvements
+  
+* All ability score improvements (ASI) granted to a character by reaching levels in a class have to be taken as ASI -  you can no longer forgo them to gain another feat.
+*  All feats that granted increases to ability scores in the official sourcebooks no longer do so. 
 
 #### Choosing a feat
 
-Once you reach a level, that grants you a new feat, you can
-choose from either the general feats or from your racial feats.
-To choose a feat you must meet all the prerequisites listed in
-the feat. You can always choose lower level feats. Unless
-otherwise stated you can’t choose a feat more than once.
-```
-```
-## General Feats by Level
+* Once you reach a level that grants you a new feat, you can choose from either the general feats or from your racial feats. 
+* You must meet all the prerequisites listed in the feat if you want to aquire it. 
+* A feat can not be "saved up" and used later to gain a higher level one. The feat you gain at a specific level can only be picked from the feats lists up to that level (or lower) - For example:
+  + You **cannot** delay picking your level 1 feat until level 3 and then aquire 2 level 3 feats.  
+  + You **can** use the feat you gain at level 3 to pick a feat from the level 1 list.
+* Unless otherwise stated you can’t choose a feat more than once.
+
+# General Feats by Level
+</div>
 
 ## Level 1
 
@@ -52,7 +38,8 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 
 * You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
 * When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
-
+```
+```
 
 ### Actor
 
@@ -2535,12 +2522,10 @@ You have learned to transform yourself.
 </div>
 
 <div class='toc'>
-
-- **[1 Feats Revisited](#p1)**
-  - [1.1 Overview](#p1)
-    - [1.1.1 Feats gained](#p1)
-  - [1.2 General Feats by Level](#p1)
-  - [1.3 Level 1](#p1)
+  
+  - **[1 Feats Revisited](#p1)**
+  - **[2 General Feats by Level](#p1)**
+  - [2.1 Level 1](#p1)
     - [1.3.1 Aberrant Dragonmark](#p1)
     - [1.3.2 Actor](#p1)
     - [1.3.3 Alcoholic](#p1)
