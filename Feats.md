@@ -1,3 +1,5 @@
+<div class='pageNumber auto'></div>
+
 # Feats Revisited
 This version of feats is designed to give more
 depth to characters over the course of their
@@ -99,6 +101,7 @@ Dexterity and Intelligence based throws and on all
 Wisdom and Charisma ability checks. (Those penalties do
 not apply if you are a Drunken Master)
 \page
+<div class='pageNumber auto'></div>
 
 ### Athlete
 
@@ -253,6 +256,7 @@ by you. To do so, make another grapple check. If you
 succeed, you and the creature are both restrained until the
 grapple ends.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -383,6 +387,7 @@ saying by reading its lips.
 You have a +5 bonus to your passive Wisdom (Perception)
 and passive Intelligence (Investigation) scores.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -528,6 +533,7 @@ to move up to half your movement. Once you use this
 feature, you must finish a short or long rest before you can
 use it again.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -667,6 +673,7 @@ While you are wearing heavy armor, bludgeoning, piercing,
 and slashing damage that you take from nonmagical
 weapons is reduced by 3.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -808,6 +815,7 @@ When you take the attack action you can make an extra
 attack with the shield as a bonus action, as if you were
 fighting with two weapons.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -959,6 +967,7 @@ and you did not move on your last turn, you can use a
 reaction to make a ranged weapon attack against that
 creature.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1108,6 +1117,7 @@ action to break the grapple as normal. If you have the
 Sharpshooter feat, you can use both features with only a
 -5 penalty total.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1250,6 +1260,7 @@ cast a spell at the creature, rather than making an
 opportunity attack. The spell must have a casting time of 1
 action and must target only that creature.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1396,6 +1407,7 @@ saving throw.
 The target of your curse does not know that you tried to
 curse them upon a successful save against being cursed.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1543,6 +1555,7 @@ you to make the saving throw. This Damage increases
 when you reach certain levels, 3d10 at level 15 and 4d
 at level 18.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1647,6 +1660,7 @@ target’s speed is reduced by 10 feet until the beginning of
 your next turn.
 You have advantage on saving throws against spells.
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1729,6 +1743,7 @@ suppressed, still counts against the duration of the effect.
 ```
 
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1877,6 +1892,7 @@ spells.
 You regain the ability to cast your spells gained by your
 Magic Scholar and Magic Initiate feats on a short rest.
 \page
+<div class='pageNumber auto'></div>
 
 
 ## Feats by Race
@@ -1928,6 +1944,7 @@ which is in your flying path.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -1981,6 +1998,7 @@ you can see, up to a range of 60ft.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2023,6 +2041,7 @@ to sleep.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2087,6 +2106,7 @@ feature you can't use it again until you finish a long rest.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 ## Changeling
@@ -2124,6 +2144,7 @@ regain the ability to do so when you finish a long rest.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2199,6 +2220,7 @@ your walking speed.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2287,6 +2309,7 @@ discretion.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2377,6 +2400,7 @@ when you finish a long rest. Intelligence is your spellcasting
 ability for all three spells.
 
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2429,6 +2453,7 @@ short rest.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2519,6 +2544,7 @@ Water Investiture of Ice
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2581,6 +2607,7 @@ resistance (Except Flumps we all love Flumps).
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2663,6 +2690,7 @@ half your proficiency bonus (rounded up).
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2756,6 +2784,7 @@ ranged weapon, reach 60/120ft, damage equals the
 loaded bomb.
 
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2821,6 +2850,7 @@ grapple the enemy.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2862,6 +2892,7 @@ of your parents, you gain this feat.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -2914,6 +2945,7 @@ can’t use the movement without the attack.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3006,6 +3038,7 @@ meats, vegetables, wine or other ingredients worth at least
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3057,6 +3090,7 @@ can see, gains Pact Tactics.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3104,6 +3138,7 @@ DMs discretion.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3159,6 +3194,7 @@ what it hears.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3210,6 +3246,7 @@ superiority dice wouldn’t increase as you level up.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3259,6 +3296,7 @@ Cold, Fire, Lightning or Poison.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3342,6 +3380,7 @@ half as much damage.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3416,6 +3455,7 @@ rest.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3490,6 +3530,7 @@ While in darkness you don’t provoke opportunity attacks.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3560,6 +3601,7 @@ range of 30 feet
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3596,6 +3638,7 @@ lose this feature.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3674,6 +3717,7 @@ Proficiency modifier.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3736,6 +3780,7 @@ melee attack against a creature within 5 feet of you.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3785,6 +3830,7 @@ Spellcasting ability.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3834,6 +3880,7 @@ the chosen skill or tool (rounded down).
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3894,6 +3941,7 @@ boulders.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 
 
@@ -3945,6 +3993,7 @@ Naga.
 ```
 ```
 \page
+<div class='pageNumber auto'></div>
 
 <div class='wide'>
 ### Table of Contents 
@@ -4055,6 +4104,7 @@ Naga.
     - [2.5.13 Witch Hunter](#p12)
 </div>
 \page
+<div class='pageNumber auto'></div>
 
 
 <div class='wide'>
@@ -4168,6 +4218,7 @@ Naga.
     - [3.18.3 Warlord](#p32)
 </div>
 \page
+<div class='pageNumber auto'></div>
 
 
 <div class='wide'>
