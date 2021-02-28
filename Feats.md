@@ -71,8 +71,7 @@ You like alcohol more than most humans and it’s not all bad.
 * You have advantage on Constitution saving throws regarding alcohol or other drugs.
 * You can use an action on your turn to drink a good load of alcohol or a comparable drug, to end the frightened condition on yourself. Each time you use this trait, you must make a DC 12 Constitution saving throw or become drunk until you finish a short rest. While drunk you get temporary hit points equal to your Constitution modifier + your proficiency bonus, you are immune to the frightened condition and you have disadvantage on all Dexterity and Intelligence based throws and on all Wisdom and Charisma ability checks. (Those penalties do not apply if you are a Drunken Master)
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Athlete
 
@@ -172,8 +171,7 @@ close-quarters grappling.
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Heavily Armored
 
@@ -246,8 +244,7 @@ You are quick to notice details of your environment.
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Ritual Caster
 
@@ -331,8 +328,7 @@ You are hard to get rid of.
 
 * When you succeed on 2 death saving throws you can regain 1 hit point. If you do so you can use your reaction to move up to half your movement. Once you use this feature, you must finish a short or long rest before you can use it again.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 3
 
@@ -433,8 +429,7 @@ You have martial training that allows you to perform special combat maneuvers.
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Medium Armor Master
 
@@ -514,8 +509,7 @@ You have learned to use your shield as a melee weapon.
 * You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you. 
 * When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 6
 
@@ -609,8 +603,7 @@ You are well-versed in the use of Blackpowder weapons and wield them with deadly
 * You ignore the loading property of Blackpowder weapons with which you are proficient.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Farewell Shot
 
@@ -700,8 +693,7 @@ You have learned to grapple your foes without even touching them.
 
 * When you attack a creature, with a ranged weapon, that is wearing armor or clothes, you can take a -5 penalty to the attack and force the creature to make a Strength save (DC=8 + Proficiency bonus + Dexterity modifier) if you hit. On a failed save the Enemy is grappled to a vertical surface within 5ft of it. A grappled creature can use its action to break the grapple as normal. If you have the Sharpshooter feat, you can use both features with only a -5 total penalty.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Short Bow Master
 
@@ -743,6 +735,8 @@ You use shields not just for protection but also for offense. You gain the follo
 * If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect.
 * If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
+```
+```
 
 ### Spell Distortion
 
@@ -753,8 +747,6 @@ Your unnatural ability to distort the weave is spreading out from your body,
 * Your bonus on saving throws against spells or other magical effects increases to +3.
 * Every Spellcaster has disadvantage on spell attacks or other magical effects while standing within 10ft of you or while targeting you or a creature within 10ft of you.
 
-```
-```
 
 ### Spell Sniper
 
@@ -787,8 +779,7 @@ You have practiced casting spells in the midst of combat.
 * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands. 
 * When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 9
 
@@ -875,8 +866,7 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 * The target of the curse has disadvantage on their initial saving throw.
 * The target of your curse does not know that you tried to curse them upon a successful save against being cursed.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 12
 
@@ -965,8 +955,7 @@ Your mind becomes a fortress of pure willpower.
 * You gain resistance to psychic damage. 
 * If something forces you to make an Intelligence, Wisdom or Charisma saving throw you can force some of that energy back to its origin. As a reaction you can deal 2d10 plus your Intelligence, Wisdom or Charisma modifier (your choice) psychic damage to the creature that forced you to make the saving throw. This Damage increases when you reach certain levels, 3d10 at level 15 and 4d10 at level 18.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ### Sentinel
 
@@ -1035,8 +1024,7 @@ You have honed and perfected your skills fighting against spellcasters.
 * Whenever you hit a spellcaster with a melee attack, the target’s speed is reduced by 10 feet until the beginning of your next turn.
 * You have advantage on saving throws against spells.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 15
 
@@ -1081,8 +1069,7 @@ Your unnatural nature has evolved to rip apart the weave around you.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Level 18
 
@@ -1167,12 +1154,13 @@ You have studied your magic over the course of your adventures.
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 * You regain the ability to cast your spells gained by your Magic Scholar and Magic Initiate feats on a short instead of a long rest.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
-## Feats by Race
+# Feats by Race
 
 Feats listed in this section can only be taken by the associated race.
+
+<div style='margin-top:70px'></div>
 
 ## Aarakocra
 
@@ -1206,9 +1194,6 @@ You can swoop down quickly and strike with deadly precision.
 
 ```
 ```
-
-\page
-<div class='pageNumber auto'></div>
 
 ## Aasimar
 
@@ -1246,8 +1231,7 @@ Your celestial blood makes it harder for other creatures to control your mind,
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Bugbear
 
@@ -1280,9 +1264,6 @@ Hruggek saw you in battle and he liked it.
 
 ```
 ```
-
-\page
-<div class='pageNumber auto'></div>
 
 ## Centaur
 
@@ -1328,8 +1309,7 @@ You have unicorn blood in your veins, that changes your physique.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Changeling
 
@@ -1353,9 +1333,6 @@ Your transformation skills are at their peak and there are not many who can riva
 
 ```
 ```
-
-\page
-<div class='pageNumber auto'></div>
 
 ## Dragonborn
 
@@ -1406,8 +1383,7 @@ You embrace your draconic blood.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Dwarf
 
@@ -1471,8 +1447,7 @@ You have learned the ancient art of  engraving the dwarfen Runes of Protection i
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Elf
 
@@ -1528,8 +1503,8 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 * You learn the magic of arcane studies. You learn the identify and can cast it at will, without expending a spell slot. You also learn the detect thoughts and nondetection spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Intelligence is your spellcasting ability for all three spells.
 
-\page
-<div class='pageNumber auto'></div>
+<div style='margin-top:40px'></div>
+
 
 ## Firbolg
 
@@ -1563,8 +1538,7 @@ You love nature and nature loves you.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Genasi
 
@@ -1633,11 +1607,9 @@ Your Elemental ancestors grant you the access to powerful elemental magic.
 | Fire | Investiture of Fire |
 | Water | Investiture of Ice |
 
-```
-```
 
-\page
-<div class='pageNumber auto'></div>
+<div style='margin-top:40px'></div>
+
 
 ## Gith
 
@@ -1680,8 +1652,7 @@ You trained hard and enhanced your abilities to stand up against your hated foe.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Gnome
 
@@ -1733,8 +1704,7 @@ Your decade long studies in mechanics finally paid off and you learned how to cr
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Goblin
 
@@ -1789,8 +1759,7 @@ You've developed a new toy, much to the regret of your enemies.
 * The gold you need to spend, to build your bombs is halved. 
 * You invented the BOMB CANNON a portable launcher for your small bombs with which you are proficient. The BOMB CANNON has the following properties: Martial ranged weapon, reach 60/120ft, damage equals the loaded bomb.
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Goliath
 
@@ -1834,9 +1803,6 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
-
 ## Half-Elf
 
 ### Social Adaptation
@@ -1866,8 +1832,7 @@ Your elven blood line grants you access to powerful magic.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Half-Orc
 
@@ -1902,8 +1867,7 @@ Killing invigorates you to such a degree, that some would say Gruumsh himself ha
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Halfling
 
@@ -1958,11 +1922,8 @@ You became one of the most brilliant chefs.
 * You learn the Heroes' Feast spell and can cast it without expending a spell slot
 * You need Cook's Utensils to cast this spell and the material components change to: Fine meats, vegetables, wine or other ingredients worth at least 500gp, which the spell consumes.
 
-```
-```
+<div style='margin-top:40px'></div>
 
-\page
-<div class='pageNumber auto'></div>
 
 ## Hobgoblin
 
@@ -1997,8 +1958,7 @@ You became a master of combat tactics.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Human
 
@@ -2031,8 +1991,6 @@ Improvising comes natural to you there is no situation you can’t solve by impr
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
 
 ## Kalashtar
 
@@ -2067,8 +2025,7 @@ You have learned to release the Spirit bound within you.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Kenku
 
@@ -2102,9 +2059,6 @@ Were other members of your race sorrow over their lost abilities you embrace you
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
-
 ## Kobold
 
 ### Better together
@@ -2136,8 +2090,7 @@ Tiamat’s smile falls upon you.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Lizardfolk
 
@@ -2191,9 +2144,6 @@ Your scales became junky and hard over the course of your adventures.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
-
 ## Loxodon
 
 ### Perfect Memory
@@ -2240,8 +2190,7 @@ Heroes blood flows through your veins and you learned how to control it.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Orc
 
@@ -2288,9 +2237,6 @@ You have embraced the color black, the color of darkness.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
-
 ## Shifter
 
 ### Shifter Senses
@@ -2335,8 +2281,7 @@ You have learned to bring your shifting abilities to the next level.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Tabaxi
 
@@ -2362,9 +2307,6 @@ You have a neck for evading death,
 
 ```
 ```
-
-\page
-<div class='pageNumber auto'></div>
 
 ## Tiefling
 
@@ -2417,8 +2359,7 @@ You have learned the channel the blood of your ancestors into your deals.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Tortle
 
@@ -2457,9 +2398,6 @@ You have learned to act at least a little bit while in your shell.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
-
 ## Triton
 
 ### Child of the Sea
@@ -2490,8 +2428,7 @@ You have mastered your connection to the elemental plains.
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Vedalken
 
@@ -2525,9 +2462,6 @@ You have found perfection.
 
 ```
 ```
-
-\page
-<div class='pageNumber auto'></div>
 
 ## Warforged
 
@@ -2570,8 +2504,7 @@ Over the course of your adventures you have replaced your metal components with 
 ```
 ```
 
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 ## Yuan-ti Pureblood
 
@@ -2599,312 +2532,301 @@ You have learned to transform yourself.
 * You learn the polymorph spell and can cast it without expending a spell slot. But you can only transform into snakes. You can cast this spell a number of times equal to your Charisma modifier (minimum of once) and you regain all uses once you finish a long rest.
 * You can use 3 of your uses to transform into a Naga (if you have the required level as described in the polymorph spell) You don’t get any spellcasting abilities of the chosen Naga.
 
-```
-```
-
-\page
-<div class='pageNumber auto'></div>
+\page <div class='pageNumber auto'></div>
 
 <div class='wide'>
-### Table of Contents 
+### Table of Contents
 </div>
 
 <div class='toc'>
-  - [1 Overview](#p1)
-      - [1.1 Feats gained](#p1)
-  - [2 General Feats by Level](#p1)
-  - [2.1 Level 1](#p1)
-    - [2.1.1 Aberrant Dragonmark](#p1)
-    - [2.1.2 Actor](#p1)
-    - [2.1.3 Alcoholic](#p1)
-    - [2.1.4 Athlete](#p2)
-    - [2.1.5 Bookworm](#p2)
-    - [2.1.6 Chaotic Surge](#p2)
-    - [2.1.7 Death Touched](#p2)
-    - [2.1.8 Duck](#p2)
-    - [2.1.9 Dungeon Delver](#p2)
-    - [2.1.10 Dual Wielder](#p2)
-    - [2.1.11 Durable](#p2)
-    - [2.1.12 Environmental adaption](#p2)
-    - [2.1.13 Grappler](#p2)
-    - [2.1.14 Heavily Armored](#p3)
-    - [2.1.15 Inspiring Leader](#p3)
-    - [2.1.16 Keen Mind](#p3)
-    - [2.1.17 Lightly Armored](#p3)
-    - [2.1.18 Lucky](#p3)
-    - [2.1.19 Magic Initiate](#p3)
-    - [2.1.20 Moderately Armored](#p3)
-    - [2.1.21 Nimble Physique](#p3)
-    - [2.1.22 Observant](#p3)
-    - [2.1.23 Ritual Caster](#p4)
-    - [2.1.24 Skilled](#p4)
-    - [2.1.25 Skulker](#p4)
-    - [2.1.26 Swimmer](#p4)
-    - [2.1.27 Tavern Brawler](#p4)
-    - [2.1.28 Taunt](#p4)
-    - [2.1.29 Tough](#p4)
-    - [2.1.30 Weapon Training](#p4)
-    - [2.1.31 Weave Distortion](#p4)
-    - [2.1.32 Will to Live](#p4)
-  - [2.2 Level 3](#p5)
-    - [2.2.1 Advanced Weapon Adept](#p5)
-    - [2.2.2 Blood Hound](#p5)
-    - [2.2.3 Crossbow Expert](#p5)
-    - [2.2.4 Defensive Duelist](#p5)
-    - [2.2.5 Firearm Specialist](#p5)
-    - [2.2.6 Fighting Style](#p5)
-    - [2.2.7 Healer](#p5)
-    - [2.2.8 Heavy Armor Master](#p5)
-    - [2.2.9 Martial Adept](#p6)
-    - [2.2.10 Medium Armor Master](#p6)
-    - [2.2.11 Mobile](#p6)
-    - [2.2.12 Mounted Combatant](#p6)
-    - [2.2.13 Nocturnal](#p6)
-    - [2.2.14 Prodigy](#p6)
-    - [2.2.15 Resilient](#p6)
-    - [2.2.16 Savage Attacker](#p6)
-    - [2.2.17 Shield Bash](#p6)
-  - [2.3 Level 6](#p7)
-    - [2.3.1 Advanced Alchemist](#p7)
-    - [2.3.2 Advanced Blacksmith](#p7)
-    - [2.3.3 Advanced Bowyer](#p7)
-    - [2.3.4 Advanced Herbalist](#p7)
-    - [2.3.5 Advanced Poisoner](#p7)
-    - [2.3.6 Alert](#p7)
-    - [2.3.7 Blackpowder Expert](#p7)
-    - [2.3.8 Farewell Shot](#p8)
-    - [2.3.9 Far Shot](#p8)
-    - [2.3.10 Forced Friendly Fire](#p8)
-    - [2.3.11 Hardened Mind](#p8)
-    - [2.3.12 Linguist](#p8)
-    - [2.3.13 Mage Slayer](#p8)
-    - [2.3.14 Magic Scholar](#p8)
-    - [2.3.15 Multi Shot](#p8)
-    - [2.3.16 Pin shot](#p8)
-    - [2.3.17 Short Bow Master](#p9)
-    - [2.3.18 Quickcaster](#p9)
-    - [2.3.19 Scatter Weapon Master](#p9)
-    - [2.3.20 Shield Master](#p9)
-    - [2.3.21 Spell Distortion](#p9)
-    - [2.3.22 Spell Sniper](#p9)
-    - [2.3.23 Thrown Weapon Master](#p9)
-    - [2.3.24 Warcaster](#p9)
-  - [2.4 Level 9](#p10)
-    - [2.4.1 Advanced Magic Scholar](#p10)
-    - [2.4.2 Great Weapon Master](#p10)
-    - [2.4.3 Interceptor](#p10)
-    - [2.4.4 Iron Gut](#p10)
-    - [2.4.5 Lightning Caster](#p10)
-    - [2.4.6 Polearm Master](#p10)
-    - [2.4.7 Sharpshooter](#p10)
-    - [2.4.8 Weaver of Maledictions](#p10)
-  - [2.5 Level 12](#p11)
-    - [2.5.1 Blind Fighting](#p11)
-    - [2.5.2 Hulking Figure](#p11)
-    - [2.5.3 Master Alchemist](#p11)
-    - [2.5.4 Master Blacksmith](#p11)
-    - [2.5.5 Master Bowyer](#p11)
-    - [2.5.6 Master Herbalist](#p11)
-    - [2.5.7 Master Poisoner](#p11)
-    - [2.5.8 Mental Fortress](#p11)
-    - [2.5.9 Sentinel](#p12)
-    - [2.5.10 Spell Former](#p12)
-    - [2.5.11 Spell Sink](#p12)
-    - [2.5.12 Weapon Master](#p12)
-    - [2.5.13 Witch Hunter](#p12)
+- **[1 Feats Revisited](#p1)**
+  - [1.1 Overview](#p1)
+    - [1.1.1 Feats gained](#p1)
+  - [1.2 General Feats by Level](#p1)
+  - [1.3 Level 1](#p1)
+    - [1.3.1 Aberrant Dragonmark](#p1)
+    - [1.3.2 Actor](#p1)
+    - [1.3.3 Alcoholic](#p1)
+    - [1.3.4 Athlete](#p2)
+    - [1.3.5 Bookworm](#p2)
+    - [1.3.6 Chaotic Surge](#p2)
+    - [1.3.7 Charger](#p2)
+    - [1.3.8 Death Touched](#p2)
+    - [1.3.9 Duck](#p2)
+    - [1.3.10 Dungeon Delver](#p2)
+    - [1.3.11 Dual Wielder](#p2)
+    - [1.3.12 Durable](#p2)
+    - [1.3.13 Environmental adaption](#p2)
+    - [1.3.14 Grappler](#p2)
+    - [1.3.15 Heavily Armored](#p3)
+    - [1.3.16 Inspiring Leader](#p3)
+    - [1.3.17 Keen Mind](#p3)
+    - [1.3.18 Lightly Armored](#p3)
+    - [1.3.19 Lucky](#p3)
+    - [1.3.20 Magic Initiate](#p3)
+    - [1.3.21 Moderately Armored](#p3)
+    - [1.3.22 Nimble Physique](#p3)
+    - [1.3.23 Observant](#p3)
+    - [1.3.24 Ritual Caster](#p4)
+    - [1.3.25 Skilled](#p4)
+    - [1.3.26 Skulker](#p4)
+    - [1.3.27 Swimmer](#p4)
+    - [1.3.28 Tavern Brawler](#p4)
+    - [1.3.29 Taunt](#p4)
+    - [1.3.30 Tough](#p4)
+    - [1.3.31 Weapon Training](#p4)
+    - [1.3.32 Weave Distortion](#p4)
+    - [1.3.33 Will to Live](#p4)
+  - [1.4 Level 3](#p5)
+    - [1.4.1 Advanced Weapon Adept](#p5)
+    - [1.4.2 Blood Hound](#p5)
+    - [1.4.3 Crossbow Expert](#p5)
+    - [1.4.4 Defensive Duelist](#p5)
+    - [1.4.5 Elemental Adept](#p5)
+    - [1.4.6 Fighting Style](#p5)
+    - [1.4.7 Firearm Specialist (Gunslinger)](#p5)
+    - [1.4.8 Healer](#p5)
+    - [1.4.9 Heavy Armor Master](#p5)
+    - [1.4.10 Martial Adept](#p5)
+    - [1.4.11 Medium Armor Master](#p6)
+    - [1.4.12 Mobile](#p6)
+    - [1.4.13 Mounted Combatant](#p6)
+    - [1.4.14 Nocturnal](#p6)
+    - [1.4.15 Prodigy](#p6)
+    - [1.4.16 Resilient](#p6)
+    - [1.4.17 Savage Attacker](#p6)
+    - [1.4.18 Shield Bash](#p6)
+  - [1.5 Level 6](#p7)
+    - [1.5.1 Advanced Alchemist](#p7)
+    - [1.5.2 Advanced Blacksmith](#p7)
+    - [1.5.3 Advanced Bowyer](#p7)
+    - [1.5.4 Advanced Herbalist](#p7)
+    - [1.5.5 Advanced Poisoner](#p7)
+    - [1.5.6 Alert](#p7)
+    - [1.5.7 Blackpowder Expert](#p7)
+    - [1.5.8 Farewell Shot](#p8)
+    - [1.5.9 Far Shot](#p8)
+    - [1.5.10 Forced Friendly Fire](#p8)
+    - [1.5.11 Hardened Mind](#p8)
+    - [1.5.12 Linguist](#p8)
+    - [1.5.13 Mage Slayer](#p8)
+    - [1.5.14 Magic Scholar](#p8)
+    - [1.5.15 Multi Shot](#p8)
+    - [1.5.16 Pin shot](#p8)
+    - [1.5.17 Short Bow Master](#p9)
+    - [1.5.18 Quickcaster](#p9)
+    - [1.5.19 Scatter Weapon Master](#p9)
+    - [1.5.20 Shield Master](#p9)
+    - [1.5.21 Spell Distortion](#p9)
+    - [1.5.22 Spell Sniper](#p9)
+    - [1.5.23 Thrown Weapon Master](#p9)
+    - [1.5.24 Warcaster](#p9)
+  - [1.6 Level 9](#p10)
+    - [1.6.1 Advanced Magic Scholar](#p10)
+    - [1.6.2 Great Weapon Master](#p10)
+    - [1.6.3 Interceptor](#p10)
+    - [1.6.4 Iron Gut](#p10)
+    - [1.6.5 Lightning Caster](#p10)
+    - [1.6.6 Polearm Master](#p10)
+    - [1.6.7 Sharpshooter](#p10)
+    - [1.6.8 Weaver of Maledictions](#p10)
+  - [1.7 Level 12](#p11)
+    - [1.7.1 Blind Fighting](#p11)
+    - [1.7.2 Hulking Figure](#p11)
+    - [1.7.3 Master Alchemist](#p11)
+    - [1.7.4 Master Blacksmith](#p11)
+    - [1.7.5 Master Bowyer](#p11)
+    - [1.7.6 Master Herbalist](#p11)
+    - [1.7.7 Master Poisoner](#p11)
+    - [1.7.8 Mental Fortress](#p11)
+    - [1.7.9 Sentinel](#p12)
+    - [1.7.10 Spell Former](#p12)
+    - [1.7.11 Spell Sink](#p12)
+    - [1.7.12 Weapon Master](#p12)
+    - [1.7.13 Witch Hunter](#p12)
+  - [1.8 Level 15](#p13)
+    - [1.8.1 Bulwark](#p13)
+    - [1.8.2 Greater Magic Scholar](#p13)
+    - [1.8.3 Lucky Devil](#p13)
+    - [1.8.4 Weave Vortex](#p13)
+  
 </div>
-\page
-<div class='pageNumber auto'></div>
 
-
-<div class='wide'>
-### Table of Contents 
-</div>
+\page <div class='pageNumber auto'></div>
 
 <div class='toc'>
-  - [2.6 Level 15](#p13)
-    - [2.6.1 Bulwark](#p13)
-    - [2.6.2 Greater Magic Scholar](#p13)
-    - [2.6.3 Lucky Devil](#p13)
-    - [2.6.4 Weave Vortex](#p13)
-  - [2.7 Level 18](#p14)
-    - [2.7.1 Iron Will](#p14)
-    - [2.7.2 Legendary Alchemist](#p14)
-    - [2.7.3 Legendary Blacksmith](#p14)
-    - [2.7.4 Legendary Herbalist](#p14)
-    - [2.7.5 Legendary Bowyer](#p14)
-    - [2.7.6 Legendary Poisoner](#p14)
-    - [2.7.7 Masterful Magic Scholar](#p14)
-  - [3 Feats by Race](#p15)
-  - [3.1 Aarakocra](#p15)
-    - [3.1.1 Strong Wings](#p15)
-    - [3.1.2 Hawk's Eye](#p15)
-    - [3.1.3 Flyby](#p15)
-  - [3.2 Aasimar](#p16)
-    - [3.2.1 Magic of the Gods](#p16)
-    - [3.2.2 Enhanced Transformation](#p16)
-    - [3.2.3 Celestial Mind](#p16)
-  - [3.3 Bugbear](#p17)
-    - [3.3.1 Surprise Surprise](#p17)
-    - [3.3.2 Brute](#p17)
-    - [3.3.3 Heart of Hruggek](#p17)
-  - [3.4 Centaur](#p18)
-    - [3.4.1 Trampling Hooves](#p18)
-    - [3.4.2 Jousting](#p18)
-    - [3.4.3 Pegasus Blood](#p18)
-    - [3.4.4 Unicorn Blood](#p18)
-  - [3.5 Changeling](#p19)
-    - [3.5.1 Thousand Faces](#p19)
-    - [3.5.2 Master of all Forms](#p19)
-  - [3.6 Dragonborn](#p20)
-    - [3.6.1 Dragon Fear](#p20)
-    - [3.6.2 Dragon Hide](#p20)
-    - [3.6.3 Improved Dragon Breath](#p20)
-    - [3.6.4 Dragon Senses](#p20)
-    - [3.6.5 Dragon Form](#p20)
-  - [3.7 Dwarf](#p21)
-    - [3.7.1 Dwarven Fortitude](#p21)
-    - [3.7.2 Dwarven Stubbornness](#p21)
-    - [3.7.3 Squat Nimbleness](#p21)
-    - [3.7.4 Cunning Artisan](#p21)
-    - [3.7.5 Enhanced Enlarge](#p21)
-    - [3.7.6 Runes of Protection](#p21)
-  - [3.8 Elf](#p22)
-    - [3.8.1 Fey Teleportation](#p22)
-    - [3.8.2 Revenant Blade](#p22)
-    - [3.8.3 Elven Accuracy](#p22)
-    - [3.8.4 Drow High Magic](#p22)
-    - [3.8.5 Wood Elf Magic](#p22)
-    - [3.8.6 High Elf Magic](#p22)
-  - [3.9 Firbolg](#p23)
-    - [3.9.1 Caretaker of the Critters](#p23)
-    - [3.9.2 Speak with Beasts and Plants](#p23)
-    - [3.9.3 Natures Friend](#p23)
-  - [3.10 Genasi](#p24)
-    - [3.10.1 Elemental Adaptation](#p24)
-    - [3.10.2 Elemental Familiar](#p24)
-    - [3.10.3 Spell Forming](#p24)
-    - [3.10.4 Elemental Investiture](#p24)
-  - [3.11 Gith](#p25)
-    - [3.11.1 Telepathy](#p25)
-    - [3.11.2 Illithid Hunter](#p25)
-    - [3.11.3 Enhanced Psychic Powers](#p25)
-    - [3.11.4 Illithid Slayer](#p25)
-  - [3.12 Gnome](#p26)
-    - [3.12.1 Fade Away](#p26)
-    - [3.12.2 Squat Nimbleness](#p26)
-    - [3.12.3 Cunning Artisan](#p26)
-    - [3.12.4 Svirfneblin Magic](#p26)
-    - [3.12.5 Superior Tinkering](#p26)
-  - [3.13 Goblin](#p27)
-    - [3.13.1 Squat Nimbleness](#p27)
-    - [3.13.2 Bad Inventors](#p27)
-    - [3.13.3 Garbage to Gold](#p27)
-    - [3.13.4 Fire in the Hole](#p27)
-    - [3.13.5 Hagedy Hagedy](#p27)
-  - [3.14 Goliath](#p28)
-    - [3.14.1 Pushing Through](#p28)
-    - [3.14.2 Titanium Endurance](#p28)
-    - [3.14.3 Advanced Great Weapon Training](#p28)
-    - [3.14.4 Intimidating Fighter](#p28)
-  - [3.15 Half-Elf](#p29)
-    - [3.15.1 Social Adaptation](#p29)
-    - [3.15.2 World traveler](#p29)
-    - [3.15.3 Elven Magic](#p29)
-  - [3.16 Half-Orc](#p30)
-    - [3.16.1 Orcish Fury](#p30)
-    - [3.16.2 Burning Endurance](#p30)
-    - [3.16.3 Mark of Gruumsh](#p30)
-  - [3.17 Halfling](#p31)
-    - [3.17.1 Bountiful Luck](#p31)
-    - [3.17.2 But What About A Second Breakfast?](#p31)
-    - [3.17.3 Second Chance](#p31)
-    - [3.17.4 Squat Nimbleness](#p31)
-    - [3.17.5 Cooking Expert](#p31)
-    - [3.17.6 Marvelous Chef](#p31)
-  - [3.18 Hobgoblin](#p32)
-    - [3.18.1 Combat Tactics](#p32)
-    - [3.18.2 Tactical Genius](#p32)
-    - [3.18.3 Warlord](#p32)
+  - [1.9 Level 18](#p14)
+    - [1.9.1 Iron Will](#p14)
+    - [1.9.2 Legendary Alchemist](#p14)
+    - [1.9.3 Legendary Blacksmith](#p14)
+    - [1.9.4 Legendary Herbalist](#p14)
+    - [1.9.5 Legendary Bowyer](#p14)
+    - [1.9.6 Legendary Poisoner](#p14)
+    - [1.9.7 Masterful Magic Scholar](#p14)
+  - **[2 Feats by Race](#p15)**
+  - [2.1 Aarakocra](#p15)
+    - [2.1.1 Strong Wings](#p15)
+    - [2.1.2 Hawk's Eye](#p15)
+    - [2.1.3 Flyby](#p15)
+  - [2.2 Aasimar](#p15)
+    - [2.2.1 Magic of the Gods](#p15)
+    - [2.2.2 Enhanced Transformation](#p15)
+    - [2.2.3 Celestial Mind](#p15)
+  - [2.3 Bugbear](#p16)
+    - [2.3.1 Surprise Surprise](#p16)
+    - [2.3.2 Brute](#p16)
+    - [2.3.3 Heart of Hruggek](#p16)
+  - [2.4 Centaur](#p16)
+    - [2.4.1 Trampling Hooves](#p16)
+    - [2.4.2 Jousting](#p16)
+    - [2.4.3 Pegasus Blood](#p16)
+    - [2.4.4 Unicorn Blood](#p16)
+  - [2.5 Changeling](#p17)
+    - [2.5.1 Thousand Faces](#p17)
+    - [2.5.2 Master of all Forms](#p17)
+  - [2.6 Dragonborn](#p17)
+    - [2.6.1 Dragon Fear](#p17)
+    - [2.6.2 Dragon Hide](#p17)
+    - [2.6.3 Improved Dragon Breath](#p17)
+    - [2.6.4 Dragon Senses](#p17)
+    - [2.6.5 Dragon Form](#p17)
+  - [2.7 Dwarf](#p18)
+    - [2.7.1 Dwarven Fortitude](#p18)
+    - [2.7.2 Dwarven Stubbornness](#p18)
+    - [2.7.3 Squat Nimbleness](#p18)
+    - [2.7.4 Cunning Artisan](#p18)
+    - [2.7.5 Enhanced Enlarge](#p18)
+    - [2.7.6 Runes of Protection](#p18)
+  - [2.8 Elf](#p19)
+    - [2.8.1 Fey Teleportation](#p19)
+    - [2.8.2 Revenant Blade](#p19)
+    - [2.8.3 Elven Accuracy](#p19)
+    - [2.8.4 Drow High Magic](#p19)
+    - [2.8.5 Wood Elf Magic](#p19)
+    - [2.8.6 High Elf Magic](#p19)
+  - [2.9 Firbolg](#p19)
+    - [2.9.1 Caretaker of the Critters](#p19)
+    - [2.9.2 Speak with Beasts and Plants](#p19)
+    - [2.9.3 Natures Friend](#p19)
+  - [2.10 Genasi](#p20)
+    - [2.10.1 Elemental Adaptation](#p20)
+    - [2.10.2 Elemental Familiar](#p20)
+    - [2.10.3 Spell Forming](#p20)
+    - [2.10.4 Elemental Investiture](#p20)
+  - [2.11 Gith](#p20)
+    - [2.11.1 Telepathy](#p20)
+    - [2.11.2 Illithid Hunter](#p20)
+    - [2.11.3 Enhanced Psychic Powers](#p20)
+    - [2.11.4 Illithid Slayer](#p20)
+  - [2.12 Gnome](#p21)
+    - [2.12.1 Fade Away](#p21)
+    - [2.12.2 Squat Nimbleness](#p21)
+    - [2.12.3 Cunning Artisan](#p21)
+    - [2.12.4 Svirfneblin Magic](#p21)
+    - [2.12.5 Superior Tinkering](#p21)
+  - [2.13 Goblin](#p22)
+    - [2.13.1 Squat Nimbleness](#p22)
+    - [2.13.2 Bad Inventors](#p22)
+    - [2.13.3 Garbage to Gold](#p22)
+    - [2.13.4 Fire in the Hole](#p22)
+    - [2.13.5 Hagedy Hagedy](#p22)
+  - [2.14 Goliath](#p23)
+    - [2.14.1 Pushing Through](#p23)
+    - [2.14.2 Titanium Endurance](#p23)
+    - [2.14.3 Advanced Great Weapon Training](#p23)
+    - [2.14.4 Intimidating Fighter](#p23)
+  - [2.15 Half-Elf](#p23)
+    - [2.15.1 Social Adaptation](#p23)
+    - [2.15.2 World traveler](#p23)
+    - [2.15.3 Elven Magic](#p23)
+  - [2.16 Half-Orc](#p24)
+    - [2.16.1 Orcish Fury](#p24)
+    - [2.16.2 Burning Endurance](#p24)
+    - [2.16.3 Mark of Gruumsh](#p24)
+  - [2.17 Halfling](#p25)
+    - [2.17.1 Bountiful Luck](#p25)
+    - [2.17.2 But What About A Second Breakfast?](#p25)
+    - [2.17.3 Second Chance](#p25)
+    - [2.17.4 Squat Nimbleness](#p25)
+    - [2.17.5 Cooking Expert](#p25)
+    - [2.17.6 Marvelous Chef](#p25)
+  - [2.18 Hobgoblin](#p25)
+    - [2.18.1 Combat Tactics](#p25)
+    - [2.18.2 Tactical Genius](#p25)
+    - [2.18.3 Warlord](#p25)
+  - [2.19 Human](#p26)
+    - [2.19.1 Adaptive Nature](#p26)
+    - [2.19.2 Quick Learner](#p26)
+    - [2.19.3 Master of Improvisation](#p26)
+  
 </div>
-\page
-<div class='pageNumber auto'></div>
 
-
-<div class='wide'>
-### Table of Contents 
-</div>
+\page <div class='pageNumber auto'></div>
 
 <div class='toc'>
-  - [3.19 Human](#p33)
-    - [3.19.1 Adaptive Nature](#p33)
-    - [3.19.2 Quick Learner](#p33)
-    - [3.19.3 Master of Improvisation](#p33)
-  - [3.20 Kalashtar](#p34)
-    - [3.20.1 Dream Reader](#p34)
-    - [3.20.2 Dream Walker](#p34)
-    - [3.20.3 Spirit Release](#p34)
-  - [3.21 Kenku](#p35)
-    - [3.21.1 Learning New Things](#p35)
-    - [3.21.2 Glide](#p35)
-    - [3.21.3 Embrace the Curse](#p35)
-  - [3.22 Kobold](#p36)
-    - [3.22.1 Better together](#p36)
-    - [3.22.2 Preparation is Key](#p36)
-    - [3.22.3 Blessing of Tiamat](#p36)
-  - [3.23 Lizardfolk](#p37)
-    - [3.23.1 Cold Hearted](#p37)
-    - [3.23.2 Release the Beast](#p37)
-    - [3.23.3 Chameleon Scales](#p37)
-    - [3.23.4 Thorny Scales](#p37)
-    - [3.23.5 Armadillo Scales](#p37)
-  - [3.24 Loxodon](#p38)
-    - [3.24.1 Perfect Memory](#p38)
-    - [3.24.2 Loxodon Rage](#p38)
-    - [3.24.3 Minotaur](#p38)
-    - [3.24.4 Labyrinth Senses](#p38)
-    - [3.24.5 Heroes Blood](#p38)
-  - [3.25 Orc](#p39)
-    - [3.25.1 The Colors of Conquest](#p39)
-    - [3.25.2 The Color of Blood](#p39)
-    - [3.25.3 The Color of Death](#p39)
-    - [3.25.4 The Color of Darkness](#p39)
-  - [3.26 Shifter](#p40)
-    - [3.26.1 Shifter Senses](#p40)
-    - [3.26.2 Full Transformation:](#p40)
-    - [3.26.3 Advanced Shifting](#p40)
-  - [3.27 Tabaxi](#p41)
-    - [3.27.1 Always Land on Your Feet](#p41)
-    - [3.27.2 Nine Lives](#p41)
-  - [3.28 Tiefling](#p42)
-    - [3.28.1 The Art of Haggling](#p42)
-    - [3.28.2 Flames of Phlegethos](#p42)
-    - [3.28.3 Infernal Constitution](#p42)
-    - [3.28.4 Infernal Form](#p42)
-    - [3.28.5 The Art of The Deal](#p42)
-  - [3.29 Tortle](#p43)
-    - [3.29.1 Water Tortle](#p43)
-    - [3.29.2 Snapping Tortle](#p43)
-    - [3.29.3 Dragon Torle](#p43)
-    - [3.29.4 Advanced Shell Defense](#p43)
-  - [3.30 Triton](#p44)
-    - [3.30.1 Child of the Sea](#p44)
-    - [3.30.2 Master of the Sea](#p44)
-    - [3.30.3 Sea Caller](#p44)
-  - [3.31 Vedalken](#p45)
-    - [3.31.1 Seeking Perfection](#p45)
-    - [3.31.2 Efficient Worker](#p45)
-    - [3.31.3 Finding Perfection](#p45)
-  - [3.32 Warforged](#p46)
-    - [3.32.1 Iron Wood Components](#p46)
-    - [3.32.2 Overheat](#p46)
-    - [3.32.3 Mithral Components](#p46)
-    - [3.32.4 Adamantine Components](#p46)
-  - [3.33 Yuan-ti Pureblood](#p47)
-    - [3.33.1 Learning by Eating](#p47)
-    - [3.33.2 Yuan-ti High Magic](#p47)
-    - [3.33.3 Yuan-ti Form](#p47)
-    - [3.33.4 Table of Contents](#p48)
-    - [3.33.5 Table of Contents](#p48)
-    - [3.33.6 Table of Contents](#p48)
+  
+  - [2.20 Kalashtar](#p26)
+    - [2.20.1 Dream Reader](#p26)
+    - [2.20.2 Dream Walker](#p26)
+    - [2.20.3 Spirit Release](#p26)
+  - [2.21 Kenku](#p27)
+    - [2.21.1 Learning New Things](#p27)
+    - [2.21.2 Glide](#p27)
+    - [2.21.3 Embrace the Curse](#p27)
+  - [2.22 Kobold](#p27)
+    - [2.22.1 Better together](#p27)
+    - [2.22.2 Preparation is Key](#p27)
+    - [2.22.3 Blessing of Tiamat](#p27)
+  - [2.23 Lizardfolk](#p28)
+    - [2.23.1 Cold Hearted](#p28)
+    - [2.23.2 Release the Beast](#p28)
+    - [2.23.3 Chameleon Scales](#p28)
+    - [2.23.4 Thorny Scales](#p28)
+    - [2.23.5 Armadillo Scales](#p28)
+  - [2.24 Loxodon](#p28)
+    - [2.24.1 Perfect Memory](#p28)
+    - [2.24.2 Loxodon Rage](#p28)
+    - [2.24.3 Minotaur](#p28)
+    - [2.24.4 Labyrinth Senses](#p28)
+    - [2.24.5 Heroes Blood](#p28)
+  - [2.25 Orc](#p29)
+    - [2.25.1 The Colors of Conquest](#p29)
+    - [2.25.2 The Color of Blood](#p29)
+    - [2.25.3 The Color of Death](#p29)
+    - [2.25.4 The Color of Darkness](#p29)
+  - [2.26 Shifter](#p29)
+    - [2.26.1 Shifter Senses](#p29)
+    - [2.26.2 Full Transformation:](#p29)
+    - [2.26.3 Advanced Shifting](#p29)
+  - [2.27 Tabaxi](#p30)
+    - [2.27.1 Always Land on Your Feet](#p30)
+    - [2.27.2 Nine Lives](#p30)
+  - [2.28 Tiefling](#p30)
+    - [2.28.1 The Art of Haggling](#p30)
+    - [2.28.2 Flames of Phlegethos](#p30)
+    - [2.28.3 Infernal Constitution](#p30)
+    - [2.28.4 Infernal Form](#p30)
+    - [2.28.5 The Art of The Deal](#p30)
+  - [2.29 Tortle](#p31)
+    - [2.29.1 Water Tortle](#p31)
+    - [2.29.2 Snapping Tortle](#p31)
+    - [2.29.3 Dragon Torle](#p31)
+    - [2.29.4 Advanced Shell Defense](#p31)
+  - [2.30 Triton](#p31)
+    - [2.30.1 Child of the Sea](#p31)
+    - [2.30.2 Master of the Sea](#p31)
+    - [2.30.3 Sea Caller](#p31)
+  - [2.31 Vedalken](#p32)
+    - [2.31.1 Seeking Perfection](#p32)
+    - [2.31.2 Efficient Worker](#p32)
+    - [2.31.3 Finding Perfection](#p32)
+  - [2.32 Warforged](#p32)
+    - [2.32.1 Iron Wood Components](#p32)
+    - [2.32.2 Overheat](#p32)
+    - [2.32.3 Mithral Components](#p32)
+    - [2.32.4 Adamantine Components](#p32)
+  - [2.33 Yuan-ti Pureblood](#p33)
+    - [2.33.1 Learning by Eating](#p33)
+    - [2.33.2 Yuan-ti High Magic](#p33)
+    - [2.33.3 Yuan-ti Form](#p33)
 </div>
