@@ -1188,8 +1188,7 @@ You have studied your magic over the course of your adventures. you gain the fol
 
 ## Feats by Race
 
-Feats listed in this section can only be taken by the
-associated race.
+Feats listed in this section can only be taken by the associated race.
 
 ## Aarakocra
 
@@ -1197,47 +1196,35 @@ associated race.
 
 **Prerequisite:** Strength of 13 or higher.
 
-You have trained to make your wings stronger and more
-powerful, granting you the following benefit.
+You have trained to make your wings stronger and more powerful.
 
+* You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 30ft while wearing this kind of armor.
 
-You can wear medium or heavy armor and still use your
-fly speed, but your fly speed is reduced to 30ft while
-wearing this kind of armor.
 
 ### Hawk's Eye
 
 **Prerequisite:** Level 6.
 
-You have adopted your bird features to improve your vision,
-granting you the following benefits:
+You have adopted your bird features to improve your vision, granting you the following benefits:
 
+* You have advantage on Wisdom (Perception) checks that rely on sight.
+* In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
-You have advantage on Wisdom (Perception) checks that
-rely on sight.
-In conditions of clear visibility, you can make out details of
-even extremely distant creatures and objects as small as 2
-feet across.
 
 ### Flyby
 
 **Prerequisite:** Level 12, Dexterity of 15 or higher.
 
-You can swoop down quickly and strike with deadly
-precision, granting you the following benefits:
+You can swoop down quickly and strike with deadly precision, granting you the following benefits:
 
+* You don't provoke opportunity attacks when you fly out of an enemy's reach.
+* When you use the Dash action on your turn while flying, you can make a single melee attack against one target, which is in your flying path.
 
-You don't provoke opportunity attacks when you fly out of
-an enemy's reach.
-When you use the Dash action on your turn while flying,
-you can make a single melee attack against one target,
-which is in your flying path.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Aasimar
 
@@ -1245,53 +1232,38 @@ which is in your flying path.
 
 **Prerequisite:** Level 6.
 
-You learn more of the magic typical of Celestials, granting
-you the following benefits:
+You learn more of the magic typical of Celestials, granting you the following benefits:
 
+* You learn the bless or bane spell and can cast it at will, without expending a spell slot. 
+* You learn lesser restoration and remove curse, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. 
+* Charisma is your spellcasting ability for all spells learned through this feat.
 
-You learn the bless or bane spell and can cast it at will,
-without expending a spell slot. You also learn lesser
-restoration and remove curse, each of which you can cast
-once without expending a spell slot. You regain the ability
-to cast those two spells in this way when you finish a long
-rest. Charisma is your spellcasting ability for all three
-spells.
 
 ### Enhanced Transformation
 
 **Prerequisite:** Level 9.
 
-You learned to improve your celestial transformation
-(Necrotic Shroud, Radiant Soul or Radiant Consumption),
-you gain the following benefits:
+You learned to improve your celestial transformation (Necrotic Shroud, Radiant Soul or Radiant Consumption), you gain the following benefits:
 
+* You can use your transformation a number of times equal to your Charisma modifier (minimum of 1), before you must finish a long rest.
+* When your transformation causes you to take damage it now doesn't.
 
-You can use your transformation a number of times equal
-to your Charisma modifier (minimum of 1), before you
-must finish a long rest.
-When your transformation causes you to take damage it
-now doesn't.
 
 ### Celestial Mind
 
 **Prerequisite:** Level 12.
 
-Your celestial blood makes it harder for other creatures to
-control your mind, you gain the following benefits:
+Your celestial blood makes it harder for other creatures to control your mind, you gain the following benefits:
 
+* You have advantage on saving throws against being frightened or charmed.
+* Other creatures can't read your mind unless you want them to.
+* You can communicate telepathically with other creatures you can see, up to a range of 60ft.
 
-You have advantage on saving throws against being
-frightened or charmed.
-Other creatures can't read your mind unless you want
-them to.
-You can communicate telepathically with other creatures
-you can see, up to a range of 60ft.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Bugbear
 
@@ -1299,106 +1271,80 @@ you can see, up to a range of 60ft.
 
 **Prerequisite:** Level 6.
 
-You learned how to surprise people when they least expect
-it, you gain the following benefit:
+You learned how to surprise people when they least expect it.
 
+* The extra damage of your Surprise Attack feature increases to 3d6 and keeps increasing to 4d6 at 11th level, and 5d6 at 16th level.
 
-The extra damage of your Surprise Attack feature
-increases to 3d6 and keeps increasing to 4d6 at 11th level,
-and 5d6 at 16th level.
 
 ### Brute
 
 **Prerequisite:** Level 9.
 
-You learned how to hit enemies and how to hit them good,
-granting you the following benefit:
+You learned how to hit enemies and how to hit them good.
 
+* When you attack with a melee weapon it deals one extra die of its damage on a hit.
 
-When you attack with a melee weapon it deals one extra
-die of its damage on a hit.
 
 ### Heart of Hruggek
 
 **Prerequisite:** Level 12.
 
-Hruggek saw you in battle and he liked it, as one of his
-favorites he grants you the following benefit:
+Hruggek saw you in battle and he liked it, as one of his favorites he grants you the following benefit:
 
+* You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
 
-You have advantage on saving throws against being
-charmed, frightened, paralyzed, poisoned, stunned, or put
-to sleep.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Centaur
 
 ### Trampling Hooves
 
-You learned to put your horse body to good use in combat,
-you gain the following benefits:
+You learned to put your horse body to good use in combat, you gain the following benefits:
 
+* Your hooves now deal 2d4 + your Strength modifier bludgeoning damage.
+* If you move at least 20 feet straight toward a creature and then hits it with an attack on the same turn, that target must succeed on a DC (8 + proficiency bonus + Strength modifier)Strength saving throw or be knocked prone.
+* If you attack a prone target, you can make an attack with your hooves against it as a bonus action.
 
-Your hooves now deal 2d4 + your Strength modifier
-bludgeoning damage.
-If you move at least 20 feet straight toward a creature and
-then hits it with an attack on the same turn, that target
-must succeed on a DC (8 + proficiency bonus + Strength
-modifier)Strength saving throw or be knocked prone.
-If you attack a prone target, you can make an attack with
-your hooves against it as a bonus action.
 
 ### Jousting
 
-You become rider and horse in one person, you gain the
-following benefits:
+You become rider and horse in one person, you gain the following benefits:
 
+* You can use the Mounted Combatant feat without a mount. You count as the rider and the mount in that case.
+* You can use a lance without the penalty of not having a mount.
 
-You can use the Mounted Combatant feat without a
-mount. You count as the rider and the mount in that case.
-You can use a lance without the penalty of not having a
-mount.
 
 ### Pegasus Blood
 
 **Prerequisite:** Level 12, no other Blood feature.
 
-You have Pegasus blood in your veins, that changes your
-physic, granting you the following benefits:
+You have Pegasus blood in your veins, that changes your physic, granting you the following benefits:
 
+* Your size becomes large. 
+* You gain a fly speed of 50ft.
+* Your hooves damage die changes to a d6.
 
-Your size becomes large.
-You gain a fly speed of 50ft.
-Your hooves damage die changes to a d6.
 
 ### Unicorn Blood
 
 **Prerequisite:** Level 15, no other Blood feature.
 
-You have unicorn blood in your veins, that changes your
-physic, granting you the following benefits:
+You have unicorn blood in your veins, that changes your physic, granting you the following benefits:
 
+* Your size becomes large
+* You grow a horn on your forehead which can be used as a magical melee weapon. The horn deals 1d8 + your Strength modifier of piercing damage.
+* You gain darkvision up to a range of 60ft. 
+* You can magically teleport yourself and up to one willing creatures you can see within 5 feet of you, along with any equipment you are wearing or carrying, to a location that you are familiar with, up to 1 mile away. Once you use this feature you can't use it again until you finish a long rest.
 
-Your size becomes large
-You grow a horn on your forehead which can be used as a
-magical melee weapon. The horn deals 1d8 + your
-Strength modifier of piercing damage.
-You gain darkvision up to a range of 60ft.
-The can magically teleports yourself and up to one willing
-creatures you can see within 5 feet of you, along with any
-equipment you are wearing or carrying, to a location the
-you are familiar with, up to 1 mile away. Once you use this
-feature you can't use it again until you finish a long rest.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
 
 ## Changeling
 
@@ -1406,32 +1352,19 @@ feature you can't use it again until you finish a long rest.
 
 **Prerequisite:** Level 9.
 
-You learned to change your body in a way only few of your
-kind have mastered, you gain the following benefits:
+You learned to change your body in a way only few of your kind have mastered, you gain the following benefits:
 
+* You can use your Shapechanger features to sprout additional limbs like tails or wings.
+* You can take the form of any creature you are familiar with up to a size of large, your game statistics stay the same, except for speed (movement, fly, swim or burrow)
 
-You can use your Shapechanger features to sprout
-additional limbs like tails or wings.
-You can take the form of any creature you are familiar
-with up to a size of large, your game statistics stay the
-same, except for speed (movement, fly, swim or burrow)
 
 ### Master of all Forms
 
 **Prerequisite:** Level 15, Thousand Faces.
 
-Your transformation skills are at their peak and there are
-not many who can rival you. You gain the following benefit:
+Your transformation skills are at their peak and there are not many who can rival you. You gain the following benefit:
 
-
-You can transform into any Creature you are familiar with,
-that has a challenge rating of half your level (rounded up)
-and is huge or smaller. Your statistics change except for
-your wisdom, Intelligence and Charisma score. You don't
-get any legendary actions or resistances. When you drop
-to zero hit 0 hit points, you revert to your normal form
-with 0 hit points. You can use his feature once and you
-regain the ability to do so when you finish a long rest.
+* You can transform into any Creature you are familiar with, that has a challenge rating of half your level (rounded up) and is huge or smaller. Your statistics change except for your wisdom, Intelligence and Charisma score. You don't get any legendary actions or resistances. When you drop to zero hit 0 hit points, you revert to your normal form with 0 hit points. You can use his feature once and you regain the ability to do so when you finish a long rest.
 
 ```
 ```
@@ -1445,15 +1378,16 @@ regain the ability to do so when you finish a long rest.
 
 When angered, you can radiate menace.
 
-Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+* Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 
 ### Dragon Hide
 
-Your manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
+You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 
 + Your scales harden. While you aren’t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 * You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
+
 
 ### Improved Dragon Breath
 
@@ -1502,77 +1436,58 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 
 ### Dwarven Stubbornness
 
-When set your mind to something there is nothing that can
-change your mind and most of the times people are to tiered
-to argue with you for long. You gain the following benefits:
+When set your mind to something there is nothing that can change your mind and most of the times people are to tiered to argue with you for long. You gain the following benefits:
 
+* You gain advantage on Persuasion checks to haggle.
+* You can sell Items for 75% of their original price.
 
-You gain advantage on Persuasion checks to haggle.
-You can sell Items for 75% of their original price.
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the
-following benefits:
+You are uncommonly nimble for your race. You gain the following benefits:
 
+* Increase your walking speed by 5 feet.
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-Increase your walking speed by 5 feet.
-You gain proficiency in the Acrobatics or Athletics skill
-(your choice).
-You have advantage on any Strength (Athletics) or
-Dexterity (Acrobatics) check you make to escape from
-being grappled.
 
 ### Cunning Artisan
 
 **Prerequisite:** Level 3.
 
-You have trained in the art of crafting for more years than a
-normal Human lives, you gain the following benefits:
+You have trained in the art of crafting for more years than a normal Human lives, you gain the following benefits:
 
+* You gain proficiency in one additional artisan tool of your choice
+* You double your proficiency bonus with all artisan tools you are proficient with.
+* The time you need to craft an item using an artisan tool you are proficient with is halved.
 
-You gain proficiency in one additional artisan tool of your
-choice
-You double your proficiency bonus with all artisan tools
-you are proficient with.
-The time you need to craft an item using an artisan tool
-you are proficient with is halved.
 
 ### Enhanced Enlarge
 
 **Prerequisite:** Level 6, Duergar.
 
-You learned how to increase your power while enlarged.
-You gain the following benefit:
+You learned how to increase your power while enlarged. You gain the following benefit:
 
+* When you cast the enlarge spell, with your racial feat, it doesn't require concentration.
+* While enlarged you gain an extra damage die on Strength-based weapon attacks instead of getting an extra 1d4.
 
-When you cast the enlarge spell, with your racial feat, it
-doesn't require concentration.
-While enlarged you gain an extra damage die on Strength-
-based weapon attacks instead of getting an extra 1d4.
 
 ### Runes of Protection
 
+**Prerequisite:** Level 12, Cunning Artisan 
 
-**Prerequisite:** Level 12, Cunning Artisan You have learned the ancient art of engraving the dwarfen Runes of Protection.
+You have learned the ancient art of  engraving the dwarfen Runes of Protection into gemstones. You gain the following benefits:
 
-into gemstones. You gain the following benefits:
+* You learn how to craft Ioun Stones (as described in Xanathars Guide to Everything )
+* You learn the formula of 3 Ioun Stones up to a rarity of rare.
+* The costs and time needed for crafting a runestone is halved for you.
+* You can find new formulas on your journeys on the DMs discretion.
 
-
-You learn how to craft Ioun Stones (as described in
-Xanathars Guide to Everything )
-You learn the formula of 3 Ioun Stones up to a rarity of
-rare.
-The costs and time needed for crafting a runestone is
-halved for you.
-You can find new formulas on your journeys on the DMs
-discretion.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Elf
 
@@ -1590,17 +1505,11 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
 **Prerequisite:** Level 3.
 
-You are descended from a master of the double-bladed
-scimitar, and some of that mastery has passed on to you. You
-gain the following benefits:
+You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
 
-
-While you are holding a double-bladed scimitar with two
-hands, you gain a +1 bonus to Armor Class.
-A double-bladed scimitar has the finesse property when
-you wield it.
-The bonus attack with the double-bladed scimitar deals
-now full damage.
+* While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
+* A double-bladed scimitar has the finesse property when you wield it.
+* The bonus attack with the double-bladed scimitar now deals full damage.
 
 
 ### Elven Accuracy
@@ -1609,21 +1518,21 @@ now full damage.
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force.
 
-Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
+* Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
 
 ### Drow High Magic
 
 **Prerequisite:** Level 6, Drow.
 
-You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
+* You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
 
 
 ### Wood Elf Magic
 
 **Prerequisite:** Level 6, Wood Elf.
 
-You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the longstrider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+* You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the longstrider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
 
 ```
 ```
@@ -1632,226 +1541,162 @@ You learn the magic of the primeval woods, which are revered and protected by yo
 
 **Prerequisite:** Level 6, High Elf.
 
-You learn the magic of arcane studies. You learn the
-identify and can cast it at will, without expending a spell slot.
-You also learn the detect thoughts and nondetection spells,
-each of which you can cast once without expending a spell
-slot. You regain the ability to cast these two spells in this way
-when you finish a long rest. Intelligence is your spellcasting
-ability for all three spells.
+* You learn the magic of arcane studies. You learn the identify and can cast it at will, without expending a spell slot. You also learn the detect thoughts and nondetection spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Intelligence is your spellcasting ability for all three spells.
 
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Firbolg
 
 ### Caretaker of the Critters
 
-As a Firbolg you are a guardian of nature and a caretaker of
-its inhabitants. This feat provides the following benefits:
+As a Firbolg you are a guardian of nature and a caretaker of its inhabitants. This feat provides the following benefits:
 
-
-You gain expertise with Animal Handling.
-You gain proficiency with Carpenter's Tools and
-Herbalism Tools.
+* You gain expertise with Animal Handling. 
+* You gain proficiency with Carpenter's Tools and Herbalism Tools.
 
 ### Speak with Beasts and Plants
 
 **Prerequisite:** Level 6.
 
-Your connection with nature has grown over the course of
-your adventures you gain the following benefits:
+Your connection with nature has grown over the course of your adventures you gain the following benefits:
 
+* You learn the speak with animals spell and cast it at will without expending a spell slot.
+* You learn the speak with plants spell and can cast it once without expending a spell slot. you regain the ability to do so when you finish a short or long rest
 
-You learn the speak with animals spell and cast it at will
-without expending a spell slot.
-You learn the speak with plants spell and can cast it once
-without expending a spell slot. you regain the ability to do
-so when you finish a short or long rest
 
 ### Natures Friend
 
 **Prerequisite:** Level 9, Speak with Beasts and Plants.
 
-You love nature and nature loves you, which grands you the
-following benefits:
+You love nature and nature loves you, which grands you the following benefits:
 
+* Difficult terrain made from plants doesn't cost you extra movement.
+* You always find shelter when you travel in natural terrain. 
+* As a bonus Action on your turn you can call out for the environment to aid you. While in natural terrain nature will help you in combat, you can describe the effect. If the effect would deal damage the DM determines it. (Many birds attack your enemies, a small rockslide knocks your enemies prone etc.) Your save DC for such effects equals 8 + your Wisdom modifier + your proficiency modifier. Once you use this feat you can’t use it until you finish a short rest.
 
-Difficult terrain made from plants doesn't cost you extra
-movement.
-You always find shelter when you travel in natural terrain.
-As a bonus Action on your turn you can call out for the
-environment to aid you. While in natural terrain nature
-will help you in combat, you can describe the effect. If the
-effect would deal damage the DM determines it. (Many
-birds attack your enemies, a small rockslide knocks your
-enemies prone etc.) Your save DC for such effects equals
-8 + your Wisdom modifier + your proficiency modifier.
-Once you use this feat you can’t use it until you finish a
-short rest.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
 
-
-
 ## Genasi
 
-For the purpose of associated damage types, consider the
-following chart:
+For the purpose of associated damage types, consider the following chart:
 
 #### Associated Element
 
+| Genasi | Element |
+|:---:|:---|
+|Air | Thunder |
+|Earth | Bludgeoning |
+|Fire | Fire |
+|Water | Acid |
 
-Genasi Element
-Air Thunder
-Earth Bludgeoning
-Fire Fire
-Water Acid
 
 ### Elemental Adaptation
 
-Your elemental bloodline shields you from enemy attacks.
-You gain the following benefits:
+Your elemental bloodline shields you from enemy attacks. You gain the following benefits:
 
+* You gain resistance to your associated damage type. 
+* If you take damage from your associated damage type you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken (including your resistance). Once you use this feature you can't do so again until you finish a long rest.
 
-You gain resistance to your associated damage type.
-If you take damage from your associated damage type you
-can use your reaction to gain immunity against that
-instance of the damage, and you regain a number of hit
-points equal to half the damage you would have taken
-(including your resistance). Once you use this feature you
-can't do so again until you finish a long rest.
 
 ### Elemental Familiar
 
 **Prerequisite:** Level 3.
 
-Your connection to the Elemental plains grants you the aid
-of new forms of familiars. You gain the following benefits:
+Your connection to the Elemental plains grants you the aid of new forms of familiars. You gain the following benefits:
 
+* You learn the find familiar spell and can cast it as a ritual. 
+* You can choose an additional form for your familiar depending on your origin, as shown in the table below. 
+* Your familiar counts as an elemental.
 
-You learn the find familiar spell and can cast it as a ritual.
-You can choose an additional form for your familiar
-depending on your origin, as shown in the table below.
-Also, your familiar counts as an elemental.
 
 #### Familiar Forms
 
+| Genasi | Form |
+|:---:|:---|
+| Air | Steam Mephit |
+| Earth | Dust Mephit |
+| Fire | Magma Mephit |
+| Water | Ice Mephit |
 
-Genasi Form
-Air Steam Mephit
-Earth Dust Mephit
-Fire Magma Mephit
-Water Ice Mephit
 
 ### Spell Forming
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
 
-Your elemental ancestry lets you change the appearance of
-your spells, granting you the following benefit:
+Your elemental ancestry lets you change the appearance of your spells, granting you the following benefit:
 
+* If you cast a Spell that deals acid, cold, fire, lightning, or thunder, you can change the damage type of this spell to your associated damage type. You can use this feature a number of times equal to your constitution modifier (minimum of 1) before you need to make a long rest.
 
-If you cast a Spell that deals acid, cold, fire, lightning, or
-thunder, you can change the damage type of this spell to
-your associated damage type. You can use this feature a
-number of times equal to your constitution modifier
-(minimum of 1) before you need to make a long rest.
 
 ### Elemental Investiture
 
-
 **Prerequisite:** Level 12, Elemental Adaptation.
 
-Your Elemental ancestors grant you the access to powerful
-elemental magic. You gain the following benefit:
+Your Elemental ancestors grant you the access to powerful elemental magic.
 
+* You can cast one investiture spell associated with your nature as shown in the table below. Constitution is your spell casting ability for this spell. You can use this feature once per long rest
 
-You can cast one investiture spell associated with your
-nature as shown in the table below. Constitution is your
-spell casting ability for this spell. You can use this feature
-once per long rest
+| Genasi | Spell |
+|:---:|:---|
+| Air | Investiture of Wind |
+| Earth | Investiture of Stone |
+| Fire | Investiture of Fire |
+| Water | Investiture of Ice |
 
-
-Genasi Spell
-Air Investiture of Wind
-Earth Investiture of Stone
-Fire Investiture of Fire
-Water Investiture of Ice
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Gith
 
 ### Telepathy
 
-Your psychic nature lets you reach out with your mind to
-communicate with other creatures. You gain the following
-benefit:
+Your psychic nature lets you reach out with your mind to communicate with other creatures.
 
+* You can telepathically speak to any creature you can see within 30 feet of you. You need to share a language with the creature for it to understand you.
 
-You can telepathically speak to any creature you can see
-within 30 feet of you. You need to share a language with
-the creature for it to understand you.
 
 ### Illithid Hunter
 
 **Prerequisite:** Level 3.
 
-Your natural hate against Illithids and their kind enhances
-your abilities to hunt them. You gain the following benefits:
+Your natural hate against Illithids and their kind enhances your abilities to hunt them. You gain the following benefits:
 
+* You have advantage on Wisdom (Survival) checks to track aberrations, as well as on Intelligence ability checks to recall information about them.
+* You have advantage on saving throws against being stunned.
 
-You have advantage on Wisdom (Survival) checks to track
-aberrations, as well as on Intelligence ability checks to
-recall information about them.
-You have advantage on saving throws against being
-stunned.
 
 ### Enhanced Psychic Powers
 
 **Prerequisite:** Level 6.
 
-Your psychic mind grows and so do your ability to use it.
-You gain the following benefits:
+Your psychic mind grows and so do your ability to use it. You gain the following benefits:
 
+* You learn the catapult, see invisibility and blink spell. You can cast each of these spells once, before you must finish a long rest. You don't need any components to cast these spells. Intelligence is your spellcasting modifier for all of these spells.
 
-You learn the catapult, see invisibility and blink spell. You
-can cast each of these spells once, before you must finish
-a long rest. You don't need any components to cast these
-spells. Intelligence is your spellcasting modifier for all of
-these spells.
 
 ### Illithid Slayer
 
 **Prerequisite:** Level 9, Illithid Hunter.
 
-You trained hard and enhanced your abilities to stand up
-against your hated foe. You gain the following benefits:
+You trained hard and enhanced your abilities to stand up against your hated foe. You gain the following benefits:
 
-
-You gain resistance against psychic damage.
-You have advantage on saving throws against being
-charmed.
-When you hit an aberration with a melee weapon attack
-you deal an extra 1d8 psychic damage to that target. If the
-target has resistance to psychic damage you ignore that
-resistance (Except Flumps we all love Flumps).
+* You gain resistance against psychic damage.
++ You have advantage on saving throws against being charmed.
+* When you hit an aberration with a melee weapon attack you deal an extra 1d8 psychic damage to that target. If the target has resistance to psychic damage you ignore that resistance (Except Flumps we all love Flumps).
 
 ```
 ```
 
 \page
 <div class='pageNumber auto'></div>
-
 
 ## Gnome
 
@@ -1875,258 +1720,170 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
 **Prerequisite:** Level 3.
 
-You have trained in the art of crafting for more years than a
-normal Human lives, you gain the following benefits:
+You have trained in the art of crafting for more years than a normal Human lives, you gain the following benefits:
 
 
-You gain proficiency in one additional artisan tool of your
-choice
-You double your proficiency bonus with all artisan tools
-you are proficient with.
-The time you need to craft an item using an artisan tool
-you are proficient with is halved.
+* You gain proficiency in one additional artisan tool of your choice
+* You double your proficiency bonus with all artisan tools you are proficient with.
+* The time you need to craft an item using an artisan tool you are proficient with is halved.
+
 
 ### Svirfneblin Magic
 
 **Prerequisite:** Level 6, Deep Gnome.
 
-You have inherited the innate spellcasting ability of your
-ancestors. This ability allows you to cast nondetection on
-yourself at will, without needing a material component. You
-can also cast each of the following spells once with this
-ability: blindness/deafness, blur, and disguise self. You regain
-the ability to cast these spells when you finish a long rest.
-Intelligence is your spellcasting ability for these spells, and
-you cast them at their lowest possible levels.
+* You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetection on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest. Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.
+
 
 ### Superior Tinkering
 
+**Prerequisite:** Level 9, proficiency in Tinkering Tools, Cunning Artisan.
 
-**Prerequisite:** Level 9, proficiency in Tinkering Tools,
-Cunning Artisan.
+Your decade long studies in mechanics finally paid off and you learned how to create little constructs. You gain the following benefits:
 
-Your decade long studies in mechanics finally paid off and
-you learned how to create little constructs. You gain the
-following benefits:
+* You learn how to speak, read and write Modron 
+* You can spend 1 workday and expend gold for materials, equal to 100GP x the Modrons CR to, create a Modron that aids you on your travels. 
+* The Modron listens to your verbal commands (a verbal command requires a bonus action) but can act on its own in combat. The Modrons are all one size category smaller than the stat block says. The combined CR of all your Modrons can never exceed half your proficiency bonus (rounded up).
 
-
-You learn how to speak, read and write Modron
-You can spend 1 workday and expend gold for materials,
-equal to 100GP x the Modrons CR to, create a Modron
-that aids you on your travels. The Modron listens to your
-verbal commands (a verbal command requires a bonus
-action) but can act on its own in combat. The Modrons are
-all one size category smaller than the stat block says.
-The combined CR of all your Modrons can never exceed
-half your proficiency bonus (rounded up).
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Goblin
 
 ### Squat Nimbleness
 
-You are uncommonly nimble for your race. You gain the
-following benefits:
+You are uncommonly nimble for your race. You gain the following benefits:
 
-
-Increase your walking speed by 5 feet.
-You gain proficiency in the Acrobatics or Athletics skill
-(your choice).
-You have advantage on any Strength (Athletics) or
-Dexterity (Acrobatics) check you make to escape from
-being grappled.
+* Increase your walking speed by 5 feet.
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
 ### Bad Inventors
 
-You aren't good at planning, but you are incredibly good at
-improvising. You gain the following Benefits:
+You aren't good at planning, but you are incredibly good at improvising. You gain the following Benefits:
 
+* You gain proficiency in improvised weapons.
+* You can spend one minute to build an improvised trap out of junk and other materials (see the sample Traps section in the Dungeon Master's Guide Chapter 5). The Save DC for your Traps equals 8 + your proficiency bonus + your Dexterity modifier. There is always a 10% chance, that your trap doesn’t work at all, and a 5% chance that it activates while you are building it, making you the target of your own trap.
+* You have resistance to the damage dealt by traps.
 
-You gain proficiency in improvised weapons.
-You can spend one minute to build an improvised trap out
-of junk and other materials (see the sample Traps section
-in the Dungeon Master's Guide Chapter 5). The Save DC
-for your Traps equals 8 + your proficiency bonus + your
-Dexterity modifier. There is always a 10% chance, that
-your trap doesn’t work at all, and a 5% chance that it
-activates while you are building it, making you the target
-of your own trap.
-You have resistance to the damage dealt by traps.
 
 ### Garbage to Gold
 
-You have learned to use other people’s waste to craft useful
-things for yourself. You gain the following benefits:
+You have learned to use other people’s waste to craft useful things for yourself. You gain the following benefits:
 
+* You gain proficiency in one Artisan Tool of your choice. 
+* As part of a short rest, you can harvest scrap from a slain enemies or from garbage to create one of the following items: a shield, a club, a javelin,1d4 dart or blowgun needles or Arrows, a leather armor for small creatures only, a short bow or a spear.
 
-You gain proficiency in one Artisan Tool of your choice.
-As part of a short rest, you can harvest scrap from a slain
-enemies or from garbage to create one of the following
-items: a shield, a club, a javelin,1d4 dart or blowgun
-needles or Arrows, a leather armor for small creatures
-only, a short bow or a spear.
 
 ### Fire in the Hole
 
 **Prerequisite:** Level 6.
 
-You have a favor for explosives even if they don't have one
-for you. You gain the following benefits:
+You have a favor for explosives even if they don't have one for you. You gain the following benefits:
 
 
-You gain resistance to fire damage.
-You gain proficiency with alchemist supplies.
-You can spend a short rest to craft a small bomb, that
-deals 1d6 fire and 1d6 bludgeoning damage for each
-10GP worth of material you used to craft it (up to a
-maximum of 10d6 damage). As an Action you can hurl the
-bomb against a creature within 30ft of you. The target and
-every creature within 5ft of it must make a Dexterity
-saving (DC 8 + your proficiency bonus + your Dexterity
-modifier), taking half damage on a successful save. Before
-you throw the bomb roll a d20, if you roll a 1 the bomb
-explodes in your face dealing half damage to you.
-the maximum number of bombs you can have equals half
-your proficiency bonus (rounded up).
+* You gain resistance to fire damage.
+* You gain proficiency with alchemist supplies.
+* You can spend a short rest to craft a small bomb, that deals 1d6 fire and 1d6 bludgeoning damage for each 10GP worth of material you used to craft it (up to a maximum of 10d6 damage). As an Action you can hurl the bomb against a creature within 30ft of you. The target and every creature within 5ft of it must make a Dexterity saving (DC 8 + your proficiency bonus + your Dexterity modifier), taking half damage on a successful save. Before you throw the bomb roll a d20, if you roll a 1 the bomb explodes in your face dealing half damage to you. 
+* The maximum number of bombs you can have equals half your proficiency bonus (rounded up).
+
 ```
 ```
+
 ### Hagedy Hagedy
-
 
 **Prerequisite:** Level 12, Fire in the Hole.
 
-You've developed a new toy, much to the regret of your
-enemies. You gain the following benefits:
+You've developed a new toy, much to the regret of your enemies. You gain the following benefits:
 
-
-The costs for crafting your Bombs is halved, and you can
-craft up to 2 bombs per short rest.
-Your maximum number of bombs now equals your
-proficiency bonus.
-The gold you need to spend, to build your bombs is halved.
-You invented the BOMB CANNON a portable launcher for
-your small bombs with which you are proficient. The
-BOMB CANNON has the following properties: Martial
-ranged weapon, reach 60/120ft, damage equals the
-loaded bomb.
+* The costs for crafting your Bombs is halved, and you can craft up to 2 bombs per short rest. 
+* Your maximum number of bombs now equals your proficiency bonus.
+* The gold you need to spend, to build your bombs is halved. 
+* You invented the BOMB CANNON a portable launcher for your small bombs with which you are proficient. The BOMB CANNON has the following properties: Martial ranged weapon, reach 60/120ft, damage equals the loaded bomb.
 
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Goliath
 
 ### Pushing Through
 
-The harsh environment you grow up in tough you how to
-keep going when others would collapse on the spot, granting
-you the following benefit:
+The harsh environment you grow up in tough you how to keep going when others would collapse on the spot, granting you the following benefit:
 
+* You ignore a number of exhaustion points equal to half your proficiency bonus (rounded down). You still die when you gain 6 exhaustion points.
+* You remove 2 points of exhaustion per long rest instead of 1
 
-You ignore a number of exhaustion points equal to half
-your proficiency bonus (rounded down). You still die when
-you gain 6 exhaustion points.
-You remove 2 points of exhaustion per long rest instead of
-1
 
 ### Titanium Endurance
 
 **Prerequisite:** Level 3.
 
-Your harsh training hardened your body to a degree most
-humans can’t comprehend, you gain the following benefit:
+Your harsh training hardened your body to a degree most humans can’t comprehend, you gain the following benefit:
 
+* You can use your Stone’s Endurance feature a number of times equal to your Constitution modifier (minimum of 1) before you have to finish a long rest.
 
-You can use your Stone’s Endurance feature a number of
-times equal to your Constitution modifier (minimum of 1)
-before you have to finish a long rest.
 
 ### Advanced Great Weapon Training
 
 **Prerequisite:** Level 6, Strength 13 or higher.
 
-Wielding a large weapon became an easy practice to you
-over the years, you gain the following benefit:
+Wielding a large weapon became an easy practice to you over the years, you gain the following benefit:
 
-
-You can wield a two-handed weapon with one hand, as
-long as it is your main hand and the weapon isn’t a pole
-arm. You can never dual wield more than 1 two-handed
+* You can wield a two-handed weapon with one hand, as long as it is your main hand and the weapon isn’t a polearm. You can never wield more than 1 two-handed
 weapon at once.
+
 
 ### Intimidating Fighter
 
 **Prerequisite:** Level 9, Titanium Endurance.
 
-Your hulking figure is a sight to behold on the battlefield
-and people may think twice before attacking you, you gain the
-following benefits:
+Your hulking figure is a sight to behold on the battlefield and people may think twice before attacking you, you gain the following benefits:
 
+* You gain proficiency in the intimidation skill, if you already have proficiency in that skill you gain expertise in that skill.
+* You can use your Strength instead of your Charisma when you use the intimidate skill.
+* You gain the benefits of the Grappler feat.
+* When you use your Stone’s Endurance feature against a melee attack from a creature that is large or smaller and you reduce the incoming damage to 0 you automatically grapple the enemy.
 
-You gain proficiency in the intimidation skill, if you already
-have proficiency in that skill you gain expertise in that
-skill.
-You can use your Strength instead of your Charisma when
-you use the intimidate skill.
-You gain the benefits of the Grappler feat.
-When you use your Stone’s Endurance feature against a
-melee attack from a creature that is large or smaller and
-you reduce the incoming damage to 0 you automatically
-grapple the enemy.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Half-Elf
 
 ### Social Adaptation
 
-Since you are a being of two worlds have no problem fitting
-in wherever you go. You gain the following benefits:
+Since you are a being of two worlds have no problem fitting in wherever you go. You gain the following benefits:
 
+* Once during a long rest, you can switch one Charisma based skill proficiency to another Charisma based skill proficiency.
+* You gain advantage on Charisma checks to pass as a local.
 
-Once during a long rest, you can switch one Charisma
-based skill proficiency to another Charisma based skill
-proficiency.
-You gain advantage on Charisma checks to pass as a local.
 
 ### World traveler
 
-You traveled the world and saw many things, granting you the
-following benefits:
+You traveled the world and saw many things, granting you the following benefits:
 
+* You gain proficiency at the History skill and in cartographers’ tools.
+* You don’t get disadvantage on Wisdom (Perception) checks while traveling at a fast pace and you can still stealth while travel at a normal pace.
 
-You gain proficiency at the History skill and in
-cartographers’ tools.
-You don’t get disadvantage on Wisdom (Perception)
-checks while traveling at a fast pace and you can still
-stealth while travel at a normal pace.
 
 ### Elven Magic
 
 **Prerequisite:** Level 6.
 
-Your elven blood line grants you access to powerful magic,
-you gain the following benefit:
+Your elven blood line grants you access to powerful magic, you gain the following benefit:
 
+* Choose one of the Elven Magic feats, associated with one of your parents, you gain this feat.
 
-Choose one of the Elven Magic feats, associated with one
-of your parents, you gain this feat.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Half-Orc
 
@@ -2144,29 +1901,20 @@ Your inner fury burns tirelessly. You gain the following benefits:
 
 **Prerequisite:** Level 6.
 
-Coming to the edge of death fuels your inner fire, granting
-you the following benefit:
+Coming to the edge of death fuels your inner fire.
 
+* When you use your Relentless Endurance trait you can expend hit dice as if you have taken a short rest. The maximum number of hit dice you can use this way is equal to your proficiency bonus.
 
-When you use your Relentless Endurance trait you can
-expend hit dice as if you have taken a short rest. The
-maximum number of hit dice you can use this way is equal
-to your proficiency bonus.
 
 ### Mark of Gruumsh
 
 **Prerequisite:** Level 9, Orcish Fury.
 
-Killing invigorates you to such a degree, that some would
-say Gruumsh himself has his eye on you, granting you the
-following benefit:
+Killing invigorates you to such a degree, that some would say Gruumsh himself has his eye on you.
 
+* When you reduce a creature to 0 Hit Points you can move as a reaction up to your movement and make one additional attack against a creature in range. This movement doesn’t provoke opportunity attacks. 
+* You can’t use the movement without the attack.
 
-When you reduce a creature to 0 Hit Points you can move
-as a reaction up to your movement and make an
-additional attack against a creature in range. This
-movement doesn’t provoke opportunity attacks. If you
-can’t use the movement without the attack.
 ```
 ```
 
@@ -2179,9 +1927,8 @@ can’t use the movement without the attack.
 
 Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You’re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune’s favor!
 
-When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll. 
-
-When you use this ability, you can’t use your Lucky racial trait before the end of your next turn
+* When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll. 
+* When you use this ability, you can’t use your Lucky racial trait before the end of your next turn
 
 
 ### But What About A Second Breakfast?
@@ -2196,7 +1943,7 @@ Breakfast is the most important meal of the day and why don’t have multiple of
 
 Fortune favors you when someone tries to strike you.
 
-When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
+* When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
 
 ### Squat Nimbleness
@@ -2240,341 +1987,229 @@ You became one of the most brilliant chefs, granting you the following benefit:
 
 **Prerequisite:** Level 3.
 
-Your knowledge about tactics and strategy gives you an
-edge in combat, granting you the following benefits:
+Your knowledge about tactics and strategy gives you an edge in combat, granting you the following benefits:
 
+* You gain a pool of d6 equal to your proficiency bonus.
+* When you hit a creature with a weapon attack, and one of your allies is within 5ft of that creature, you can spend a number of d6, up to your Intelligence modifier and add them to the damage roll. You regain all expended dice when you finish a short or long rest.
 
-You gain a pool of d6 equal to your proficiency bonus.
-When you hit a creature with a weapon attack, and one of
-your allies is within 5ft of that creature, you can spend a
-number of d6, up to your Intelligence modifier and add
-them to the damage roll. You regain all expended dice
-when you finish a short or long rest.
 
 ### Tactical Genius
 
 **Prerequisite:** Level 9.
 
-You are great at giving “constructive criticism“ which
-mostly means shouting orders over the battlefield. You gain
-the following benefit:
+You are great at giving “constructive criticism“ which mostly means shouting orders over the battlefield.
 
+* You can use an action to shout commands and advices over the battlefield. For one minute all friendly creatures within 30ft of that can hear you can add a d4 to every attack roll and saving throw they make. While you use this feature, you can use reactions. Once you use this feature you can use it again until you finish a short rest.
 
-You can use an action to shout commands and advices
-over the battlefield. For one minute all friendly creatures
-within 30ft of that can hear you can add a d4 to every
-attack roll and saving throw they make. While you use this
-feature, you can use reactions. Once you use this feature
-you can use it again until you finish a short rest.
 
 ### Warlord
 
 **Prerequisite:** Level 12.
 
-You became a master of combat tactics, granting you the
-following benefits:
+You became a master of combat tactics, granting you the following benefits:
 
+* The range of your warlord feature increases to 60ft. 
+* While you aren’t in close Combat, every creature benefiting from your Warlord feature, that you can see, gains Pack Tactics.
 
-The range of your warlord feature increases to 60ft.
-Additionally, while you aren’t in close Combat, every
-creature benefiting from your Warlord feature, that you
-can see, gains Pact Tactics.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Human
 
 ### Adaptive Nature
 
-Your Human nature makes it easy for you to adapt to new
-situations, granting you the following benefit:
+Your Human nature makes it easy for you to adapt to new situations.
 
+* Once during a long rest, you can change one skill proficiency of your choice as long as the new proficiency uses the same attribute. You can’t change expertise this way. For example, you can change a proficiency in Persuasion to Intimidation but not to Perception.
 
-Once during a long rest, you can change one skill
-proficiency of your choice as long as the new proficiency
-uses the same attribute. You can’t change expertise this
-way. For example, you can change a proficiency in
-Persuasion to Intimidation but not to Perception.
 
 ### Quick Learner
 
 **Prerequisite:** Level 3.
 
-You learn new things faster than other people. You gain the
-following benefit:
+You learn new things faster than other people.
 
+* Choose one of your Class Features, which has limited uses (minimum of 2) you gain one additional use of that feature (this doesn’t work on Spell slots).
 
-Choose one of your Class Features, which has limited
-uses (minimum of 2) you gain one additional use of that
-feature (this doesn’t work on Spell slots).
 
 ### Master of Improvisation
 
 **Prerequisite:** Level 9.
 
-Improvising comes natural to you there is no situation you
-can’t solve by improving. You gain the following benefits:
+Improvising comes natural to you there is no situation you can’t solve by improving. You gain the following benefits: 
 
+* You gain proficiency with improvised weapons.
+* If you use an item, you can do so as a bonus action (this includes non-spellcasting abilities of magic items). 
+* You can use an action to fashion a simple device from things you have at hand. This can include an improvised weapon, a small explosive, a trap or something else at the DMs discretion.
 
-You gain proficiency with improvised weapons.
-If you use an item, you can do so as a bonus action (this
-includes non-spellcasting abilities of magic items).
-You can use an action to fashion a simple device from
-things you have at hand. This can include an improvised
-weapon, a small explosive, a trap or something else at the
-DMs discretion.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Kalashtar
 
 ### Dream Reader
 
-Your connection to the Plane of dreams makes it easy for you
-to read other people’s dreams. You gain the following benefit:
+Your connection to the Plane of dreams makes it easy for you to read other people’s dreams. You gain the following benefit:
 
 
-While within 30ft of a sleeping creature you can read their
-dreams similar to the Detect Thoughts Spell. You
-automatically gain the benefits of this spell as if the target
-has failed its saving throw against the spell, but you can
-only read subconscious thoughts.
+* While within 30ft of a sleeping creature you can read their dreams similar to the Detect Thoughts Spell. You automatically gain the benefits of this spell as if the target has failed its saving throw against the spell, but you can only read subconscious thoughts.
+
 
 ### Dream Walker
 
 **Prerequisite:** Level 9, Dream Reader.
 
-You gain the Ability to enter other creatures’ dreams like
-entering a room. You gain the following benefits:
+You gain the Ability to enter other creatures’ dreams like entering a room. You gain the following benefits:
 
+* You learn the dream Spell and can cast it at will without expending a spell slot.
+* If you are within 30ft of the sleeping creature the creature has disadvantage on its saving throw against this spell. Wisdom is your spell casting ability for this spell.
 
-You learn the dream Spell and can cast it at will without
-expending a spell slot.
-If you are within 30ft of the sleeping creature the creature
-has disadvantage on its saving throw against this spell.
-Wisdom is your spell casting ability for this spell.
 
 ### Spirit Release
 
 **Prerequisite:** Level 12.
 
-You have learned to release the Spirit bound within you.
-You gain the following benefits:
+You have learned to release the Spirit bound within you. You gain the following benefits:
 
+* As an action you can release your bound spirit, you choose the spirits appearance the spirit has the statistics of a Spirit. The Spirit is friendly to you and your companions. You can telepathically command the Spirit on your turn (no action required), if it don’t get any commands it acts on its own. You can release the spirit for a total number of hours equal to your Wisdom Modifier. Once you used all hours or the spirit drops to 0 hit points you can’t use this trait again until you finish a long rest.
+* If the Spirit drops to 0 hit points you take 2d10 psychic damage. 
+* While your spirit is released and within your telepathic range, you can see through your spirit's eyes and hear what it hears.
 
-As an action you can release your bound spirit, you choose
-the spirits appearance the spirit has the statistics of a
-Spirit. The Spirit is friendly to you and your companions.
-You can telepathically command the Spirit on your turn
-(no action required), if it don’t get any commands it acts on
-its own. You can release the spirit for a total number of
-hours equal to your Wisdom Modifier. Once you used all
-hours or the spirit drops to 0 hit points you can’t use this
-trait again until you finish a long rest. If the Spirit drops to
-0 hit points you take 2d10 psychic damage.
-While your spirit is released and within your telepathic
-range, you can see through your spirit's eyes and hear
-what it hears.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Kenku
 
 ### Learning New Things
 
-Your curse causes you to learn new things fast. Granting you
-the following benefit:
+Your curse causes you to learn new things fast. Granting you the following benefit:
 
+* You can spend 5 hours a day for a total 30 Days to gain proficiency in one skill, tool, weapon or language of your choice.
 
-You can spend 5 hours a day for a total 30 Days to gain
-proficiency in one skill, tool, weapon or language of your
-choice.
 
 ### Glide
 
 **Prerequisite:** Level 3.
 
-You maybe can’t fly but you learned a way to use your
-feathers to glide, granting you the following benefit:
+You maybe can’t fly but you learned a way to use your feathers to glide, granting you the following benefit:
 
+* If you are on a ledge at least 10ft above the ground, you can use your feathers to glide. Granting you a fly speed of 50ft, but you sink 10ft per turn until you touch the ground. 
+* You can use this feat to land safely after falling.
 
-If you are on a ledge at least 10ft above the ground, you
-can use your feathers to glide. Granting you a fly speed of
-50ft, but you sink 10ft per turn until you touch the ground.
-You can use this feat to land safely after falling.
 
 ### Embrace the Curse
 
 **Prerequisite:** Level 12.
 
-Were other members of your race sorrow over their lost
-abilities you embrace your new once, granting you the
-following benefits:
+Were other members of your race sorrow over their lost abilities you embrace your new once, granting you the following benefits:
 
 
-Your adaptive nature gives you a bonus to all skills checks
-equal to halve your proficiency bonus (rounded down) this
-doesn’t stack with expertise or the bards Jack of All Trades
-feature.
-You gain one Class Feature from any class as long as you
-are meeting the required Level, if this class feature gives
-you multiple options to choose from, you only get one, and
-you get only the basic class feature. For example, the
-Battle Master’s Combat Superiority would normally give
-you three maneuvers, you would only get one. Also, your
-superiority dice wouldn’t increase as you level up.
+* Your adaptive nature gives you a bonus to all skills checks equal to halve your proficiency bonus (rounded down) this doesn’t stack with expertise or the bards Jack of All Trades feature.
+* You gain one Class Feature from any class as long as you are meeting the required Level, if this class feature gives you multiple options to choose from, you only get one, and you get only the basic class feature. For example, the Battle Master’s Combat Superiority would normally give you three maneuvers, you would only get one. Also, your superiority dice wouldn’t increase as you level up.
+
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Kobold
 
 ### Better together
 
-You aren’t a solo fighter, but you are really good at working
-with outers. You gain the following benefits:
+You aren’t a solo fighter, but you are really good at working with outers. You gain the following benefits:
 
+* While being within 5ft of an ally you can take the help action as a bonus action.
+* If you are frightened or paralyzed by an effect that allows a saving throw, you can repeat the save at the start of your turn to end the effect on yourself if you are within 30ft of an ally.
 
-While being within 5ft of an ally you can take the help
-action as a bonus action.
-If you are frightened or paralyzed by an effect that allows a
-saving throw, you can repeat the save at the start of your
-turn to end the effect on yourself if you are within 30ft of
-an ally.
 
 ### Preparation is Key
 
 **Prerequisite:** Level 3.
 
-You love being prepared especially when it comes to
-combat. You gain the following benefit:
+You love being prepared especially when it comes to combat.
 
-
-You can spend a short rest to fashion one of the Items
-listed in the Kobold Inventor stat block under Weapon
-Invention. If the Item requires a saving throw the DC is
-equal to 8 + your Dexterity modifier + your Proficiency
-bonus. You can never have more created items than your
-proficiency bonus.
+* You can spend a short rest to fashion one of the Items listed in the Kobold Inventor stat block under Weapon Invention. If the Item requires a saving throw the DC is equal to 8 + your Dexterity modifier + your Proficiency bonus. You can never have more created items than your proficiency bonus.
 
 ### Blessing of Tiamat
 
 **Prerequisite:** Level 12.
 
-Tiamat’s smile falls upon you granting you the following
-benefits:
+Tiamat’s smile falls upon you granting you the following benefits:
 
+* You sprout small leathery wings granting you a fly speed equal to your walking speed.
+* You lose sunlight sensitivity. 
+* You gain one of the following damage resistances: Acid, Cold, Fire, Lightning or Poison.
 
-You sprout small leathery wings granting you a fly speed
-equal to your walking speed.
-You lose sunlight sensitivity.
-You gain one of the following damage resistances: Acid,
-Cold, Fire, Lightning or Poison.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Lizardfolk
 
 ### Cold Hearted
 
-Your normal nature makes it harder for others to manipulate
-you. You gain the following benefit:
+Your normal nature makes it harder for others to manipulate you. 
 
+* You have advantage on saving throws against becoming charmed or frightened.
 
-You have advantage on saving throws against becoming
-charmed or frightened.
 
 ### Release the Beast
 
 **Prerequisite:** Level 3.
 
-You learn how to hurl yourself into a feral frenzy, setting
-normal thoughts aside and let your bestial instincts take over.
-You gain the following benefits:
+You learn how to hurl yourself into a feral frenzy, setting normal thoughts aside and let your bestial instincts take over. You gain the following benefits:
 
+* You can use your bonus action to enter this frenzy, which holds for 1 minute or until you end it as a bonus action.
+* While in this frenzy you must use your Hungry Jaws ability every turn if you can (you ignore the normal limit on this feature while in the frenzy). Once you use this feature you can’t use it again until you finish a long rest.
+* While in your frenzy you produce poisonous saliva causing your bite to deal an extra 1d6 poison damage on a hit.
 
-You can use your bonus action to enter this frenzy, which
-holds for 1 minute or until you end it as a bonus action.
-While in this frenzy you must use your Hungry Jaws ability
-every turn if you can (you ignore the normal limit on this
-feature while in the frenzy). Once you use this feature you
-can’t use it again until you finish a long rest.
-While in your frenzy you produce poisonous saliva
-causing your bite to deal an extra 1d6 poison damage on a
-hit.
 
 ### Chameleon Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
 
-You have learned to change the colors of your skin to
-match the environment. You gain the following benefit.
+You have learned to change the colors of your skin to match the environment. 
 
+* While you are not wearing armor, you gain advantage on Dexterity (Stealth) checks, and other creatures have disadvantage on Wisdom (Perception) checks that rely on sight to spot you.
 
-While you are not wearing armor, you gain advantage on
-Dexterity (Stealth) checks, and other creatures have
-disadvantage on Wisdom (Perception) checks that rely on
-sight to spot you.
 
 ### Thorny Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
 
-Your Scales became spiky over the course of your
-adventures, you gain the following benefits:
+Your Scales became spiky over the course of your adventures, you gain the following benefits:
 
+* You can use the grapple action as a bonus action. 
+* A creature you are grappling takes 1d4 + your Strength modifier piercing damage at the start of each of its turns.
+* When a creature hits you with an unarmed strike or natural weapon it takes 1d4 piercing damage.
 
-You can use the grapple action as a bonus action.
-A creature you are grappling takes 1d4 + your Strength
-modifier piercing damage at the start of each of its turns.
-When a creature hits you with an unarmed strike it takes
-1d4 piercing damage.
 
 ### Armadillo Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
 
-Your scales became junky and hard over the course of your
-adventures. You gain the following benefits:
+Your scales became junky and hard over the course of your adventures. You gain the following benefits: 
 
+* Your natural AC changes to 15 + your Dexterity modifier. 
+* As an Action you can roll yourself into a ball granting you a bonus of 3 to your AC. While rolled together you can’t use any other actions than unfolding yourself. Additionally, if you are on a hill or other slanted surface you can roll it down like a wheel gaining a movement speed of 50ft. You can try to attack someone while rolling make a melee weapon attack using your Strength modifier + your Proficiency bonus. If you hit the creature takes damage equal to your Strength modifier plus 1d6 for every 10ft you spent rolling before impacting the creature, you take half as much damage.
 
-Your natural AC changes to 15 + your Dexterity modifier.
-As an Action you can roll yourself into a ball granting you
-a bonus of 3 to your AC. While rolled together you can’t
-use any other actions than unfolding yourself.
-Additionally, if you are on a hill or other falling surface you
-can roll it down like a wheel gaining a movement speed of
-50ft. You can try to attack someone while rolling make a
-melee weapon attack using your Strength modifier + your
-Proficiency bonus. If you hit the creature takes damage
-equal to your Strength modifier plus 1d6 for every 10ft
-you spend rolling before impacting the creature, you take
-half as much damage.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Loxodon
 
@@ -2582,74 +2217,48 @@ half as much damage.
 
 **Prerequisite:** Level 3.
 
-Your elephant genes help you to remember things other
-creatures would forget instantly. You gain the following
-benefits:
+Your elephant genes help you to remember things other creatures would forget instantly. You gain the following benefits:
 
+* You can accurately remember everything you have seen or heard within the last year.
+* When you use a feature or spell to create something that you have seen within the last year (like an illusion), other creatures have disadvantage on their throws to determine if its fake or not.
+*  You always know your way back home as long as you are on the same plane of existence.
 
-You can accurately remember everything you have seen or
-heard within the last year.
-When you use a feature or spell to create something that
-you have seen within the last year (like an illusion), other
-creatures have disadvantage on their throws to determine
-if its fake or not.
-You always know your way back home as long as you are
-on the same plane of existence.
 
 ### Loxodon Rage
 
 **Prerequisite:** Level 6.
 
-You’re not easy to anger but when you get angry it’s a sight
-to behold. You gain the following benefits:
+You’re not easy to anger but when you get angry it’s a sight to behold. You gain the following benefits:
 
-
-You deal double damage to structures and non-animated
-objects.
-You can use your attack action to hurl boulders around.
-They count as a simple weapon with the thrown 30/60ft
-property, dealing 1d10 damage on a hit. If you have multi
-attack you can hurl as many boulders per tern as you have
-attacks.
-Immediately after you use the dash action on your turn
-you can make a melee attack as a bonus Action. This
-attack deals bonus damage equal to your Constitution
-modifier.
+* You deal double damage to structures and non-animated objects.
+* You can use your attack action to hurl boulders around. They count as a simple weapon with the thrown 30/60ft property, dealing 1d10 damage on a hit. If you have multi attack you can hurl as many boulders per tern as you have attacks.
+* Immediately after you use the dash action on your turn you can make a melee attack as a bonus Action. This attack deals bonus damage equal to your Constitution modifier.
 
 
 ### Minotaur
 
 ### Labyrinth Senses
 
-Your days guarding dark places or even a labyrinth made your
-body adapt to your duties. You gain the following benefits:
+Your days guarding dark places or even a labyrinth made your body adapt to your duties. You gain the following benefits:
 
+* You can perfectly recall every path you have traveled. 
+* You gain dark vision up to a range of 60 feet.
 
-You can perfectly recall every path you have traveled.
-You gain dark vision up to a range of 60 feet.
 
 ### Heroes Blood
 
 **Prerequisite:** Level 6.
 
-Heroes blood flows through your veins and you learned
-how to control it, granting you the following benefits:
+Heroes blood flows through your veins and you learned how to control it, granting you the following benefits:
 
+* You have advantage on saving throws against being frightened.
+* You can use a bonus action on your turn to let out a war cry and bolster the moral of your allies. Every creature of your choice within 60ft of you gains 1d4 plus your Strength modifier temporary hit points. Once you use this trait you can’t do so again until you finish a short or long rest.
 
-You have advantage on saving throws against being
-frightened.
-You can use a bonus action on your turn to let out a war
-cry and bolster the moral of your allies. Every creature of
-your choice within 60ft of you gains 1d4 plus your
-Strength modifier temporary hit points. Once you use this
-trait you can’t do so again until you finish a short or long
-rest.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Orc
 
@@ -2657,74 +2266,47 @@ rest.
 
 **Prerequisite:** Level 3.
 
-You adorn yourself in the colors of conquest, might it be
-tattoos, paint or other symbols granting you the following
-benefits:
+You adorn yourself in the colors of conquest, might it be tattoos, paint or other symbols granting you the following benefits:
 
+* Once per day during a long rest you can attune to one of the colors red, white or black.
+* Red: When you hit a creature with a weapon attack you can make another attack as a bonus action. Once you use this feature you can use it again until you finish a long rest.
+* White: When you reduce a creature to 0 Hit points, you can gain temporary hit points equal to your level plus your Constitution modifier (minimum of 1). You can use this ability a number of time equal to your Constitution modifier (minimum of 1) before you must finish a long rest
+* Black: While in dim light or darkness you gain an extra 10ft movement speed and opportunity attacks against you have disadvantage
 
-Once per day during a long rest you can attune to one of
-the colors red, white or black.
-Red: When you hit a creature with a weapon attack you
-can make another attack as a bonus action. Once you use
-this feature you can use it again until you finish a long
-rest.
-White: When you reduce a creature to 0 Hit points, you
-can gain temporary hit points equal to your level plus your
-Constitution modifier (minimum of 1). You can use this
-ability a number of time equal to your Constitution
-modifier (minimum of 1) before you must finish a long
-rest
-Black: While in dim light or darkness you gain an extra
-10ft movement speed and opportunity attacks against you
-have disadvantage
 
 ### The Color of Blood
 
-**Prerequisite:** Level 9, The Colors of Conquest, no other
-Color Feat.
+**Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
 
-You have embraced the color red, the color of blood,
-granting you the following benefit:
+You have embraced the color red, the color of blood.
 
-
-When you reduce a creature to 0 Hit Points you can move
-as a reaction up to your movement and make an
-additional attack against a creature in range. This
-movement doesn’t provoke opportunity attacks. If you
-can’t use the movement without the attack.
+* When you reduce a creature to 0 Hit Points you can move as a reaction up to your movement and make an additional attack against a creature in range. This movement doesn’t provoke opportunity attacks. 
+* You can’t use the movement without the attack.
 
 ### The Color of Death
 
-**Prerequisite:** Level 9, The Colors of Conquest, no other
-Color Feat.
+**Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
 
-You have embraced the color white, the color of death,
-granting you the following benefits:
+You have embraced the color white, the color of death, granting you the following benefits:
 
+* You have advantage on death saving throws. 
+* When you drop to 0 hit points you can choose to trop to 1 instead. Once you used this feature you can’t use it again until you finish a long rest
 
-You have advantage on death saving throws.
-When you drop to 0 hit points you can choose to trop to 1
-instead. Once you used this feature you can’t use it again
-until you finish a long rest
 
 ### The Color of Darkness
 
-**Prerequisite:** Level 9, The Colors of Conquest, no other
-Color Feat.
+**Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
 
-You have embraced the color black, the color of darkness,
-granting you the following benefits:
+You have embraced the color black, the color of darkness, granting you the following benefits:
 
+* You can see normally in magical and non-magical darkness up to a range of 120 feet.
+* While in darkness you don’t provoke opportunity attacks.
 
-You can see normally in magical and non-magical
-darkness up to a range of 120 feet.
-While in darkness you don’t provoke opportunity attacks.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Shifter
 
@@ -2732,70 +2314,46 @@ While in darkness you don’t provoke opportunity attacks.
 
 Your animal nature grants you the following benefits:
 
+* You gain proficiency in the Perception skill.
+* Choose one of the following senses: Smelling, hearing, or sight. You have advantage on Wisdom (Perception) checks that rely on the chosen sense.
 
-You gain proficiency in the Perception skill.
-Choose one of the following senses: Smelling, hearing, or
-sight. You have advantage on Wisdom (Perception) checks
-that rely on the chosen sense.
 
 ### Full Transformation:
 
 **Prerequisite:** Level 3.
 
 You have learned to shift your whole body into an animal.
-You gain the following benefit:
 
+* As an action you can transform into one of your associated animals, as shown in the table below. This feat works like the druids Wild Shape ability. You can stay in this form for a number of hours equal to half your Proficiency bonus (rounded down) and once you use this feat you can’t use it again until you finish a short or long rest.
 
-As an action you can transform into one of your associated
-animals, as shown in the table below. This feat works like
-the druids Wild Shape ability. You can stay in this form for
-a number of hours equal to half your Proficiency bonus
-(rounded down) and once you use this feat you can’t use it
-again until you finish a short or long rest.
+| Shifter | Animal |
+|:---:|:---|
+| Beasthide | Boar, Black Bear |
+| Longtooth | Tiger |
+| Swiftstride | Rat, Panther |
+| Wildhunt | Wolf, Jaculi |
 
-
-Shifter Animal
-Beat Hide Boar, Black Bear
-Long tooth Tiger
-Swiftstride Rat, Panther
-Wildhunt Wolf, Jaculi
 
 ### Advanced Shifting
 
 **Prerequisite:** Level 9.
 
-You have learned to bring your shifting abilities to the next
-level. You gain the following benefits:
+You have learned to bring your shifting abilities to the next level. You gain the following benefits:
 
+* You can now use your Shifting ability a number of times equal to half your proficiency bonus (rounded down) You gain additional benefits while shifting depending on your subrace as described in the table below 
 
-You can now use your Shifting ability a number of times
-equal to half your proficiency bonus (rounded down)
-You gain additional benefits while shifting depending on
-your subrace as described in the table below
+| Shifter | Ability|
+|:---:|:---|
+|Beasthide |You now gain 2d6 temporary hit points when you are shifting and your bonus to Armor Class goes up by +2 |
+|Longtooth | While shifted your fangs now deal 2d6 + your Strength modifier piercing damage |
+|Swiftstride | While shifted you now get 20 feet extra movement and you can now move 20 feet as a reaction, when a creature ends its turn within 5 feet of you | 
+|Wildhunt | While shifted you now get blindsight up to a range of 30 feet|
 
-
-Shifter Ability
-Beat HideYou now gain 2d6 temporary hit points when
-you are shifting and your bonus to Armor Class
-goes up to +2
-Long
-tooth
-
-
-While shifted your fangs now deal 2d6 + your
-Strength modifier piercing damage
-SwiftstrideWhile shifted you now get 20 feet extra
-movement and you can now move 20 feet as a
-reaction, when a creature ends its turn within
-5 feet of you
-Wildhunt While shifted you now get blindsight up to a
-range of 30 feet
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Tabaxi
 
@@ -2803,35 +2361,27 @@ range of 30 feet
 
 **Prerequisite:** Level 6.
 
-You have learned to always land on your feet, granting you
-the following benefits:
+You have learned to always land on your feet, granting you the following benefits:
 
+* You have advantage on saving throws against being knocked prone.
+* Standing up only costs you 5 feet of movement. 
+* You can use your reaction to reduce fall damage by an amount equal to five times your Dexterity bonus plus your Proficiency bonus.
 
-You have advantage on saving throws against being
-knocked prone.
-Standing up only costs you 5 feet of movement.
-You can use your reaction to reduce fall damage by an
-amount equal to five times your Dexterity bonus plus your
-Proficiency bonus.
 
 ### Nine Lives
 
 **Prerequisite:** Level 15.
 
-You have a neck for evading death, you gain the following
-benefits:
+You have a neck for evading death, you gain the following benefits:
 
+* You gain advantage on death saving throws.
+* When you die, you come back to live 1d4 hours later. Once this trait has been used (9 – the number of times you have been resurrected before you gained this feat) times you lose this feature.
 
-You gain advantage on death saving throws.
-When you die, you come back to live 1d4 hours later. Once
-this trait has been used (9 – the number of times you have
-been resurrected before you gained this feat) times you
-lose this feature.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
 
 ## Tiefling
 
@@ -2839,17 +2389,15 @@ lose this feature.
 
 Haggling is in Your blood you gain the following benefits:
 
-
-You gain proficiency in one of the following skills:
-Deception, Intimidation or Persuasion.
-You also gain expertise in one of the skills above.
+* You gain proficiency in one of the following skills: Deception, Intimidation or Persuasion. 
+* You also gain expertise in one of the skills above.
 
 
 ### Flames of Phlegethos
 
 **Prerequisite:** Level 3.
 
-You learn to call on hellfire to serve your commands. You gain the following benefits:
+You learn to call on hellfire to serve your commands. You gain the following  benefits:
 
 * When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 * Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
@@ -2869,37 +2417,25 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 
 **Prerequisite:** Level 9.
 
-You have embraced your infernal blood, gaining the
-following benefits:
+You have embraced your infernal blood, gaining the following benefits:
 
+* You sprout leathery wings, granting you a fly speed equal to your walking speed.
+* You can use your horns as a melee weapon, dealing 1d6 + your Strength modifier piercing damage.
 
-You sprout leathery wings, granting you a fly speed equal
-to your walking speed.
-You can use your horns as a melee weapon, dealing 1d6 +
-your Strength modifier piercing damage.
 
 ### The Art of The Deal
 
 **Prerequisite:** Level 12, The Art of Haggling.
 
-You have learned the channel the blood of your ancestors
-into your deals granting you the following benefit:
+You have learned the channel the blood of your ancestors into your deals.
 
+* You can offer and create deals as described in Baldur’s Gate: Descent into Avernus. You choose the wording and form of the deal. If you get a soul offered and receive one you a small silvery cage containing the soul (similar to a Soul Cage Spell), that manifests in an unoccupied space within 5ft of you. You can have a maximum number of active contracts equal to your Charisma modifier + your Proficiency modifier.
 
-You can offer and create deals as described in Baldur’s
-Gate: Descent into Avernus. You choose the wording and
-form of the deal. If you get a soul offered and receive one
-you a small silvery cage containing the soul (similar to a
-Soul Cage Spell), that manifests in an unoccupied space
-within 5ft of you. You can have a maximum number of
-active contracts equal to your Charisma modifier + your
-Proficiency modifier.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Tortle
 
@@ -2907,62 +2443,45 @@ Proficiency modifier.
 
 **Prerequisite:** no other Tortle feature.
 
-Your Trotle genes grant you the following benefits:
+Your Tortle genes grant you the following benefits:
 
+* Your creature type becomes beast instead of humanoid.
+* You can breathe air and water.
+* You gain a Swim speed equal to your walking speed.
 
-Your creature type becomes beast instead of humanoid.
-You can breathe air and water.
-You gain a Swim speed equal to your walking speed.
 
 ### Snapping Tortle
 
 **Prerequisite:** no other Tortle feature.
 
-Your Trotle genes grant you the following benefits:
+Your Tortle genes grant you the following benefits:
 
+* Your creature type becomes beast instead of humanoid.
+* You gain an unarmed strike with your bite, dealing 1d8 + your Strength modifier.
 
-Your creature type becomes beast instead of humanoid.
-You gain an unarmed strike with your bite, dealing 1d8 +
-your Strength modifier.
 
 ### Dragon Torle
 
 **Prerequisite:** no other Tortle feature.
 
-Your Trotle genes grant you the following benefits:
+Your Tortle genes grant you the following benefits:
 
-
-Your creature type becomes dragon instead of humanoid.
-You can use your bonus Action to exhale hot steam. Your
-breath is a 15 ft cone. When you use your breath weapon,
-each creature in the area of the exhalation must make a
-Constitution saving throw. The DC for this saving throw
-equals 8 + your Strength modifier + your proficiency
-bonus. A creature takes 2d6 fire damage on a failed save,
-and half as much damage on a successful one. The
-damage increases to 3d6 at 6th level, 4d6 at 11th level,
-and 5d6 at 16th level. After you use your breath weapon,
-you can’t use it again until you complete a short or long
-rest.
+* Your creature type becomes dragon instead of humanoid. 
+* You can use your bonus Action to exhale hot steam. Your breath is a 15 ft cone. When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Strength modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest.
 
 ### Advanced Shell Defense
 
 **Prerequisite:** Level 6.
 
-You have learned to act at least a little bit while in your
-shell. You gain the following benefit:
+You have learned to act at least a little bit while in your shell. You gain the following benefit:
 
+* While in your shell you can still use an action to cast spells, as long as those spells doesn’t need material components. Also, you can extend on limb to make a melee attack against a creature within 5 feet of you. 
 
-While in your shell you can still use an action to cast
-spells, as long as those spells doesn’t need material
-components. Also, you can extend on limb to make a
-melee attack against a creature within 5 feet of you.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Triton
 
@@ -2970,49 +2489,32 @@ melee attack against a creature within 5 feet of you.
 
 Your connection to the sea’s grand you the following benefit:
 
+* You learn the Shape Water and Gust cantrip. Choose Strength, Constitution or Charisma for your Spellcasting ability.
 
-You learn the Shape Water and Gust cantrip. Choose
-Strength, Constitution or Charisma for your Spellcasting
-ability.
 
 ### Master of the Sea
 
 **Prerequisite:** Level 9, Child of the Sea.
 
-Your connection to the oceans grants you the following
-benefits:
+Your connection to the oceans grants you the following benefits:
 
+* You can speak normally with aquatic beasts and understand what they are saying.
+* You learn the Control Water, Create or Destroy Water and Water Walk spell each of which you can cast once without expending a spell slot. Once you cast these spells with this trait you cannot use it again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
 
-You can speak normally with aquatic beasts and
-understand what they are saying.
-You learn the Control Water, Create or Destroy Water and
-Water Walk spell each of which you can cast once without
-expending a spell slot. Once you cast these spells with this
-trait you cannot use it again until you finish a long rest.
-Choose Strength, Constitution or Charisma for your
-Spellcasting ability.
 
 ### Sea Caller
 
 **Prerequisite:** Level 9, Child of the Sea.
 
-You have mastered your connection to the elemental plains,
-gaining the following benefit:
+You have mastered your connection to the elemental plains, gaining the following benefit:
 
+* You learn the Conjure Elemental and Tidal Wave spell each of which you can cast once without expending a spell slot. You can only summon elementals connected to the elemental plain of water or air. Once you cast these spells with this trait you can’t do so again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
 
-You learn the Conjure Elemental and Tidal Wave spell
-each of which you can cast once without expending a spell
-slot. You can only summon elementals connected to the
-elemental plain of water or air. Once you cast these spells
-with this trait you can’t do so again until you finish a long
-rest. Choose Strength, Constitution or Charisma for your
-Spellcasting ability.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Vedalken
 
@@ -3020,30 +2522,21 @@ Spellcasting ability.
 
 **Prerequisite:** Level 3.
 
-You are eager to develop new skills and perfect the once
-you already have, you gain the following benefits:
+You are eager to develop new skills and perfect the once you already have, you gain the following benefits:
 
+* You gain proficiency in one tool, language, and skill of your choice.
+* Choose one skill or tool you are proficient in, you gain expertise in the chosen skill
+* You can choose this trait more than once, choosing different skills, languages, and tools every time.
 
-You gain proficiency in one tool, language, and skill of your
-choice.
-Choose one skill or tool you are proficient in, you gain
-expertise in the chosen skill
-You can choose this trait more than once, choosing
-different skills, languages, and tools every time.
 
 ### Efficient Worker
 
 **Prerequisite:** Level 6.
 
-You have learned more efficient ways to work. You gain the
-following benefits:
+You have learned more efficient ways to work. You gain the following benefits:
 
+* Each time you do something that requires time and gold, the amount of gold you need and the time you take to finish this task is halved for you. This doesn’t apply if the time and gold you need is already halved from another source, like the Wizards Savant feature.
 
-Each time you do something that requires time and gold,
-the amount of gold you need and the time you take to
-finish this task is halved for you. This doesn’t apply if the
-time and gold you need is already halved from another
-source, like the Wizards Savant feature.
 
 ### Finding Perfection
 
@@ -3051,18 +2544,13 @@ source, like the Wizards Savant feature.
 
 You have found perfection. You gain the following benefit:
 
+* When you roll a 9 or lower on a check with a tool or skill that you have expertise in, the roll counts as a 10 for you. Choose one skill or tool in which you have expertise. You now add two and a half times your Proficiency bonus to the chosen skill or tool (rounded down).
 
-When you roll a 9 or lower on a check with a tool or skill
-that you have expertise in, the roll counts as a 10 for you.
-Choose one skill or tool in which you have expertise. You
-now add two and a halve times your Proficiency bonus to
-the chosen skill or tool (rounded down).
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Warforged
 
@@ -3070,60 +2558,43 @@ the chosen skill or tool (rounded down).
 
 **Prerequisite:** Level 3, no other Components.
 
-Instead of steel or Stone your main components are made
-from wood and leaves. You gain the following benefits.
+Instead of steel or Stone your main components are made from wood and leaves. You gain the following benefits.
 
+* While in a forest or similar biome, while you remain motionless, you are indistinguishable from a normal tree. 
+* Once per day you can drink water as an action to regain hit points equal to 1d6 + your Constitution modifier.
 
-While in a forest or similar biome, while you remain
-motionless, you are indistinguishable from a normal tree.
-Once per day you can drink water as an action to regain
-hit points equal to 1d6 + your Constitution modifier.
 
 ### Overheat
 
-You have learned to heat up your body to damage your foes.
-You gain the following benefits:
+You have learned to heat up your body to damage your foes. You gain the following benefits:
 
+* You gain resistance to fire damage.
+* Once per short rest you can overheat yourself as a bonus action for 1 minute. You take 1d4 fire damage. Every time a creature hits you with a melee attack, that creature takes 1d4 + your Constitution modifier fire damage.
 
-You gain resistance to fire damage.
-Once per short rest you can overheat yourself as a bonus
-action for 1 minute. You take 1d4 fire damage. Every time
-a creature hits you with a melee attack, that creature takes
-1d4 + your Constitution modifier fire damage.
 
 ### Mithral Components
 
 **Prerequisite:** Level 6, no other Components.
 
-Over the course of your adventures you have replaced your
-metal components with Mithral. You gain the following
-benefits:
+Over the course of your adventures you have replaced your metal components with Mithral. You gain the following benefits:
 
-
-When you don armor, this armor doesn’t impose
-disadvantage on Stealth checks for you.
-Your movement speed increases by 10 feet.
+* When you don armor, this armor doesn’t impose disadvantage on Stealth checks for you. 
+* Your movement speed increases by 10 feet.
 
 ### Adamantine Components
 
 **Prerequisite:** Level 12, no other Components.
 
-Over the course of your adventures you have replaced your
-metal components with adamantine. You gain the following
-benefits:
+Over the course of your adventures you have replaced your metal components with adamantine. You gain the following benefits:
 
+* When you don heavy armor, every critical hit against you counts as a normal hit instead. 
+* You have resistance against bludgeoning, piercing and slashing damage from natural effects, like rockslides or boulders.
 
-When you don heavy armor, every critical hit against you
-counts as a normal hit instead.
-You have resistance against bludgeoning, piercing and
-slashing damage from natural effects, like rockslides or
-boulders.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
-
-
 
 ## Yuan-ti Pureblood
 
@@ -3131,47 +2602,29 @@ boulders.
 
 **Prerequisite:** Level 3.
 
-You have learned to gather information from fallen
-enemies without magic. You gain the following benefit:
+You have learned to gather information from fallen enemies without magic.
 
-
-You can take 1 minute to eat the brain of a fallen enemy to
-gather flashes of information. Roll an Intelligence
-(Investigation) check. The amount of information and
-memories you can gather is determined by the DM
-depending on the result of your Investigation check.
+* You can take 1 minute to eat the brain of a fallen enemy to gather flashes of information. Roll an Intelligence (Investigation) check. The amount of information and memories you can gather is determined by the DM depending on the result of your Investigation check.
 
 ### Yuan-ti High Magic
 
 **Prerequisite:** Level 6.
 
-You learn more of the magic typical of Yuan-ti. You learn
-the command spell and can cast it at will, without expending
-a spell slot. You also learn darkness and fear, each of which
-you can cast once without expending a spell slot. You regain
-the ability to cast those two spells in this way when you finish
-a long rest. Charisma is your spellcasting ability for all three
-spells.
+* You learn more of the magic typical of Yuan-ti. You learn the command spell and can cast it at will, without expending a spell slot. You also learn darkness and fear, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.
+
 
 ### Yuan-ti Form
 
 **Prerequisite:** Level 12.
 
-You have learned to transform yourself, graining the
-following benefits:
+You have learned to transform yourself, graining the following benefits:
 
+* You learn the polymorph spell and can cast it without expending a spell slot. But you can only transform into snakes. You can cast this spell a number of times equal to your Charisma modifier (minimum of once) and you regain all uses once you finish a long rest.
+* You can use 3 of your uses to transform into a Naga (if you have the required level as described in the polymorph spell) You don’t get any spellcasting abilities of the chosen Naga.
 
-You learn the polymorph spell and can cast it without
-expending a spell slot. But you can only transform into
-snakes. You can cast this spell a number of times equal to
-your Charisma modifier (minimum of once) and you
-regain all uses once you finish a long rest.
-You can use 3 of your uses to transform into a Naga (if you
-have the required level as described in the polymorph
-spell) You don’t get any spellcasting abilities of the chosen
-Naga.
 ```
 ```
+
 \page
 <div class='pageNumber auto'></div>
 

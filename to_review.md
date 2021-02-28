@@ -43,3 +43,4 @@
 
 ### Custom:
 - Chaotic Surge
+- Cunning Artisan
