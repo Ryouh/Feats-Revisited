@@ -33,7 +33,7 @@ This rule set is designed to give more depth to characters over the course of th
 ### Aberrant Dragonmark
 
 **Prerequisite:** No existing dragonmark.
-
+___
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. 
 
 * You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
@@ -42,7 +42,7 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 ```
 
 ### Actor
-
+___
 You are skilled at mimicry and dramatics.
 
 * You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
@@ -52,7 +52,7 @@ You are skilled at mimicry and dramatics.
 ### Alcoholic
 
 **Prerequisite:** Constitution 13
-
+___
 You like alcohol more than most humans and it’s not all bad. 
 
 * You have advantage on Constitution saving throws regarding alcohol or other drugs.
@@ -61,7 +61,7 @@ You like alcohol more than most humans and it’s not all bad.
 \page <div class='pageNumber auto'></div>
 
 ### Athlete
-
+___
 You have undergone extensive physical training.
 
 * When you are prone, standing up uses only 5 feet of your movement.
@@ -70,7 +70,7 @@ You have undergone extensive physical training.
 
 
 ### Bookworm
-
+___
 You have studied languages and codes.
 
 * You learn four languages of your choice.
@@ -82,7 +82,7 @@ You have studied languages and codes.
 ### Chaotic Surge
 
 **Prerequisite:** The ability to cast at least one spell.
-
+___
 Chaotic magic flows through you and twists your astral body.
 
 * You have advantage on Strength, Dexterity and Constitution saving throws against spells and other magical effects.
@@ -99,7 +99,7 @@ Chaotic magic flows through you and twists your astral body.
 **Prerequisite:** You must have died at least once. This feat
 must be taken immediately after beeing resurrected and it
 replaces one of your existing feats.
-
+___
 You have faced death and you won, be it by yourself or with the aid of your comrades. But the experience left some mark on your body and soul, you gain the following traits:
 
 * You gain one Indefinite Madness (as described [here](https://www.dndbeyond.com/sources/dmg/running-the-game#Madness)) or some other trait (as discribed [here](http://dndspeak.com/2017/12/04/168-resurrection-side-effects/)). You gain resistance to necrotic damage. Your eye color changes to a more vibrant version of the original color. You gain Truesight up to a range of 10ft.
@@ -108,14 +108,14 @@ You have faced death and you won, be it by yourself or with the aid of your comr
 ```
 
 ### Duck
-
+___
 You have learned to avoid danger from afar.
 
 * When a creature you can see attacks you with a ranged attack you can throw yourself to the ground as a reaction, becoming prone and imposing disadvantage on the attack roll.
 
 
 ### Dungeon Delver
-
+___
 You are alert to the hidden traps and secret doors.
 
 * You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
@@ -125,7 +125,7 @@ You are alert to the hidden traps and secret doors.
 
 
 ### Dual Wielder
-
+___
 You master fighting with two weapons.
 
 * You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
@@ -134,14 +134,14 @@ You master fighting with two weapons.
 
 
 ### Durable
-
+___
 You are hardy and resilient.
 
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
 
 ### Environmental adaption
-
+___
 You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. 
 
 * You gain cold or fire resistance (your choice).
@@ -151,7 +151,7 @@ You're acclimated to either cold or hot climates. You can pick this feat multipl
 ### Grappler
 
 **Prerequisite:** Strength 13 or higher
-
+___
 You’ve developed the skills necessary to hold your own in
 close-quarters grappling. 
 
@@ -175,7 +175,7 @@ close-quarters grappling.
 
 
 ### Keen Mind
-
+___
 You have a mind that can track time, direction, and detail with uncanny precision. 
 
 * You always know which way is north.
@@ -190,7 +190,7 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 
 
 ### Lucky
-
+___
 You have inexplicable luck that seems to kick in at just the right moment.
 
 * You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
@@ -216,7 +216,7 @@ You have inexplicable luck that seems to kick in at just the right moment.
 ### Nimble Physique
 
 **Prerequisite:** Dexterity 13 or higher, Strength 14 or lower.
-
+___
 You are small and thin for your race. You have a mysterious and consistent ability to avoid danger.
 
 * As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
@@ -225,7 +225,7 @@ You are small and thin for your race. You have a mysterious and consistent abili
 
 
 ### Observant
-
+___
 You are quick to notice details of your environment.
 
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
@@ -249,7 +249,7 @@ You are quick to notice details of your environment.
 ### Skulker
 
 **Prerequisite:** Dexterity 13 or higher.
-
+___
 You are expert at slinking through shadows. 
 
 * You can try to hide when you are lightly obscured from the creature from which you are hiding. 
@@ -258,7 +258,7 @@ You are expert at slinking through shadows.
 
 
 ### Swimmer
-
+___
 You have spent the majority of your time in the water.
 
 * You gain a swim speed equal to your walking speed.
@@ -266,7 +266,7 @@ You have spent the majority of your time in the water.
 
 
 ### Tavern Brawler
-
+___
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand.
 
 * You are proficient with improvised weapons.
@@ -277,7 +277,7 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 ```
 
 ### Taunt
-
+___
 You have a talent to anger other people.
 
 * As an action you can make a Charisma (Persuasion, Deception, or Intimidation) check against a creature that can see or hear you opposed by the creatures Insight. If you succeed the creature is distracted until the end of your next turn and has disadvantage on attack rolls against creatures other than you.
@@ -289,7 +289,7 @@ You have a talent to anger other people.
 
 
 ### Weapon Training
-
+___
 You have practiced extensively with a variety of weapons.
 
 * You gain proficiency with one Weapon group of your choice. Weapon groups are simple melee- or ranged weapons or martial melee- or ranged weapons.
@@ -298,7 +298,7 @@ You have practiced extensively with a variety of weapons.
 ### Weave Distortion
 
 **Prerequisite:** No ability to cast any spell.
-
+___
 Something about you distorts the weave around you and giving people in your presence an uneasy feeling.
 
 * You can never learn to cast any spell (you can still use magic items).
@@ -310,7 +310,7 @@ Something about you distorts the weave around you and giving people in your pres
 
 
 ### Will to Live
-
+___
 You are hard to get rid of.
 
 * When you succeed on 2 death saving throws you can regain 1 hit point. If you do so you can use your reaction to move up to half your movement. Once you use this feature, you must finish a short or long rest before you can use it again.
@@ -330,7 +330,7 @@ weapon.
 ### Blood Hound
 
 **Prerequisite:** Level 3, Wisdom 13 or higher.
-
+___
 Your keen senses are heightened beyond that of most people. 
 
 * While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
@@ -341,7 +341,7 @@ Your keen senses are heightened beyond that of most people.
 ### Crossbow Expert
 
 **Prerequisite:** Level 3.
-
+___
 You have extensive practice with crossbows.
 
 * You ignore the loading property of crossbows with which you are pro cient.
@@ -369,9 +369,8 @@ You have extensive practice with crossbows.
 
 ### Fighting Style
 
-
 **Prerequisite:** Level 3.
-
+___
 You adopt a particular style of fighting as your specialty.
 
 * Choose one fighting Style from the Fighter list you gain that fighting style.
@@ -380,7 +379,7 @@ You adopt a particular style of fighting as your specialty.
 ### Firearm Specialist (Gunslinger)
 
 **Prerequisite:** Level 3.
-
+___
 You are adept at using guns effectively.
 
 * Being within 5ft of a hostile creature doesn’t impose disadvantage on your attack rolls.
@@ -391,7 +390,7 @@ You are adept at using guns effectively.
 ### Healer
 
 **Prerequisite:** Level 3.
-
+___
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. 
 
 * When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
@@ -401,7 +400,7 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 ### Heavy Armor Master
 
 **Prerequisite:** Level 3, Proficiency with heavy armor.
-
+___
 You can use your armor to deflect strikes that would kill others.
 
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
@@ -410,7 +409,7 @@ You can use your armor to deflect strikes that would kill others.
 ### Martial Adept
 
 **Prerequisite:** Level 3.
-
+___
 You have martial training that allows you to perform special combat maneuvers. 
 
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
@@ -421,7 +420,7 @@ You have martial training that allows you to perform special combat maneuvers.
 ### Medium Armor Master
 
 **Prerequisite:** Level 3 Proficiency with medium armor.
-
+___
 You have practiced moving in medium armor.
 
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
@@ -431,7 +430,7 @@ You have practiced moving in medium armor.
 ### Mobile
 
 **Prerequisite:** Level 3.
-
+___
 You are exceptionally speedy and agile.
 
 * Your speed increases by 10 feet.
@@ -442,7 +441,7 @@ You are exceptionally speedy and agile.
 ### Mounted Combatant
 
 **Prerequisite:** Level 3.
-
+___
 You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, 
 
 * You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. 
@@ -453,25 +452,24 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 ### Nocturnal
 
 **Prerequisite:** Level 3, Skulker.
-
+___
 Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. 
 
 * You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 * You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
 
+```
+```
 
 ### Prodigy
 
 **Prerequisite:** Level 3.
-
+___
 You have a knack for learning new things. 
 
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 * Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
-
-```
-```
 
 ### Resilient
 
@@ -490,7 +488,7 @@ You have a knack for learning new things.
 ### Shield Bash
 
 **Prerequisite:** Level 3.
-
+___
 You have learned to use your shield as a melee weapon.
 
 * You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you. 
@@ -503,7 +501,7 @@ You have learned to use your shield as a melee weapon.
 ### Advanced Alchemist
 
 **Prerequisite:** Level 6, proficiency with Alchemist's Supplies.
-
+___
 Your concoctions become stronger and stronger. 
 
 * The time you need to craft an item with your Alchemist's Supplies is halved.
@@ -517,7 +515,7 @@ Your concoctions become stronger and stronger.
 ### Advanced Blacksmith
 
 **Prerequisite:** Level 6, proficiency with Smith's tools.
-
+___
 You have learned to enhance your craft even further.
 
 * You gain expertise in Smith’s tools.
@@ -531,7 +529,7 @@ You have learned to enhance your craft even further.
 ### Advanced Bowyer
 
 **Prerequisite:** Level 6, proficiency with Carpenter's tools.
-
+___
 Your bows become stronger and your arrows deadlier.
 
 * You gain expertise in Carpenter’s tools
@@ -546,7 +544,7 @@ Your bows become stronger and your arrows deadlier.
 ### Advanced Herbalist
 
 **Prerequisite:** Level 6.
-
+___
 You have fond a way to boost the healing potential of your healing potions.
 
 * You gain expertise in the Herbalism Kit
@@ -559,7 +557,7 @@ You have fond a way to boost the healing potential of your healing potions.
 ### Advanced Poisoner
 
 **Prerequisite:** Level 6.
-
+___
 Your poisons have become more potent and you have worked with them long enough to resist them.
 
 * You gain expertise in Poisoner’s kit.
@@ -573,7 +571,7 @@ Your poisons have become more potent and you have worked with them long enough t
 ### Alert
 
 **Prerequisite:** Level 6, Bloodhound.
-
+___
 Always on the lookout for danger. 
 
 * You gain a +5 bonus to initiative.
@@ -584,7 +582,7 @@ Always on the lookout for danger.
 ### Blackpowder Expert
 
 **Prerequisite:** Level 6, Proficiency with advanced weapons.
-
+___
 You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. 
 
 * You ignore the loading property of Blackpowder weapons with which you are proficient.
@@ -595,7 +593,7 @@ You are well-versed in the use of Blackpowder weapons and wield them with deadly
 ### Farewell Shot
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
-
+___
 You trained moving over the battlefield quickly while still shooting your weapon.
 
 * When you take the disengage or dash action you can make a single ranged Attack with a ranged weapon as part of your movement this turn.
@@ -604,7 +602,7 @@ You trained moving over the battlefield quickly while still shooting your weapon
 ### Far Shot
 
 **Prerequisite:** Level 6, Wisdom 15 or higher.
-
+___
 Your eagle eyes, help you to hit foes who are too far for the most people to see.
 
 * When you make a ranged Attack using a ranged weapon you can double its ranged. If you later gain the sharpshooter feat you still get disadvantage, when you shoot further than the maximum original attack range of the weapon you are using.
@@ -613,7 +611,7 @@ Your eagle eyes, help you to hit foes who are too far for the most people to see
 ### Forced Friendly Fire
 
 **Prerequisite:** Level 6, Dexterity 15 or higher.
-
+___
 Your nimbleness in close combat makes it hard to predict your next move.
 
 * When you are in melee combat and a creature, that you can see, makes a ranged attack against you, you can use your reaction to position yourself in half cover behind your opponent. If the attack misses, the Attack instead hits the opponent you used as cover.
@@ -622,7 +620,7 @@ Your nimbleness in close combat makes it hard to predict your next move.
 ### Hardened Mind
 
 **Prerequisite:** Level 6.
-
+___
 You have trained your mind to be more resilient against mind influencing effects. 
 
 * You have advantage on saving throws against being charmed or frightened.
@@ -632,7 +630,7 @@ You have trained your mind to be more resilient against mind influencing effects
 ### Linguist
 
 **Prerequisite:** Level 6, Bookworm.
-
+___
 You have studied many laguages and even when you don't know the local tongue you know how to get around. 
 
 * You learn three languages of your choice.
@@ -644,7 +642,7 @@ You have studied many laguages and even when you don't know the local tongue you
 ### Mage Slayer
 
 **Prerequisite:** Level 6.
-
+___
 You have practiced techniques useful in melee combat against spellcasters.
 
 * When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature. 
@@ -655,7 +653,7 @@ You have practiced techniques useful in melee combat against spellcasters.
 ### Magic Scholar
 
 **Prerequisite:** Level 6, Magic Initiate.
-
+___
 You have studied your magic over the course of your adventures.
 
 * You learn on additional Cantrip from the same list you choose your Magic Initiate Spells from.
@@ -666,7 +664,7 @@ You have studied your magic over the course of your adventures.
 ### Multi Shot
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
-
+___
 You have learned to shoot multiple arrows at once.
 
 * Before you make an attack with a ranged weapon that you are proficient with and that doesn’t have the loading property, you can choose to take a -5 penalty to the attack rolls. If you do so, you can attack up to a number of creatures equal to halve your proficiency bonus (rounded up). The creatures you attack must be within 5ft of each other and you must expend 1 piece of ammunition for each target as normal.
@@ -675,7 +673,7 @@ You have learned to shoot multiple arrows at once.
 ### Pin shot
 
 **Prerequisite:** Level 6.
-
+___
 You have learned to grapple your foes without even touching them.
 
 * When you attack a creature, with a ranged weapon, that is wearing armor or clothes, you can take a -5 penalty to the attack and force the creature to make a Strength save (DC=8 + Proficiency bonus + Dexterity modifier) if you hit. On a failed save the Enemy is grappled to a vertical surface within 5ft of it. A grappled creature can use its action to break the grapple as normal. If you have the Sharpshooter feat, you can use both features with only a -5 total penalty.
@@ -685,7 +683,7 @@ You have learned to grapple your foes without even touching them.
 ### Short Bow Master
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
-
+___
 You have practiced with the short bow since you can hold one. 
 
 * Being in close combat doesn’t impose disadvantage on your attack roles with a short bow.
@@ -695,7 +693,7 @@ You have practiced with the short bow since you can hold one.
 ### Quickcaster
 
 **Prerequisite:** Level 6, The ability to cast at least one cantrip.
-
+___
 Your rapid-fire style of casting cantrips allows you to weave magic with uncanny speed.
 
 * Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
@@ -704,7 +702,7 @@ Your rapid-fire style of casting cantrips allows you to weave magic with uncanny
 ### Scatter Weapon Master
 
 **Prerequisite:** Level 6, Proficiency in advanced weapons.
-
+___
 Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons.
 
 * Critical hits double the damage dealt by the Scatter property on a failed save.
@@ -715,7 +713,7 @@ Through many hours spent using these destructive weapons, whether on the trainin
 ### Shield Master
 
 **Prerequisite:** Level 6.
-
+___
 You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
 
 * If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
@@ -728,7 +726,7 @@ You use shields not just for protection but also for offense. You gain the follo
 ### Spell Distortion
 
 **Prerequisite:** Level 6, Weave Distortion.
-
+___
 Your unnatural ability to distort the weave is spreading out from your body, 
 
 * Your bonus on saving throws against spells or other magical effects increases to +3.
@@ -738,7 +736,7 @@ Your unnatural ability to distort the weave is spreading out from your body,
 ### Spell Sniper
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
-
+___
 You have learned techniques to enhance your attacks with certain kinds of spells.
 
 * When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
@@ -749,7 +747,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 ### Thrown Weapon Master
 
 **Prerequisite:** Level 6.
-
+___
 You excel at thrown weapons.
 
 * When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon.
@@ -759,7 +757,7 @@ You excel at thrown weapons.
 ### Warcaster
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
-
+___
 You have practiced casting spells in the midst of combat.
 
 * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
@@ -773,7 +771,7 @@ You have practiced casting spells in the midst of combat.
 ### Advanced Magic Scholar
 
 **Prerequisite:** Level 9, Magic Scholar.
-
+___
 You have studied your magic over the course of your adventures.
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
@@ -784,7 +782,7 @@ You have studied your magic over the course of your adventures.
 ### Great Weapon Master
 
 **Prerequisite:** Level 9.
-
+___
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. 
 
 * On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
@@ -794,7 +792,7 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 ### Interceptor
 
 **Prerequisite:** Level 9, Shield Master.
-
+___
 You have your friends back and they know it, while wearing a shield you gain the following benefits:
 
 * When a creature within 5ft of you would get hit by an attack you can step between that attack as a reaction, changing the target of the attack to you and potentially make it miss.
@@ -804,7 +802,7 @@ You have your friends back and they know it, while wearing a shield you gain the
 ### Iron Gut
 
 **Prerequisite:** Level 9, Alcoholic, Constitution 13 or higher.
-
+___
 You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. 
 
 * You have advantage on Saving Throws against being poisoned.
@@ -817,7 +815,7 @@ You eat like a giant and drink like a fish. Years of punishing your stomach and 
 ### Lightning Caster
 
 **Prerequisite:** Level 9, Quickcaster, the ability to cast at least one spell.
-
+___
 You have mastered the art of performing verbal and somatic components with lightning fast precision.
 
 * When you cast a Spell of 1st level or higher as a bonus action, you can cast another spell of 1st level or higher as an action, as long as this spell doesn’t require material components.
@@ -826,7 +824,7 @@ You have mastered the art of performing verbal and somatic components with light
 ### Polearm Master
 
 **Prerequisite:** Level 9.
-
+___
 You can keep your enemies at bay with reach weapons. 
 
 * When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon’s damage die for this attack is a d4, and it deals bludgeoning damage.
@@ -836,7 +834,7 @@ You can keep your enemies at bay with reach weapons.
 ### Sharpshooter
 
 **Prerequisite:** Level 9.
-
+___
 You have mastered ranged weapons and can make shots that others find impossible. 
 
 * Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
@@ -847,7 +845,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 ### Weaver of Maledictions
 
 **Prerequisite:** Level 9, the ability to cast at least one spell, that can curse someone like the Bestow Curse.
-
+___
 You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can use dolls you have created. When you use an effigy doll 
 
 * The target of the curse has disadvantage on their initial saving throw.
@@ -860,7 +858,7 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 ### Blind Fighting
 
 **Prerequisite:** Level 12, Alert.
-
+___
 You have heightened your senses over the potential of a normal mortal being. 
 
 * While you aren't Incapacitated and can at least hear or smell, you have blindsight up to 30ft.
@@ -870,7 +868,7 @@ You have heightened your senses over the potential of a normal mortal being.
 ### Hulking Figure
 
 **Prerequisite:** Level 12, Strength 17 or higher.
-
+___
 You are a broad and formidable size, due to extensive training. 
  
 * You count as one size larger (to a maximum size of large).
@@ -882,7 +880,7 @@ You are a broad and formidable size, due to extensive training.
 ### Master Alchemist
 
 **Prerequisite:** Level 12, Advanced Alchemist.
-
+___
 Your concoctions count as the most potent.
 
 * If the Items crafted with your Alchemist’s Supplies require a saving throw you can increase the DC by 1 (this also applies when you change the DC as described in the Alchemist feat)
@@ -892,7 +890,7 @@ Your concoctions count as the most potent.
 ### Master Blacksmith
 
 **Prerequisite:** Level 12, Advanced Blacksmith.
-
+___
 You have learned to enhance your craft to one of the highest levels possible, 
 
 * When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
@@ -904,7 +902,7 @@ You have learned to enhance your craft to one of the highest levels possible,
 ### Master Bowyer
 
 **Prerequisite:** Level 12, Advanced Bowyer.
-
+___
 You became one of the most renown Bowyers.
 
 * When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
@@ -914,7 +912,7 @@ You became one of the most renown Bowyers.
 ### Master Herbalist
 
 **Prerequisite:** Level 12, Advanced Herbalist
-
+___
 You have found a way to boost the healing potential of your healing potions even further.
 
 * You can now craft Potions of superior Healing using your Herbalism Kit, as described in Chapter 2 of the Xanathar’s Guide.
@@ -924,7 +922,7 @@ You have found a way to boost the healing potential of your healing potions even
 ### Master Poisoner
 
 **Prerequisite:** Level 12, Advanced Poisoner.
-
+___
 Your poisons have become incredible potent and you have worked with them long enough to ignore them.
 
 * You gain immunity to poison damage and the poisoned condition.
@@ -936,7 +934,7 @@ Your poisons have become incredible potent and you have worked with them long en
 ### Mental Fortress
 
 **Prerequisite:** Level 12, Hardened Mind.
-
+___
 Your mind becomes a fortress of pure willpower.
 
 * You gain resistance to psychic damage. 
@@ -947,7 +945,7 @@ Your mind becomes a fortress of pure willpower.
 ### Sentinel
 
 **Prerequisite:** Level 12, Interceptor or the Protection Fighting Style.
-
+___
 You have mastered techniques to take advantage of every drop in any enemy's guard. 
 
 * When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn if it is large or smaller or has its speed halved for the rest of the turn if its huge.
@@ -958,12 +956,11 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 ### Spell Former
 
 **Prerequisite:** Level 12, The ability to cast at least one spell, a spellcasting ability of 19 or higher.
-
+___
 You have learned to change the destructive energies of your spells. 
 
 * You can change the damage type of your spells to another one of the same list, as shown in the table below:
 
-##### Cookie Tastiness
 | Category | Damage Types |
 |:----:|:-------------|
 | Elemental  | Acid, Cold, Fire, Lightning, Poison |
@@ -984,7 +981,7 @@ You have learned to change the destructive energies of your spells.
 ### Spell Sink
 
 **Prerequisite:** Level 12, Spell Distortion.
-
+___
 Your unnatural being has started to shield you from magic.
 
 * You gain resistance to damage from spells. Once per long rest as an action, you can choose to gain the effects of a protect from evil and good spell for 10 minutes.
@@ -995,7 +992,7 @@ Your unnatural being has started to shield you from magic.
 ### Weapon Master
 
 **Prerequisite:** Level 12.
-
+___
 You have mastered the art of wielding your favorite weapon.
 
 * Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
@@ -1004,7 +1001,7 @@ You have mastered the art of wielding your favorite weapon.
 ### Witch Hunter
 
 **Prerequisite:** Level 12, Mage Slayer.
-
+___
 You have honed and perfected your skills fighting against spellcasters. 
 
 * Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster’s spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball. 
@@ -1018,7 +1015,7 @@ You have honed and perfected your skills fighting against spellcasters.
 ### Bulwark
 
 **Prerequisite:** Level 15, [Interceptor](#interceptor):
-
+___
 You became a moving bulwark of pure protection, while wearing a shield you gain the following benefits:
 
 * You count as three quarters cover for every medium or smaller creature, that stands behind you.
@@ -1028,7 +1025,7 @@ You became a moving bulwark of pure protection, while wearing a shield you gain 
 ### Greater Magic Scholar
 
 **Prerequisite:** Level 15, [Advanced Magic Scholar](#advanced-magic-scholar).
-
+___
 You have studied your magic over the course of your adventures. 
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from.
@@ -1039,15 +1036,16 @@ You have studied your magic over the course of your adventures.
 ### Lucky Devil
 
 **Prerequisite:** Level 15, [Lucky](#Lucky).
-
+___
 You have inexplicable luck that seems to kick in at just the right moment. 
 
 * You now have 3 luck points to use with your [Lucky](#Lucky) feat. You regain all your spent luck points at the end of a long rest
 
+
 ### Weave Vortex
 
 **Prerequisite:** Level 15, [Spell Sink](#spell-sink).
-
+___
 Your unnatural nature has evolved to rip apart the weave around you.
 
 * Your Bonus against Spells and other magical effects increases to +4.
@@ -1063,7 +1061,7 @@ Your unnatural nature has evolved to rip apart the weave around you.
 ### Iron Will
 
 **Prerequisite:** Level 18, [Warcaster](#warcaster).
-
+___
 You have learned to weave the essence of two spells together.
 
 * You can concentrate on 2 spells at once, while you do so, you don't get advantage on Constitution saving throws to maintain them. If you fail your concentration  check you lose both spells.
@@ -1072,7 +1070,7 @@ You have learned to weave the essence of two spells together.
 ### Legendary Alchemist
 
 **Prerequisite:** Level 18, [Master Alchemist](#master-alchemist).
-
+___
 You have surpassed most of the alchemists and became one of the greatest alchemists who have ever lived.
 
 * The costs and time you need to craft Items using your Alchemist’s supplies is quartered.
@@ -1084,7 +1082,7 @@ You have surpassed most of the alchemists and became one of the greatest alchemi
 ### Legendary Blacksmith
 
 **Prerequisite:** Level 18, [Master Blacksmith](#master-blacksmith).
-
+___
 You have surpassed most of the blacksmiths and became one of the greatest blacksmiths who have ever lived. 
 
 * The time you need to craft a weapon or armor using your Smith’s tools is quartered.
@@ -1096,7 +1094,7 @@ You have surpassed most of the blacksmiths and became one of the greatest blacks
 ### Legendary Herbalist
 
 **Prerequisite:** Level 18, [Master Herbalist](#master-herbalist).
-
+___
 You have surpassed most of the herbalists and became one of the greatest herbalists who have ever lived.
 
 * The cost and time you need to craft an item using your herbalism Kit is quartered.
@@ -1109,7 +1107,7 @@ You have surpassed most of the herbalists and became one of the greatest herbali
 ### Legendary Bowyer
 
 **Prerequisite:** Level 18, [Master Bowyer](#master-bowyer).
-
+___
 You have surpassed most of the Bowyers and became one of the greatest bowyers who have ever lived.
 
 * The time you need to craft a weapon or ammunition using your Carpenter’s Tools is quartered.
@@ -1121,7 +1119,7 @@ You have surpassed most of the Bowyers and became one of the greatest bowyers wh
 ### Legendary Poisoner
 
 **Prerequisite:** Level 18, [Master Poisoner](#master-poisoner).
-
+___
 You have surpassed most of the Poisoners and became one of the greatest Poisoners who have ever lived.
 
 * The cost and time you need to craft an item using your Poisoner’s Kit is quartered.
@@ -1133,7 +1131,7 @@ You have surpassed most of the Poisoners and became one of the greatest Poisoner
 ### Masterful Magic Scholar
 
 **Prerequisite:** Level 18, [Greater Magic Scholar](#greater-magic-scholar).
-
+___
 You have studied your magic over the course of your adventures.
 
 * You learn one additional Cantrip from the same list you choose your Magic Initiate Spells from. 
@@ -1154,7 +1152,7 @@ Feats listed in this section can only be taken by the associated race.
 ### Strong Wings
 
 **Prerequisite:** Strength of 13 or higher.
-
+___
 You have trained to make your wings stronger and more powerful.
 
 * You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 30ft while wearing this kind of armor.
@@ -1163,7 +1161,7 @@ You have trained to make your wings stronger and more powerful.
 ### Hawk's Eye
 
 **Prerequisite:** Level 6.
-
+___
 You have adopted your bird features to improve your vision.
 
 * You have advantage on Wisdom (Perception) checks that rely on sight.
@@ -1173,7 +1171,7 @@ You have adopted your bird features to improve your vision.
 ### Flyby
 
 **Prerequisite:** Level 12, Dexterity of 15 or higher.
-
+___
 You can swoop down quickly and strike with deadly precision.
 
 * You don't provoke opportunity attacks when you fly out of an enemy's reach.
@@ -1187,7 +1185,7 @@ You can swoop down quickly and strike with deadly precision.
 ### Magic of the Gods
 
 **Prerequisite:** Level 6.
-
+___
 You learn more of the magic typical of Celestials.
 
 * You learn the bless or bane spell and can cast it at will, without expending a spell slot. 
@@ -1198,7 +1196,7 @@ You learn more of the magic typical of Celestials.
 ### Enhanced Transformation
 
 **Prerequisite:** Level 9.
-
+___
 You learned to improve your celestial transformation (Necrotic Shroud, Radiant Soul or Radiant Consumption), 
 
 * You can use your transformation a number of times equal to your Charisma modifier (minimum of 1), before you must finish a long rest.
@@ -1208,7 +1206,7 @@ You learned to improve your celestial transformation (Necrotic Shroud, Radiant S
 ### Celestial Mind
 
 **Prerequisite:** Level 12.
-
+___
 Your celestial blood makes it harder for other creatures to control your mind, 
 
 * You have advantage on saving throws against being frightened or charmed.
@@ -1225,7 +1223,7 @@ Your celestial blood makes it harder for other creatures to control your mind,
 ### Surprise Surprise
 
 **Prerequisite:** Level 6.
-
+___
 You learned how to surprise people when they least expect it.
 
 * The extra damage of your Surprise Attack feature increases to 3d6 and keeps increasing to 4d6 at 11th level, and 5d6 at 16th level.
@@ -1234,7 +1232,7 @@ You learned how to surprise people when they least expect it.
 ### Brute
 
 **Prerequisite:** Level 9.
-
+___
 You learned how to hit enemies and how to hit them good.
 
 * When you attack with a melee weapon it deals one extra die of its damage on a hit.
@@ -1243,7 +1241,7 @@ You learned how to hit enemies and how to hit them good.
 ### Heart of Hruggek
 
 **Prerequisite:** Level 12.
-
+___
 Hruggek saw you in battle and he liked it.
 
 * You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
@@ -1255,7 +1253,7 @@ Hruggek saw you in battle and he liked it.
 ## Centaur
 
 ### Trampling Hooves
-
+___
 You learned to put your horse body to good use in combat.
 
 * Your hooves now deal 2d4 + your Strength modifier bludgeoning damage.
@@ -1264,7 +1262,7 @@ You learned to put your horse body to good use in combat.
 
 
 ### Jousting
-
+___
 You become rider and horse in one person.
 
 * You can use the Mounted Combatant feat without a mount. You count as the rider and the mount in that case.
@@ -1274,7 +1272,7 @@ You become rider and horse in one person.
 ### Pegasus Blood
 
 **Prerequisite:** Level 12, no other Blood feature.
-
+___
 You have Pegasus blood in your veins, that changes your physique.
 
 * Your size becomes large. 
@@ -1285,7 +1283,7 @@ You have Pegasus blood in your veins, that changes your physique.
 ### Unicorn Blood
 
 **Prerequisite:** Level 15, no other Blood feature.
-
+___
 You have unicorn blood in your veins, that changes your physique.
 
 * Your size becomes large
@@ -1303,7 +1301,7 @@ You have unicorn blood in your veins, that changes your physique.
 ### Thousand Faces
 
 **Prerequisite:** Level 9.
-
+___
 You learned to change your body in a way only few of your kind have mastered.
 
 * You can use your Shapechanger features to sprout additional limbs like tails or wings.
@@ -1313,7 +1311,7 @@ You learned to change your body in a way only few of your kind have mastered.
 ### Master of all Forms
 
 **Prerequisite:** Level 15, Thousand Faces.
-
+___
 Your transformation skills are at their peak and there are not many who can rival you.
 
 * You can transform into any Creature you are familiar with, that has a challenge rating of half your level (rounded up) and is huge or smaller. Your statistics change except for your wisdom, Intelligence and Charisma score. You don't get any legendary actions or resistances. When you drop to zero hit 0 hit points, you revert to your normal form with 0 hit points. You can use his feature once and you regain the ability to do so when you finish a long rest.
@@ -1324,14 +1322,14 @@ Your transformation skills are at their peak and there are not many who can riva
 ## Dragonborn
 
 ### Dragon Fear
-
+___
 When angered, you can radiate menace.
 
 * Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 
 ### Dragon Hide
-
+___
 You manifest scales and claws reminiscent of your draconic ancestors. 
 
 + Your scales harden. While you aren’t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
@@ -1341,7 +1339,7 @@ You manifest scales and claws reminiscent of your draconic ancestors.
 ### Improved Dragon Breath
 
 **Prerequisite:** Level 3.
-
+___
 You mastered your Breath Weapon:
 
 * You can use your Breath Weapon as a bonus action.
@@ -1351,7 +1349,7 @@ You mastered your Breath Weapon:
 ### Dragon Senses
 
 **Prerequisite:** Level 9.
-
+___
 Your draconic senses have heightened:
 
 * You gain darkvision up to a range of 60ft.
@@ -1361,7 +1359,7 @@ Your draconic senses have heightened:
 ### Dragon Form
 
 **Prerequisite:** Level 12.
-
+___
 You embrace your draconic blood.
 
 * Your creature type becomes dragon instead of humanoid. 
@@ -1375,7 +1373,7 @@ You embrace your draconic blood.
 ## Dwarf
 
 ### Dwarven Fortitude
-
+___
 You have the blood of dwarf heroes flowing through your veins. 
 
 * Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
@@ -1383,7 +1381,7 @@ You have the blood of dwarf heroes flowing through your veins.
 
 
 ### Dwarven Stubbornness
-
+___
 When set your mind to something there is nothing that can change your mind and most of the times people are to tiered to argue with you for long. 
 
 * You gain advantage on Persuasion checks to haggle.
@@ -1391,7 +1389,7 @@ When set your mind to something there is nothing that can change your mind and m
 
 
 ### Squat Nimbleness
-
+___
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1402,7 +1400,7 @@ You are uncommonly nimble for your race.
 ### Cunning Artisan
 
 **Prerequisite:** Level 3.
-
+___
 You have trained in the art of crafting for more years than a normal Human lives, 
 
 * You gain proficiency in one additional artisan tool of your choice
@@ -1413,7 +1411,7 @@ You have trained in the art of crafting for more years than a normal Human lives
 ### Enhanced Enlarge
 
 **Prerequisite:** Level 6, Duergar.
-
+___
 You learned how to increase your power while enlarged.
 
 * When you cast the enlarge spell, with your racial feat, it doesn't require concentration.
@@ -1423,7 +1421,7 @@ You learned how to increase your power while enlarged.
 ### Runes of Protection
 
 **Prerequisite:** Level 12, Cunning Artisan 
-
+___
 You have learned the ancient art of  engraving the dwarfen Runes of Protection into gemstones. 
 
 * You learn how to craft Ioun Stones (as described in Xanathars Guide to Everything )
@@ -1441,7 +1439,7 @@ You have learned the ancient art of  engraving the dwarfen Runes of Protection i
 ### Fey Teleportation
 
 **Prerequisite:** Level 3.
-
+___
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. 
 
 * You learn to speak, read, and write Sylvan.
@@ -1451,7 +1449,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 ### Revenant Blade
 
 **Prerequisite:** Level 3.
-
+___
 You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. 
 
 * While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
@@ -1462,7 +1460,7 @@ You are descended from a master of the double-bladed scimitar, and some of that 
 ### Elven Accuracy
 
 **Prerequisite:** Level 6.
-
+___
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force.
 
 * Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
@@ -1496,16 +1494,17 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 ## Firbolg
 
 ### Caretaker of the Critters
-
+___
 As a Firbolg you are a guardian of nature and a caretaker of its inhabitants.
 
 * You gain expertise with Animal Handling. 
 * You gain proficiency with Carpenter's Tools and Herbalism Tools.
 
+
 ### Speak with Beasts and Plants
 
 **Prerequisite:** Level 6.
-
+___
 Your connection with nature has grown over the course of your adventures 
 
 * You learn the speak with animals spell and cast it at will without expending a spell slot.
@@ -1515,7 +1514,7 @@ Your connection with nature has grown over the course of your adventures
 ### Natures Friend
 
 **Prerequisite:** Level 9, Speak with Beasts and Plants.
-
+___
 You love nature and nature loves you.
 
 * Difficult terrain made from plants doesn't cost you extra movement.
@@ -1528,7 +1527,7 @@ You love nature and nature loves you.
 \page <div class='pageNumber auto'></div>
 
 ## Genasi
-
+___
 For the purpose of associated damage types, consider the following chart:
 
 #### Associated Element
@@ -1542,7 +1541,7 @@ For the purpose of associated damage types, consider the following chart:
 
 
 ### Elemental Adaptation
-
+___
 Your elemental bloodline shields you from enemy attacks. 
 
 * You gain resistance to your associated damage type. 
@@ -1552,7 +1551,7 @@ Your elemental bloodline shields you from enemy attacks.
 ### Elemental Familiar
 
 **Prerequisite:** Level 3.
-
+___
 Your connection to the Elemental plains grants you the aid of new forms of familiars. 
 
 * You learn the find familiar spell and can cast it as a ritual. 
@@ -1573,7 +1572,7 @@ Your connection to the Elemental plains grants you the aid of new forms of famil
 ### Spell Forming
 
 **Prerequisite:** Level 6, the ability to cast at least one spell.
-
+___
 Your elemental ancestry lets you change the appearance of your spells.
 
 * If you cast a Spell that deals acid, cold, fire, lightning, or thunder, you can change the damage type of this spell to your associated damage type. You can use this feature a number of times equal to your constitution modifier (minimum of 1) before you need to make a long rest.
@@ -1582,7 +1581,7 @@ Your elemental ancestry lets you change the appearance of your spells.
 ### Elemental Investiture
 
 **Prerequisite:** Level 12, Elemental Adaptation.
-
+___
 Your Elemental ancestors grant you the access to powerful elemental magic.
 
 * You can cast one investiture spell associated with your nature as shown in the table below. Constitution is your spell casting ability for this spell. You can use this feature once per long rest
@@ -1601,7 +1600,7 @@ Your Elemental ancestors grant you the access to powerful elemental magic.
 ## Gith
 
 ### Telepathy
-
+___
 Your psychic nature lets you reach out with your mind to communicate with other creatures.
 
 * You can telepathically speak to any creature you can see within 30 feet of you. You need to share a language with the creature for it to understand you.
@@ -1610,7 +1609,7 @@ Your psychic nature lets you reach out with your mind to communicate with other 
 ### Illithid Hunter
 
 **Prerequisite:** Level 3.
-
+___
 Your natural hate against Illithids and their kind enhances your abilities to hunt them. 
 
 * You have advantage on Wisdom (Survival) checks to track aberrations, as well as on Intelligence ability checks to recall information about them.
@@ -1620,7 +1619,7 @@ Your natural hate against Illithids and their kind enhances your abilities to hu
 ### Enhanced Psychic Powers
 
 **Prerequisite:** Level 6.
-
+___
 Your psychic mind grows and so do your ability to use it. 
 
 * You learn the catapult, see invisibility and blink spell. You can cast each of these spells once, before you must finish a long rest. You don't need any components to cast these spells. Intelligence is your spellcasting modifier for all of these spells.
@@ -1629,7 +1628,7 @@ Your psychic mind grows and so do your ability to use it.
 ### Illithid Slayer
 
 **Prerequisite:** Level 9, Illithid Hunter.
-
+___
 You trained hard and enhanced your abilities to stand up against your hated foe. 
 
 * You gain resistance against psychic damage.
@@ -1644,14 +1643,14 @@ You trained hard and enhanced your abilities to stand up against your hated foe.
 ## Gnome
 
 ### Fade Away
-
+___
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm.
 
 * Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
 
 ### Squat Nimbleness
-
+___
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1662,7 +1661,7 @@ You are uncommonly nimble for your race.
 ### Cunning Artisan
 
 **Prerequisite:** Level 3.
-
+___
 You have trained in the art of crafting for more years than a normal Human lives, 
 
 
@@ -1681,7 +1680,7 @@ You have trained in the art of crafting for more years than a normal Human lives
 ### Superior Tinkering
 
 **Prerequisite:** Level 9, proficiency in Tinkering Tools, Cunning Artisan.
-
+___
 Your decade long studies in mechanics finally paid off and you learned how to create little constructs. 
 
 * You learn how to speak, read and write Modron 
@@ -1696,7 +1695,7 @@ Your decade long studies in mechanics finally paid off and you learned how to cr
 ## Goblin
 
 ### Squat Nimbleness
-
+___
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1704,7 +1703,7 @@ You are uncommonly nimble for your race.
 * You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
 ### Bad Inventors
-
+___
 You aren't good at planning, but you are incredibly good at improvising. 
 
 * You gain proficiency in improvised weapons.
@@ -1713,7 +1712,7 @@ You aren't good at planning, but you are incredibly good at improvising.
 
 
 ### Garbage to Gold
-
+___
 You have learned to use other people’s waste to craft useful things for yourself. 
 
 * You gain proficiency in one Artisan Tool of your choice. 
@@ -1723,7 +1722,7 @@ You have learned to use other people’s waste to craft useful things for yourse
 ### Fire in the Hole
 
 **Prerequisite:** Level 6.
-
+___
 You have a favor for explosives even if they don't have one for you. 
 
 
@@ -1738,7 +1737,7 @@ You have a favor for explosives even if they don't have one for you.
 ### Hagedy Hagedy
 
 **Prerequisite:** Level 12, Fire in the Hole.
-
+___
 You've developed a new toy, much to the regret of your enemies. 
 
 * The costs for crafting your Bombs is halved, and you can craft up to 2 bombs per short rest. 
@@ -1750,7 +1749,7 @@ You've developed a new toy, much to the regret of your enemies.
 ## Goliath
 
 ### Pushing Through
-
+___
 The harsh environment you grow up in tough you how to keep going when others would collapse on the spot.
 
 * You ignore a number of exhaustion points equal to half your proficiency bonus (rounded down). You still die when you gain 6 exhaustion points.
@@ -1760,7 +1759,7 @@ The harsh environment you grow up in tough you how to keep going when others wou
 ### Titanium Endurance
 
 **Prerequisite:** Level 3.
-
+___
 Your harsh training hardened your body to a degree most humans can’t comprehend.
 
 * You can use your Stone’s Endurance feature a number of times equal to your Constitution modifier (minimum of 1) before you have to finish a long rest.
@@ -1769,7 +1768,7 @@ Your harsh training hardened your body to a degree most humans can’t comprehen
 ### Advanced Great Weapon Training
 
 **Prerequisite:** Level 6, Strength 13 or higher.
-
+___
 Wielding a large weapon became an easy practice to you over the years.
 
 * You can wield a two-handed weapon with one hand, as long as it is your main hand and the weapon isn’t a polearm. You can never wield more than 1 two-handed weapon at once.
@@ -1778,7 +1777,7 @@ Wielding a large weapon became an easy practice to you over the years.
 ### Intimidating Fighter
 
 **Prerequisite:** Level 9, Titanium Endurance.
-
+______
 Your hulking figure is a sight to behold on the battlefield and people may think twice before attacking you.
 
 * You gain proficiency in the intimidation skill, if you already have proficiency in that skill you gain expertise in that skill.
@@ -1791,7 +1790,7 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 ## Half-Elf
 
 ### Social Adaptation
-
+___
 Since you are a being of two worlds have no problem fitting in wherever you go. 
 
 * Once during a long rest, you can switch one Charisma based skill proficiency to another Charisma based skill proficiency.
@@ -1799,7 +1798,7 @@ Since you are a being of two worlds have no problem fitting in wherever you go.
 
 
 ### World traveler
-
+___
 You traveled the world and saw many things.
 
 * You gain proficiency at the History skill and in cartographers’ tools.
@@ -1809,7 +1808,7 @@ You traveled the world and saw many things.
 ### Elven Magic
 
 **Prerequisite:** Level 6.
-
+___
 Your elven blood line grants you access to powerful magic.
 
 * Choose one of the Elven Magic feats, associated with one of your parents, you gain this feat.
@@ -1822,7 +1821,7 @@ Your elven blood line grants you access to powerful magic.
 ### Orcish Fury
 
 **Prerequisite:** Level 3.
-
+___
 Your inner fury burns tirelessly. 
 
 * When you hit with an attack using a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
@@ -1832,7 +1831,7 @@ Your inner fury burns tirelessly.
 ### Burning Endurance
 
 **Prerequisite:** Level 6.
-
+___
 Coming to the edge of death fuels your inner fire.
 
 * When you use your Relentless Endurance trait you can expend hit dice as if you have taken a short rest. The maximum number of hit dice you can use this way is equal to your proficiency bonus.
@@ -1841,7 +1840,7 @@ Coming to the edge of death fuels your inner fire.
 ### Mark of Gruumsh
 
 **Prerequisite:** Level 9, Orcish Fury.
-
+___
 Killing invigorates you to such a degree, that some would say Gruumsh himself has his eye on you.
 
 * When you reduce a creature to 0 Hit Points you can move as a reaction up to your movement and make one additional attack against a creature in range. This movement doesn’t provoke opportunity attacks. 
@@ -1855,7 +1854,7 @@ Killing invigorates you to such a degree, that some would say Gruumsh himself ha
 ## Halfling
 
 ### Bountiful Luck
-
+___
 Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You’re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune’s favor!
 
 * When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll. 
@@ -1863,7 +1862,7 @@ Your people have extraordinary luck, which you have learned to mystically lend t
 
 
 ### But What About A Second Breakfast?
-
+___
 Breakfast is the most important meal of the day and why don’t have multiple of them? 
 
 * You gain proficiency in Cook's Utensils.
@@ -1871,14 +1870,14 @@ Breakfast is the most important meal of the day and why don’t have multiple of
 
 
 ### Second Chance
-
+___
 Fortune favors you when someone tries to strike you.
 
 * When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
 
 ### Squat Nimbleness
-
+___
 You are uncommonly nimble for your race.
 
 * Increase your walking speed by 5 feet.
@@ -1889,7 +1888,7 @@ You are uncommonly nimble for your race.
 ### Cooking Expert
 
 **Prerequisite:** Level 6.
-
+___
 You have learned to serve your companions a 5-course menu even in the middle of the desert 
 
 * You learn the create food and water spell and can cast it at will without expending a spell slot. The casting time of this spell changes to 10 minutes for you and you need Cook's Utensils to cast this spell.
@@ -1899,7 +1898,7 @@ You have learned to serve your companions a 5-course menu even in the middle of 
 ### Marvelous Chef
 
 **Prerequisite:** Level 12, Cooking Expert.
-
+___
 You became one of the most brilliant chefs.
 
 * You learn the Heroes' Feast spell and can cast it without expending a spell slot
@@ -1913,7 +1912,7 @@ You became one of the most brilliant chefs.
 ### Combat Tactics
 
 **Prerequisite:** Level 3.
-
+___
 Your knowledge about tactics and strategy gives you an edge in combat.
 
 * You gain a pool of d6 equal to your proficiency bonus.
@@ -1923,7 +1922,7 @@ Your knowledge about tactics and strategy gives you an edge in combat.
 ### Tactical Genius
 
 **Prerequisite:** Level 9.
-
+___
 You are great at giving “constructive criticism“ which mostly means shouting orders over the battlefield.
 
 * You can use an action to shout commands and advices over the battlefield. For one minute all friendly creatures within 30ft of that can hear you can add a d4 to every attack roll and saving throw they make. While you use this feature, you can use reactions. Once you use this feature you can use it again until you finish a short rest.
@@ -1932,7 +1931,7 @@ You are great at giving “constructive criticism“ which mostly means shouting
 ### Warlord
 
 **Prerequisite:** Level 12.
-
+___
 You became a master of combat tactics.
 
 * The range of your warlord feature increases to 60ft. 
@@ -1946,7 +1945,7 @@ You became a master of combat tactics.
 ## Human
 
 ### Adaptive Nature
-
+___
 Your Human nature makes it easy for you to adapt to new situations.
 
 * Once during a long rest, you can change one skill proficiency of your choice as long as the new proficiency uses the same attribute. You can’t change expertise this way. For example, you can change a proficiency in Persuasion to Intimidation but not to Perception.
@@ -1955,7 +1954,7 @@ Your Human nature makes it easy for you to adapt to new situations.
 ### Quick Learner
 
 **Prerequisite:** Level 3.
-
+___
 You learn new things faster than other people.
 
 * Choose one of your Class Features, which has limited uses (minimum of 2) you gain one additional use of that feature (this doesn’t work on Spell slots).
@@ -1964,7 +1963,7 @@ You learn new things faster than other people.
 ### Master of Improvisation
 
 **Prerequisite:** Level 9.
-
+___
 Improvising comes natural to you there is no situation you can’t solve by improving. 
 
 * You gain proficiency with improvised weapons.
@@ -1978,7 +1977,7 @@ Improvising comes natural to you there is no situation you can’t solve by impr
 ## Kalashtar
 
 ### Dream Reader
-
+___
 Your connection to the Plane of dreams makes it easy for you to read other people’s dreams.
 
 
@@ -1988,7 +1987,7 @@ Your connection to the Plane of dreams makes it easy for you to read other peopl
 ### Dream Walker
 
 **Prerequisite:** Level 9, Dream Reader.
-
+___
 You gain the Ability to enter other creatures’ dreams like entering a room. 
 
 * You learn the dream Spell and can cast it at will without expending a spell slot.
@@ -1998,7 +1997,7 @@ You gain the Ability to enter other creatures’ dreams like entering a room.
 ### Spirit Release
 
 **Prerequisite:** Level 12.
-
+___
 You have learned to release the Spirit bound within you. 
 
 * As an action you can release your bound spirit, you choose the spirits appearance the spirit has the statistics of a Spirit. The Spirit is friendly to you and your companions. You can telepathically command the Spirit on your turn (no action required), if it don’t get any commands it acts on its own. You can release the spirit for a total number of hours equal to your Wisdom Modifier. Once you used all hours or the spirit drops to 0 hit points you can’t use this trait again until you finish a long rest.
@@ -2013,7 +2012,7 @@ You have learned to release the Spirit bound within you.
 ## Kenku
 
 ### Learning New Things
-
+___
 Your curse causes you to learn new things fast.
 
 * You can spend 5 hours a day for a total 30 Days to gain proficiency in one skill, tool, weapon or language of your choice.
@@ -2022,7 +2021,7 @@ Your curse causes you to learn new things fast.
 ### Glide
 
 **Prerequisite:** Level 3.
-
+___
 You maybe can’t fly but you learned a way to use your feathers to glide.
 
 * If you are on a ledge at least 10ft above the ground, you can use your feathers to glide. Granting you a fly speed of 50ft, but you sink 10ft per turn until you touch the ground. 
@@ -2032,7 +2031,7 @@ You maybe can’t fly but you learned a way to use your feathers to glide.
 ### Embrace the Curse
 
 **Prerequisite:** Level 12.
-
+___
 Were other members of your race sorrow over their lost abilities you embrace your new once.
 
 
@@ -2045,7 +2044,7 @@ Were other members of your race sorrow over their lost abilities you embrace you
 ## Kobold
 
 ### Better together
-
+___
 You aren’t a solo fighter, but you are really good at working with outers. 
 
 * While being within 5ft of an ally you can take the help action as a bonus action.
@@ -2055,7 +2054,7 @@ You aren’t a solo fighter, but you are really good at working with outers.
 ### Preparation is Key
 
 **Prerequisite:** Level 3.
-
+___
 You love being prepared especially when it comes to combat.
 
 * You can spend a short rest to fashion one of the Items listed in the Kobold Inventor stat block under Weapon Invention. If the Item requires a saving throw the DC is equal to 8 + your Dexterity modifier + your Proficiency bonus. You can never have more created items than your proficiency bonus.
@@ -2063,7 +2062,7 @@ You love being prepared especially when it comes to combat.
 ### Blessing of Tiamat
 
 **Prerequisite:** Level 12.
-
+___
 Tiamat’s smile falls upon you.
 
 * You sprout small leathery wings granting you a fly speed equal to your walking speed.
@@ -2078,7 +2077,7 @@ Tiamat’s smile falls upon you.
 ## Lizardfolk
 
 ### Cold Hearted
-
+___
 Your normal nature makes it harder for others to manipulate you. 
 
 * You have advantage on saving throws against becoming charmed or frightened.
@@ -2087,7 +2086,7 @@ Your normal nature makes it harder for others to manipulate you.
 ### Release the Beast
 
 **Prerequisite:** Level 3.
-
+___
 You learn how to hurl yourself into a feral frenzy, setting normal thoughts aside and let your bestial instincts take over. 
 
 * You can use your bonus action to enter this frenzy, which holds for 1 minute or until you end it as a bonus action.
@@ -2098,7 +2097,7 @@ You learn how to hurl yourself into a feral frenzy, setting normal thoughts asid
 ### Chameleon Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
-
+___
 You have learned to change the colors of your skin to match the environment. 
 
 * While you are not wearing armor, you gain advantage on Dexterity (Stealth) checks, and other creatures have disadvantage on Wisdom (Perception) checks that rely on sight to spot you.
@@ -2107,7 +2106,7 @@ You have learned to change the colors of your skin to match the environment.
 ### Thorny Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
-
+___
 Your Scales became spiky over the course of your adventures, 
 
 * You can use the grapple action as a bonus action. 
@@ -2118,7 +2117,7 @@ Your Scales became spiky over the course of your adventures,
 ### Armadillo Scales
 
 **Prerequisite:** Level 6, no other Scales feat.
-
+___
 Your scales became junky and hard over the course of your adventures. 
 
 * Your natural AC changes to 15 + your Dexterity modifier. 
@@ -2132,7 +2131,7 @@ Your scales became junky and hard over the course of your adventures.
 ### Perfect Memory
 
 **Prerequisite:** Level 3.
-
+___
 Your elephant genes help you to remember things other creatures would forget instantly. 
 
 * You can accurately remember everything you have seen or heard within the last year.
@@ -2143,7 +2142,7 @@ Your elephant genes help you to remember things other creatures would forget ins
 ### Loxodon Rage
 
 **Prerequisite:** Level 6.
-
+___
 You’re not easy to anger but when you get angry it’s a sight to behold. 
 
 * You deal double damage to structures and non-animated objects.
@@ -2154,7 +2153,7 @@ You’re not easy to anger but when you get angry it’s a sight to behold.
 ### Minotaur
 
 ### Labyrinth Senses
-
+___
 Your days guarding dark places or even a labyrinth made your body adapt to your duties. 
 
 * You can perfectly recall every path you have traveled. 
@@ -2164,7 +2163,7 @@ Your days guarding dark places or even a labyrinth made your body adapt to your 
 ### Heroes Blood
 
 **Prerequisite:** Level 6.
-
+___
 Heroes blood flows through your veins and you learned how to control it.
 
 * You have advantage on saving throws against being frightened.
@@ -2180,7 +2179,7 @@ Heroes blood flows through your veins and you learned how to control it.
 ### The Colors of Conquest
 
 **Prerequisite:** Level 3.
-
+___
 You adorn yourself in the colors of conquest, might it be tattoos, paint or other symbols.
 
 * Once per day during a long rest you can attune to one of the colors red, white or black.
@@ -2192,7 +2191,7 @@ You adorn yourself in the colors of conquest, might it be tattoos, paint or othe
 ### The Color of Blood
 
 **Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
-
+___
 You have embraced the color red, the color of blood.
 
 * When you reduce a creature to 0 Hit Points you can move as a reaction up to your movement and make an additional attack against a creature in range. This movement doesn’t provoke opportunity attacks. 
@@ -2201,7 +2200,7 @@ You have embraced the color red, the color of blood.
 ### The Color of Death
 
 **Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
-
+___
 You have embraced the color white, the color of death.
 
 * You have advantage on death saving throws. 
@@ -2211,7 +2210,7 @@ You have embraced the color white, the color of death.
 ### The Color of Darkness
 
 **Prerequisite:** Level 9, The Colors of Conquest, no other Color Feat.
-
+___
 You have embraced the color black, the color of darkness.
 
 * You can see normally in magical and non-magical darkness up to a range of 120 feet.
@@ -2223,7 +2222,7 @@ You have embraced the color black, the color of darkness.
 ## Shifter
 
 ### Shifter Senses
-
+___
 Your embrace your animal nature.
 
 * You gain proficiency in the Perception skill.
@@ -2233,7 +2232,7 @@ Your embrace your animal nature.
 ### Full Transformation:
 
 **Prerequisite:** Level 3.
-
+___
 You have learned to shift your whole body into an animal.
 
 * As an action you can transform into one of your associated animals, as shown in the table below. This feat works like the druids Wild Shape ability. You can stay in this form for a number of hours equal to half your Proficiency bonus (rounded down) and once you use this feat you can’t use it again until you finish a short or long rest.
@@ -2249,7 +2248,7 @@ You have learned to shift your whole body into an animal.
 ### Advanced Shifting
 
 **Prerequisite:** Level 9.
-
+___
 You have learned to bring your shifting abilities to the next level. 
 
 * You can now use your Shifting ability a number of times equal to half your proficiency bonus (rounded down) You gain additional benefits while shifting depending on your subrace as described in the table below 
@@ -2271,7 +2270,7 @@ You have learned to bring your shifting abilities to the next level.
 ### Always Land on Your Feet
 
 **Prerequisite:** Level 6.
-
+___
 You have learned to always land on your feet.
 
 * You have advantage on saving throws against being knocked prone.
@@ -2282,7 +2281,7 @@ You have learned to always land on your feet.
 ### Nine Lives
 
 **Prerequisite:** Level 15.
-
+___
 You have a neck for evading death, 
 
 * You gain advantage on death saving throws.
@@ -2294,7 +2293,7 @@ You have a neck for evading death,
 ## Tiefling
 
 ### The Art of Haggling
-
+___
 Haggling is in Your blood 
 
 * You gain proficiency in one of the following skills: Deception, Intimidation or Persuasion. 
@@ -2304,7 +2303,7 @@ Haggling is in Your blood
 ### Flames of Phlegethos
 
 **Prerequisite:** Level 3.
-
+___
 You learn to call on hellfire to serve your commands.
 
 * When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
@@ -2314,7 +2313,7 @@ You learn to call on hellfire to serve your commands.
 ### Infernal Constitution
 
 **Prerequisite:** Level 3.
-
+___
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. 
 
 * You have resistance to cold damage and poison damage.
@@ -2324,7 +2323,7 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 ### Infernal Form
 
 **Prerequisite:** Level 9.
-
+___
 You have embraced your infernal blood.
 
 * You sprout leathery wings, granting you a fly speed equal to your walking speed.
@@ -2334,7 +2333,7 @@ You have embraced your infernal blood.
 ### The Art of The Deal
 
 **Prerequisite:** Level 12, The Art of Haggling.
-
+___
 You have learned the channel the blood of your ancestors into your deals.
 
 * You can offer and create deals as described in Baldur’s Gate: Descent into Avernus. You choose the wording and form of the deal. If you get a soul offered and receive one you a small silvery cage containing the soul (similar to a Soul Cage Spell), that manifests in an unoccupied space within 5ft of you. You can have a maximum number of active contracts equal to your Charisma modifier + your Proficiency modifier.
@@ -2373,7 +2372,7 @@ You have learned the channel the blood of your ancestors into your deals.
 ### Advanced Shell Defense
 
 **Prerequisite:** Level 6.
-
+___
 You have learned to act at least a little bit while in your shell.
 
 * While in your shell you can still use an action to cast spells, as long as those spells doesn’t need material components. Also, you can extend on limb to make a melee attack against a creature within 5 feet of you. 
@@ -2384,7 +2383,7 @@ You have learned to act at least a little bit while in your shell.
 ## Triton
 
 ### Child of the Sea
-
+___
 You deepen your connection to the sea.
 
 * You learn the Shape Water and Gust cantrip. Choose Strength, Constitution or Charisma for your Spellcasting ability.
@@ -2393,7 +2392,7 @@ You deepen your connection to the sea.
 ### Master of the Sea
 
 **Prerequisite:** Level 9, Child of the Sea.
-
+___
 Your master your connection to the sea:
 
 * You can speak normally with aquatic beasts and understand what they are saying.
@@ -2403,7 +2402,7 @@ Your master your connection to the sea:
 ### Sea Caller
 
 **Prerequisite:** Level 9, Child of the Sea.
-
+___
 You have mastered your connection to the elemental plains.
 
 * You learn the Conjure Elemental and Tidal Wave spell each of which you can cast once without expending a spell slot. You can only summon elementals connected to the elemental plain of water or air. Once you cast these spells with this trait you can’t do so again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
@@ -2418,7 +2417,7 @@ You have mastered your connection to the elemental plains.
 ### Seeking Perfection
 
 **Prerequisite:** Level 3.
-
+___
 You are eager to develop new skills and perfect the once you already have, 
 
 * You gain proficiency in one tool, language, and skill of your choice.
@@ -2429,7 +2428,7 @@ You are eager to develop new skills and perfect the once you already have,
 ### Efficient Worker
 
 **Prerequisite:** Level 6.
-
+___
 You have learned more efficient ways to work. 
 
 * Each time you do something that requires time and gold, the amount of gold you need and the time you take to finish this task is halved for you. This doesn’t apply if the time and gold you need is already halved from another source, like the Wizards Savant feature.
@@ -2438,7 +2437,7 @@ You have learned more efficient ways to work.
 ### Finding Perfection
 
 **Prerequisite:** Level 12, Seeking Perfection.
-
+___
 You have found perfection.
 
 * When you roll a 9 or lower on a check with a tool or skill that you have expertise in, the roll counts as a 10 for you. Choose one skill or tool in which you have expertise. You now add two and a half times your Proficiency bonus to the chosen skill or tool (rounded down).
@@ -2451,7 +2450,7 @@ You have found perfection.
 ### Iron Wood Components
 
 **Prerequisite:** Level 3, no other Components.
-
+___
 Instead of steel or Stone your main components are made from wood and leaves.
 
 * While in a forest or similar biome, while you remain motionless, you are indistinguishable from a normal tree. 
@@ -2459,7 +2458,7 @@ Instead of steel or Stone your main components are made from wood and leaves.
 
 
 ### Overheat
-
+___
 You have learned to heat up your body to damage your foes. 
 
 * You gain resistance to fire damage.
@@ -2469,7 +2468,7 @@ You have learned to heat up your body to damage your foes.
 ### Mithral Components
 
 **Prerequisite:** Level 6, no other Components.
-
+___
 Over the course of your adventures you have replaced your metal components with Mithral. 
 
 * When you don armor, this armor doesn’t impose disadvantage on Stealth checks for you. 
@@ -2478,7 +2477,7 @@ Over the course of your adventures you have replaced your metal components with 
 ### Adamantine Components
 
 **Prerequisite:** Level 12, no other Components.
-
+___
 Over the course of your adventures you have replaced your metal components with adamantine. 
 
 * When you don heavy armor, every critical hit against you counts as a normal hit instead. 
@@ -2494,7 +2493,7 @@ Over the course of your adventures you have replaced your metal components with 
 ### Learning by Eating
 
 **Prerequisite:** Level 3.
-
+___
 You have learned to gather information from fallen enemies without magic.
 
 * You can take 1 minute to eat the brain of a fallen enemy to gather flashes of information. Roll an Intelligence (Investigation) check. The amount of information and memories you can gather is determined by the DM depending on the result of your Investigation check.
@@ -2509,7 +2508,7 @@ You have learned to gather information from fallen enemies without magic.
 ### Yuan-ti Form
 
 **Prerequisite:** Level 12.
-
+___
 You have learned to transform yourself.
 
 * You learn the polymorph spell and can cast it without expending a spell slot. But you can only transform into snakes. You can cast this spell a number of times equal to your Charisma modifier (minimum of once) and you regain all uses once you finish a long rest.
