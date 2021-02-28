@@ -66,19 +66,15 @@ random creature within 30 feet of you (not including you)
 takes force damage equal to the number rolled. If no other
 creatures are in range, you take the damage.
 
+
 ### Actor
+
 Skilled at mimicry and dramatics, you gain the following
 benefits:
 
-* You have advantage on Charisma (Deception) and
-Charisma (Performance) checks when trying to pass
-yourself off as a different person.
-* You can mimic the speech of another person or the
-sounds made by other creatures. You must have heard the
-person speaking, or heard the creature make the sound,
-for at least 1 minute. A successful Wisdom (Insight) check
-contested by your Charisma (Deception) check allows a
-listener to determine that the effect is faked.
+* You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
+* You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
+
 
 ### Alcoholic
 
@@ -100,6 +96,7 @@ frightened condition and you have disadvantage on all
 Dexterity and Intelligence based throws and on all
 Wisdom and Charisma ability checks. (Those penalties do
 not apply if you are a Drunken Master)
+
 \page
 <div class='pageNumber auto'></div>
 
@@ -108,11 +105,10 @@ not apply if you are a Drunken Master)
 You have undergone extensive physical training to gain the
 following benefits:
 
-When you are prone, standing up uses only 5 feet of your
-movement.
-Climbing doesn't cost you extra movement.
-You can make a running long jump or a running high jump
-after moving only 5 feet on foot, rather than 10 feet.
+* When you are prone, standing up uses only 5 feet of your movement.
+* Climbing doesn’t cost you extra movement.
+* You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+
 
 ### Bookworm
 
@@ -146,18 +142,12 @@ percentile die, if the number rolled is equal to or less than
 the spell slot used to cast the Spell role on the Wild Magic
 Table in the Players Handbook.
 
+
 ### Charger
 
-When you use your action to dash, you can use a bonus
-action to make one melee weapon attack or to shove a
-creature.
+When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 
-
-If you move at least 10 feet in a straight line immediately
-before taking this bonus action, you either gain a +5 bonus
-to the attack's damage roll (if you chose to make a melee
-attack and hit) or push the target up to 10 feet away from
-you (if you chose to shove and you succeed).
+If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
 ### Death Touched
 
@@ -189,45 +179,34 @@ attack you can throw yourself to the ground as a reaction,
 becoming prone and imposing disadvantage on the attack
 roll.
 
-### Dungeon Delver
 
+### Dungeon Delver
 
 Alert to the hidden traps and secret doors found in many
 dungeons, you gain the following benefits:
 
+* You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
+* You have advantage on saving throws made to avoid or resist traps.
+* You have resistance to the damage dealt by traps.
+* Traveling at a fast pace doesn't impose the normal − 5 penalty on your passive Wisdom (Perception) score.
 
-You have advantage on Wisdom (Perception) and
-Intelligence (Investigation) checks made to detect the
-presence of secret doors.
-You have advantage on saving throws made to avoid or
-resist traps.
-You have resistance to the damage dealt by traps.
-Traveling at a fast pace doesn't impose the normal − 5
-penalty on your passive Wisdom (Perception) score.
 
 ### Dual Wielder
-
 
 You master fighting with two weapons, gaining the following
 benefits:
 
+* You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+* You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
+* You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
-You gain a +1 bonus to AC while you are wielding a
-separate melee weapon in each hand.
-You can use two-weapon fighting even when the one-
-handed melee weapons you are wielding aren't light.
-You can draw or stow two one-handed weapons when you
-would normally be able to draw or stow only one.
 
 ### Durable
 
+Hardy and resilient, you gain the following benefit:
 
-Hardy and resilient, you gain the following benefits:
+When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
-
-When you roll a Hit Die to regain hit points, the minimum
-number of hit points you regain from the roll equals twice
-your Constitution modifier (minimum of 2).
 
 ### Environmental adaption
 
@@ -568,6 +547,7 @@ invisible creatures that you are aware of.
 You have advantage on Wisdom (perception) and Wisdom
 (Survival) checks that rely on sound or smell.
 
+
 ### Crossbow Expert
 
 **Prerequisite:** Level 3.
@@ -575,25 +555,18 @@ You have advantage on Wisdom (perception) and Wisdom
 Thanks to extensive practice with the crossbow, you gain
 the following benefits:
 
+* You ignore the loading property of crossbows with which you are pro cient.
+* Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+* When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
-You ignore the loading property of crossbows with which
-you are proficient.
-Being within 5 feet of a hostile creature doesn’t impose
-disadvantage on your ranged attack rolls.
-When you use the Attack action and attack with a one-
-handed weapon, you can use a bonus action to attack with
-a hand crossbow you are holding.
 
 ### Defensive Duelist
 
 **Prerequisite:** Level 3, Dexterity 13 or higher or the Dueling
 fighting style.
 
-When you are wielding a finesse weapon with which you
-are proficient and another creature hits you with a melee
-attack, you can use your reaction to add your proficiency
-bonus to your AC for that attack, potentially causing the
-attack to miss
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
+
 
 #### Elemental Adept
 
@@ -938,17 +911,15 @@ from creatures or plants related to crafting poisons.
 
 ### Alert
 
-
 **Prerequisite:** Level 6, Bloodhound.
 
 Always on the lookout for danger, you gain the following
 benefits:
 
+* You gain a +5 bonus to initiative.
+* You can't be surprised while you are conscious.
+* Other creatures don’t gain advantage on attack rolls against you as a result of being unseen by you.
 
-You gain a +5 bonus to initiative.
-You can't be surprised while you are conscious.
-Other creatures don’t gain advantage on attack rolls
-against you as a result of being unseen by you.
 
 ### Blackpowder Expert
 
