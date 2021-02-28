@@ -11,7 +11,6 @@ Blackpowder Expert and Scatter Weapon Master are
 designed to work with the Grim Hollow campaign setting.
 
 ## Overview
-
 This Rule set replaces the optional rules for feats. Instead of
 forgoing an ability score improvement, characters will get
 feats based on their character level, as shown in the table
@@ -19,7 +18,6 @@ below. Some of the feats will now have level requirements in
 addition to their normal prerequisite.
 
 ### Feats gained
-
 | Level | Feat |
 |:---:|:--|
 |  1 | 1st |
@@ -40,7 +38,6 @@ the feat. You can always choose lower level feats. Unless
 otherwise stated you can’t choose a feat more than once.
 ```
 ```
-
 ## General Feats by Level
 
 ## Level 1
