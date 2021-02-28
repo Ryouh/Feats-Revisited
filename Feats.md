@@ -1156,7 +1156,7 @@ You have studied your magic over the course of your adventures.
 
 \page <div class='pageNumber auto'></div>
 
-# Feats by Race
+## Feats by Race
 
 Feats listed in this section can only be taken by the associated race.
 
@@ -1759,7 +1759,6 @@ You've developed a new toy, much to the regret of your enemies.
 * The gold you need to spend, to build your bombs is halved. 
 * You invented the BOMB CANNON a portable launcher for your small bombs with which you are proficient. The BOMB CANNON has the following properties: Martial ranged weapon, reach 60/120ft, damage equals the loaded bomb.
 
-\page <div class='pageNumber auto'></div>
 
 ## Goliath
 
@@ -1800,8 +1799,7 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 * You gain the benefits of the Grappler feat.
 * When you use your Stone’s Endurance feature against a melee attack from a creature that is large or smaller and you reduce the incoming damage to 0 you automatically grapple the enemy.
 
-```
-```
+\page <div class='pageNumber auto'></div>
 
 ## Half-Elf
 
@@ -1831,8 +1829,6 @@ Your elven blood line grants you access to powerful magic.
 
 ```
 ```
-
-\page <div class='pageNumber auto'></div>
 
 ## Half-Orc
 
@@ -2539,6 +2535,7 @@ You have learned to transform yourself.
 </div>
 
 <div class='toc'>
+
 - **[1 Feats Revisited](#p1)**
   - [1.1 Overview](#p1)
     - [1.1.1 Feats gained](#p1)
@@ -2655,6 +2652,7 @@ You have learned to transform yourself.
 \page <div class='pageNumber auto'></div>
 
 <div class='toc'>
+
   - [1.9 Level 18](#p14)
     - [1.9.1 Iron Will](#p14)
     - [1.9.2 Legendary Alchemist](#p14)
@@ -2730,103 +2728,103 @@ You have learned to transform yourself.
     - [2.13.3 Garbage to Gold](#p22)
     - [2.13.4 Fire in the Hole](#p22)
     - [2.13.5 Hagedy Hagedy](#p22)
-  - [2.14 Goliath](#p23)
-    - [2.14.1 Pushing Through](#p23)
-    - [2.14.2 Titanium Endurance](#p23)
-    - [2.14.3 Advanced Great Weapon Training](#p23)
-    - [2.14.4 Intimidating Fighter](#p23)
+  - [2.14 Goliath](#p22)
+    - [2.14.1 Pushing Through](#p22)
+    - [2.14.2 Titanium Endurance](#p22)
+    - [2.14.3 Advanced Great Weapon Training](#p22)
+    - [2.14.4 Intimidating Fighter](#p22)
   - [2.15 Half-Elf](#p23)
     - [2.15.1 Social Adaptation](#p23)
     - [2.15.2 World traveler](#p23)
     - [2.15.3 Elven Magic](#p23)
-  - [2.16 Half-Orc](#p24)
-    - [2.16.1 Orcish Fury](#p24)
-    - [2.16.2 Burning Endurance](#p24)
-    - [2.16.3 Mark of Gruumsh](#p24)
-  - [2.17 Halfling](#p25)
-    - [2.17.1 Bountiful Luck](#p25)
-    - [2.17.2 But What About A Second Breakfast?](#p25)
-    - [2.17.3 Second Chance](#p25)
-    - [2.17.4 Squat Nimbleness](#p25)
-    - [2.17.5 Cooking Expert](#p25)
-    - [2.17.6 Marvelous Chef](#p25)
-  - [2.18 Hobgoblin](#p25)
-    - [2.18.1 Combat Tactics](#p25)
-    - [2.18.2 Tactical Genius](#p25)
-    - [2.18.3 Warlord](#p25)
-  - [2.19 Human](#p26)
-    - [2.19.1 Adaptive Nature](#p26)
-    - [2.19.2 Quick Learner](#p26)
-    - [2.19.3 Master of Improvisation](#p26)
+  - [2.16 Half-Orc](#p23)
+    - [2.16.1 Orcish Fury](#p23)
+    - [2.16.2 Burning Endurance](#p23)
+    - [2.16.3 Mark of Gruumsh](#p23)
+  - [2.17 Halfling](#p24)
+    - [2.17.1 Bountiful Luck](#p24)
+    - [2.17.2 But What About A Second Breakfast?](#p24)
+    - [2.17.3 Second Chance](#p24)
+    - [2.17.4 Squat Nimbleness](#p24)
+    - [2.17.5 Cooking Expert](#p24)
+    - [2.17.6 Marvelous Chef](#p24)
+  - [2.18 Hobgoblin](#p24)
+    - [2.18.1 Combat Tactics](#p24)
+    - [2.18.2 Tactical Genius](#p24)
+    - [2.18.3 Warlord](#p24)
+  - [2.19 Human](#p25)
+    - [2.19.1 Adaptive Nature](#p25)
+    - [2.19.2 Quick Learner](#p25)
+    - [2.19.3 Master of Improvisation](#p25)
   
 </div>
 
 \page <div class='pageNumber auto'></div>
 
 <div class='toc'>
-  
-  - [2.20 Kalashtar](#p26)
-    - [2.20.1 Dream Reader](#p26)
-    - [2.20.2 Dream Walker](#p26)
-    - [2.20.3 Spirit Release](#p26)
-  - [2.21 Kenku](#p27)
-    - [2.21.1 Learning New Things](#p27)
-    - [2.21.2 Glide](#p27)
-    - [2.21.3 Embrace the Curse](#p27)
-  - [2.22 Kobold](#p27)
-    - [2.22.1 Better together](#p27)
-    - [2.22.2 Preparation is Key](#p27)
-    - [2.22.3 Blessing of Tiamat](#p27)
-  - [2.23 Lizardfolk](#p28)
-    - [2.23.1 Cold Hearted](#p28)
-    - [2.23.2 Release the Beast](#p28)
-    - [2.23.3 Chameleon Scales](#p28)
-    - [2.23.4 Thorny Scales](#p28)
-    - [2.23.5 Armadillo Scales](#p28)
-  - [2.24 Loxodon](#p28)
-    - [2.24.1 Perfect Memory](#p28)
-    - [2.24.2 Loxodon Rage](#p28)
-    - [2.24.3 Minotaur](#p28)
-    - [2.24.4 Labyrinth Senses](#p28)
-    - [2.24.5 Heroes Blood](#p28)
-  - [2.25 Orc](#p29)
-    - [2.25.1 The Colors of Conquest](#p29)
-    - [2.25.2 The Color of Blood](#p29)
-    - [2.25.3 The Color of Death](#p29)
-    - [2.25.4 The Color of Darkness](#p29)
-  - [2.26 Shifter](#p29)
-    - [2.26.1 Shifter Senses](#p29)
-    - [2.26.2 Full Transformation:](#p29)
-    - [2.26.3 Advanced Shifting](#p29)
-  - [2.27 Tabaxi](#p30)
-    - [2.27.1 Always Land on Your Feet](#p30)
-    - [2.27.2 Nine Lives](#p30)
-  - [2.28 Tiefling](#p30)
-    - [2.28.1 The Art of Haggling](#p30)
-    - [2.28.2 Flames of Phlegethos](#p30)
-    - [2.28.3 Infernal Constitution](#p30)
-    - [2.28.4 Infernal Form](#p30)
-    - [2.28.5 The Art of The Deal](#p30)
-  - [2.29 Tortle](#p31)
-    - [2.29.1 Water Tortle](#p31)
-    - [2.29.2 Snapping Tortle](#p31)
-    - [2.29.3 Dragon Torle](#p31)
-    - [2.29.4 Advanced Shell Defense](#p31)
-  - [2.30 Triton](#p31)
-    - [2.30.1 Child of the Sea](#p31)
-    - [2.30.2 Master of the Sea](#p31)
-    - [2.30.3 Sea Caller](#p31)
-  - [2.31 Vedalken](#p32)
-    - [2.31.1 Seeking Perfection](#p32)
-    - [2.31.2 Efficient Worker](#p32)
-    - [2.31.3 Finding Perfection](#p32)
-  - [2.32 Warforged](#p32)
-    - [2.32.1 Iron Wood Components](#p32)
-    - [2.32.2 Overheat](#p32)
-    - [2.32.3 Mithral Components](#p32)
-    - [2.32.4 Adamantine Components](#p32)
-  - [2.33 Yuan-ti Pureblood](#p33)
-    - [2.33.1 Learning by Eating](#p33)
-    - [2.33.2 Yuan-ti High Magic](#p33)
-    - [2.33.3 Yuan-ti Form](#p33)
+
+  - [2.20 Kalashtar](#p25)
+    - [2.20.1 Dream Reader](#p25)
+    - [2.20.2 Dream Walker](#p25)
+    - [2.20.3 Spirit Release](#p25)
+  - [2.21 Kenku](#p26)
+    - [2.21.1 Learning New Things](#p26)
+    - [2.21.2 Glide](#p26)
+    - [2.21.3 Embrace the Curse](#p26)
+  - [2.22 Kobold](#p26)
+    - [2.22.1 Better together](#p26)
+    - [2.22.2 Preparation is Key](#p26)
+    - [2.22.3 Blessing of Tiamat](#p26)
+  - [2.23 Lizardfolk](#p27)
+    - [2.23.1 Cold Hearted](#p27)
+    - [2.23.2 Release the Beast](#p27)
+    - [2.23.3 Chameleon Scales](#p27)
+    - [2.23.4 Thorny Scales](#p27)
+    - [2.23.5 Armadillo Scales](#p27)
+  - [2.24 Loxodon](#p27)
+    - [2.24.1 Perfect Memory](#p27)
+    - [2.24.2 Loxodon Rage](#p27)
+    - [2.24.3 Minotaur](#p27)
+    - [2.24.4 Labyrinth Senses](#p27)
+    - [2.24.5 Heroes Blood](#p27)
+  - [2.25 Orc](#p28)
+    - [2.25.1 The Colors of Conquest](#p28)
+    - [2.25.2 The Color of Blood](#p28)
+    - [2.25.3 The Color of Death](#p28)
+    - [2.25.4 The Color of Darkness](#p28)
+  - [2.26 Shifter](#p28)
+    - [2.26.1 Shifter Senses](#p28)
+    - [2.26.2 Full Transformation:](#p28)
+    - [2.26.3 Advanced Shifting](#p28)
+  - [2.27 Tabaxi](#p29)
+    - [2.27.1 Always Land on Your Feet](#p29)
+    - [2.27.2 Nine Lives](#p29)
+  - [2.28 Tiefling](#p29)
+    - [2.28.1 The Art of Haggling](#p29)
+    - [2.28.2 Flames of Phlegethos](#p29)
+    - [2.28.3 Infernal Constitution](#p29)
+    - [2.28.4 Infernal Form](#p29)
+    - [2.28.5 The Art of The Deal](#p29)
+  - [2.29 Tortle](#p30)
+    - [2.29.1 Water Tortle](#p30)
+    - [2.29.2 Snapping Tortle](#p30)
+    - [2.29.3 Dragon Torle](#p30)
+    - [2.29.4 Advanced Shell Defense](#p30)
+  - [2.30 Triton](#p30)
+    - [2.30.1 Child of the Sea](#p30)
+    - [2.30.2 Master of the Sea](#p30)
+    - [2.30.3 Sea Caller](#p30)
+  - [2.31 Vedalken](#p31)
+    - [2.31.1 Seeking Perfection](#p31)
+    - [2.31.2 Efficient Worker](#p31)
+    - [2.31.3 Finding Perfection](#p31)
+  - [2.32 Warforged](#p31)
+    - [2.32.1 Iron Wood Components](#p31)
+    - [2.32.2 Overheat](#p31)
+    - [2.32.3 Mithral Components](#p31)
+    - [2.32.4 Adamantine Components](#p31)
+  - [2.33 Yuan-ti Pureblood](#p32)
+    - [2.33.1 Learning by Eating](#p32)
+    - [2.33.2 Yuan-ti High Magic](#p32)
+    - [2.33.3 Yuan-ti Form](#p32)
 </div>
