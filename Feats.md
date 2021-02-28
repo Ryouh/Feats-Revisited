@@ -1030,7 +1030,7 @@ You have honed and perfected your skills fighting against spellcasters.
 
 ### Bulwark
 
-**Prerequisite:** Level 15, Interceptor:
+**Prerequisite:** Level 15, [Interceptor](#interceptor):
 
 You became a moving bulwark of pure protection, while wearing a shield you gain the following benefits:
 
@@ -1040,7 +1040,7 @@ You became a moving bulwark of pure protection, while wearing a shield you gain 
 
 ### Greater Magic Scholar
 
-**Prerequisite:** Level 15, Advanced Magic Scholar.
+**Prerequisite:** Level 15, [Advanced Magic Scholar](#advanced-magic-scholar).
 
 You have studied your magic over the course of your adventures. 
 
@@ -1059,7 +1059,7 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 ### Weave Vortex
 
-**Prerequisite:** Level 15, Spell Sink.
+**Prerequisite:** Level 15, [Spell Sink](#spell-sink).
 
 Your unnatural nature has evolved to rip apart the weave around you.
 
@@ -1075,7 +1075,7 @@ Your unnatural nature has evolved to rip apart the weave around you.
 
 ### Iron Will
 
-**Prerequisite:** Level 18, Warcaster.
+**Prerequisite:** Level 18, [Warcaster](#warcaster).
 
 You have learned to weave the essence of two spells together.
 
@@ -1084,7 +1084,7 @@ You have learned to weave the essence of two spells together.
 
 ### Legendary Alchemist
 
-**Prerequisite:** Level 18, Master Alchemist.
+**Prerequisite:** Level 18, [Master Alchemist](#master-alchemist).
 
 You have surpassed most of the alchemists and became one of the greatest alchemists who have ever lived.
 
@@ -1096,7 +1096,7 @@ You have surpassed most of the alchemists and became one of the greatest alchemi
 
 ### Legendary Blacksmith
 
-**Prerequisite:** Level 18, Master Blacksmith.
+**Prerequisite:** Level 18, [Master Blacksmith](#master-blacksmith).
 
 You have surpassed most of the blacksmiths and became one of the greatest blacksmiths who have ever lived. 
 
@@ -1108,7 +1108,7 @@ You have surpassed most of the blacksmiths and became one of the greatest blacks
 
 ### Legendary Herbalist
 
-**Prerequisite:** Level 18, Master Herbalist.
+**Prerequisite:** Level 18, [Master Herbalist](#master-herbalist).
 
 You have surpassed most of the herbalists and became one of the greatest herbalists who have ever lived.
 
@@ -1121,7 +1121,7 @@ You have surpassed most of the herbalists and became one of the greatest herbali
 
 ### Legendary Bowyer
 
-**Prerequisite:** Level 18, Master Bowyer.
+**Prerequisite:** Level 18, [Master Bowyer](#master-bowyer).
 
 You have surpassed most of the Bowyers and became one of the greatest bowyers who have ever lived.
 
@@ -1133,7 +1133,7 @@ You have surpassed most of the Bowyers and became one of the greatest bowyers wh
 
 ### Legendary Poisoner
 
-**Prerequisite:** Level 18, Master Poisoner.
+**Prerequisite:** Level 18, [Master Poisoner](#master-poisoner).
 
 You have surpassed most of the Poisoners and became one of the greatest Poisoners who have ever lived.
 
@@ -1145,7 +1145,7 @@ You have surpassed most of the Poisoners and became one of the greatest Poisoner
 
 ### Masterful Magic Scholar
 
-**Prerequisite:** Level 18, Greater Magic Scholar.
+**Prerequisite:** Level 18, [Greater Magic Scholar](#greater-magic-scholar).
 
 You have studied your magic over the course of your adventures.
 
