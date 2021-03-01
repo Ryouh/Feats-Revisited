@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.5.5</div>
+<div class='footnote'>Version: 2.5.7</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -29,54 +29,61 @@ This rule set is designed to give more depth to characters over the course of th
 </div>
 
 #### General Feat Index
-  - [Level 1](#p2)
-  - [Level 3](#p6)
-  - [Level 6](#p8)
-  - [Level 9](#p11)
-  - [Level 12](#p12)
-  - [Level 15](#p14)
-  - [Level 18](#p15)
+  - [Level 1](#level-1)
+  - [Level 3](#level-3)
+  - [Level 6](#level-6)
+  - [Level 9](#level-9)
+  - [Level 12](#level-12)
+  - [Level 15](#level-15)
+  - [Level 18](#level-18)
   
   <div style='margin-top:120px'></div>
   
 <div class='wide'>
 #### Race Feat Index</div>
-  - [Aarakocra](#p16)
-  - [Aasimar](#p16)
-  - [Bugbear](#p17)
-  - [Centaur](#p17)
-  - [Changeling](#p18)
-  - [Dragonborn](#p18)
-  - [Dwarf](#p19)
-  - [Elf](#p20)
-  - [Firbolg](#p21)
-  - [Genasi](#p22)
-  - [Gith](#p23)
-  - [Gnome](#p24)
-  - [Goblin](#p25)
-  - [Goliath](#p26)
-  - [Half-Elf](#p26)
-  - [Half-Orc](#p27)
-  - [Halfling](#p28)
+  - [Aarakocra](#aarakocra)
+  - [Aasimar](#aasimar)
+  - [Bugbear](#bugbear)
+  - [Centaur](#centaur)
+  - [Changeling](#changeling)
+  - [Dragonborn](#dragonborn)
+  - [Dwarf](#dwarf)
+  - [Elf](#elf)
+  - [Firbolg](#firbolg)
+  - [Genasi](#genasi)
+  - [Gith](#gith)
+  - [Gnome](#gnome)
+  - [Goblin](#goblin)
+  - [Goliath](#goliath)
+  - [Half-Elf](#half-elf)
+  - [Half-Orc](#half-orc)
+  - [Halfling](#halfling)
+
 ```
 ```
-  - [Hobgoblin](#p29)
-  - [Human](#p29)
-  - [Kalashtar](#p30)
-  - [Kenku](#p30)
-  - [Kobold](#p31)
-  - [Lizardfolk](#p31)
-  - [Loxodon](#p32)
-  - [Minotaur](#p32)
-  - [Orc](#p33)
-  - [Shifter](#p33)
-  - [Tabaxi](#p34)
-  - [Tiefling](#p34)
-  - [Tortle](#p35)
-  - [Triton](#p35)
-  - [Vedalken](#p36)
-  - [Warforged](#p36)
-  - [Yuan-ti Pureblood](#p37)
+  - [Hobgoblin](#hobgoblin)
+  - [Human](#human)
+  - [Kalashtar](#kalashtar)
+  - [Kenku](#kenku)
+  - [Kobold](#kobold)
+  - [Lizardfolk](#lizardfolk)
+  - [Loxodon](#loxodon)
+  - [Minotaur](#minotaur)
+  - [Orc](#orc)
+  - [Shifter](#shifter)
+  - [Tabaxi](#tabaxi)
+  - [Tiefling](#tiefling)
+  - [Tortle](#tortle)
+  - [Triton](#triton)
+  - [Vedalken](#vedalken)
+  - [Warforged](#warforged)
+  - [Yuan-ti Pureblood](#yuan-ti-pureblood)
+<div class='wide'>
+## Credits
+Special thanks to the following fantastic poeple who worked on this Feat list and provided brain cells to all the content:
+</br></br>
+WretchedEgg, Xiao, Brtwrst, WomboCombo
+</div>
 
 \page <div class='pageNumber auto'></div>
  
