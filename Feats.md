@@ -27,54 +27,57 @@ This rule set is designed to give more depth to characters over the course of th
 * Unless otherwise stated you can’t choose a feat more than once.
 
 </div>
-<div style='margin-top:-20px'></div>
-### General Feat Index
-  - [Level 1](#p2)
-  - [Level 3](#p5)
-  - [Level 6](#p7)
-  - [Level 9](#p10)
-  - [Level 12](#p11)
-  - [Level 15](#p13)
-  - [Level 18](#p14)
 
-```
-```
-<div style='margin-top:-20px'></div>
-### Race Feat Index
-  - [Aarakocra](#p15)
-  - [Aasimar](#p15)
-  - [Bugbear](#p16)
-  - [Centaur](#p16)
-  - [Changeling](#p17)
-  - [Dragonborn](#p17)
-  - [Dwarf](#p18)
-  - [Elf](#p19)
-  - [Firbolg](#p19)
-  - [Genasi](#p20)
-  - [Gith](#p20)
-  - [Gnome](#p21)
-  - [Goblin](#p22)
-  - [Goliath](#p22)
-  - [Half-Elf](#p23)
-  - [Half-Orc](#p23)
-  - [Halfling](#p24)
-  - [Hobgoblin](#p24)
-  - [Human](#p25)
-  - [Kalashtar](#p25)
-  - [Kenku](#p26)
-  - [Kobold](#p26)
-  - [Lizardfolk](#p27)
-  - [Loxodon](#p27)
-  - [Orc](#p28)
-  - [Shifter](#p28)
-  - [Tabaxi](#p29)
-  - [Tiefling](#p29)
-  - [Tortle](#p30)
-  - [Triton](#p30)
-  - [2Vedalken](#p31)
-  - [2Warforged](#p31)
-  - [Yuan-ti Pureblood](#p32)
+#### General Feat Index
+  - [Level 1](#p2)
+  - [Level 3](#p6)
+  - [Level 6](#p8)
+  - [Level 9](#p11)
+  - [Level 12](#p12)
+  - [Level 15](#p14)
+  - [Level 18](#p15)
   
+  <div style='margin-top:120px'></div>
+  
+<div class='wide'>
+#### Race Feat Index</div>
+  - [Aarakocra](#p16)
+  - [Aasimar](#p16)
+  - [Bugbear](#p17)
+  - [Centaur](#p17)
+  - [Changeling](#p18)
+  - [Dragonborn](#p18)
+  - [Dwarf](#p19)
+  - [Elf](#p20)
+  - [Firbolg](#p21)
+  - [Genasi](#p22)
+  - [Gith](#p23)
+  - [Gnome](#p24)
+  - [Goblin](#p25)
+  - [Goliath](#p26)
+  - [Half-Elf](#p26)
+  - [Half-Orc](#p27)
+  - [Halfling](#p28)
+```
+```
+  - [Hobgoblin](#p29)
+  - [Human](#p29)
+  - [Kalashtar](#p30)
+  - [Kenku](#p30)
+  - [Kobold](#p31)
+  - [Lizardfolk](#p31)
+  - [Loxodon](#p32)
+  - [Minotaur](#p32)
+  - [Orc](#p33)
+  - [Shifter](#p33)
+  - [Tabaxi](#p34)
+  - [Tiefling](#p34)
+  - [Tortle](#p35)
+  - [Triton](#p35)
+  - [Vedalken](#p36)
+  - [Warforged](#p36)
+  - [Yuan-ti Pureblood](#p37)
+
 \page <div class='pageNumber auto'></div>
  
 <div class='wide'>
