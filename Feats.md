@@ -226,7 +226,7 @@ Your exposure to the Feywild’s magic has changed you.
 ### Grappler
 
 **Prerequisite:** Strength 13 or higher
-
+___
 You’ve developed the skills necessary to hold your own in close-quarters grappling. 
 
 * Attacks made against a creature of your size or smaller, that is grappled by you, are made with advantage.
