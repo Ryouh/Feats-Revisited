@@ -368,7 +368,9 @@ You are hard to get rid of.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 3
+</div>
 
 ### Advanced Weapon Adept
 
@@ -545,7 +547,9 @@ You have learned to use your shield as a melee weapon.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 6
+</div>
 
 ### Advanced Alchemist
 
@@ -815,7 +819,9 @@ You have practiced casting spells in the midst of combat.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 9
+</div>
 
 ### Advanced Magic Scholar
 
@@ -902,7 +908,9 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 12
+</div>
 
 ### Blind Fighting
 
@@ -1059,7 +1067,9 @@ You have honed and perfected your skills fighting against spellcasters.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 15
+</div>
 
 ### Bulwark
 
@@ -1105,7 +1115,9 @@ Your unnatural nature has evolved to rip apart the weave around you.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Level 18
+</div>
 
 ### Iron Will
 
