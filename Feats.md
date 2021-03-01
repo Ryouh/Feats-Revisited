@@ -25,10 +25,10 @@ This rule set is designed to give more depth to characters over the course of th
   + You **cannot** delay picking your level 1 feat until level 3 and then aquire 2 level 3 feats.  
   + You **can** use the feat you gain at level 3 to pick a feat from the level 1 list.
 * Unless otherwise stated you can’t choose a feat more than once.
-
 </div>
 
 #### General Feat Index
+<div class='wide'>
   - [Level 1](#level-1)
   - [Level 3](#level-3)
   - [Level 6](#level-6)
@@ -36,8 +36,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Level 12](#level-12)
   - [Level 15](#level-15)
   - [Level 18](#level-18)
-  
-  <div style='margin-top:120px'></div>
+</div>
   
 <div class='wide'>
 #### Race Feat Index</div>
@@ -58,7 +57,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Half-Elf](#half-elf)
   - [Half-Orc](#half-orc)
   - [Halfling](#halfling)
-
+  
 ```
 ```
   - [Hobgoblin](#hobgoblin)
