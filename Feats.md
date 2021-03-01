@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.5.7</div>
+<div class='footnote'>Version: 2.6 (Tasha)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -130,6 +130,12 @@ You have undergone extensive physical training.
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
+### Artificier Initiate
+You’ve learned some of an artificer’s inventiveness.
+
+* You learn one cantrip of your choice from the artificer spell list, and you learn one 1st-level spell of your choice from that list. Intelligence is your spellcasting ability for these spells.
+* You can cast this feat’s 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.
+* You gain proficiency with one type of artisan’s tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
 ### Bookworm
 ___
@@ -150,13 +156,12 @@ Chaotic magic flows through you and twists your astral body.
 * You have advantage on Strength, Dexterity and Constitution saving throws against spells and other magical effects.
 * Whenever you cast a spell of first level or higher there is a chance, that your chaotic magic twists the spell. Roll a percentile die, if the number rolled is equal to or less than the spell slot used to cast the Spell roll on the Wild Magic Table in the Players Handbook.
 
+\page <div class='pageNumber auto'></div>
 
 ### Charger
 
 * When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 * If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
-
-\page <div class='pageNumber auto'></div>
 
 ### Death Touched
 
@@ -200,6 +205,8 @@ You are hardy and resilient.
 
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
+```
+```
 
 ### Environmental adaption
 ___
@@ -208,8 +215,10 @@ You're acclimated to either cold or hot climates. You can pick this feat multipl
 * You gain cold or fire resistance (your choice).
 * When you travel through an area with your adapted climate, you have advantage on Perception, Nature and Survival checks.
 
-```
-```
+### Fey Touched
+Your exposure to the Feywild’s magic has changed you.
+
+* You learn the misty step spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 ### Grappler
 
@@ -234,6 +243,7 @@ close-quarters grappling.
 
 * You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
+\page <div class='pageNumber auto'></div>
 
 ### Keen Mind
 ___
@@ -248,8 +258,6 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 ### Lightly Armored
 
 * You gain proficiency with light armor.
-
-\page <div class='pageNumber auto'></div>
 
 ### Lucky
 ___
@@ -270,6 +278,8 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 * You gain proficiency with medium armor and shields.
 
+```
+```
 
 ### Nimble Physique
 
@@ -289,9 +299,6 @@ You are quick to notice details of your environment.
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
-```
-```
-
 ### Ritual Caster
 
 **Prerequisite:** Intelligence, Charisma or Wisdom of 13 or higher.
@@ -299,6 +306,13 @@ You are quick to notice details of your environment.
 * You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 * When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 * If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+
+\page <div class='pageNumber auto'></div>
+
+### Shadow touched
+Your exposure to the Shadowfell’s magic has changed you.
+
+* You learn the invisibility spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 ### Skilled
 
@@ -315,14 +329,12 @@ You are expert at slinking through shadows.
 * When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 * Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
-
 ### Swimmer
 ___
 You have spent the majority of your time in the water.
 
 * You gain a swim speed equal to your walking speed.
 * You don’t have disadvantage on attack rolls made with melee weapons while in water.
-
 
 ### Tavern Brawler
 ___
@@ -332,19 +344,18 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 * Your unarmed strike uses a d4 for damage.
 * When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 
-\page <div class='pageNumber auto'></div>
-
 ### Taunt
 ___
 You have a talent to anger other people.
 
 * As an action you can make a Charisma (Persuasion, Deception, or Intimidation) check against a creature that can see or hear you opposed by the creatures Insight. If you succeed the creature is distracted until the end of your next turn and has disadvantage on attack rolls against creatures other than you.
 
+```
+```
 
 ### Tough
 
 * Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
-
 
 ### Weapon Training
 ___
@@ -366,7 +377,6 @@ Something about you distorts the weave around you and giving people in your pres
 * Spells that heal you only heal you for half the normal amount.
 * All spells have their duration halved when cast on you.
 
-
 ### Will to Live
 ___
 You are hard to get rid of.
@@ -387,7 +397,7 @@ weapon.
 * You gain proficiency with advanced weapons
 
 
-### Blood Hound
+### Bloodhound
 
 **Prerequisite:** Level 3, Wisdom 13 or higher.
 ___
@@ -396,7 +406,6 @@ Your keen senses are heightened beyond that of most people.
 * While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
 * Your attack rolls do not have disadvantage against invisible creatures that you are aware of.
 * You have advantage on Wisdom (perception) and Wisdom (Survival) checks that rely on sound or smell.
-
 
 ### Crossbow Expert
 
@@ -408,6 +417,14 @@ You have extensive practice with crossbows.
 * Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 * When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
+### Crusher
+
+**Prerequisite:** Level 3.
+___
+You are practiced in the art of crushing your enemies.
+
+* Whenever you have disadvantage on a melee attack roll you make with a weapon that deals bludgeoning damage, the target takes bludgeoning damage equal to your Strenght modifier if the attack misses but the higher of the two d20 rolls would have hit.
+* Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
 ### Defensive Duelist
 
@@ -415,17 +432,25 @@ You have extensive practice with crossbows.
 
 * When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
 
+```
+```
+
+### Eldritch Adept
+
+**Prerequisite:** Level 3, the ability to cast at least one spell.
+___
+Studying occult lore, you have unlocked eldritch power within yourself:
+
+* You learn one Eldritch Invocation option of your choice from the warlock class. If the invocation has a prerequisite of any kind, you can choose that invocation only if you’re a warlock who meets the prerequisite.
+* Whenever you gain a level, you can replace the invocation with another one from the warlock class.
 
 ### Elemental Adept
 
 **Prerequisite:** Level 3, The ability to cast at least one spell
-
+___
 * When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
 * Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 * You can select this feat multiple times. Each time you do so, you must choose a different damage type.
-
-```
-```
 
 ### Fighting Style
 
@@ -433,19 +458,30 @@ You have extensive practice with crossbows.
 ___
 You adopt a particular style of fighting as your specialty.
 
-* Choose one fighting Style from the Fighter list you gain that fighting style.
+* Choose one fighting Style from the Fighter list you gain that fighting style. You can take this feat multiple times.
 
 
-### Firearm Specialist (Gunslinger)
+### Firearm Specialist
 
-**Prerequisite:** Level 3.
+**Prerequisite:** Level 3, Gunslinger (Subclass).
 ___
-You are adept at using guns effectively.
+You are adept at using one-handed guns effectively.
 
 * Being within 5ft of a hostile creature doesn’t impose disadvantage on your attack rolls.
 * If you roll a misfire on an attack with a firearm, you can use your reaction to roll a d20. If the number rolled is higher than the weapon’s misfire score, the firearm does not misfire. You cannot use this feature of this feat again until you complete a short or long rest.
 * When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded firearm with the light property you are holding.
 
+### Gunner
+
+**Prerequisite:** Level 3, Renegade (Subclass).
+___
+You are adept at using two-handed guns effectively.
+
+* You ignore the loading property of firearms.
+* Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+* When you use the Attack action and attack with a two-handed weapon, you can use a bonus action to use the Disengage action.
+
+\page <div class='pageNumber auto'></div>
 
 ### Healer
 
@@ -456,7 +492,6 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 * When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
 * As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
-
 ### Heavy Armor Master
 
 **Prerequisite:** Level 3, Proficiency with heavy armor.
@@ -464,8 +499,6 @@ ___
 You can use your armor to deflect strikes that would kill others.
 
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
-
-\page <div class='pageNumber auto'></div>
 
 ### Martial Adept
 
@@ -485,6 +518,17 @@ You have practiced moving in medium armor.
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
+```
+```
+
+### Metamagic Adept
+
+**Prerequisite:** Level 3, the ability to cast at least one spell.
+___
+You’ve learned how to exert your will on your spells to alter how they function:
+
+* You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.
+* You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
 
 ### Mobile
 
@@ -496,7 +540,6 @@ You are exceptionally speedy and agile.
 * When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
 * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
-
 ### Mounted Combatant
 
 **Prerequisite:** Level 3.
@@ -507,17 +550,25 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-```
-```
-
 ### Nocturnal
 
-**Prerequisite:** Level 3, Skulker.
+**Prerequisite:** Level 3, [Skulker](#skulker).
 ___
 Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. 
 
 * You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 * You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
+
+\page <div class='pageNumber auto'></div>
+
+### Piercer
+
+**Prerequisite:** Level 3.
+___
+You have achieved a penetrating precision in combat.
+
+* Whenever you have disadvantage on a melee attack roll you make with a weapon that deals piercing damage, the target takes piercing damage equal to your Dexterity modifier if the attack misses but the higher of the two d20 rolls would have hit.
+* Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack’s damage dice, and you must use the new roll.
 
 ### Prodigy
 
@@ -528,13 +579,11 @@ You have a knack for learning new things.
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 * Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
-
 ### Resilient
 
 **Prerequisite:** Level 3.
 
 * You gain proficiency in a saving throw of your choice. You can take this feat multiple times.
-
 
 ### Savage Attacker
 
@@ -542,15 +591,44 @@ You have a knack for learning new things.
 
 * Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
-
 ### Shield Bash
 
 **Prerequisite:** Level 3.
 ___
 You have learned to use your shield as a melee weapon.
 
-* You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you. 
+* You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you.
 * When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
+
+```
+```
+
+### Slasher
+
+**Prerequisite:** Level 3.
+___
+You’ve learned where to cut to have the greatest results.
+
+* Whenever you have disadvantage on a melee attack roll you make with a weapon that deals slashing damage, the target takes slashing damage equal to your Strenght modifier if the attack misses but the higher of the two d20 rolls would have hit.
+* Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
+
+### Telekinetic
+
+**Prerequisite:** Level 3.
+___
+You learn to move things with your mind.
+
+* You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+* As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+
+### Telepathic
+
+**Prerequisite:** Level 3.
+___
+You awaken the ability to mentally connect with others.
+
+* You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.
+* You can cast the detect thoughts spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
 
 \page <div class='pageNumber auto'></div>
 
@@ -601,6 +679,16 @@ Your bows become stronger and your arrows deadlier.
 ```
 ```
 
+### Advanced Cook
+
+**Prerequisite:** Level 6, proficiency with Cook's tools.
+___
+Time spent mastering the culinary arts has paid off.
+
+* You gain expertise with cook’s utensils.
+* As part of a short rest, you can cook special food, provided you have ingredients and cook’s utensils on hand. You can prepare enough of this food for a number of creatures equal to your level + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains one additional hit die.
+* With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+
 ### Advanced Herbalist
 
 **Prerequisite:** Level 6.
@@ -627,10 +715,11 @@ Your poisons have become more potent and you have worked with them long enough t
 * If your poisons deal damage, they now deal two extra damage dice. 
 * You have advantage on skill checks to extract materials from creatures or plants related to crafting poisons.
 
+\page <div class='pageNumber auto'></div>
 
 ### Alert
 
-**Prerequisite:** Level 6, Bloodhound.
+**Prerequisite:** Level 6, [Bloodhound](#bloodhound).
 ___
 Always on the lookout for danger. 
 
@@ -641,14 +730,12 @@ Always on the lookout for danger.
 
 ### Blackpowder Expert
 
-**Prerequisite:** Level 6, Proficiency with advanced weapons.
+**Prerequisite:** Level 6, Proficiency with advanced weapons and [Gunner](#gunner) or [Firearm Specialist](#firearm-specialist).
 ___
 You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. 
 
-* You ignore the loading property of Blackpowder weapons with which you are proficient.
+* Whenever you hit a creature with your Blackpowder weapons, you can attack a second time.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
-
-\page <div class='pageNumber auto'></div>
 
 ### Farewell Shot
 
@@ -676,6 +763,8 @@ Your nimbleness in close combat makes it hard to predict your next move.
 
 * When you are in melee combat and a creature, that you can see, makes a ranged attack against you, you can use your reaction to position yourself in half cover behind your opponent. If the attack misses, the Attack instead hits the opponent you used as cover.
 
+```
+```
 
 ### Hardened Mind
 
@@ -689,15 +778,13 @@ You have trained your mind to be more resilient against mind influencing effects
 
 ### Linguist
 
-**Prerequisite:** Level 6, Bookworm.
+**Prerequisite:** Level 6, [Bookworm](#bookworm).
 ___
 You have studied many laguages and even when you don't know the local tongue you know how to get around. 
 
 * You learn three languages of your choice.
 * You gain proficiency in two of the following skills, Investigation, History, Arcana, Insight or Religion. Alternatively you can choose one of the listed skills that you are proficient with, you gain expertise with the choosen skill.
 * You learn the Tongues spell and can cast it once per short rest without expending a spell slot, Intelligence is your spellcasting modifier for this spell.
-```
-```
 
 ### Mage Slayer
 
@@ -712,7 +799,7 @@ You have practiced techniques useful in melee combat against spellcasters.
 
 ### Magic Scholar
 
-**Prerequisite:** Level 6, Magic Initiate.
+**Prerequisite:** Level 6, [Magic Initiate](#magic-initiate).
 ___
 You have studied your magic over the course of your adventures.
 
@@ -720,6 +807,7 @@ You have studied your magic over the course of your adventures.
 * Choose one 2nd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
+\page <div class='pageNumber auto'></div>
 
 ### Multi Shot
 
@@ -737,8 +825,6 @@ ___
 You have learned to grapple your foes without even touching them.
 
 * When you attack a creature, with a ranged weapon, that is wearing armor or clothes, you can take a -5 penalty to the attack and force the creature to make a Strength save (DC=8 + Proficiency bonus + Dexterity modifier) if you hit. On a failed save the Enemy is grappled to a vertical surface within 5ft of it. A grappled creature can use its action to break the grapple as normal. If you have the Sharpshooter feat, you can use both features with only a -5 total penalty.
-
-\page <div class='pageNumber auto'></div>
 
 ### Short Bow Master
 
@@ -758,6 +844,8 @@ Your rapid-fire style of casting cantrips allows you to weave magic with uncanny
 
 * Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
 
+```
+```
 
 ### Scatter Weapon Master
 
@@ -780,12 +868,9 @@ You use shields not just for protection but also for offense. You gain the follo
 * If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect.
 * If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
-```
-```
-
 ### Spell Distortion
 
-**Prerequisite:** Level 6, Weave Distortion.
+**Prerequisite:** Level 6, [Weave Distortion](#weave-distortion).
 ___
 Your unnatural ability to distort the weave is spreading out from your body, 
 
@@ -803,6 +888,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 * Your ranged spell attacks ignore half cover and three-quarters cover.
 * You Learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you choose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid, or Intelligence for wizard.
 
+\page <div class='pageNumber auto'></div>
 
 ### Thrown Weapon Master
 
@@ -832,7 +918,7 @@ You have practiced casting spells in the midst of combat.
 
 ### Advanced Magic Scholar
 
-**Prerequisite:** Level 9, Magic Scholar.
+**Prerequisite:** Level 9, [Magic Scholar](#magic-scholar).
 ___
 You have studied your magic over the course of your adventures.
 
@@ -853,7 +939,7 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 
 ### Interceptor
 
-**Prerequisite:** Level 9, Shield Master.
+**Prerequisite:** Level 9, [Shield Master](#shield-master).
 ___
 You have your friends back and they know it, while wearing a shield you gain the following benefits:
 
@@ -863,7 +949,7 @@ You have your friends back and they know it, while wearing a shield you gain the
 
 ### Iron Gut
 
-**Prerequisite:** Level 9, Alcoholic, Constitution 13 or higher.
+**Prerequisite:** Level 9, [Alcoholic](#alcoholic), Constitution 13 or higher.
 ___
 You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. 
 
@@ -876,12 +962,43 @@ You eat like a giant and drink like a fish. Years of punishing your stomach and 
 
 ### Lightning Caster
 
-**Prerequisite:** Level 9, Quickcaster, the ability to cast at least one spell.
+**Prerequisite:** Level 9, [Quickcaster](#quickcaster), the ability to cast at least one spell.
 ___
 You have mastered the art of performing verbal and somatic components with lightning fast precision.
 
 * When you cast a Spell of 1st level or higher as a bonus action, you can cast another spell of 1st level or higher as an action, as long as this spell doesn’t require material components.
 
+### Master Crusher
+
+**Prerequisite:** Level 9, [Crusher](#crusher).
+___
+You've mastered crushing your enemies to the ground.
+
+* You have +1 to hit with a weapon that deals bludgeoning damage.
+* Once per turn when you hit a creature that is no more than one size larger than you with a weapon that deals piercing damage, you can knock the creature prone. (DC 8 + Strength modifier + proficiency bonus) Strength Saving Throw.
+* When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
+
+### Master Piercer
+
+**Prerequisite:** Level 9, [Piercer](#piercer).
+___
+You've mastered piercing through enemies.
+
+* You have +1 to hit with a weapon that deals piercing damage.
+* Once per turn when you hit a creature that is no more than one size larger than you with a weapon that deals piercing damage, you can make it drop its weapon. (DC 8 + Dexterity modifier + proficiency bonus) Constitution Saving Throw.
+* When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
+
+### Master Slasher
+
+**Prerequisite:** Level 9, [Slasher](#slasher).
+___
+You’ve mastered sharp weapons.
+
+* You have +1 to hit with a weapon that deals slashing damage.
+* Once per turn when you hit a creature that is no more than one size larger than you with a weapon that deals slashing damage, you can blind that creature. (DC 8 + Strength modifier + proficiency bonus) Dexterity Saving Throw.
+* When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
+
+\page <div class='pageNumber auto'></div>
 
 ### Polearm Master
 
@@ -921,7 +1038,7 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 
 ### Blind Fighting
 
-**Prerequisite:** Level 12, Alert.
+**Prerequisite:** Level 12, [Alert](#alert).
 ___
 You have heightened your senses over the potential of a normal mortal being. 
 
@@ -943,7 +1060,7 @@ You are a broad and formidable size, due to extensive training.
 
 ### Master Alchemist
 
-**Prerequisite:** Level 12, Advanced Alchemist.
+**Prerequisite:** Level 12, [Advanced Alchemist](#advanced-alchemist).
 ___
 Your concoctions count as the most potent.
 
@@ -953,7 +1070,7 @@ Your concoctions count as the most potent.
 
 ### Master Blacksmith
 
-**Prerequisite:** Level 12, Advanced Blacksmith.
+**Prerequisite:** Level 12, [Advanced Blacksmith](#advanced-blacksmith).
 ___
 You have learned to enhance your craft to one of the highest levels possible, 
 
@@ -965,7 +1082,7 @@ You have learned to enhance your craft to one of the highest levels possible,
 
 ### Master Bowyer
 
-**Prerequisite:** Level 12, Advanced Bowyer.
+**Prerequisite:** Level 12, [Advanced Bowyer](#advanced-bowyer).
 ___
 You became one of the most renown Bowyers.
 
@@ -975,7 +1092,7 @@ You became one of the most renown Bowyers.
 
 ### Master Herbalist
 
-**Prerequisite:** Level 12, Advanced Herbalist
+**Prerequisite:** Level 12, [Advanced Herbalist](#advanced-herbalist)
 ___
 You have found a way to boost the healing potential of your healing potions even further.
 
@@ -985,7 +1102,7 @@ You have found a way to boost the healing potential of your healing potions even
 
 ### Master Poisoner
 
-**Prerequisite:** Level 12, Advanced Poisoner.
+**Prerequisite:** Level 12, [Advanced Poisoner](#advanced-poisoner).
 ___
 Your poisons have become incredible potent and you have worked with them long enough to ignore them.
 
@@ -997,7 +1114,7 @@ Your poisons have become incredible potent and you have worked with them long en
 
 ### Mental Fortress
 
-**Prerequisite:** Level 12, Hardened Mind.
+**Prerequisite:** Level 12, [Hardened Mind](#hardened-mind).
 ___
 Your mind becomes a fortress of pure willpower.
 
@@ -1044,7 +1161,7 @@ You have learned to change the destructive energies of your spells.
 
 ### Spell Sink
 
-**Prerequisite:** Level 12, Spell Distortion.
+**Prerequisite:** Level 12, [Spell Distortion](#spell-distortion).
 ___
 Your unnatural being has started to shield you from magic.
 
@@ -1064,7 +1181,7 @@ You have mastered the art of wielding your favorite weapon.
 
 ### Witch Hunter
 
-**Prerequisite:** Level 12, Mage Slayer.
+**Prerequisite:** Level 12, [Mage Slayer](#mage-slayer).
 ___
 You have honed and perfected your skills fighting against spellcasters. 
 
@@ -1325,7 +1442,7 @@ ___
 You learned to put your horse body to good use in combat.
 
 * Your hooves now deal 2d4 + your Strength modifier bludgeoning damage.
-* If you move at least 20 feet straight toward a creature and then hits it with an attack on the same turn, that target must succeed on a DC (8 + proficiency bonus + Strength modifier)Strength saving throw or be knocked prone.
+* If you move at least 20 feet straight toward a creature and then hits it with an attack on the same turn, that target must succeed on a DC (8 + proficiency bonus + Strength modifier) Strength saving throw or be knocked prone.
 * If you attack a prone target, you can make an attack with your hooves against it as a bonus action.
 
 
