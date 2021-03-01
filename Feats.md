@@ -1209,10 +1209,9 @@ You have studied your magic over the course of your adventures.
 
 \page <div class='pageNumber auto'></div>
 <div class='wide'>
-  
+
 # Feats by Race
 #### Feats listed in this section can only be taken by the associated race.
-<div style='margin-top:20px'></div>
 
 </div>
 
