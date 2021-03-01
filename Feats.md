@@ -25,10 +25,14 @@ This rule set is designed to give more depth to characters over the course of th
   + You **can** use the feat you gain at level 3 to pick a feat from the level 1 list.
 * Unless otherwise stated you can’t choose a feat more than once.
 
+  </div>
+\page <div class='pageNumber auto'></div>
+ 
+<div class='wide'>
 # General Feats by Level
+## Level 1
 </div>
 
-## Level 1
 
 ### Aberrant Dragonmark
 
@@ -38,8 +42,6 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 
 * You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
 * When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
-```
-```
 
 ### Actor
 ___
@@ -58,7 +60,8 @@ You like alcohol more than most humans and it’s not all bad.
 * You have advantage on Constitution saving throws regarding alcohol or other drugs.
 * You can use an action on your turn to drink a good load of alcohol or a comparable drug, to end the frightened condition on yourself. Each time you use this trait, you must make a DC 12 Constitution saving throw or become drunk until you finish a short rest. While drunk you get temporary hit points equal to your Constitution modifier + your proficiency bonus, you are immune to the frightened condition and you have disadvantage on all Dexterity and Intelligence based throws and on all Wisdom and Charisma ability checks. (Those penalties do not apply if you are a Drunken Master)
 
-\page <div class='pageNumber auto'></div>
+```
+```
 
 ### Athlete
 ___
@@ -94,6 +97,8 @@ Chaotic magic flows through you and twists your astral body.
 * When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 * If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
+\page <div class='pageNumber auto'></div>
+
 ### Death Touched
 
 **Prerequisite:** You must have died at least once. This feat
@@ -103,9 +108,6 @@ ___
 You have faced death and you won, be it by yourself or with the aid of your comrades. But the experience left some mark on your body and soul, you gain the following traits:
 
 * You gain one Indefinite Madness (as described [here](https://www.dndbeyond.com/sources/dmg/running-the-game#Madness)) or some other trait (as discribed [here](http://dndspeak.com/2017/12/04/168-resurrection-side-effects/)). You gain resistance to necrotic damage. Your eye color changes to a more vibrant version of the original color. You gain Truesight up to a range of 10ft.
-
-```
-```
 
 ### Duck
 ___
@@ -147,6 +149,8 @@ You're acclimated to either cold or hot climates. You can pick this feat multipl
 * You gain cold or fire resistance (your choice).
 * When you travel through an area with your adapted climate, you have advantage on Perception, Nature and Survival checks.
 
+```
+```
 
 ### Grappler
 
@@ -157,8 +161,6 @@ close-quarters grappling.
 
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
-
-\page <div class='pageNumber auto'></div>
 
 ### Heavily Armored
 
@@ -188,16 +190,13 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 
 * You gain proficiency with light armor.
 
+\page <div class='pageNumber auto'></div>
 
 ### Lucky
 ___
 You have inexplicable luck that seems to kick in at just the right moment.
 
 * You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
-
-
-```
-```
 
 ### Magic Initiate
 
@@ -231,7 +230,8 @@ You are quick to notice details of your environment.
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
-\page <div class='pageNumber auto'></div>
+```
+```
 
 ### Ritual Caster
 
@@ -273,8 +273,7 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 * Your unarmed strike uses a d4 for damage.
 * When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 
-```
-```
+\page <div class='pageNumber auto'></div>
 
 ### Taunt
 ___
@@ -1369,7 +1368,10 @@ You embrace your draconic blood.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Dwarf
+</div>
+
 
 ### Dwarven Fortitude
 ___
@@ -1416,6 +1418,8 @@ You learned how to increase your power while enlarged.
 * When you cast the enlarge spell, with your racial feat, it doesn't require concentration.
 * While enlarged you gain an extra damage die on Strength-based weapon attacks instead of getting an extra 1d4.
 
+```
+```
 
 ### Runes of Protection
 
@@ -1428,12 +1432,11 @@ You have learned the ancient art of  engraving the dwarfen Runes of Protection i
 * The costs and time needed for crafting a runestone is halved for you.
 * You can find new formulas on your journeys on the DMs discretion.
 
-```
-```
-
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Elf
+</div>
 
 ### Fey Teleportation
 
@@ -1489,8 +1492,11 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 <div style='margin-top:40px'></div>
 
+\page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Firbolg
+</div>
 
 ### Caretaker of the Critters
 ___
@@ -1525,7 +1531,9 @@ You love nature and nature loves you.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Genasi
+</div>
 ___
 For the purpose of associated damage types, consider the following chart:
 
@@ -1576,6 +1584,8 @@ Your elemental ancestry lets you change the appearance of your spells.
 
 * If you cast a Spell that deals acid, cold, fire, lightning, or thunder, you can change the damage type of this spell to your associated damage type. You can use this feature a number of times equal to your constitution modifier (minimum of 1) before you need to make a long rest.
 
+```
+```
 
 ### Elemental Investiture
 
@@ -1593,10 +1603,11 @@ Your Elemental ancestors grant you the access to powerful elemental magic.
 | Water | Investiture of Ice |
 
 
-<div style='margin-top:40px'></div>
+\page <div class='pageNumber auto'></div>
 
-
+<div class='wide'>
 ## Gith
+</div>
 
 ### Telepathy
 ___
@@ -1639,7 +1650,9 @@ You trained hard and enhanced your abilities to stand up against your hated foe.
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Gnome
+</div>
 
 ### Fade Away
 ___
@@ -1675,6 +1688,8 @@ You have trained in the art of crafting for more years than a normal Human lives
 
 * You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetection on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest. Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.
 
+```
+```
 
 ### Superior Tinkering
 
@@ -1686,12 +1701,11 @@ Your decade long studies in mechanics finally paid off and you learned how to cr
 * You can spend 1 workday and expend gold for materials, equal to 100GP x the Modrons CR to, create a Modron that aids you on your travels. 
 * The Modron listens to your verbal commands (a verbal command requires a bonus action) but can act on its own in combat. The Modrons are all one size category smaller than the stat block says. The combined CR of all your Modrons can never exceed half your proficiency bonus (rounded up).
 
-```
-```
-
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Goblin
+</div>
 
 ### Squat Nimbleness
 ___
@@ -1743,6 +1757,7 @@ You've developed a new toy.
 * The gold you need to spend, to build your bombs is halved. 
 * You invented the BOMB CANNON a portable launcher for your small bombs with which you are proficient. The BOMB CANNON has the following properties: Martial ranged weapon, reach 60/120ft, damage equals the loaded bomb.
 
+\page <div class='pageNumber auto'></div>
 
 ## Goliath
 
@@ -1783,7 +1798,8 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 * You gain the benefits of the Grappler feat.
 * When you use your Stone’s Endurance feature against a melee attack from a creature that is large or smaller and you reduce the incoming damage to 0 you automatically grapple the enemy.
 
-\page <div class='pageNumber auto'></div>
+```
+```
 
 ## Half-Elf
 
@@ -1813,6 +1829,8 @@ Your elven blood line grants you access to powerful magic.
 
 ```
 ```
+
+\page <div class='pageNumber auto'></div>
 
 ## Half-Orc
 
@@ -1849,7 +1867,9 @@ Killing invigorates you to such a degree, that some would say Gruumsh himself ha
 
 \page <div class='pageNumber auto'></div>
 
+<div class='wide'>
 ## Halfling
+</div>
 
 ### Bountiful Luck
 ___
@@ -1904,8 +1924,7 @@ You became one of the most brilliant chefs.
 * You learn the Heroes' Feast spell and can cast it without expending a spell slot
 * You need Cook's Utensils to cast this spell and the material components change to: Fine meats, vegetables, wine or other ingredients worth at least 500gp, which the spell consumes.
 
-<div style='margin-top:40px'></div>
-
+\page <div class='pageNumber auto'></div>
 
 ## Hobgoblin
 
@@ -1940,8 +1959,6 @@ You became a master of combat tactics.
 ```
 ```
 
-\page <div class='pageNumber auto'></div>
-
 ## Human
 
 ### Adaptive Nature
@@ -1973,6 +1990,7 @@ Improvising comes natural to you there is no situation you can’t solve by impr
 ```
 ```
 
+\page <div class='pageNumber auto'></div>
 
 ## Kalashtar
 
@@ -2007,8 +2025,6 @@ You have learned to release the Spirit bound within you.
 ```
 ```
 
-\page <div class='pageNumber auto'></div>
-
 ## Kenku
 
 ### Learning New Things
@@ -2041,6 +2057,8 @@ Were other members of your race sorrow over their lost abilities you embrace you
 ```
 ```
 
+\page <div class='pageNumber auto'></div>
+
 ## Kobold
 
 ### Better together
@@ -2071,8 +2089,6 @@ Tiamat’s smile falls upon you.
 
 ```
 ```
-
-\page <div class='pageNumber auto'></div>
 
 ## Lizardfolk
 
@@ -2126,6 +2142,8 @@ Your scales became junky and hard over the course of your adventures.
 ```
 ```
 
+\page <div class='pageNumber auto'></div>
+
 ## Loxodon
 
 ### Perfect Memory
@@ -2149,8 +2167,10 @@ You’re not easy to anger but when you get angry it’s a sight to behold.
 * You can use your attack action to hurl boulders around. They count as a simple weapon with the thrown 30/60ft property, dealing 1d10 damage on a hit. If you have multi attack you can hurl as many boulders per tern as you have attacks.
 * Immediately after you use the dash action on your turn you can make a melee attack as a bonus Action. This attack deals bonus damage equal to your Constitution modifier.
 
+```
+```
 
-### Minotaur
+## Minotaur
 
 ### Labyrinth Senses
 ___
@@ -2168,7 +2188,6 @@ Heroes blood flows through your veins and you learned how to control it.
 
 * You have advantage on saving throws against being frightened.
 * You can use a bonus action on your turn to let out a war cry and bolster the moral of your allies. Every creature of your choice within 60ft of you gains 1d4 plus your Strength modifier temporary hit points. Once you use this trait you can’t do so again until you finish a short or long rest.
-
 ```
 ```
 
@@ -2215,7 +2234,6 @@ You have embraced the color black, the color of darkness.
 
 * You can see normally in magical and non-magical darkness up to a range of 120 feet.
 * While in darkness you don’t provoke opportunity attacks.
-
 ```
 ```
 
@@ -2259,7 +2277,6 @@ You have learned to bring your shifting abilities to the next level.
 |Longtooth | While shifted your fangs now deal 2d6 + your Strength modifier piercing damage |
 |Swiftstride | While shifted you now get 20 feet extra movement and you can now move 20 feet as a reaction, when a creature ends its turn within 5 feet of you | 
 |Wildhunt | While shifted you now get blindsight up to a range of 30 feet|
-
 ```
 ```
 
@@ -2286,7 +2303,6 @@ You have a neck for evading death,
 
 * You gain advantage on death saving throws.
 * When you die, you come back to live 1d4 hours later. Once this trait has been used (9 – the number of times you have been resurrected before you gained this feat) times you lose this feature.
-
 ```
 ```
 
@@ -2337,7 +2353,6 @@ ___
 You have learned the channel the blood of your ancestors into your deals.
 
 * You can offer and create deals as described in Baldur’s Gate: Descent into Avernus. You choose the wording and form of the deal. If you get a soul offered and receive one you a small silvery cage containing the soul (similar to a Soul Cage Spell), that manifests in an unoccupied space within 5ft of you. You can have a maximum number of active contracts equal to your Charisma modifier + your Proficiency modifier.
-
 ```
 ```
 
@@ -2376,7 +2391,6 @@ ___
 You have learned to act at least a little bit while in your shell.
 
 * While in your shell you can still use an action to cast spells, as long as those spells doesn’t need material components. Also, you can extend on limb to make a melee attack against a creature within 5 feet of you. 
-
 ```
 ```
 
@@ -2406,7 +2420,6 @@ ___
 You have mastered your connection to the elemental plains.
 
 * You learn the Conjure Elemental and Tidal Wave spell each of which you can cast once without expending a spell slot. You can only summon elementals connected to the elemental plain of water or air. Once you cast these spells with this trait you can’t do so again until you finish a long rest. Choose Strength, Constitution or Charisma for your Spellcasting ability.
-
 ```
 ```
 
@@ -2441,7 +2454,6 @@ ___
 You have found perfection.
 
 * When you roll a 9 or lower on a check with a tool or skill that you have expertise in, the roll counts as a 10 for you. Choose one skill or tool in which you have expertise. You now add two and a half times your Proficiency bonus to the chosen skill or tool (rounded down).
-
 ```
 ```
 
@@ -2482,7 +2494,6 @@ Over the course of your adventures you have replaced your metal components with 
 
 * When you don heavy armor, every critical hit against you counts as a normal hit instead. 
 * You have resistance against bludgeoning, piercing and slashing damage from natural effects, like rockslides or boulders.
-
 ```
 ```
 
@@ -2568,7 +2579,7 @@ You have learned to transform yourself.
     - [1.4.7 Firearm Specialist (Gunslinger)](#p5)
     - [1.4.8 Healer](#p5)
     - [1.4.9 Heavy Armor Master](#p5)
-    - [1.4.10 Martial Adept](#p5)
+    - [1.4.10 Martial Adept](#p6)
     - [1.4.11 Medium Armor Master](#p6)
     - [1.4.12 Mobile](#p6)
     - [1.4.13 Mounted Combatant](#p6)
