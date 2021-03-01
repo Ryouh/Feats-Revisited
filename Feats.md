@@ -15,7 +15,7 @@ This rule set is designed to give more depth to characters over the course of th
 #### Ability score improvements
   
 * All ability score improvements (ASI) granted to a character by reaching levels in a class have to be taken as ASI -  you can no longer forgo them to gain another feat.
-*  All feats that granted increases to ability scores in the official sourcebooks no longer do so. 
+* Most feats that granted increases to ability scores in the official sourcebooks no longer do so. 
 
 #### Choosing a feat
 
@@ -88,9 +88,11 @@ WretchedEgg, Xiao, Brtwrst, WomboCombo
  
 <div class='wide'>
 # General Feats by Level
-## Level 1
 </div>
 
+## Level 1
+
+<div class='wide'></div>
 
 ### Aberrant Dragonmark
 
@@ -384,9 +386,9 @@ You are hard to get rid of.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 3
-</div>
+
+<div class='wide'></div>
 
 ### Advanced Weapon Adept
 
@@ -582,7 +584,10 @@ You have a knack for learning new things.
 
 **Prerequisite:** Level 3.
 
-* You gain proficiency in a saving throw of your choice. You can take this feat multiple times.
+* Increase the chosen ability score by 1, to a maximum of 20.
+* You gain proficiency in saving throws using the chosen ability.
+* You can take this feat up to 2 times.
+
 
 ### Savage Attacker
 
@@ -631,9 +636,9 @@ You awaken the ability to mentally connect with others.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 6
-</div>
+
+<div class='wide'></div>
 
 ### Advanced Alchemist
 
@@ -911,9 +916,9 @@ You have practiced casting spells in the midst of combat.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 9
-</div>
+
+<div class='wide'></div>
 
 ### Advanced Magic Scholar
 
@@ -1031,9 +1036,9 @@ You have learned how to use effigy dolls when cursing your targets. These dolls 
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 12
-</div>
+
+<div class='wide'></div>
 
 ### Blind Fighting
 
@@ -1190,9 +1195,9 @@ You have honed and perfected your skills fighting against spellcasters.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 15
-</div>
+
+<div class='wide'></div>
 
 ### Bulwark
 
@@ -1238,9 +1243,9 @@ Your unnatural nature has evolved to rip apart the weave around you.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
 ## Level 18
-</div>
+
+<div class='wide'></div>
 
 ### Iron Will
 
@@ -1324,11 +1329,13 @@ You have studied your magic over the course of your adventures.
 * You regain the ability to cast your spells gained by your Magic Scholar and Magic Initiate feats on a short instead of a long rest.
 
 \page <div class='pageNumber auto'></div>
+
 <div class='wide'>
 
 # Feats by Race
-#### Feats listed in this section can only be taken by the associated race.
 
+#### Feats listed in this section can only be taken by the associated race.
+<div style='margin-top:20px'></div>
 </div>
 
 ## Aarakocra
