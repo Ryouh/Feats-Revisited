@@ -5,7 +5,7 @@
 # Feats Revisited
 This rule set is designed to give more depth to characters over the course of their Adventures. It  contains most feats from the official sourcebooks and in addition, there are several new feats including racial feats for most official races. Some feats were changed or reworked to fit this system. The feats Advanced Weapon Adept, Blackpowder Expert and Scatter Weapon Master are meant to work with the Grim Hollow campaign setting.
   
-<div style='margin-top:30px'></div>
+<div style='margin-top:40px'></div>
 
 #### Gaining Feats
   
