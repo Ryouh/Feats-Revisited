@@ -405,6 +405,7 @@ You can use your armor to deflect strikes that would kill others.
 
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
 
+\page <div class='pageNumber auto'></div>
 
 ### Martial Adept
 
@@ -414,8 +415,6 @@ You have martial training that allows you to perform special combat maneuvers.
 
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-
-\page <div class='pageNumber auto'></div>
 
 ### Medium Armor Master
 
@@ -448,6 +447,8 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
+```
+```
 
 ### Nocturnal
 
@@ -457,9 +458,6 @@ Due to extensive exposure to the dark, and possible supernatural abilities, you 
 
 * You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 * You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
-
-```
-```
 
 ### Prodigy
 
