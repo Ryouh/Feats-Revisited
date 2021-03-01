@@ -1719,19 +1719,23 @@ You love nature and nature loves you.
 
 <div class='wide'>
 ## Genasi
+  
+<div style='margin-top:10px'></div>
+
 </div>
-___
-For the purpose of associated damage types, consider the following chart:
 
+<div class='descriptive'>
 #### Associated Element
+For the purpose of associated damage types, consider the following chart:
+<div style='margin-top:10px'></div>
 
-| Genasi | Element |
+  | Genasi | Element |
 |:---:|:---|
 |Air | Thunder |
 |Earth | Bludgeoning |
 |Fire | Fire |
 |Water | Acid |
-
+</div>
 
 ### Elemental Adaptation
 ___
@@ -1753,6 +1757,7 @@ Your connection to the Elemental plains grants you the aid of new forms of famil
 
 
 #### Familiar Forms
+<div style='margin-top:10px'></div>
 
 | Genasi | Form |
 |:---:|:---|
