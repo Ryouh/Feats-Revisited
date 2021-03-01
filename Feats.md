@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.6 (Tasha)</div>
+<div class='footnote'>Version: 2.6.1 (Tasha)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -15,7 +15,7 @@ This rule set is designed to give more depth to characters over the course of th
 #### Ability score improvements
   
 * All ability score improvements (ASI) granted to a character by reaching levels in a class have to be taken as ASI -  you can no longer forgo them to gain another feat.
-* Most feats that granted increases to ability scores in the official sourcebooks no longer do so. 
+* All feats that granted increases to ability scores in the official sourcebooks no longer do so. Instead they grant other benefits.
 
 #### Choosing a feat
 
@@ -104,9 +104,10 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 * When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
 
 ### Actor
-___
+
 You are skilled at mimicry and dramatics.
 
+* You gain proficiency in the Performance skill.
 * You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
 * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
 
@@ -124,9 +125,10 @@ You like alcohol more than most humans and it’s not all bad.
 ```
 
 ### Athlete
-___
+
 You have undergone extensive physical training.
 
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
 * When you are prone, standing up uses only 5 feet of your movement.
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
@@ -139,7 +141,7 @@ You’ve learned some of an artificer’s inventiveness.
 * You gain proficiency with one type of artisan’s tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
 ### Bookworm
-___
+
 You have studied languages and codes.
 
 * You learn four languages of your choice.
@@ -154,7 +156,7 @@ You have studied languages and codes.
 ___
 Chaotic magic flows through you and twists your astral body.
 
-* You have advantage on Strength, Dexterity and Constitution saving throws against spells and other magical effects.
+* You have advantage on Strength and Constitution saving throws against spells and other magical effects.
 * Whenever you cast a spell of first level or higher there is a chance, that your chaotic magic twists the spell. Roll a percentile die, if the number rolled is equal to or less than the spell slot used to cast the Spell roll on the Wild Magic Table in the Players Handbook.
 
 \page <div class='pageNumber auto'></div>
@@ -175,14 +177,14 @@ You have faced death and you won, be it by yourself or with the aid of your comr
 * You gain one Indefinite Madness (as described [here](https://www.dndbeyond.com/sources/dmg/running-the-game#Madness)) or some other trait (as discribed [here](http://dndspeak.com/2017/12/04/168-resurrection-side-effects/)). You gain resistance to necrotic damage. Your eye color changes to a more vibrant version of the original color. You gain Truesight up to a range of 10ft.
 
 ### Duck
-___
+
 You have learned to avoid danger from afar.
 
 * When a creature you can see attacks you with a ranged attack you can throw yourself to the ground as a reaction, becoming prone and imposing disadvantage on the attack roll.
 
 
 ### Dungeon Delver
-___
+
 You are alert to the hidden traps and secret doors.
 
 * You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
@@ -192,25 +194,25 @@ You are alert to the hidden traps and secret doors.
 
 
 ### Dual Wielder
-___
+
 You master fighting with two weapons.
 
 * You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
 * You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
 * You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
+```
+```
 
 ### Durable
-___
+
 You are hardy and resilient.
 
+* When you make a Constitution saving throw you can use your reaction to expend one of your Hit Die and add the result to your saving throw.
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
-```
-```
-
 ### Environmental adaption
-___
+
 You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. 
 
 * You gain cold or fire resistance (your choice).
@@ -224,19 +226,11 @@ Your exposure to the Feywild’s magic has changed you.
 ### Grappler
 
 **Prerequisite:** Strength 13 or higher
-___
-You’ve developed the skills necessary to hold your own in
-close-quarters grappling. 
 
-* You have advantage on attack rolls against a creature you are grappling.
-* You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+You’ve developed the skills necessary to hold your own in close-quarters grappling. 
 
-### Heavily Armored
-
-**Prerequisite:** Proficiency with medium armor.
-
-* You gain proficiency with heavy armor.
-
+* Attacks made against a creature of your size or smaller, that is grappled by you, are made with advantage.
+* You can add your proficiency bonus to athletics checks made while grappling. If you are already proficient, your proficiency bonus is doubled.
 
 ### Inspiring Leader
 
@@ -247,7 +241,7 @@ close-quarters grappling.
 \page <div class='pageNumber auto'></div>
 
 ### Keen Mind
-___
+
 You have a mind that can track time, direction, and detail with uncanny precision. 
 
 * You always know which way is north.
@@ -261,7 +255,7 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 * You gain proficiency with light armor.
 
 ### Lucky
-___
+
 You have inexplicable luck that seems to kick in at just the right moment.
 
 * You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
@@ -272,12 +266,6 @@ You have inexplicable luck that seems to kick in at just the right moment.
 * In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-
-### Moderately Armored
-
-**Prerequisite:** Proficiency with light armor.
-
-* You gain proficiency with medium armor and shields.
 
 ```
 ```
@@ -294,11 +282,12 @@ You are small and thin for your race. You have a mysterious and consistent abili
 
 
 ### Observant
-___
+
 You are quick to notice details of your environment.
 
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. 
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
+* You can clearly recall details of places you have visited in the past tenday.
 
 ### Ritual Caster
 
@@ -309,6 +298,14 @@ You are quick to notice details of your environment.
 * If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 \page <div class='pageNumber auto'></div>
+
+### Shield 
+You have learned to use shields 
+
+* You gain proficiency with shields.
+* You can attach a small shield to your arm. You no longer need to hold the shield to get it's protection but the shield only provides +1 AC.
+* You can use your shielded arm to cast spells or interact with objects but you can not attack with it.
+
 
 ### Shadow touched
 Your exposure to the Shadowfell’s magic has changed you.
@@ -331,35 +328,35 @@ You are expert at slinking through shadows.
 * Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
 ### Swimmer
-___
+
 You have spent the majority of your time in the water.
 
 * You gain a swim speed equal to your walking speed.
 * You don’t have disadvantage on attack rolls made with melee weapons while in water.
 
 ### Tavern Brawler
-___
+
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand.
 
+* You gain proficiency in the Intimidation skill.
 * You are proficient with improvised weapons.
-* Your unarmed strike uses a d4 for damage.
-* When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+* Your unarmed strikes deal an additional 1d4 damage.
+
+```
+```
 
 ### Taunt
-___
+
 You have a talent to anger other people.
 
 * As an action you can make a Charisma (Persuasion, Deception, or Intimidation) check against a creature that can see or hear you opposed by the creatures Insight. If you succeed the creature is distracted until the end of your next turn and has disadvantage on attack rolls against creatures other than you.
-
-```
-```
 
 ### Tough
 
 * Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
 ### Weapon Training
-___
+
 You have practiced extensively with a variety of weapons.
 
 * You gain proficiency with one Weapon group of your choice. Weapon groups are simple melee- or ranged weapons or martial melee- or ranged weapons.
@@ -379,9 +376,10 @@ Something about you distorts the weave around you and giving people in your pres
 * All spells have their duration halved when cast on you.
 
 ### Will to Live
-___
+
 You are hard to get rid of.
 
+* Your death saving throws suceed on a 9 or higher.
 * When you succeed on 2 death saving throws you can regain 1 hit point. If you do so you can use your reaction to move up to half your movement. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 \page <div class='pageNumber auto'></div>
@@ -495,10 +493,11 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 
 ### Heavy Armor Master
 
-**Prerequisite:** Level 3, Proficiency with heavy armor.
+**Prerequisite:** Level 3, Proficiency with medium armor.
 ___
 You can use your armor to deflect strikes that would kill others.
 
+* You gain proficiency with heavy armor.
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
 
 ### Martial Adept
@@ -512,10 +511,11 @@ You have martial training that allows you to perform special combat maneuvers.
 
 ### Medium Armor Master
 
-**Prerequisite:** Level 3 Proficiency with medium armor.
+**Prerequisite:** Level 3, Proficiency with light armor.
 ___
 You have practiced moving in medium armor.
 
+* You gain proficiency with medium armor.
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
@@ -584,10 +584,8 @@ You have a knack for learning new things.
 
 **Prerequisite:** Level 3.
 
-* Increase the chosen ability score by 1, to a maximum of 20.
-* You gain proficiency in saving throws using the chosen ability.
-* You can take this feat up to 2 times.
-
+* You gain proficiency in a saving throw of your choice.
+* You gain resistance against a damage type of your choice.
 
 ### Savage Attacker
 
@@ -597,11 +595,11 @@ You have a knack for learning new things.
 
 ### Shield Bash
 
-**Prerequisite:** Level 3.
+**Prerequisite:** Level 3, Proficiency with shields. 
 ___
 You have learned to use your shield as a melee weapon.
 
-* You can use s shield to make melee weapon attacs, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency nonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you.
+* You can use s shield to make melee weapon attacks, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency bonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you.
 * When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
 
 ```
@@ -1174,15 +1172,6 @@ Your unnatural being has started to shield you from magic.
 ```
 ```
 
-### Weapon Master
-
-**Prerequisite:** Level 12.
-___
-You have mastered the art of wielding your favorite weapon.
-
-* Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
-
-
 ### Witch Hunter
 
 **Prerequisite:** Level 12, [Mage Slayer](#mage-slayer).
@@ -1229,6 +1218,17 @@ You have inexplicable luck that seems to kick in at just the right moment.
 * You now have 3 luck points to use with your [Lucky](#Lucky) feat. You regain all your spent luck points at the end of a long rest
 
 
+### Weapon Master
+
+**Prerequisite:** Level 15.
+___
+You have mastered the art of wielding your favorite weapon.
+
+* Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
+
+```
+```
+
 ### Weave Vortex
 
 **Prerequisite:** Level 15, [Spell Sink](#spell-sink).
@@ -1238,8 +1238,6 @@ Your unnatural nature has evolved to rip apart the weave around you.
 * Your Bonus against Spells and other magical effects increases to +4.
 * Once per long rest you can gain the effects of an antimagic field as an action, these effects last for one hour. You can suppress these effects as a bonus action and release them again as a bonus action. The time while the effects are suppressed, still counts against the duration of the effect.
 
-```
-```
 
 \page <div class='pageNumber auto'></div>
 
@@ -1444,7 +1442,7 @@ Hruggek saw you in battle and he liked it.
 ## Centaur
 
 ### Trampling Hooves
-___
+
 You learned to put your horse body to good use in combat.
 
 * Your hooves now deal 2d4 + your Strength modifier bludgeoning damage.
@@ -1453,7 +1451,7 @@ You learned to put your horse body to good use in combat.
 
 
 ### Jousting
-___
+
 You become rider and horse in one person.
 
 * You can use the Mounted Combatant feat without a mount. You count as the rider and the mount in that case.
@@ -1513,14 +1511,14 @@ Your transformation skills are at their peak and there are not many who can riva
 ## Dragonborn
 
 ### Dragon Fear
-___
+
 When angered, you can radiate menace.
 
 * Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened of you for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 
 ### Dragon Hide
-___
+
 You manifest scales and claws reminiscent of your draconic ancestors. 
 
 + Your scales harden. While you aren’t wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
@@ -1567,7 +1565,7 @@ You embrace your draconic blood.
 
 
 ### Dwarven Fortitude
-___
+
 You have the blood of dwarf heroes flowing through your veins. 
 
 * Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
@@ -1575,7 +1573,7 @@ You have the blood of dwarf heroes flowing through your veins.
 
 
 ### Dwarven Stubbornness
-___
+
 When set your mind to something there is nothing that can change your mind and most of the times people are to tiered to argue with you for long. 
 
 * You gain advantage on Persuasion checks to haggle.
@@ -1583,7 +1581,7 @@ When set your mind to something there is nothing that can change your mind and m
 
 
 ### Squat Nimbleness
-___
+
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1633,8 +1631,6 @@ You have learned the ancient art of  engraving the dwarfen Runes of Protection i
 
 ### Fey Teleportation
 
-**Prerequisite:** Level 3.
-___
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. 
 
 * You learn to speak, read, and write Sylvan.
@@ -1692,7 +1688,7 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 </div>
 
 ### Caretaker of the Critters
-___
+
 As a Firbolg you are a guardian of nature and a caretaker of its inhabitants.
 
 * You gain expertise with Animal Handling. 
@@ -1745,7 +1741,7 @@ For the purpose of associated damage types, consider the following chart:
 </div>
 
 ### Elemental Adaptation
-___
+
 Your elemental bloodline shields you from enemy attacks. 
 
 * You gain resistance to your associated damage type. 
@@ -1808,7 +1804,7 @@ Your Elemental ancestors grant you the access to powerful elemental magic.
 </div>
 
 ### Telepathy
-___
+
 Your psychic nature lets you reach out with your mind to communicate with other creatures.
 
 * You can telepathically speak to any creature you can see within 30 feet of you. You need to share a language with the creature for it to understand you.
@@ -1853,14 +1849,14 @@ You trained hard and enhanced your abilities to stand up against your hated foe.
 </div>
 
 ### Fade Away
-___
+
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm.
 
 * Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
 
 ### Squat Nimbleness
-___
+
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1872,8 +1868,7 @@ You are uncommonly nimble for your race.
 
 **Prerequisite:** Level 3.
 ___
-You have trained in the art of crafting for more years than a normal Human lives, 
-
+You have trained in the art of crafting for more years than a normal Human lives.
 
 * You gain proficiency in one additional artisan tool of your choice
 * You double your proficiency bonus with all artisan tools you are proficient with.
@@ -1906,7 +1901,7 @@ Your decade long studies in mechanics finally paid off and you learned how to cr
 </div>
 
 ### Squat Nimbleness
-___
+
 You are uncommonly nimble for your race. 
 
 * Increase your walking speed by 5 feet.
@@ -1914,7 +1909,7 @@ You are uncommonly nimble for your race.
 * You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
 ### Bad Inventors
-___
+
 You aren't good at planning, but you are incredibly good at improvising. 
 
 * You gain proficiency in improvised weapons.
@@ -1923,7 +1918,7 @@ You aren't good at planning, but you are incredibly good at improvising.
 
 
 ### Garbage to Gold
-___
+
 You have learned to use other people’s waste to craft useful things for yourself. 
 
 * You gain proficiency in one Artisan Tool of your choice. 
@@ -1960,7 +1955,7 @@ You've developed a new toy.
 ## Goliath
 
 ### Pushing Through
-___
+
 The harsh environment you grow up in tough you how to keep going when others would collapse on the spot.
 
 * You ignore a number of exhaustion points equal to half your proficiency bonus (rounded down). You still die when you gain 6 exhaustion points.
@@ -2002,7 +1997,7 @@ Your hulking figure is a sight to behold on the battlefield and people may think
 ## Half-Elf
 
 ### Social Adaptation
-___
+
 Since you are a being of two worlds have no problem fitting in wherever you go. 
 
 * Once during a long rest, you can switch one Charisma based skill proficiency to another Charisma based skill proficiency.
@@ -2010,7 +2005,7 @@ Since you are a being of two worlds have no problem fitting in wherever you go.
 
 
 ### World traveler
-___
+
 You traveled the world and saw many things.
 
 * You gain proficiency at the History skill and in cartographers’ tools.
@@ -2039,8 +2034,7 @@ ___
 Your inner fury burns tirelessly. 
 
 * When you hit with an attack using a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
-* Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
-
+* Immediately after you use your Relentless Endurance trait, you can use your reaction to make one reckless weapon attack.
 
 ### Burning Endurance
 
@@ -2070,7 +2064,7 @@ Killing invigorates you to such a degree, that some would say Gruumsh himself ha
 </div>
 
 ### Bountiful Luck
-___
+
 Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You’re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune’s favor!
 
 * When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction to let the ally reroll the die. The ally must use the new roll. 
@@ -2078,7 +2072,7 @@ Your people have extraordinary luck, which you have learned to mystically lend t
 
 
 ### But What About A Second Breakfast?
-___
+
 Breakfast is the most important meal of the day and why don’t have multiple of them? 
 
 * You gain proficiency in Cook's Utensils.
@@ -2086,14 +2080,14 @@ Breakfast is the most important meal of the day and why don’t have multiple of
 
 
 ### Second Chance
-___
+
 Fortune favors you when someone tries to strike you.
 
 * When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
 
 ### Squat Nimbleness
-___
+
 You are uncommonly nimble for your race.
 
 * Increase your walking speed by 5 feet.
@@ -2160,7 +2154,7 @@ You became a master of combat tactics.
 ## Human
 
 ### Adaptive Nature
-___
+
 Your Human nature makes it easy for you to adapt to new situations.
 
 * Once during a long rest, you can change one skill proficiency of your choice as long as the new proficiency uses the same attribute. You can’t change expertise this way. For example, you can change a proficiency in Persuasion to Intimidation but not to Perception.
@@ -2193,7 +2187,7 @@ Improvising comes natural to you there is no situation you can’t solve by impr
 ## Kalashtar
 
 ### Dream Reader
-___
+
 Your connection to the Plane of dreams makes it easy for you to read other people’s dreams.
 
 
@@ -2226,7 +2220,7 @@ You have learned to release the Spirit bound within you.
 ## Kenku
 
 ### Learning New Things
-___
+
 Your curse causes you to learn new things fast.
 
 * You can spend 5 hours a day for a total 30 Days to gain proficiency in one skill, tool, weapon or language of your choice.
@@ -2260,7 +2254,7 @@ Were other members of your race sorrow over their lost abilities you embrace you
 ## Kobold
 
 ### Better together
-___
+
 You aren’t a solo fighter, but you are really good at working with outers. 
 
 * While being within 5ft of an ally you can take the help action as a bonus action.
@@ -2291,7 +2285,7 @@ Tiamat’s smile falls upon you.
 ## Lizardfolk
 
 ### Cold Hearted
-___
+
 Your normal nature makes it harder for others to manipulate you. 
 
 * You have advantage on saving throws against becoming charmed or frightened.
@@ -2371,7 +2365,7 @@ You’re not easy to anger but when you get angry it’s a sight to behold.
 ## Minotaur
 
 ### Labyrinth Senses
-___
+
 Your days guarding dark places or even a labyrinth made your body adapt to your duties. 
 
 * You can perfectly recall every path you have traveled. 
@@ -2438,7 +2432,7 @@ You have embraced the color black, the color of darkness.
 ## Shifter
 
 ### Shifter Senses
-___
+
 Your embrace your animal nature.
 
 * You gain proficiency in the Perception skill.
@@ -2507,7 +2501,7 @@ You have a neck for evading death,
 ## Tiefling
 
 ### The Art of Haggling
-___
+
 Haggling is in Your blood 
 
 * You gain proficiency in one of the following skills: Deception, Intimidation or Persuasion. 
@@ -2595,7 +2589,7 @@ You have learned to act at least a little bit while in your shell.
 ## Triton
 
 ### Child of the Sea
-___
+
 You deepen your connection to the sea.
 
 * You learn the Shape Water and Gust cantrip. Choose Strength, Constitution or Charisma for your Spellcasting ability.
@@ -2668,7 +2662,7 @@ Instead of steel or Stone your main components are made from wood and leaves.
 
 
 ### Overheat
-___
+
 You have learned to heat up your body to damage your foes. 
 
 * You gain resistance to fire damage.
