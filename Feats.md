@@ -736,7 +736,7 @@ Always on the lookout for danger.
 ___
 You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. 
 
-* Whenever you hit a creature with your Blackpowder weapons, you can attack a second time.
+* Whenever you take the attack action and you hit a creature with your Blackpowder weapons, you can attack a second time.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
 ### Farewell Shot
