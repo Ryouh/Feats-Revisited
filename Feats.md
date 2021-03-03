@@ -1091,6 +1091,16 @@ You became one of the most renown Bowyers.
 * When crafting a ranged weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
 * When crafting ammunition, you can choose to spend an extra 10gp per piece of ammunition to give the ammunition either a +2 to attack or damage rolls (this doesn’t make the weapon magical).
 
+### Master Cook
+
+**Prerequisite:** Level 12, [Advanced Cook](#advanced-cook).
+___
+You	have mastered a	variety	of special recipes, allowing you to prepare	exotic dishes	with useful effects.
+
+* Your prepared food after a short rest now provides two additional Hit Dice instead of one.
+* The temporary hit points creatures get from your treats last for 24 hours and are equal to 2 x your proficiency bonus.
+* As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+* Those who partake of your meals have advantage on Constitution saving throws against disease and being poisened for the next 24 hours.
 
 ### Master Herbalist
 
