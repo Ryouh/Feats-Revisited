@@ -498,7 +498,7 @@ ___
 You can use your armor to deflect strikes that would kill others.
 
 * You gain proficiency with heavy armor.
-* While you are wearing heavy armor, bludgeoning, piercing, and slashing damage  that you take from nonmagical weapons is reduced by 3.
+* While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
 
 ### Martial Adept
 
