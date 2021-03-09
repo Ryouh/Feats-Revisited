@@ -5,7 +5,6 @@ Changelog
 ~ changed
 
 
-**Feats Changed:**
 Actor
 + You gain proficiency in the Performance skill.
 
@@ -34,9 +33,6 @@ Fighting Style
 + You can take this feat multiple times.
 
 Heavy Armor Master
-+ You gain proficiency with heavy armor.
-
-Medium Armor Master
 + You gain proficiency with medium armor.
 
 Resilient

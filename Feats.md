@@ -211,7 +211,7 @@ You are hardy and resilient.
 * When you make a Constitution saving throw you can use your reaction to expend one of your Hit Die and add the result to your saving throw.
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
-### Environmental adaption
+### Environmental adaptation
 
 You're acclimated to either cold or hot climates. You can pick this feat multiple times, each time focusing on another environment. 
 
@@ -266,7 +266,6 @@ You have inexplicable luck that seems to kick in at just the right moment.
 * In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-
 ```
 ```
 
@@ -279,7 +278,6 @@ You are small and thin for your race. You have a mysterious and consistent abili
 * As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
 * You can fit and squeeze through spaces as though you were one size smaller than you are.
 * Moving through spaces occupied by allies does not impose movement penalties.
-
 
 ### Observant
 
@@ -306,7 +304,6 @@ You have learned to use shields
 * You can attach a small shield to your arm. You no longer need to hold the shield to get it's protection but the shield only provides +1 AC.
 * You can use your shielded arm to cast spells or interact with objects but you can not attack with it.
 
-
 ### Shadow touched
 Your exposure to the Shadowfell’s magic has changed you.
 
@@ -315,7 +312,6 @@ Your exposure to the Shadowfell’s magic has changed you.
 ### Skilled
 
 * You gain proficiency in any combination of three skills or tools of your choice.
-
 
 ### Skulker
 
@@ -361,7 +357,6 @@ You have practiced extensively with a variety of weapons.
 
 * You gain proficiency with one Weapon group of your choice. Weapon groups are simple melee- or ranged weapons or martial melee- or ranged weapons.
 
-
 ### Weave Distortion
 
 **Prerequisite:** No ability to cast any spell.
@@ -394,7 +389,6 @@ You are hard to get rid of.
 weapon.
 
 * You gain proficiency with advanced weapons
-
 
 ### Bloodhound
 
