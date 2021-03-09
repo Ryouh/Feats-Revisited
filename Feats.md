@@ -460,7 +460,7 @@ You adopt a particular style of fighting as your specialty.
 * Choose one fighting Style from the Fighter list you gain that fighting style. You can take this feat multiple times.
 
 
-### Firearm Specialist
+### Firearm Specialist (Gunslinger)
 
 **Prerequisite:** Level 3, Gunslinger (Subclass).
 ___
@@ -468,17 +468,17 @@ You are adept at using one-handed guns effectively.
 
 * Being within 5ft of a hostile creature doesn’t impose disadvantage on your attack rolls.
 * If you roll a misfire on an attack with a firearm, you can use your reaction to roll a d20. If the number rolled is higher than the weapon’s misfire score, the firearm does not misfire. You cannot use this feature of this feat again until you complete a short or long rest.
-* When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded firearm with the light property you are holding.
+* When you use the Attack action and attack with a one-handed firearm, you can use a bonus action to attack with a loaded firearm with the light property you are holding.
 
-### Gunner
+### Firearm Specialist (Renegade)
 
 **Prerequisite:** Level 3, Renegade (Subclass).
 ___
 You are adept at using two-handed guns effectively.
 
-* You ignore the loading property of firearms.
 * Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
-* When you use the Attack action and attack with a two-handed weapon, you can use a bonus action to use the Disengage action.
+* When another creature hits you with a melee weapon attack, you can use your reaction to add 1 to your AC for that attack.
+* When you use the Attack action and attack with a two-handed firearm, you can use a bonus action to use the Disengage action.
 
 \page <div class='pageNumber auto'></div>
 
