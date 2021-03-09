@@ -4,6 +4,7 @@ Changelog:
 - removed
 ~ changed
 
+
 **Changed Feats:**
 Heavy Armor Master
 ~ While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
