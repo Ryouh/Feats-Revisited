@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.6.1 (Tasha)</div>
+<div class='footnote'>Version: 2.6.2 (Van Richten)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
