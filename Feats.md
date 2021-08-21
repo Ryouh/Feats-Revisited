@@ -653,7 +653,7 @@ ___
 You have learned to enhance your craft even further.
 
 * You gain expertise in Smith’s tools.
-* You have learned to work with exotic materials like Adamantine or Mithral.
+* You have learned to work with the materials Adamantine, Gold, Meteoric iron, Mithral and Steel.
 * The time you need to craft items with your Smith's tools is halved.
 * When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon to give the weapon either a +1 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
 * When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 100gp to give the Armor a +1 bonus to AC (this doesn’t make the armor magical).
@@ -1070,6 +1070,7 @@ Your concoctions count as the most potent.
 ___
 You have learned to enhance your craft to one of the highest levels possible, 
 
+* You have learned to work with the exotic materials Elemental iron, Platinum and Star metal.
 * When crafting a melee weapon you can choose to spend material costs equal to the base cost of the weapon + 200gp to give the weapon either a +2 to attack or damage rolls (this doesn’t make the weapon magical). Your working time for this sort of weapons is not halved.
 * When crafting a piece of armor using your Smith’s tools you can choose to spend material costs equal to the armors base cost + 1000gp to give the Armor a +2 bonus to AC (this doesn’t make the armor magical). Your working time for this sort of armor is not halved.
 

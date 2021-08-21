@@ -46,6 +46,14 @@ Blackpowder Expert
 Weapon Master
 ~ Level 15
 
+Heavy Armor Master
+~ While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
+
+Mage Hand
+- Its spellcasting ability is the ability increased by this feat.
+
+Master Blacksmith
+/+ You have learned to work with the exotic materials Elemental iron, Platinum and Star metal.
 
 **New Feats:**
 Artificier Initiate
