@@ -1,80 +1,50 @@
-Changelog
-
-+ add
-- remove
-~ changed
+Changelog:
 
 
-Actor
-+ You gain proficiency in the Performance skill.
-
-Athlete
-+ You gain proficiency in the Acrobatics or Athletics skill (your choice).
-
-Durable
-+ When you make a Constitution saving throw you can use your reaction to expend one of your Hit Die and add the result to your saving throw.
-
-Grappler
-- You have advantage on attack rolls against a creature you are grappling.
-- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
-+ Attacks made against a creature of your size or smaller, that is grappled by you, are made with advantage.
-+ You can add your proficiency bonus to athletics checks made while grappling. If you are already proficient, your proficiency bonus is doubled.
-
-Tavern Brawler
-+ You gain proficiency in the Intimidation skill.
-
-Observant
-+ You can clearly recall details of places you have visited in the past tenday.
-
-Will to live
-+ Your death saving throws suceed on a 9 or higher.
-
-Fighting Style
-+ You can take this feat multiple times.
-
-Heavy Armor Master
-+ You gain proficiency with medium armor.
-
-Resilient
-- You can take this feat multiple times.
-+ You gain resistance against a damage type of your choice.
+**Changed Feats:**
+Advanced Blacksmith
+You have learned to work with the materials Adamantine, Gold, Meteoric iron, Mithral and Steel.
 
 Blackpowder Expert
-- You ignore the loading property of Blackpowder weapons with which you are proficient.
-+ Whenever you hit a creature with your Blackpowder weapons, you can attack a second time.
-
-Weapon Master
-~ Level 15
+Whenever you take the attack action and you hit a creature with your Blackpowder weapons, you can attack a second time.
 
 Heavy Armor Master
-~ While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
+While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
 
 Mage Hand
-- Its spellcasting ability is the ability increased by this feat.
+Its spellcasting ability is the ability increased by this feat.
 
 Master Blacksmith
-/+ You have learned to work with the exotic materials Elemental iron, Platinum and Star metal.
+You have learned to work with the exotic materials Elemental iron, Platinum and Star metal.
 
 **New Feats:**
-Artificier Initiate
-Fey Touched
-Shield
-Shadow touched
-Crusher
-Eldritch Adept
-Elemental Adept
-Gunner
-Metamagic Adept
-Piercer
-Slasher
-Telekinetic
-Telepathic
-Advanced Cook
-Master Crusher
-Master Piercer
-Master Slasher
 
+### Field Medic
+**Prerequisite:** Level 9, Healer
+___
+You are an expert in healing with bandages and you know how to stop bleeding. 
 
-**Removed Feats:**
-Heavily Armored
-Moderately Armored
+* You gain advantage on a Wisdom (Medicine) check to stabilize a dying creature. Even if you don't have a Healer's Kit.
+* You can use your bonus action to move half your speed towards an unstable creature. This movement does not provoke an opportunity attack.
+* When you use a Healer's Kit to stabilize a dying creature, the gain of exhaustion is delayed until end of combat.
+
+### School Specialist
+
+**Prerequisite:** Level 9, The ability to cast at least one spell
+___
+You've spend most of your time researching a specific school of magic. You gain the following benefits for the chosen school. 
+
+* You can cast a known spell of the chosen school for free once per day provided the spell uses a spellslot that is half of your highest spellslot available to you.
+* You gain a +1 bonus to the attack roll and a +1 to the spell save DC of the chosen school.
+* If the spell of the chosen school has a range of touch or higher, it's range increases by 10ft.
+
+### Master Cook
+
+**Prerequisite:** Level 12, [Advanced Cook](#advanced-cook).
+___
+You	have mastered a	variety	of special recipes, allowing you to prepare	exotic dishes	with useful effects.
+
+* Your prepared food after a short rest now provides two additional Hit Dice instead of one.
+* The temporary hit points creatures get from your treats last for 24 hours and are equal to 2 x your proficiency bonus.
+* As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+* Those who partake of your meals have advantage on Constitution saving throws against disease and being poisened for the next 24 hours.

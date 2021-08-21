@@ -922,6 +922,14 @@ You have studied your magic over the course of your adventures.
 * Choose one 3rd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
+### Field Medic
+**Prerequisite:** Level 9, Healer
+___
+You are an expert in healing with bandages and you know how to stop bleeding. 
+
+* You gain advantage on a Wisdom (Medicine) check to stabilize a dying creature. Even if you don't have a Healer's Kit.
+* You can use your bonus action to move half your speed towards an unstable creature. This movement does not provoke an opportunity attack.
+* When you use a Healer's Kit to stabilize a dying creature, the gain of exhaustion is delayed until end of combat.
 
 ### Great Weapon Master
 
@@ -942,6 +950,8 @@ You have your friends back and they know it, while wearing a shield you gain the
 * When a creature within 5ft of you would get hit by an attack you can step between that attack as a reaction, changing the target of the attack to you and potentially make it miss.
 * When someone hits you with a ranged attack you can use your reaction to reduce the damage with your shield, roll a d10 plus your constitution modifier and reduce the damage by that amount.
 
+```
+```
 
 ### Iron Gut
 
@@ -952,9 +962,6 @@ You eat like a giant and drink like a fish. Years of punishing your stomach and 
 * You have advantage on Saving Throws against being poisoned.
 + Upon completing a long rest, you regain 1 additional spent Hit Dice.
 * As an action, you can spend Hit Dice to heal yourself, as if you have taken a short rest, the maximum Number of Hit Dice you can spent is equal to a third of your character level (rounded up). You can use this ability once before you must finish a long rest.
-
-```
-```
 
 ### Lightning Caster
 
@@ -984,6 +991,8 @@ You've mastered piercing through enemies.
 * Once per turn when you hit a creature that is no more than one size larger than you with a weapon that deals piercing damage, you can make it drop its weapon. (DC 8 + Dexterity modifier + proficiency bonus) Constitution Saving Throw.
 * When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
 
+\page <div class='pageNumber auto'></div>
+
 ### Master Slasher
 
 **Prerequisite:** Level 9, [Slasher](#slasher).
@@ -994,8 +1003,6 @@ You’ve mastered sharp weapons.
 * Once per turn when you hit a creature that is no more than one size larger than you with a weapon that deals slashing damage, you can blind that creature. (DC 8 + Strength modifier + proficiency bonus) Dexterity Saving Throw.
 * When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
 
-\page <div class='pageNumber auto'></div>
-
 ### Polearm Master
 
 **Prerequisite:** Level 9.
@@ -1005,6 +1012,15 @@ You can keep your enemies at bay with reach weapons.
 * When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon’s damage die for this attack is a d4, and it deals bludgeoning damage.
 * While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter your reach.
 
+### School Specialist
+
+**Prerequisite:** Level 9, The ability to cast at least one spell
+___
+You've spend most of your time researching a specific school of magic. You gain the following benefits for the chosen school. 
+
+* You can cast a known spell of the chosen school for free once per day provided the spell uses a spellslot that is half of your highest spellslot available to you.
+* You gain a +1 bonus to the attack roll and a +1 to the spell save DC of the chosen school.
+* If the spell of the chosen school has a range of touch or higher, it's range increases by 10ft.
 
 ### Sharpshooter
 
@@ -1016,6 +1032,8 @@ You have mastered ranged weapons and can make shots that others find impossible.
 * Your ranged weapon attacks ignore half cover and three-quarters cover.
 * Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
+```
+```
 
 ### Weaver of Maledictions
 
@@ -1106,6 +1124,7 @@ You have found a way to boost the healing potential of your healing potions even
 * You can now craft Potions of superior Healing using your Herbalism Kit, as described in Chapter 2 of the Xanathar’s Guide.
 * Potions of greater Healing that you craft heal an extra 2d hit points.
 
+\page <div class='pageNumber auto'></div>
 
 ### Master Poisoner
 
@@ -1128,8 +1147,6 @@ Your mind becomes a fortress of pure willpower.
 * You gain resistance to psychic damage. 
 * If something forces you to make an Intelligence, Wisdom or Charisma saving throw you can force some of that energy back to its origin. As a reaction you can deal 2d10 plus your Intelligence, Wisdom or Charisma modifier (your choice) psychic damage to the creature that forced you to make the saving throw. This Damage increases when you reach certain levels, 3d10 at level 15 and 4d10 at level 18.
 
-\page <div class='pageNumber auto'></div>
-
 ### Sentinel
 
 **Prerequisite:** Level 12, Interceptor or the Protection Fighting Style.
@@ -1140,6 +1157,8 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 * Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 * When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
+```
+```
 
 ### Spell Former
 
@@ -1173,9 +1192,6 @@ ___
 Your unnatural being has started to shield you from magic.
 
 * You gain resistance to damage from spells. Once per long rest as an action, you can choose to gain the effects of a protect from evil and good spell for 10 minutes.
-
-```
-```
 
 ### Witch Hunter
 
