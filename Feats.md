@@ -923,7 +923,7 @@ You have studied your magic over the course of your adventures.
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
 ### Field Medic
-**Prerequisite:** Level 9, Healer
+**Prerequisite:** Level 9, [Healer](#Healer)
 ___
 You are an expert in healing with bandages and you know how to stop bleeding. 
 
