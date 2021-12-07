@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.6.2 (Van Richten)</div>
+<div class='footnote'>Version: 2.8.1 (Strixhaven)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -223,6 +223,26 @@ Your exposure to the Feywild’s magic has changed you.
 
 * You learn the misty step spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
+### Gift of the Chromatic Dragon
+___
+**Prerequisite:** Level 3
+* Chromatic Infusion. As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action, you can’t do so again until you finish a long rest.
+* Reactive Resistance. When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+\page <div class='pageNumber auto'></div>
+
+### Gift of the Gem Dragon
+___
+**Prerequisite:** Level 3
+* Disorienting Scream. You learn the Mage Hand and Mending Cantrip.
+* Telekinetic Reprisal. When you or another creature you can see within 15 feet of you is hit by an attack roll, you can use your reaction to summon invisble arms from the attacked creature and target up to a number of creatures and objects equal to your proficiency bonus you can see within 15 feet of the attacked creature. No target can weigh more than 200 pounds, and objects can't be targeted if they'are being worn or carried. Each target creature must succeed on a Strenght saving throw or be pushed back 5 feet and be restrained in a telekinetic grip as long as you concentrate on it. At the end of a creature's turn, it can repeat the saving throw, ending the effect on itself on a success. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+### Gift of the Metallic Dragon
+___
+**Prerequisite:** Level 3
+* Draconic Healing. You learn the cure wounds spell. You can cast this spell at a level equal to half of your proficiency bonus rounded down without expending a spell slot. Once you cast this spell in this way, you can’t do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell’s spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
+* Protective Wings. You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 ### Grappler
 
 **Prerequisite:** Strength 13 or higher
@@ -232,13 +252,14 @@ You’ve developed the skills necessary to hold your own in close-quarters grapp
 * Attacks made against a creature of your size or smaller, that is grappled by you, are made with advantage.
 * You can add your proficiency bonus to athletics checks made while grappling. If you are already proficient, your proficiency bonus is doubled.
 
+```
+```
+
 ### Inspiring Leader
 
 **Prerequisite:** Charisma 13 or higher.
 
 * You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
-
-\page <div class='pageNumber auto'></div>
 
 ### Keen Mind
 
@@ -260,14 +281,13 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 * You have 1 luck point. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend your luck point after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend your luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck point when you finish a long rest.
 
+\page <div class='pageNumber auto'></div>
+
 ### Magic Initiate
 
 * Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
 * In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
-
-```
-```
 
 ### Nimble Physique
 
@@ -287,6 +307,9 @@ You are quick to notice details of your environment.
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 * You can clearly recall details of places you have visited in the past tenday.
 
+```
+```
+
 ### Ritual Caster
 
 **Prerequisite:** Intelligence, Charisma or Wisdom of 13 or higher.
@@ -294,8 +317,6 @@ You are quick to notice details of your environment.
 * You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 * When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 * If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
-
-\page <div class='pageNumber auto'></div>
 
 ### Shield 
 You have learned to use shields 
@@ -313,6 +334,8 @@ Your exposure to the Shadowfell’s magic has changed you.
 
 * You gain proficiency in any combination of three skills or tools of your choice.
 
+\page <div class='pageNumber auto'></div>
+
 ### Skulker
 
 **Prerequisite:** Dexterity 13 or higher.
@@ -322,6 +345,23 @@ You are expert at slinking through shadows.
 * You can try to hide when you are lightly obscured from the creature from which you are hiding. 
 * When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 * Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
+
+
+### Strixhaven Initiate
+
+You have studied some magical theory associated with Strixhaven University.
+
+* Choose one of Strixhaven’s colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom.
+* You learn two cantrips and one 1st-level spell based on the college you choose.
+* You can cast the chosen 1st-level spell without spending a spell slot, and you must finish a long rest before you can cast it in this way again.
+
+| Collage | Cantrips (Choose two) | 1st-Level Spell (Choose one) |
+|:----:|:-------------|:-------------|
+| Lorehold  | Light, Sacred flame, Thaumaturgy | Cleric or Wizard |
+| Prismari | Fire bolt, Prestidigitation, Ray of frost | Bard or Sorcerer |
+| Quandrix | Druidcraft, Guidance, Mage Hand | Druid or Wizard |
+| Silverquill | Sacred Flame, Thaumaturgy, Vicious Mockery | Bard or Cleric |
+| Witherbloom | Chill touch, Druidcraft, Spare the dying | Druid or Wizard |
 
 ### Swimmer
 
@@ -464,6 +504,8 @@ You are adept at using one-handed guns effectively.
 * If you roll a misfire on an attack with a firearm, you can use your reaction to roll a d20. If the number rolled is higher than the weapon’s misfire score, the firearm does not misfire. You cannot use this feature of this feat again until you complete a short or long rest.
 * When you use the Attack action and attack with a one-handed firearm, you can use a bonus action to attack with a loaded firearm with the light property you are holding.
 
+\page <div class='pageNumber auto'></div>
+
 ### Firearm Specialist (Renegade)
 
 **Prerequisite:** Level 3, Renegade (Subclass).
@@ -473,8 +515,6 @@ You are adept at using two-handed guns effectively.
 * Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 * When another creature hits you with a melee weapon attack, you can use your reaction to add 1 to your AC for that attack.
 * When you use the Attack action and attack with a two-handed firearm, you can use a bonus action to use the Disengage action.
-
-\page <div class='pageNumber auto'></div>
 
 ### Healer
 
@@ -503,6 +543,9 @@ You have martial training that allows you to perform special combat maneuvers.
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
+```
+```
+
 ### Medium Armor Master
 
 **Prerequisite:** Level 3, Proficiency with light armor.
@@ -512,9 +555,6 @@ You have practiced moving in medium armor.
 * You gain proficiency with medium armor.
 * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
-
-```
-```
 
 ### Metamagic Adept
 
@@ -545,6 +585,8 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
+\page <div class='pageNumber auto'></div>
+
 ### Nocturnal
 
 **Prerequisite:** Level 3, [Skulker](#skulker).
@@ -553,8 +595,6 @@ Due to extensive exposure to the dark, and possible supernatural abilities, you 
 
 * You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 * You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
-
-\page <div class='pageNumber auto'></div>
 
 ### Piercer
 
@@ -587,6 +627,9 @@ You have a knack for learning new things.
 
 * Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
+```
+```
+
 ### Shield Bash
 
 **Prerequisite:** Level 3, Proficiency with shields. 
@@ -596,9 +639,6 @@ You have learned to use your shield as a melee weapon.
 * You can use s shield to make melee weapon attacks, a shield deals 1d6 + your Strength modifier bludgeoning damage, and you can use your proficiency bonus for the attack roll. If you have a magical shield, the defense bonus also counts as a to hit and damage bonus for you.
 * When you take the attack action you can make an extra attack with the shield as a bonus action, as if you were fighting with two weapons.
 
-```
-```
-
 ### Slasher
 
 **Prerequisite:** Level 3.
@@ -607,6 +647,26 @@ You’ve learned where to cut to have the greatest results.
 
 * Whenever you have disadvantage on a melee attack roll you make with a weapon that deals slashing damage, the target takes slashing damage equal to your Strenght modifier if the attack misses but the higher of the two d20 rolls would have hit.
 * Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
+
+### Strixhaven Mascot
+
+**Prerequisite:** Level 3, [Strixhaven Initiate](#strixhaven initiate)
+___
+You have learned how to summon a Strixhaven mascot to assist you.
+
+* You can cast the find familiar spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat.
+* When you take the Attack action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.
+* If your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can’t do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again.
+
+| School | Mascot |
+|:--:|:--:|
+| Lorehold | Spirit Statue |
+| Prismari | Elemental |
+| Quandrix | Fractal |
+| Silverquill | Inkling |
+| Witherbloom | Pestling |
+
+\page <div class='pageNumber auto'></div>
 
 ### Telekinetic
 
@@ -672,9 +732,6 @@ Your bows become stronger and your arrows deadlier.
 * When crafting a ranged weapon using your Carpenter's tools you can choose to pay material costs equal to the base cost of the weapon, to either make it balanced or give it an oiled string, giving the weapon either a +1 bonus to attack or damage rolls (this doesn’t make the weapon magical)
 * When crafting ammunition using your Carpenter's tools you can choose to pay material costs equal to double the base cost of the ammunition, to either give them enhanced feathering or a brutal arrow head, giving the ammunition either a +1 bonus to attack or damage rolls (this doesn’t make the ammo magical).
 
-```
-```
-
 ### Advanced Cook
 
 **Prerequisite:** Level 6, proficiency with Cook's tools.
@@ -726,7 +783,7 @@ Always on the lookout for danger.
 
 ### Blackpowder Expert
 
-**Prerequisite:** Level 6, Proficiency with advanced weapons and [Gunner](#gunner) or [Firearm Specialist](#firearm-specialist).
+**Prerequisite:** Level 6, Proficiency with advanced weapons and [Firearm Specialist](#firearm-specialist).
 ___
 You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. 
 
