@@ -168,9 +168,7 @@ Chaotic magic flows through you and twists your astral body.
 
 ### Death Touched
 
-**Prerequisite:** You must have died at least once. This feat
-must be taken immediately after beeing resurrected and it
-replaces one of your existing feats.
+**Prerequisite:** You must have died at least once. This feat must be taken immediately after beeing resurrected and it replaces one of your existing feats.
 ___
 You have faced death and you won, be it by yourself or with the aid of your comrades. But the experience left some mark on your body and soul, you gain the following traits:
 
@@ -195,11 +193,11 @@ You are alert to the hidden traps and secret doors.
 
 ### Dual Wielder
 
-You master fighting with two weapons.
+You're an expert in fighting with two weapons.
 
 * You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
 * You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
-* You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+* When you use your reaction to make an opportunity attack, you can now additionally attack with your off-hand weapon.
 
 ```
 ```
@@ -224,22 +222,25 @@ Your exposure to the Feywild’s magic has changed you.
 * You learn the misty step spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 ### Gift of the Chromatic Dragon
-___
-**Prerequisite:** Level 3
+
+You’ve manifested some of the power of Chromatic dragons
+
 * Chromatic Infusion. As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action, you can’t do so again until you finish a long rest.
 * Reactive Resistance. When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 \page <div class='pageNumber auto'></div>
 
 ### Gift of the Gem Dragon
-___
-**Prerequisite:** Level 3
-* Disorienting Scream. You learn the Mage Hand and Mending Cantrip.
+
+You’ve manifested some of the power of Gem dragons
+
+* You learn the Mage Hand and Mending Cantrip.
 * Telekinetic Reprisal. When you or another creature you can see within 15 feet of you is hit by an attack roll, you can use your reaction to summon invisble arms from the attacked creature and target up to a number of creatures and objects equal to your proficiency bonus you can see within 15 feet of the attacked creature. No target can weigh more than 200 pounds, and objects can't be targeted if they'are being worn or carried. Each target creature must succeed on a Strenght saving throw or be pushed back 5 feet and be restrained in a telekinetic grip as long as you concentrate on it. At the end of a creature's turn, it can repeat the saving throw, ending the effect on itself on a success. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Gift of the Metallic Dragon
-___
-**Prerequisite:** Level 3
+
+You’ve manifested some of the power of metallic dragons
+
 * Draconic Healing. You learn the cure wounds spell. You can cast this spell at a level equal to half of your proficiency bonus rounded down without expending a spell slot. Once you cast this spell in this way, you can’t do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell’s spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
 * Protective Wings. You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -389,7 +390,7 @@ You have a talent to anger other people.
 
 ### Tough
 
-* Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+* Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 3 hit points.
 
 ### Weapon Training
 
@@ -790,6 +791,15 @@ You are well-versed in the use of Blackpowder weapons and wield them with deadly
 * Whenever you take the attack action and you hit a creature with your Blackpowder weapons, you can attack a second time.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
+### Dual Wielding Master
+
+**Prerequisite:** Level 6, [Dual Wielder](#dual-wielder).
+___
+You've mastered the use of two weapons and wield them with deadly efficiency. 
+
+* You gain a +1 bonus to Hit and Damage while you are wielding a separate melee weapon in each hand.
+* You can use your Bonus Action to attack an additional time with your off-hand weapon.
+
 ### Farewell Shot
 
 **Prerequisite:** Level 6, Dexterity 17 or higher.
@@ -807,6 +817,8 @@ Your eagle eyes, help you to hit foes who are too far for the most people to see
 
 * When you make a ranged Attack using a ranged weapon you can double its ranged. If you later gain the sharpshooter feat you still get disadvantage, when you shoot further than the maximum original attack range of the weapon you are using.
 
+```
+```
 
 ### Forced Friendly Fire
 
@@ -816,8 +828,6 @@ Your nimbleness in close combat makes it hard to predict your next move.
 
 * When you are in melee combat and a creature, that you can see, makes a ranged attack against you, you can use your reaction to position yourself in half cover behind your opponent. If the attack misses, the Attack instead hits the opponent you used as cover.
 
-```
-```
 
 ### Hardened Mind
 
@@ -849,6 +859,7 @@ You have practiced techniques useful in melee combat against spellcasters.
 * When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
 * You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
+\page <div class='pageNumber auto'></div>
 
 ### Magic Scholar
 
@@ -860,7 +871,6 @@ You have studied your magic over the course of your adventures.
 * Choose one 2nd-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it once using this feature without expending a spell slot. You must finish a long rest before you can do so again.
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 
-\page <div class='pageNumber auto'></div>
 
 ### Multi Shot
 
@@ -888,6 +898,8 @@ You have practiced with the short bow since you can hold one.
 * Being in close combat doesn’t impose disadvantage on your attack roles with a short bow.
 * When you hit a creature with your short bow you can make one extra attack as a bonus action using your short bow.
 
+```
+```
 
 ### Quickcaster
 
@@ -897,8 +909,6 @@ Your rapid-fire style of casting cantrips allows you to weave magic with uncanny
 
 * Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
 
-```
-```
 
 ### Scatter Weapon Master
 
@@ -930,6 +940,7 @@ Your unnatural ability to distort the weave is spreading out from your body,
 * Your bonus on saving throws against spells or other magical effects increases to +3.
 * Every Spellcaster has disadvantage on spell attacks or other magical effects while standing within 10ft of you or while targeting you or a creature within 10ft of you.
 
+\page <div class='pageNumber auto'></div>
 
 ### Spell Sniper
 
@@ -940,8 +951,6 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 * When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
 * Your ranged spell attacks ignore half cover and three-quarters cover.
 * You Learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you choose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid, or Intelligence for wizard.
-
-\page <div class='pageNumber auto'></div>
 
 ### Thrown Weapon Master
 
