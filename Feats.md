@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.8.1 (Strixhaven)</div>
+<div class='footnote'>Version: 2.8.3 (Strixhaven)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -10,7 +10,7 @@ This rule set is designed to give more depth to characters over the course of th
 #### Gaining Feats
   
 * This rule set replaces the [optional rules for feats](https://www.dndbeyond.com/sources/phb/customization-options#Feats). Characters now gain feats based on their character level. 
-* Characters gain one feat at levels 1, 3, 6, 9, 12, 15 and 18.
+* Characters gain one feat at levels 1, 3, 6, 9, 12, 15, 18, 21, 24, 27 and 30.
   
 #### Ability score improvements
   
@@ -27,8 +27,9 @@ This rule set is designed to give more depth to characters over the course of th
 * Unless otherwise stated you can’t choose a feat more than once.
 </div>
 
-#### General Feat Index
 <div class='wide'>
+#### General Feat Index</div>
+
   - [Level 1](#level-1)
   - [Level 3](#level-3)
   - [Level 6](#level-6)
@@ -36,8 +37,11 @@ This rule set is designed to give more depth to characters over the course of th
   - [Level 12](#level-12)
   - [Level 15](#level-15)
   - [Level 18](#level-18)
-</div>
-  
+  - [Level 21](#level-21)
+  - [Level 24](#level-24)
+  - [Level 27](#level-27)
+  - [Level 30](#level-30)
+
 <div class='wide'>
 #### Race Feat Index</div>
   - [Aarakocra](#aarakocra)
@@ -48,6 +52,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Dragonborn](#dragonborn)
   - [Dwarf](#dwarf)
   - [Elf](#elf)
+  - [Fairy](#fairy)
   - [Firbolg](#firbolg)
   - [Genasi](#genasi)
   - [Gith](#gith)
@@ -57,9 +62,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Half-Elf](#half-elf)
   - [Half-Orc](#half-orc)
   - [Halfling](#halfling)
-  
-```
-```
+  - [Harengon](#harengon)
   - [Hobgoblin](#hobgoblin)
   - [Human](#human)
   - [Kalashtar](#kalashtar)
@@ -69,6 +72,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Loxodon](#loxodon)
   - [Minotaur](#minotaur)
   - [Orc](#orc)
+  - [Owlin](#owlin)
   - [Shifter](#shifter)
   - [Tabaxi](#tabaxi)
   - [Tiefling](#tiefling)
@@ -77,6 +81,7 @@ This rule set is designed to give more depth to characters over the course of th
   - [Vedalken](#vedalken)
   - [Warforged](#warforged)
   - [Yuan-ti Pureblood](#yuan-ti-pureblood)
+
 <div class='wide'>
 ## Credits
 Special thanks to the following fantastic poeple who worked on this Feat list and provided brain cells to all the content:
@@ -1431,7 +1436,7 @@ You have studied your magic over the course of your adventures.
 ___
 You have trained to make your wings stronger and more powerful.
 
-* You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 30ft while wearing this kind of armor.
+* You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 15ft while wearing this kind of armor.
 
 
 ### Hawk's Eye
@@ -1770,9 +1775,26 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
+## Fairy
+
+### Annoying Fairy
+___
+You can be as annoying as pixies.
+
+* You can use the help action as a bonus action to distract enemies in melee range.
+
+### Strong Wings
+
+**Prerequisite:** Strength of 13 or higher.
+___
+You have trained to make your wings stronger and more powerful.
+
+* You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 15ft while wearing this kind of armor.
+
+```
+```
+
 ## Firbolg
-</div>
 
 ### Caretaker of the Critters
 
@@ -1886,9 +1908,8 @@ Your Elemental ancestors grant you the access to powerful elemental magic.
 
 \page <div class='pageNumber auto'></div>
 
-<div class='wide'>
+
 ## Gith
-</div>
 
 ### Telepathy
 
@@ -2111,6 +2132,21 @@ Your elven blood line grants you access to powerful magic.
 ```
 
 \page <div class='pageNumber auto'></div>
+
+## Harengon
+
+### Strong Legs
+
+**Prerequisite:** Level 6, Dexterity or Strength of 16 or higher.
+___
+You never skipped leg day. 
+
+* Your jumping range is doubled
+* Your walking speed increases by 5
+* Your Rabbit Hop reach increases to ten times your proficiency bonus.
+
+```
+```
 
 ## Half-Orc
 
@@ -2513,8 +2549,43 @@ You have embraced the color black, the color of darkness.
 
 * You can see normally in magical and non-magical darkness up to a range of 120 feet.
 * While in darkness you don’t provoke opportunity attacks.
+
 ```
 ```
+
+## Owlin
+
+### Strong Wings
+
+**Prerequisite:** Strength of 13 or higher.
+___
+You have trained to make your wings stronger and more powerful.
+
+* You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 15ft while wearing this kind of armor.
+
+
+### Hawk's Eye
+
+**Prerequisite:** Level 6.
+___
+You have adopted your bird features to improve your vision.
+
+* You have advantage on Wisdom (Perception) checks that rely on sight.
+* In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
+
+
+### Flyby
+
+**Prerequisite:** Level 12, Dexterity of 15 or higher.
+___
+You can swoop down quickly and strike with deadly precision.
+
+* You don't provoke opportunity attacks when you fly out of an enemy's reach.
+* When you use the Dash action on your turn while flying, you can make a single melee attack against one target, which is in your flying path.
+```
+```
+
+\page <div class='pageNumber auto'></div>
 
 ## Shifter
 
