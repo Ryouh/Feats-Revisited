@@ -1777,11 +1777,6 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 ## Fairy
 
-### Annoying Fairy
-___
-You can be as annoying as pixies.
-
-* You can use the help action as a bonus action to distract enemies in melee range.
 
 ### Strong Wings
 
@@ -1790,6 +1785,15 @@ ___
 You have trained to make your wings stronger and more powerful.
 
 * You can wear medium or heavy armor and still use your fly speed, but your fly speed is reduced to 15ft while wearing this kind of armor.
+
+### Annoying Fairy
+
+**Prerequisite:** Level 3.
+___
+You can be as annoying as pixies.
+
+* You can use the help action as a bonus action to distract enemies in melee range.
+
 
 ```
 ```
