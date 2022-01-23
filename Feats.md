@@ -469,7 +469,7 @@ You are practiced in the art of crushing your enemies.
 
 **Prerequisite:** Level 3, Dexterity 13 or higher or the Dueling fighting style.
 
-* When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss
+* When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss.
 
 ```
 ```
@@ -796,7 +796,7 @@ You are well-versed in the use of Blackpowder weapons and wield them with deadly
 * Whenever you take the attack action and you hit a creature with your Blackpowder weapons, you can attack a second time.
 * Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
-### Dual Wielding Master
+### Dual Wielding Expert
 
 **Prerequisite:** Level 6, [Dual Wielder](#dual-wielder).
 ___
@@ -1309,6 +1309,17 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 * You now have 3 luck points to use with your [Lucky](#Lucky) feat. You regain all your spent luck points at the end of a long rest
 
+### Titans Grip
+
+**Prerequisite:** Level 15, [Grappler](#grappler)
+___
+You focus your strength and skill into training with oversized weapons.
+
+* Creatures grappled by you gain the restrained condition.
+* Non-Legendary Creatures automatically fails any Strength or Dexterity check or saves.
+
+```
+```
 
 ### Weapon Master
 
@@ -1317,9 +1328,6 @@ ___
 You have mastered the art of wielding your favorite weapon.
 
 * Choose one weapon you are proficient with. You can add half your proficiency bonus (rounded down) to the attack and damage role with the chosen weapon. You score a critical hit on one number lower than you normally would, with the chosen weapon.
-
-```
-```
 
 ### Weave Vortex
 
@@ -1336,6 +1344,25 @@ Your unnatural nature has evolved to rip apart the weave around you.
 ## Level 18
 
 <div class='wide'></div>
+
+### Artifact Affinity
+
+**Prerequisite:** Level 18.
+___
+You have insight into the potency of magical items.
+
+* You can wear and attune yourself to one additional magic item of your choice.
+* You can identify a magical item at a single glance up to a rarity of Very Rare.
+
+### Energy Admixture
+
+**Prerequisite:** Level 18, [Spell Former](#spell-former).
+___
+The energetic elements flow through you.
+
+* You can change the damage type of your spells to any another type.
+* Once per short rest, you can get immunity to one damage type.
+* Additionally, the chosen immunity effects your surroundings.
 
 ### Iron Will
 
@@ -1357,6 +1384,8 @@ You have surpassed most of the alchemists and became one of the greatest alchemi
 * If items crafted with your alchemist supplies deal damage, they now deal an extra damage die.
 * When crafting an item using your Alchemist’s supplies you craft one additional item of the same kind.
 
+```
+```
 
 ### Legendary Blacksmith
 
@@ -1380,9 +1409,6 @@ You have surpassed most of the herbalists and became one of the greatest herbali
 * Potions of supreme Healing that you craft heal an extra 2d4 hit points.
 * When crafting an item using your Herbalism Kit you craft one additional item of the same kind.
 
-```
-```
-
 ### Legendary Bowyer
 
 **Prerequisite:** Level 18, [Master Bowyer](#master-bowyer).
@@ -1394,6 +1420,7 @@ You have surpassed most of the Bowyers and became one of the greatest bowyers wh
 * When crafting ammunition, you can choose to spend an extra 100gp per piece of ammunition to give the ammunition either a +3 to attack or damage rolls (this doesn’t make the weapon magical).
 * When you apply a bonus to a ranged weapon or a piece of ammunition you are crafting you can now apply the bonus to both the attack and damage roll, if you do so the crafting time is only halved. (This doesn’t make the weapon or ammunition magical)
 
+\page <div class='pageNumber auto'></div>
 
 ### Legendary Poisoner
 
@@ -1406,6 +1433,15 @@ You have surpassed most of the Poisoners and became one of the greatest Poisoner
 * If your poisons deal damage, they now deal an extra damage die.
 * When crafting an item using your Poisoners Kit you craft one additional item of the same kind.
 
+### Master of Armor
+
+**Prerequisite:** Level 18.
+___
+You act as you have no armor.
+
+* While wearing armor, you gain a +1 bonus to your Armor Class.
+* Your armor no longer imposes penalties to your speed.
+* You can don or doff any armor in 1 Round.
 
 ### Masterful Magic Scholar
 
@@ -1417,6 +1453,157 @@ You have studied your magic over the course of your adventures.
 * Choose one 5th-level spell from the same list you have chosen your Magic Initiate Spell from. You learn that spell and can cast it at its lowest level. You can cast it using this feature without expending a spell slot once per short rest. 
 * Your spellcasting ability for this spell depends on the class you chose for your Magic Initiate spells.
 * You regain the ability to cast your spells gained by your Magic Scholar and Magic Initiate feats on a short instead of a long rest.
+
+\page <div class='pageNumber auto'></div>
+
+## Level 21
+
+<div class='wide'></div>
+
+### Arcane Insight
+
+**Prerequisite:** Level 21, Spellcasting Ability of 20 or higher or [Weave Vortex](#weave-vortex).
+___
+Your sense for magic is expertly fine.
+
+* You gain advantage on saving throws against all spells and magical effects.
+* You gain the ability to detect the presence of magic within one mile of your location. While you do not know the exact strength or location, you can identify the nature of the effect.
+
+
+### Archmage
+
+**Prerequisite:** Level 21, Spellcasting Ability of 20 or higher.
+___
+You one of the powerfull mages of all time.
+
+* Your spell save DC increases from (8 + proficiency bonus + Spellcasting Ability) to (10 + proficiency bonus + Spellcasting Ability)
+* You can add your Proficiency Bonus and Spellcasting Ability to the rolled damage.
+
+
+### Mythological
+
+**Prerequisite:** Level 21, Rogue or Spellcaster.
+___
+You fade into legend and you become nothing more than a myth.
+
+* Non-Legendary Creatures that have direclty interacted with you, forgett details of your actions over the course of the day.
+* You gain advantage and roll 3 dice instead of 2 against Divination Magic.
+* If you would roll less than a 20 on a Stealth check, you roll a 20 instead.
+
+
+### Tachyon Caster
+
+**Prerequisite:** Level 21, Spellcasting Ability of 20 or higher, [Lightning Caster](#lightning-caster).
+___
+You are extremle fast to cast spells.
+
+* Whenever you cast a Non-Epic Spell, you are no longer prevented from casting another spell on the same turn.
+* You can cast a Cantrip at will as part of yor spell attack.
+
+\page <div class='pageNumber auto'></div>
+
+## Level 24
+
+<div class='wide'></div>
+
+### Master Tactician
+
+**Prerequisite:** Level 24.
+___
+You master the art of the battlefield
+
+* When you gain advantage you now roll three d20s instead of two and pick the highest result.
+* When a creature makes an attack or an saving throw, you can use your reaction to give it advantage or disadvantage.
+* You gain proficiency in all strategy games.
+
+###  Mythical Alchemist
+**Prerequisite:** Level 24, [Legendary Alchemist](#legendary-alchemist).
+___
+* Content TBD
+
+###  Mythical Blacksmith
+**Prerequisite:** Level 24, [Legendary Blacksmith](#legendary-blacksmith).
+___
+* Content TBD
+
+###  Mythical Herbalist
+**Prerequisite:** Level 24, [Legendary Herbalist](#legendary-herbalist).
+___
+* Content TBD
+
+###  Mythical Bowyer
+**Prerequisite:** Level 24, [Legendary Bowyer](#legendary-bowyer).
+___
+* Content TBD
+
+###  Mythical Poisoner
+**Prerequisite:** Level 24, [Legendary Poisoner](#legendary-poisoner).
+___
+* Content TBD
+
+### Unbreaking Will
+
+**Prerequisite:** Level 24, Intelligence or Wisdom of 22 or higher, [Iron Will](#iron-will).
+___
+Your will is nearly unbreakable.
+
+* You can concentrate on 3 spells at once.
+* You can get advantage on saving throws to maintain them.
+* You have now a damage threshold of 30 for concentration save to maintain them.
+
+\page <div class='pageNumber auto'></div>
+
+## Level 27
+
+<div class='wide'></div>
+
+### Living Armor
+
+**Prerequisite:** Level 27, Strength of 24 or higher, [Master of Armor](#master-of-armor).
+___
+You wear your armor like a second skin
+
+* While wearing armor, you gain a +1 bonus to your Armor Class.
+* Your armor no longer imposes disadvantage on your Stealth checks.
+* While wearing armor, you have now a damage threshold of 10 plus half your proficiency bonus.
+
+
+### Perfect Timing
+
+**Prerequisite:** Level 27, Dexterity of 24 or higher
+___
+You gain a nearly instant reaction time to any perceived threats.
+
+* If spells or effects permit you to make a saving throw at the end of your turn, you may instead make it at the start of your turn.
+* If you would roll less than a 20 on an initiative check, you roll a 20 instead.
+* You can use two reactions instead of one per round.
+
+
+### Superior Health
+
+**Prerequisite:** Level 27, Constitution of 24 or higher, [Tough](#tough).
+___
+Your body is perpetually in a state of perfect health.
+
+* You double the pool of hit dice you have to recover hit points.
+* Your hit dice are now maximized for determining your maximum possible hit points.
+* You are able to ingest food normally meant for other species, even if it would ordinarily prove fatal.
+
+\page <div class='pageNumber auto'></div>
+
+## Level 30
+
+<div class='wide'></div>
+
+### Archon
+
+**Prerequisite:** Level 30, Spellcasting Ability of 28 or higher, [Archmage](#archmage).
+___
+You mastered the weave.
+
+* Your spell save DC increases from (10 + proficiency bonus + Spellcasting Ability) to (12 + proficiency bonus + Spellcasting Ability)
+* You double the dice you roll for damage of Spells of 9th level or lower.
+* If you would use your reaction to cast a spell, you do not expend your reaction.
 
 \page <div class='pageNumber auto'></div>
 
@@ -1448,6 +1635,15 @@ You have adopted your bird features to improve your vision.
 * You have advantage on Wisdom (Perception) checks that rely on sight.
 * In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
+### Eagle Eye
+
+**Prerequisite:** Level 9, [Hawk's Eye](#hawks-eye).
+___
+Your sight becomes superhuman.
+
+* You gain proficiency with Perception. If you are already proficient you gain expertise.
+* You can see clearly up to a mile.
+* You gain truesight of 5ft.
 
 ### Flyby
 
@@ -2577,6 +2773,15 @@ You have adopted your bird features to improve your vision.
 * You have advantage on Wisdom (Perception) checks that rely on sight.
 * In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
+### Eagle Eye
+
+**Prerequisite:** Level 9, [Hawk's Eye](#hawks-eye).
+___
+Your sight becomes superhuman.
+
+* You gain proficiency with Perception. If you are already proficient you gain expertise.
+* You can see clearly up to a mile.
+* You gain truesight of 5ft.
 
 ### Flyby
 
