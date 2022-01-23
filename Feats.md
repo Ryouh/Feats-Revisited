@@ -1,4 +1,4 @@
-<div class='footnote'>Version: 2.8.3 (Strixhaven)</div>
+<div class='footnote'>Version: 2.8.4 (Strixhaven)</div>
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
@@ -452,7 +452,7 @@ Your keen senses are heightened beyond that of most people.
 ___
 You have extensive practice with crossbows.
 
-* You ignore the loading property of crossbows with which you are pro cient.
+* You ignore the loading property of crossbows with which you are proficient.
 * Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 * When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
@@ -1313,10 +1313,10 @@ You have inexplicable luck that seems to kick in at just the right moment.
 
 **Prerequisite:** Level 15, [Grappler](#grappler)
 ___
-You focus your strength and skill into training with oversized weapons.
+You focus your strength and skill into your athletics.
 
 * Creatures grappled by you gain the restrained condition.
-* Non-Legendary Creatures automatically fails any Strength or Dexterity check or saves.
+* Creatures automatically fails any Strength or Dexterity check or saves.
 
 ```
 ```
@@ -2459,7 +2459,7 @@ Your knowledge about tactics and strategy gives you an edge in combat.
 ___
 You are great at giving “constructive criticism“ which mostly means shouting orders over the battlefield.
 
-* You can use an action to shout commands and advices over the battlefield. For one minute all friendly creatures within 30ft of that can hear you can add a d4 to every attack roll and saving throw they make. While you use this feature, you can use reactions. Once you use this feature you can use it again until you finish a short rest.
+* You can use an action to shout commands and advices over the battlefield. For one minute all friendly creatures within 30ft of that can hear you can add a d4 to every attack roll and saving throw they make. While you use this feature, you can use reactions. Once you use this feature you can't use it again until you finish a short rest.
 
 
 ### Warlord
