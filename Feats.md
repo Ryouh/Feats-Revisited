@@ -522,6 +522,14 @@ You are adept at using two-handed guns effectively.
 * When another creature hits you with a melee weapon attack, you can use your reaction to add 1 to your AC for that attack.
 * When you use the Attack action and attack with a two-handed firearm, you can use a bonus action to use the Disengage action.
 
+### Flash Recall
+
+**Prerequisite:** Level 3, Spellcaster that prepare Spells.
+___
+You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity.
+
+* As a bonus action, you can prepare a spell of 1st level or higher from your spellbook or class spell list if you are not a wizard. This spell must be of a level for which you have spell slots. Once you use this feat to recall a spell, you can't do so again until you complete a short or long rest.
+
 ### Healer
 
 **Prerequisite:** Level 3.
@@ -540,6 +548,9 @@ You can use your armor to deflect strikes that would kill others.
 * You gain proficiency with heavy armor.
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 1 + your proficiency bonus.
 
+```
+```
+
 ### Martial Adept
 
 **Prerequisite:** Level 3.
@@ -548,9 +559,6 @@ You have martial training that allows you to perform special combat maneuvers.
 
 * You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-
-```
-```
 
 ### Medium Armor Master
 
@@ -581,6 +589,8 @@ You are exceptionally speedy and agile.
 * When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
 * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
+\page <div class='pageNumber auto'></div>
+
 ### Mounted Combatant
 
 **Prerequisite:** Level 3.
@@ -590,8 +600,6 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 * You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. 
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
-
-\page <div class='pageNumber auto'></div>
 
 ### Nocturnal
 
@@ -620,6 +628,9 @@ You have a knack for learning new things.
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 * Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
+```
+```
+
 ### Resilient
 
 **Prerequisite:** Level 3.
@@ -632,9 +643,6 @@ You have a knack for learning new things.
 **Prerequisite:** Level 3.
 
 * Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
-
-```
-```
 
 ### Shield Bash
 
@@ -1218,6 +1226,15 @@ Your mind becomes a fortress of pure willpower.
 * You gain resistance to psychic damage. 
 * If something forces you to make an Intelligence, Wisdom or Charisma saving throw you can force some of that energy back to its origin. As a reaction you can deal 2d10 plus your Intelligence, Wisdom or Charisma modifier (your choice) psychic damage to the creature that forced you to make the saving throw. This Damage increases when you reach certain levels, 3d10 at level 15 and 4d10 at level 18.
 
+### Mystic Conflux
+
+**Prerequisite:** Level 12.
+___
+You possess an intuitive understanding of the magic within enchanted items.
+
+* You can attune to up to four magic items at once.
+* You can cast the identify spell without expending a spell slot or material components. You must finish a long rest before you can do so again.
+
 ### Sentinel
 
 **Prerequisite:** Level 12, Interceptor or the Protection Fighting Style.
@@ -1227,9 +1244,6 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 * When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn if it is large or smaller or has its speed halved for the rest of the turn if its huge.
 * Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 * When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
-
-```
-```
 
 ### Spell Former
 
@@ -1347,12 +1361,12 @@ Your unnatural nature has evolved to rip apart the weave around you.
 
 ### Artifact Affinity
 
-**Prerequisite:** Level 18.
+**Prerequisite:** Level 18, [Mystic Conflux](#mystic-conflux)
 ___
 You have insight into the potency of magical items.
 
-* You can wear and attune yourself to one additional magic item of your choice.
-* You can identify a magical item at a single glance up to a rarity of Very Rare.
+* You can wear and attune yourself to two additional magic item of your choice.
+* You can identify a magical item at a single glance up to a rarity of Legendary.
 
 ### Energy Admixture
 
@@ -1362,7 +1376,7 @@ The energetic elements flow through you.
 
 * You can change the damage type of your spells to any another type.
 * Once per short rest, you can get immunity to one damage type.
-* Additionally, the chosen immunity effects your surroundings.
+* Additionally, the chosen immunity effects your surroundings of 15 feet.
 
 ### Iron Will
 

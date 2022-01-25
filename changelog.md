@@ -66,7 +66,7 @@ Prerequisite: Fairy, Level 3.
 * You can use the help action as a bonus action to distract enemies in melee range.
 
 
-Dual Wielding expert:
+Dual Wielding master:
 Prerequisite: Level 6, Dual Wielder.
 * You gain a +1 bonus to Hit and Damage while you are wielding a separate melee weapon in each hand.
 * You can use your Bonus Action to attack an additional time with your off-hand weapon.
@@ -82,6 +82,13 @@ Prerequisite: Level 9, Hawk's Eye.
 
 /// 2.8.3
 
+### Flash Recall
+
+**Prerequisite:** Level 3, Spellcaster that prepare Spells.
+___
+You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity.
+
+* As a bonus action, you can prepare a spell of 1st level or higher from your spellbook or class spell list if you are not a wizard. This spell must be of a level for which you have spell slots. Once you use this feat to recall a spell, you can't do so again until you complete a short or long rest.
 
 ### Eagle Eye
 
@@ -93,36 +100,44 @@ Your sight becomes superhuman.
 * You can see clearly up to a mile.
 * You gain truesight of 5ft.
 
+### Mystic Conflux
+
+**Prerequisite:** Level 12.
+___
+You possess an intuitive understanding of the magic within enchanted items.
+
+* You can attune to up to four magic items at once.
+* You can cast the identify spell without expending a spell slot or material components. You must finish a long rest before you can do so again.
 
 ### Titans Grip
 
 **Prerequisite:** Level 15, [Grappler](#grappler)
 ___
-You focus your strength and skill into training with oversized weapons.
+You focus your strength and skill into your athletics.
 
 * Creatures grappled by you gain the restrained condition.
-* Non-Legendary Creatures automatically fails any Strength or Dexterity check or saves.
+* Creatures automatically fails any Strength or Dexterity check or saves.
 
 
 ### Master of Armor
 
 **Prerequisite:** Level 18.
 ___
-You act as you have no armor.
+Your knowledge of Armor is beyond excelence.
 
 * While wearing armor, you gain a +1 bonus to your Armor Class.
-* Your armor no longer imposes penalties to your speed.
+* Your armor no longer imposes penalties to your Speed.
 * You can don or doff any armor in 1 Round.
 
 
 ### Artifact Affinity
 
-**Prerequisite:** Level 18.
+**Prerequisite:** Level 18, [Mystic Conflux](#mystic-conflux)
 ___
 You have insight into the potency of magical items.
 
-* You can wear and attune yourself to one additional magic item of your choice.
-* You can identify a magical item at a single glance up to a rarity of Very Rare.
+* You can wear and attune yourself to two additional magic item of your choice.
+* You can identify a magical item at a single glance up to a rarity of Legendary.
 
 
 ### Energy Admixture
@@ -133,7 +148,7 @@ The energetic elements flow through you.
 
 * You can change the damage type of your spells to any another type.
 * Once per short rest, you can get immunity to one damage type.
-* Additionally, the chosen immunity effects your surroundings.
+* Additionally, the chosen immunity effects your surroundings of 15 feet.
 
 
 ## Level 21
@@ -285,7 +300,7 @@ You mastered the weave.
 * You double the dice you roll for damage of Spells of 9th level or lower.
 * If you would use your reaction to cast a spell, you do not expend your reaction.
 
-/// 2.8.4
+/// 2.8.5
 
 ### Giver of Life
 
